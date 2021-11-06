@@ -1,0 +1,1 @@
+#base "../!4plug/lion/hudammoweapons.res"

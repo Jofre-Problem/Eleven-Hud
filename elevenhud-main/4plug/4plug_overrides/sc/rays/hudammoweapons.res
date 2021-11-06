@@ -1,0 +1,1 @@
+#base "../!4plug/rays/hudammoweapons.res"
