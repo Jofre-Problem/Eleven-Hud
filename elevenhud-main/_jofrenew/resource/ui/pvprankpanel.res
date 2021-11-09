@@ -450,7 +450,7 @@
 						"proportionaltoparent"	"0"
 						"progress"		"1"
 						"alpha"			"255"
-						"fgcolor_override"	"A_ColorTheme4"
+						"fgcolor_override"	"A_ColorTheme1"
 						"bgcolor_override"	"0 0 0 0"
 					"alpha"		"111"
 					}

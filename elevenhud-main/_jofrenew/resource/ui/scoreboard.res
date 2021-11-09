@@ -402,7 +402,7 @@
 		"autoresize"	"3"
 		"linespacing"	"15"
 		"textcolor"		"red"
-		"linegap"		"0"
+		"linegap"		"-2"
 		//"show_columns"	"1"
  		if_mvm
  		{
@@ -441,7 +441,7 @@
 		"autoresize"	"3"
 		"linespacing"	"15"
 		"paintbackground"	"0"
-		"linegap"		"0"		
+		"linegap"		"-2"	
 		//"show_columns"	"1"
 
 		if_mvm

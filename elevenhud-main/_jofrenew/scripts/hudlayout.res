@@ -17,10 +17,34 @@
 		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
 		"height_offset"			"26"	[$X360]
 	}
+	HudDamageIndicator
+	{
+		"fieldName" "HudDamageIndicator"
+		"visible" "1"
+		"enabled" "1"
 
+		// TF Damage Indicator vars
+		"MinimumWidth" "128"
+		"MaximumWidth" "128"
+		"StartRadius" "215"
+		"EndRadius" "160"
+		"MinimumHeight" "64"
+		"MaximumHeight" "64"
+		"MinimumTime" "2"
+
+		// CS Damage Indicator vars
+		"DmgColorLeft" "255 0 0 0"
+		"DmgColorRight" "255 0 0 0"
+		
+		"dmg_xpos" "30"
+		"dmg_ypos" "100"
+		"dmg_wide" "36"
+		"dmg_tall1" "240"
+		"dmg_tall2" "200"
+	}
 	HudDeathNotice
 	{
-		"xpos"	 "rs1-5" // 6 KF
+		"xpos"	 "105" // 6 KF
 		"ypos"	 "31" // 7 KF
 		"wide"	 "f0"
 		"tall"	 "p0.6"

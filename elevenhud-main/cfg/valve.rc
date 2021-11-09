@@ -4,7 +4,6 @@ stuffcmds
 alias chud_firstrun "exec hud_firstrun.cfg"
 exec "hud_has_run.txt"
 chud_firstrun
-opentf2options
 // CUSTOM STUFF
 
 // execute the client / hud settings / base hud
@@ -21,3 +20,4 @@ startupmenu
 sv_unlockedchapters 99
 
 exec "hud_cfg/all_4plug_cfgs_garm3n.cfg"
+wait 10 ;opentf2options

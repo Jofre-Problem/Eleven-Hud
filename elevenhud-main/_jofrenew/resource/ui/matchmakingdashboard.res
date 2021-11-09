@@ -39,7 +39,7 @@
 		yPos					0
 		zPos					-10
 		wide					f0
-		alpha			"190"
+		alpha			"90"//"190"
 		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
 		bgcolor_override				"W_ColorTheme1"//"W_ColorTheme1"
 		mouseInputEnabled			0			// mouse input passes though to panels below

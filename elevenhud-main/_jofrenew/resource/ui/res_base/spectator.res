@@ -121,10 +121,34 @@
 	}
 	"ClassOrTeamLabel"
 	{
-		"visible"		"0"	[$WIN32]
-		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+		"xpos"			"rs1"
+		"ypos"			"rs1"
+		"zpos"		"10"
+		"wide"			"p0.1"
+		"tall"			"8"
+		"textAlignment"		"center"
+		"font"			"Code7"
+		"fgcolor_override"		"186 104 200 255"
+		"bgcolor_override"		"38 48 53 255"
 	}
+		"12slah2"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"12slah2"
+			"font"			"NewIcons18"
+			"labelText"		"ñ"//"%kills%"
+			"textAlignment"		"west"
+			"xpos" 			"0+p0.0005"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"18"
+			"wide"			"10"
+			"tall"			"10"
+			
+			"fgcolor"		"38 48 53 255"
+"pin_to_sibling"	"ClassOrTeamLabel"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		}		
 "SwitchCamModeKeyLabel"
 {
 "wide"			"0"

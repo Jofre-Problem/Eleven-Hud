@@ -39,7 +39,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel2"
-		"font"			"Future12"
+		"font"			"Regular14"
 		"labelText"		"%text%"
 		"textAlignment"	"center"
 		"xpos"			"0"

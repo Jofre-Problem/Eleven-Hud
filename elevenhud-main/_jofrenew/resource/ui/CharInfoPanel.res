@@ -96,7 +96,7 @@
 	//		"textinsetx"		"3"
 			"font"				"Regular14"
 	//		"defaultBgColor_override"	"Blank"
-			"selectedcolor"		"W_ColorIconsArmed1"
+			"selectedcolor"		"W_ColorTheme1"
 			"unselectedcolor"	"W_ColorIcons1"	
 	/	/	"paintbackground"	"0"
 			"activeborder_override"	"noborder"
@@ -104,7 +104,7 @@
 			
 	//		"fgcolor"	"Blank"
 	//		"defaultBgColor_override" "Blank"
-			"defaultFgColor_override" "W_ColorIconsArmed1"
+			"defaultFgColor_override" "W_ColorLinea1"
 	//		"armedBgColor_override" "Blank"
 			"armedFgColor_override" "W_ColorTheme1"
 	//		"selectedBgColor_override" "Blank"

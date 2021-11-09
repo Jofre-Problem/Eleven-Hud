@@ -3,7 +3,7 @@
 Scheme
 {
 	BaseSettings
-	{FrameSystemButton.Icon			"replay/thumbnails/misc/paint_1"}
+	{FrameSystemButton.Icon			"replay/thumbnails/misc/paint_gif"}
 	Fonts
 	{
 		"ConsoleText"

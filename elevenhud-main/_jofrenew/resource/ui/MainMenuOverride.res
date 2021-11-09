@@ -10,8 +10,8 @@
 //	#base "../#jofre/dashboard_bg.res"
 //	#base "../#jofre/loadout_explanation_bg.res"
 
-//	#base "../#jofre/new_mm_panel1.res" :: check mainmenu - downbartype.res"
-
+	#base "../ui2/multiple-bg.res"// :: check mainmenu - downbartype.res"
+	#base "../ui2/mm_border.res"
 	#base "../#jofre/desktop icons black.res"
 	
 //	#base "../#jofre/safe-mode.res"
@@ -1419,22 +1419,7 @@ centerwrap		"1"
 				"scaleImage"	"1"
 			}			
 		}
-	}	
-		"Luz"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""Luz"
-		"xpos""10"
-		"ypos""40"
-		"zpos""7"
-		"wide""50"
-		"tall""o1"
-		"visible""1"
-		"enabled""1"
-		"scaleImage""1"
-		"image""replay/thumbnails/l4d2/gif_noskill"
-		"fgcolor""TanDark"
-		}				
+	}			
 	"RankPanel"
 	{
 		ControlName				CPvPRankPanel
@@ -1448,7 +1433,6 @@ centerwrap		"1"
 				show_type				1
 	}	
 		
-
 	"StreamListPanel"		//this doesnt exist. however
 	{
 		wide							0
