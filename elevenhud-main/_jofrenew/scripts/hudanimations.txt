@@ -1,0 +1,76 @@
+event SetHudChatAlpha
+{
+//	Animate HudChat bgcolor "0 0 0 0" linear 0.0 0.0
+//	Animate HudChat bgcolor "0 0 0 0" linear 0.0 100.0
+//	Animate HudChatHistory bgcolor "0 0 0 0" linear 0.0 0.0
+//	Animate HudChatHistory bgcolor "0 0 0 0" linear 0.0 100.0
+	
+	Animate HudChat bgcolor "0 0 0 0" linear 0.0 0.0
+	Animate HudChat bgcolor "0 0 0 0" linear 0.0 100.0
+	Animate HudChatHistory bgcolor "0 0 0 0" linear 0.0 0.0
+	Animate HudChatHistory bgcolor "0 0 0 0" linear 0.0 100.0
+	
+	RunEvent SetHudChatAlphaLoop 0.1
+}
+event ScoreboardAnimate
+{
+	Animate scores Position "0 480" linear 0.0 0.0
+	Animate scores Position "0 0" deaccel 0.0 0.17
+	Animate scores alpha "0" linear 0.0 0.0
+	Animate scores alpha "255" accel 0.0 0.22
+}
+event SetHudChatAlphaLoop
+{
+	RunEvent SetHudChatAlpha 0.1
+}
+event ScoreboardCrosshairAnimate
+{
+	Animate HudCrosshair never_draw "0" linear 0.0 0.0
+	SetVisible HudCrosshair	1 0.0
+	SetVisible HudCrosshair	1 0.001
+	SetVisible HudCrosshair	1 0.002
+	SetVisible HudCrosshair	1 0.003
+	SetVisible HudCrosshair	1 0.004
+
+	RunEvent ScoreboardCrosshairAnimateLoop 0.005
+}
+event ScoreboardCrosshairAnimateLoop
+{
+	RunEvent ScoreboardCrosshairAnimate 0.0
+}
+event DamagedPlayer
+{
+StopEvent 	DamageAccountStuff	0.0
+RunEvent 	DamageAccountStuff      0.1 //lol
+}
+event DamageAccountStuff
+{
+	Animate DamageAccountLabel fgcolor "255 170 35 255" linear 0.0 0.0
+	Animate DamageAccountLabel fgcolor "255 170 35 255" linear 0.01 0.0
+	Animate DamageAccountLabel fgcolor "255 215 0 100" linear 0.05 0.2
+	Animate DamageAccountLabel fgcolor "215 215 215 0" Accel 0.3 4.0
+	
+	Animate DamageAccountLabel2 fgcolor "255 170 35 255" linear 0.0 0.0
+	Animate DamageAccountLabel2 fgcolor "255 170 35 255" linear 0.01 0.0
+	Animate DamageAccountLabel2 fgcolor "255 215 0 100" linear 0.05 0.2
+	Animate DamageAccountLabel2 fgcolor "215 215 215 0" Accel 0.3 4.0
+	
+	Animate DamageAccountLabel3 fgcolor "255 170 35 255" linear 0.0 0.0
+	Animate DamageAccountLabel3 fgcolor "255 170 35 255" linear 0.01 0.0
+	Animate DamageAccountLabel3 fgcolor "255 215 0 100" linear 0.05 0.2
+	Animate DamageAccountLabel3 fgcolor "215 215 215 0" Accel 0.3 4.0
+	
+	
+	
+	Animate DamageAccountLabelShadow fgcolor "0 0 0 255" linear 0.0 0.0
+	Animate DamageAccountLabelShadow fgcolor "0 0 0 150" linear 0.1 0.3
+	Animate DamageAccountLabelShadow fgcolor "35 35 35 0" Accel 0.5 5.0
+	
+	Animate DamageAccountLabelShadow2 fgcolor "0 0 0 255" linear 0.0 0.0
+	Animate DamageAccountLabelShadow2 fgcolor "0 0 0 150" linear 0.1 0.3
+	Animate DamageAccountLabelShadow2 fgcolor "35 35 35 0" Accel 0.5 5.0
+	
+	Animate DamageAccountLabelShadow3 fgcolor "0 0 0 200" linear 0.0 0.0
+	Animate DamageAccountLabelShadow3 fgcolor "0 0 0 150" linear 0.1 0.3
+	Animate DamageAccountLabelShadow3 fgcolor "35 35 35 0" Accel 0.4 4.5
+}

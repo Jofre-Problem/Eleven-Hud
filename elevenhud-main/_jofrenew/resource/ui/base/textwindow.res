@@ -1,5 +1,5 @@
 #base "../../#hp/blurred-screen.res"
-
+#base "../../ui2/tank.res"
 "Resource/UI/TextWindow.res"
 {
 	"info"
@@ -49,7 +49,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold28"
 		"fgcolor"		"255 255 255 255"
 	}	
 
@@ -118,13 +118,13 @@
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold28"
 		
-		"fgcolor"		"W_ColorTheme4"
+		"fgcolor"		"NotoMenuText"
 		
-		"defaultFgColor_override" "W_ColorTheme4"
-		"armedFgColor_override" "W_ColorTheme1"
-		"depressedFgColor_override" "W_ColorTheme1"
+		"defaultFgColor_override" "NotoMenuText"
+		"armedFgColor_override" "NotoMenuText2"
+		"depressedFgColor_override" "NotoMenuText2"
 		
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"

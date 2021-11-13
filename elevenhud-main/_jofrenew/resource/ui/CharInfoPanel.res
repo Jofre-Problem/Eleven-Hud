@@ -1,25 +1,11 @@
 //#base "../#jofre/downbar.res"
 //#base "../#jofre/blur_bg.res"
 #base "../#jofre/blur_bg.res"
-#base "../#jofre/blur_bg_image.res"
+//#base "../#jofre/blur_bg_image.res"
 #base "../#jofre/home.res"
 //#base "../#jofre/downbar.res"
 "Resource/UI/CharInfoPanel.res"
 {
-	"BlurMainBG1"
-	{
-	"ControlName""ImagePanel"
-	"fieldName""BlurMainBG1"
-	"xpos""rs1"
-	"ypos""rs1-55"
-	"zpos""-5"
-	"wide""0"
-	"tall""o1"
-	"image""replay/thumbnails/l4d2/noskill_tank_t"
-	"visible""1"
-	"enabled""1"
-	"scaleimage""1"
-	}
 	"character_info"		// drawn over main menu
 	{
 		ControlName				EditablePanel
@@ -96,8 +82,8 @@
 	//		"textinsetx"		"3"
 			"font"				"Regular14"
 	//		"defaultBgColor_override"	"Blank"
-			"selectedcolor"		"W_ColorTheme1"
-			"unselectedcolor"	"W_ColorIcons1"	
+			"selectedcolor"		"W_ColorIcons1"
+			"unselectedcolor"	"W_ColorTheme1"	
 	/	/	"paintbackground"	"0"
 			"activeborder_override"	"noborder"
 			"normalborder_override" "noborder"

@@ -1,24 +1,13 @@
-//#base "../#jofre/blur_bg_image.res"
+#base "../#jofre/blur_bg.res"
 "Resource\UI\TFAdvancedOptionsDialog.res"
 {
-		"Luz"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""Luz"
-		"xpos""cs-0.5"
-		"ypos""0"
-		"zpos""7"
-		"wide""120"
-		"tall""30"
-		"visible""1"
-		"enabled""1"
-		"scaleImage""1"
-		"image""replay/thumbnails/new_tf2_logo"
-		"fgcolor""TanDark"
-		}	
+
 	"TitleLabel"
 	{		"wide"			"0"	}	
-
+	"CancelButton"
+	{		"wide"			"0"	}	
+	"OkButton"
+	{		"wide"			"0"	}		
 	"CloseShortcut"		// keyboard shortcut
 	{
 		ControlName			CExButton
@@ -27,6 +16,54 @@
 		labelText			"&E"
 		Command			"close"
 	}			
+	"CancelButton2"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"CancelButton2"
+		"xpos"			"0"
+		"ypos"			"80"
+		"zpos"			"1"
+		"wide"			"20"
+		"tall"			"15"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"labelText"		"n"
+		"font"			"NewIcons12"
+		"textAlignment"	"center"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
+		"Command"		"Close"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+	"OkButton2"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"OkButton2"
+		"xpos"			"0"
+		"ypos"			"cs-0.5"
+		"zpos"			"1"
+		"wide"			"25"
+		"tall"			"25"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"labelText"		"y"
+		"font"			"NewIcons12"
+		"textAlignment"	"center"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
+		"Command"		"Ok"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}	
 	"TFAdvancedOptionsDialog"
 	{
 		"ControlName"								"EditablePanel"
@@ -35,9 +72,7 @@
 		"ypos"										"0"
 		"zpos"										"1001"
 		"wide"										"f0"
-		"tall"										"280"
-		"yoffset"				"-290"
-		"y_toResize"								"0"
+		"tall"										"f0"
 		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
@@ -45,8 +80,8 @@
 		"settitlebarvisible"						""
 		"PaintBackgroundType"						"0"
 		"paintbackground"							"1"
-		"bgcolor_override"							"220 220 202 240"
-		"border"									"Rice1"
+		"bgcolor_override"							"blank"
+		"border"									"noborder"
 		
 		"control_w"									"500"
 		"control_h"									"25"
@@ -58,39 +93,31 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background2"
 		"xpos"		"cs-0.5"
-		"ypos"		"80"
-		"zpos"		"20"
-		"wide"		"0"
-		"tall"		"350"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"ypos"		"0"
+		"zpos"		"0"
+		"wide"		"p0.6"
+		"tall"		"f0"
 		"tabPosition"		"0"
-		"paintbackgroundType"	"2"
-		"bgcolor_override"	"Blank"
+		"paintbackgroundType"	"0"
+		"bgcolor_override"	"TanDarker"
 		"proportionalToParent"	"1"
-		"border"		"OutlinedGreyBox"		
+	//	"border"		"Rice1"		
 	}	
-		"Gradient"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"Gradient"
-			
-			"ypos"		"rs1"
-			"wide"		"f0"
-			"tall"		"100"
-			"zpos"	"1"
-			//"visible"		"1"
-			
-			"rotation"		"0"
-			"proportionaltoparent"	"1"
-			"scaleimage"	"1"
-			"mouseinputenabled"	"0"
-			"alpha"		"255"
-
-			"image"		"gradient_pure_black"
-		}	
+	"Background3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Background3"
+		"xpos"		0
+		"ypos"		"0"
+		"zpos"		"0"
+		"wide"		"f0"
+		"tall"		"70"
+		"tabPosition"		"0"
+		"paintbackgroundType"	"0"
+		"bgcolor_override"	"TanDarker"
+		"proportionalToParent"	"1"
+	//	"border"		"OutlinedGreyBox"		
+	}		
 	"Lista"
 	{
 		"ControlName"	"EditablePanel"
@@ -99,7 +126,7 @@
 		"ypos"		"25"
 		"zpos"		"200"
 		"wide"		"f0-15"
-		"tall"		"0"
+		"tall"		"50"
 		"paintbackgroundType"	"0"
 		"bgcolor_override"	"64 64 64 255"
 		"proportionalToParent"	"1"	
@@ -107,7 +134,7 @@
 		{
 			"ControlName""CDashboardPartyMember"
 			"fieldName""PartySlot0"
-			"xpos"			"cs-0.5"
+			"xpos"			"5"
 			"ypos"			"cs-0.5"
 			"zpos"			"100"
 			"wide"			"42"
@@ -117,6 +144,35 @@
 			"keyboardinputenabled"		"0"
 			"party_slot"				"0"
 		}		
+		"AmmoNoClip"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"AmmoNoClip"
+			"font"			"Future30"
+			"fgcolor"		"255 127 0 255"
+			"xpos"			"52"
+			"ypos"			"0"
+			"zpos"			"3"
+			"wide"			"f0"
+			"tall"			"50"
+			"textAlignment"	"west"	
+			"labelText"		"Welcome Back!"	
+		}				
+			"Luz"
+			{
+			"ControlName""ImagePanel"
+			"fieldName""Luz"
+			"xpos""r60"
+			"ypos""4"
+			"zpos""7"
+			"wide""45"
+			"tall""o1"
+			"visible""1"
+			"enabled""1"
+			"scaleImage""1"
+			"image""replay/thumbnails/l4d2/l4d_spinner"
+			"fgcolor""TanDark"
+			}			
 	}	
 	"TopBarShadow"
 	{
@@ -141,13 +197,13 @@
 		"ypos"		"80"
 		"zpos"		"20"
 		"wide"		"480"
-		"tall"		"350"
+		"tall"		"370"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"0 0 0 255"
+		"bgcolor_override"	"0 0 0 0"
 	}
 	
 	"TooltipPanel"

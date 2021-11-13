@@ -1,5 +1,5 @@
-#base "../../#hp/blurred-screen.res"
-
+#base "../#hp/blurred-screen.res"
+#base "../ui2/tank.res"
 "Resource/UI/MapInfoMenu.res"
 {
 	"mapinfo"
@@ -81,8 +81,8 @@
 		"enabled"		"1"
 		"labelText"		"%motddate%"
 		"textAlignment"	"west"
-		"font"			"CustomOctavo"
-		"fgcolor"		"W_ColorTheme1"
+		"font"			"NotoBold24"
+		"fgcolor"		"NotoWhite"
 		"bgcolor_override"		"0 0 0 0"
 		"textinsetx"	"3"
 	}
@@ -102,8 +102,8 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
-		"font"			"CustomOctavo"
-		"fgcolor"		"W_ColorTheme1"
+		"font"			"NotoBold24"
+		"fgcolor"		"NotoWhite"
 		"textinsetx"	"2"
 		"bgcolor_override"	"0 0 0 0"
 	}	
@@ -112,7 +112,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold24"
 		"xpos"			"c-200"
 		"ypos"			"c-150" 
 		"zpos"			"3"
@@ -124,7 +124,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"west"
-		"fgcolor"		"W_ColorTheme1"
+		"fgcolor"		"NotoWhite"
 		"MaximumWidth"	"214"
 	}
 	
@@ -162,16 +162,16 @@
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold24"
 		"paintbackground"	"0"
 		
 		"paintbackground"	"1"
 		
-		"fgcolor"		"W_ColorTheme1"
+		"fgcolor"		"NotoMenuText"
 		
-		"defaultFgColor_override" "W_ColorTheme1"
-		"armedFgColor_override" "W_ColorTheme4"
-		"depressedFgColor_override" "W_ColorTheme4"
+		"defaultFgColor_override" "NotoMenuText"
+		"armedFgColor_override" "NotoMenuText2"
+		"depressedFgColor_override" "NotoMenuText2"
 		
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"
@@ -197,13 +197,13 @@
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold24"
 		"paintbackground"	"0"
 		
-		"fgcolor"		"W_ColorLinea1"
-		"defaultFgColor_override" "W_ColorLinea1"
-		"armedFgColor_override" "W_ColorTheme1"
-		"depressedFgColor_override" "W_ColorTheme1"
+		"fgcolor"		"NotoGray"
+		"defaultFgColor_override" "NotoGray"
+		"armedFgColor_override" "NotoWhite"
+		"depressedFgColor_override" "NotoWhite"
 		
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"
@@ -229,16 +229,16 @@
 		"brighttext"	"0"
 		"command"		"intro"
 		"default"		"1"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold32"
 		"paintbackground"	"1"
 
 		"paintbackground"	"1"
 		
-		"fgcolor"		"W_ColorTheme1"
+		"fgcolor"		"NotoMenuText"
 		
-		"defaultFgColor_override" "W_ColorTheme1"
-		"armedFgColor_override" "W_ColorTheme4"
-		"depressedFgColor_override" "W_ColorTheme4"
+		"defaultFgColor_override" "NotoMenuText"
+		"armedFgColor_override" "NotoMenuText2"
+		"depressedFgColor_override" "NotoMenuText2"
 		
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"
@@ -263,16 +263,16 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"back"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold24"
 		"paintbackground"	"0"
 		
 		"paintbackground"	"1"
 		
-		"fgcolor"		"W_ColorTheme1"
+		"fgcolor"		"NotoMenuText"
 		
-		"defaultFgColor_override" "W_ColorTheme1"
-		"armedFgColor_override" "W_ColorTheme4"
-		"depressedFgColor_override" "W_ColorTheme4"
+		"defaultFgColor_override" "NotoMenuText"
+		"armedFgColor_override" "NotoMenuText2"
+		"depressedFgColor_override" "NotoMenuText2"
 		
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"
@@ -297,19 +297,18 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"back"
-		"font"			"CustomOctavo"
+		"font"			"Sosa52"
 		"paintbackground"	"1"
 		
-		"fgcolor"		"W_ColorLinea1"
-		"defaultFgColor_override" "W_ColorLinea1"
-		"armedFgColor_override" "W_ColorTheme1"
-		"depressedFgColor_override" "W_ColorTheme1"
+		"fgcolor"		"NotoGray"
+		"defaultFgColor_override" "NotoGray"
+		"armedFgColor_override" "NotoWhite"
+		"depressedFgColor_override" "NotoWhite"
 		
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 255"
 		"depressedBgColor_override" "0 0 0 0"
 	}
-	
 	"MenuBG"
 	{
 		"ControlName"	"CModelPanel"

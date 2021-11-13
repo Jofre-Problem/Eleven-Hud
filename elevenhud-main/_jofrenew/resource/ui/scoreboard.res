@@ -153,7 +153,7 @@
 	}							
 	"BlueTeamScore"
 	{
-		"font"			"CustomOctavo"
+		"font"			"NotoBold40"
 		"textAlignment"		"center"
 		"xpos"			"-60"
 		"ypos"			"10" 
@@ -206,7 +206,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamLabel"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold40"
 		"labelText"		"%redteamname%"
 		"textAlignment"		"east"
 		"xpos"			"401"
@@ -226,7 +226,7 @@
 	}							
 	"RedTeamScore"
 	{
-		"font"			"CustomOctavo"
+		"font"			"NotoBold40"
 		"textAlignment"		"center"
 		"xpos"			"0"
 		"ypos"			"10" 
@@ -242,7 +242,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScoreDropshadow"
-		"font"			"CustomOctavo"
+		"font"			"NotoBold40"
 		"fgcolor"		"Black"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
@@ -402,7 +402,7 @@
 		"autoresize"	"3"
 		"linespacing"	"15"
 		"textcolor"		"red"
-		"linegap"		"-2"
+		"linegap"		"0"
 		//"show_columns"	"1"
  		if_mvm
  		{
@@ -441,7 +441,7 @@
 		"autoresize"	"3"
 		"linespacing"	"15"
 		"paintbackground"	"0"
-		"linegap"		"-2"	
+		"linegap"		"0"	
 		//"show_columns"	"1"
 
 		if_mvm
@@ -1249,8 +1249,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KILLSASSISTSDEATHS"
-			"font"			"CustomOctavo"
-			"labelText"		"#scoreboard_K_A_D_list2"//"%kills%"
+			"font"			"NotoBold40"
+			"labelText"		"#scoreboard_K_A_D_list"//"%kills%"
 			"textAlignment"		"center"
 			"xpos" 			"0"					//"c-60"//			"180"
 			"ypos"			"rs1-8"
@@ -1262,7 +1262,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fgcolor"		"245 245 245 255"
-			"bgcolor_override"	"0 0 0 100"
+			"bgcolor_override"	"0 0 0 200"
 		}			
 		"KillsLabel"
 		{

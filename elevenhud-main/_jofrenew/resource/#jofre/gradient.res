@@ -9,6 +9,5 @@
 		"image"				"replay/thumbnails/gradient"
 		"scaleImage"		"1"
 		"proportionaltoparent"	"1"
-		"border"		"Rice1"
 	}	
 }

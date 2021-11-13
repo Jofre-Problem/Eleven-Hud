@@ -1,57 +1,46 @@
 "_jofrehud/resource/#jofre/1wide.res"
 {
-	"Bordermm"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"Bordermm"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"2000"
-		"wide"			"f0"
-		"tall"			"480"
-		"PaintBackgroundType"	"0"
 
-		"Arriba"	{		"ControlName"	"ImagePanel"		"fieldName"		"Arriba"
+		"Arriba"	{		"ControlName"	"ImagePanel"		"fieldName"		"Arriba" "zpos"	"4000"
 			"xpos"			"0"		"ypos"			"0"	
 
 			"wide"			"f0"
-			"tall"			"8"
+			"tall"			"4"
 
-			"fillcolor"			"A_ColorTheme3"
+			"fillcolor"			"37 39 37 255"
 		}
 
 
 
-	"Abajo"	{		"ControlName"	"ImagePanel"		"fieldName"		"Abajo"
+	"Abajo"	{		"ControlName"	"ImagePanel"		"fieldName"		"Abajo" "zpos"	"4000"
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"wide"			"f0"
-		"tall"			"8"
-		"fillcolor"			"A_ColorTheme3"
+		"tall"			"2"
+		"fillcolor"			"37 39 37 255"
 	}
 
 
 
 	"Left"
-	{		"ControlName"	"ImagePanel"		"fieldName"		"Left"
+	{		"ControlName"	"ImagePanel"		"fieldName"		"Left" "zpos"	"4000"
 			"xpos"			"0"		"ypos"			"0"	
 
-			"wide"			"8"
+			"wide"			"2"
 			"tall"			"f0"
 
-			"fillcolor"			"A_ColorTheme3"
+			"fillcolor"			"37 39 37 255"
 	}
 
 
 
 	"Conservative"
-	{		"ControlName"	"ImagePanel"		"fieldName"		"Conservative"
+	{		"ControlName"	"ImagePanel"		"fieldName"		"Conservative" "zpos"	"4000"
 			"xpos"			"rs1"		"ypos"			"0"	
 
-			"wide"			"8"
+			"wide"			"2"
 			"tall"			"f0"
 
-			"fillcolor"			"A_ColorTheme3"
-	}
+			"fillcolor"			"37 39 37 255"
 	}	
 }	

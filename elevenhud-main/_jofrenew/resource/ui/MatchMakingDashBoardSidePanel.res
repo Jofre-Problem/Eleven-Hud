@@ -1,105 +1,120 @@
-"Resource/UI/MatchMakingDashboardSidePanel.res"		// #base for ModeCriteria
+"Resource/UI/MatchMakingDashboardSidePanel.res"
 {
-	"ClickAwayPanel"
+	"BGPanel"
 	{
-		ControlName					CExButton
-		fieldName					"ClickAwayPanel"
-		xpos							0
-		ypos							0
-		zpos							-1
-		wide							f38
-		tall							f0
-		proportionaltoparent		1
-		visible						1
-		alpha							0
-
-		command						"nav_close"
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BGPanel"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
+		"painbackground"							"1"
+		"painbackgroundtype"						"0"
+		"bgcolor_override"							"64 64 64 255"
 	}
-
-	"Background"
+	
+	"ReturnButton"
 	{
-		ControlName					ImagePanel
-		fieldName					"Background"
-		xpos							cs-0.5-29
-		ypos							rs1
-		zpos							0
-		wide							320
-		tall							380
-		proportionaltoparent		1
-		visible						1
-	}
+		"ControlName"								"CExButton"
+		"fieldName"									"ReturnButton"
+		"xpos"										"0"
+		"labelText"									"<"
 
-	"Title"
-	{
-		ControlName				Label
-		fieldName				"Title"
-		xpos						0
-		ypos						0
-		zpos						99
-		wide						320
-		tall						26
-		mouseinputenabled		0
+		if_left
+		{
+			"xpos"									"rs1"
+			"labelText"								">"
+		}
 
-		labeltext				""
-		font						"MatchmakingDialogSessionOptionsTitle"
-		textAlignment			center
-		AllCaps					1
+		"ypos"										"0"
+		"zpos"										"10000"
+		"wide"										"20"
+		"tall"										"f0"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
+		"command"									"nav_to"
+		"labelText"									"m"
 
-		pin_to_sibling 			"Background"
-		pin_corner_to_sibling 	PIN_TOPLEFT
-		pin_to_sibling_corner 	PIN_TOPLEFT
-	}
+		"textAlignment"								"center"
+		"textinsety"								"0"
+		"font"										"NewIcons12"
 
-	"QueueButton"
-	{
-		ControlName				CExButton
-		fieldName				"QueueButton"
-		xpos						0
-		ypos						-3
-		zpos						300
-		wide						314
-		tall						26
-		visible					1
-		enabled					1
+		"paintbackground"							"1"
+		"paintbackgroundtype"						"0"
+		"paintborder"								"0"
 
-		font						"QuestStickyText"
-		textAlignment			center
-		labeltext				"#TF_Matchmaking_StartSearch"
-		AllCaps					1
-
-		mouseinputenabled			1
-		Command						"find_game"
-		keyboardinputenabled		0		// check out!
-		actionsignallevel			1		// check out!
+		"defaultBgColor_override" 					"Blank"
+		"armedBgColor_override" 					"Blank"
+		"depressedBgColor_override" 				"Blank"
 		
-		sound_depressed		"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
-
-		paintbackground				1
-
-		pin_to_sibling 			"Background"
-		pin_corner_to_sibling 	PIN_CENTER_BOTTOM
-		pin_to_sibling_corner 	PIN_CENTER_BOTTOM
+		"defaultFgColor_override" 					"W_ColorTheme1"
+		"armedFgColor_override" 					"WhiteSolid"
+		"depressedFgColor_override" 				"WhiteSolid"
 	}
+	
+	"CloseButton"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"CloseButton"
+		"xpos"										"0"
+		"labelText"									"n"
 
-	"shade"
-	{
-		visible		0
+		if_left
+		{
+			"xpos"									"rs1"
+			"labelText"								"n"
+		}
+
+		"ypos"										"0"
+		"zpos"										"10000"
+		"wide"										"20"
+		"tall"										"f0"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
+		"command"									"nav_close"
+
+		"textAlignment"								"center"
+		"textinsety"								"0"
+		"font"										"NewIcons12"
+
+		"paintbackground"							"0"
+		"paintbackgroundtype"						"0"
+		"paintborder"								"0"
+
+		"defaultBgColor_override" 					"Black"
+		"armedBgColor_override" 					"A_ColorTheme3"
+		"depressedBgColor_override" 				"A_ColorTheme1"
+		
+		"defaultFgColor_override" 					"W_ColorLinea1"
+		"armedFgColor_override" 					"WhiteSolid"
+		"depressedFgColor_override" 				"WhiteSolid"
 	}
-	"InnerGradient"
+	
+	"Shade"
 	{
-		wide		0
+		"ControlName"								"EditablePanel"
+		"fieldName"									"Shade"
+		"xpos"										"9999"
 	}
 	"TitleGradient"
 	{
-		wide		0
-	}	
+		"ControlName"								"ImagePanel"
+		"fieldName"									"TitleGradient"
+		"xpos"										"9999"
+	}
+	"InnerGradient"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"InnerGradient"
+		"xpos"										"9999"
+	}
 	"OuterGradient"
 	{
-		wide		0
-	}		
-	"BGPanel"
-	{
-		border		"noborder"
-	}		
+		"ControlName"								"ImagePanel"
+		"fieldName"									"OuterGradient"
+		"xpos"										"9999"
+	}
 }

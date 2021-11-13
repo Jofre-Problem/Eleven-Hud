@@ -5,11 +5,11 @@
 	#base "cs_windows.res"
 //dlc
 	#base "../../ui_overrides/resource/scheme/dlc/2.res"
-
+	#base "ui2/noto_scheme.res"
 
 	#base "clientscheme/clientscheme_colors.res"
 	#base "clientscheme/clientscheme_borders.res"
-	#base "clientscheme/magnum_scheme_sc.res"
+	#base "ui2/magnum_scheme.res"
 	#base "../!sc/clientscheme.res"
 	#base "clientscheme_unused.res"
 Scheme
@@ -145,7 +145,7 @@ Scheme
 	Colors
 	{	
 	//	"Green"					"0 135 68 255"
-		"TanLight"				"193 175 75 255"			
+	//	"TanLight"				"193 175 75 255"			
 
 		"White"									"235 235 235 255"
 		"WhiteSolid"							"255 255 255 255"
@@ -277,38 +277,38 @@ Scheme
 		"Default"
 		{
 			"1"
-			{	"name"		"Iosevka Term SS14"
+			{	"name"		"Open Sans"
 				"tall"		"10"
 				"antialias"	"1"
 				"weight"	"300"
 			}
 			"2"
-			{"name"		"Iosevka Term SS14"
+			{"name"		"Open Sans"
 				"tall"		"11"	"antialias"	"1"
 				"weight"	"300"
 			}
 			"3"
-			{"name"		"Iosevka Term SS14"
+			{"name"		"Open Sans"
 				"tall"		"12" "antialias"	"1"
 				"weight"	"300"
 			}
 			"4"
-			{"name"		"Iosevka Term SS14"
+			{"name"		"Open Sans"
 				"tall"		"18" "antialias"	"1"
 				"weight"	"300"
 			}
 			"5"
-			{"name"		"Iosevka Term SS14"
+			{"name"		"Open Sans"
 				"tall"		"22" "antialias"	"1"
 				"weight"	"300"
 			}
 			"6"
-			{"name"		"Iosevka Term SS14"
+			{"name"		"Open Sans"
 				"tall"		"10" "antialias"	"1"
 				"weight"	"300"
 			}
 			"7"
-			{"name"		"Iosevka Term SS14"
+			{"name"		"Open Sans"
 				"tall"		"10" "antialias"	"1"
 				"weight"	"300"
 			}
@@ -490,9 +490,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"FantasqueSansMono-Regular"
 				"tall"		"12"
-				"wide"		"300"
+				"wide"		"100"
 				"antialias" 	"1"
 			}
 		}
@@ -500,7 +500,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"FantasqueSansMono-Regular"
 				"tall"		"12"
 				"blur"	"2"
 				"antialias" 	"1"
@@ -510,12 +510,32 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Segoe UI"
+				"name"		"FantasqueSansMono-Regular"
 				"tall"		"16"
 				"antialias" 	"1"
 				"wide"		"300"
 			}
-		}							
+		}	
+		"Future30"
+		{
+			"1"
+			{
+				"name"		"Future Rot"
+				"tall"		"30"
+				"antialias" 	"1"
+				"wide"		"300"
+			}
+		}	
+		"Future18"
+		{
+			"1"
+			{
+				"name"		"Future Rot"
+				"tall"		"18"
+				"antialias" 	"1"
+				"wide"		"300"
+			}
+		}											
 		"Future14"
 		{
 			"1"
@@ -535,10 +555,76 @@ Scheme
 				"antialias" 	"1"
 				"wide"		"300"
 			}
-		}			
+		}	
+		"DamagetextShadow"
+		{
+			"1"
+			{
+				"name" "Open Sans Nodash"
+				"tall" "26"
+				"antialias"	"1"
+				"blur" "2"
+			}
+		}
+		"Damagetext"
+		{
+			"1"
+			{
+				"name" "Open Sans Nodash"
+				"tall" "26"
+				"antialias"	"1"
+			}
+		}
+		"CloseCaption_Normal"
+		{
+			"1"
+			{
+				"name"		"Open Sans"
+				"tall"		"18"
+				"tall_hidef"	"18"
+				"weight"	"500"
+				"Antialias" "1"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Bold"
+		{
+			"1"
+			{
+				"name"		"Open Sans Bold"
+				"tall"		"20"
+				"tall_hidef"	"20"
+				"Antialias" "1"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Italic"
+		{
+			"1"
+			{
+				"name"		"Open Sans"
+				"tall"		"50"
+				"tall_hidef"	"50"
+				"weight"	"500"
+				"Antialias" "1"
+				"italic"	"1"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}		
 	}
 	Borders
 	{	
+		RiceRainbow
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"replay/thumbnails/misc/winui1"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
+		}		
 		Rice1
 		{
 			"inset" "0 0 1 1"
@@ -879,6 +965,22 @@ Scheme
 
 	CustomFontFiles
 	{
+		"91"
+		{
+			"font" "_jofrenew/font/optimized/ProductSans-Regular.ttf"
+			"name" "Product Sans"
+		}
+		"93"
+		{
+			"font" "_jofrenew/font/fantasquesansmono-bold.otf"
+			"name" "FantasqueSansMono-Bold"
+		}		
+		"94"
+		{
+			"font" "_jofrenew/font/fantasquesansmono-regular.otf"
+			"name" "FantasqueSansMono-Regular"
+		}			
+			
 		"96"
 		{
 			"font" "_jofrenew/font/FutureRotfix.otf"

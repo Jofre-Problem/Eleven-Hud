@@ -2,8 +2,7 @@
 {	
 	"Spacer"
 	{	
-		"ypos"					"c110"
-		"ypos_minmode"			"c150"
+		"ypos"					"c85"
 		"wide"					"380"
 		"tall"					"60"
 		"ControlName"			"EditablePanel"

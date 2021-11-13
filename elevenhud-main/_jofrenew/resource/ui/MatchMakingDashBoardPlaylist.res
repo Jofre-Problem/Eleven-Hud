@@ -1,110 +1,74 @@
+#base "matchmakingdashboardsidepanel.res"
+
 "Resource/UI/MatchMakingDashboardPlayList.res"
 {
 	"ExpandableList"
 	{
-		fieldName					"ExpandableList"
-		xpos							0
-		ypos							rs1-p0.046
-		zpos							1200
-		wide							f0
-		tall							40
-		visible						1
-		proportionaltoparent		1
+		"fieldName"									"ExpandableList"
+		"xpos"										"r0"
+		"ypos"										"24"
+		"zpos"										"1001"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
+	}
+
+	"Title"
+	{
+		"ControlName"								"Label"
+		"fieldName"									"Title"
+		"xpos"										"cs-0.5"
+		"ypos"										"55"
+		"zpos"										"99"
+		"wide"										"0"				//f0
+		"tall"										"50"
+		"proportionaltoparent"						"1"
+		"labeltext"									"Find a Game"
+		"textAlignment"								"center"
+		"wrap"										"0"
+		"centerwrap"								"0"
+		"font"										"Noto48"
+		"fgcolor_override"							"White"
+		"alpha"										"10"
+		"AllCaps"									"1"
+		
+		"mouseinputenabled"							"0"
 	}
 
 	"playlist"
 	{
-		ControlName					CTFPlaylistPanel
-		fieldName					"playlist"
-		xpos							0
-		ypos							0
-		zpos							100
-		wide							f0
-		tall							f0
-		visible						1
-		proportionaltoparent		0
-
-		paintbackground			1
-		bgcolor_override			"W_ColorTheme1"
+	//	"ControlName"								"CTFPlaylistPanel"
+		"fieldName"									"playlist"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"100"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
 	}
 
-	"CloseButton"
+	"PlayListDropShadow"
 	{
-		ControlName					CExButton
-		fieldName					"CloseButton"
-		xpos							0
-		ypos							0
-		zpos							101
-		wide							0
-		tall							35
-		proportionaltoparent		1
-		visible						1
-		enabled						1
-
-		command						"nav_close"
-
-		labelText					""
-
-		defaultFgColor_override			"blank"
-		armedFgColor_override			"blank"
-
-		paintbackground					1
-		defaultBgColor_override			"0 0 0 0"
-		armedBgColor_override			"blank"
-
-		pin_to_sibling				"playlist"
-		pin_corner_to_sibling	PIN_TOPRIGHT
-		pin_to_sibling_corner	PIN_TOPRIGHT
+		"ControlName"								"EditablePanel"
+		"fieldName"									"PlayListDropShadow"
+		"xpos"										"9999"
 	}
-
-	"ReturnButton"
+	
+	"DashboardDimmer"
 	{
-		ControlName					CExButton
-		fieldName					"ReturnButton"
-		xpos							0
-		ypos							0
-		zpos							10000
-		wide							f0
-		tall							"p0.953-40"
-		proportionaltoparent		1
-		visible						1
-		enabled						1
-
-		command						"nav_to"
-		labelText					""
-		
-		paintbackground					1
-		defaultBgColor_override			"0 0 0 0"
-		armedBgColor_override			"blank"
-
-		pin_to_sibling				"playlist"
-	}
-
-	"ClickAwayPanel"
-	{
-		ControlName					CExButton
-		fieldName					"ClickAwayPanel"
-		xpos							0
-		ypos							0
-		zpos							-1
-		wide							f0
-		tall							f0
-		proportionaltoparent		1
-		visible						1
-		enabled						1
-		alpha							0
-
-		command						"nav_close"
-	}
-
-
-	"shade"
-	{
-		visible			0
-	}
-
-	"InnerGradient"
-	{
-		visible			0
+		"ControlName"								"EditablePanel"
+		"fieldName"									"DashboardDimmer"
+		"xpos"										"9999"
+		"ypos"										"9999"
+		"zpos"										"0"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"PaintBackgroundType"						"0"
+		"border"									"noborder"
+		"proportionaltoparent"						"1"
+		"mouseinputenabled"							"0"
 	}
 }

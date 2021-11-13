@@ -218,8 +218,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel2"
-		"font"			"CustomPrimero"
-		"labelText"		"#LoadingMap"
+		"font"			"Noto36"
+		"labelText"		"LOADING"
 		"textAlignment"		"west"
 		"xpos"			"70"
 		"ypos"			"40"

@@ -6,7 +6,7 @@
 	"fieldName""BlurMainBG"
 	"xpos""0"
 	"ypos""0"
-	"zpos""-10"
+	"zpos""-15"
 	"wide""f0"
 	"tall""f0"
 	"image""replay/thumbnails/hp/REFRACTblur"

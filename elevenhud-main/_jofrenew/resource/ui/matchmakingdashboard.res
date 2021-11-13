@@ -1,3 +1,4 @@
+//#base "../ui2/dashboard.res"
 "Resource/UI/MatchMakingDashboard.res"
 {
 	"MMDashboard"
@@ -17,13 +18,14 @@
 		"resize_time"		"0.2"
 	}
 
+	
 	"TopBar"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TopBar"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
-		"zpos"			"-10"
+		"zpos"			"10"
 		"wide"			"f0"
 		"tall"			"35"
 		"visible"		"1"
@@ -31,6 +33,7 @@
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
+	
 	"DownBar"				// background for the left side buttons
 	{
 		ControlName				EditablePanel
@@ -39,7 +42,7 @@
 		yPos					0
 		zPos					-10
 		wide					f0
-		alpha			"90"//"190"
+		alpha			"210"
 		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
 		bgcolor_override				"W_ColorTheme1"//"W_ColorTheme1"
 		mouseInputEnabled			0			// mouse input passes though to panels below
@@ -158,7 +161,21 @@
 
 			"party_slot"	"0"
 		}
-
+		"Party2BG"				// background for the left side buttons
+		{
+		ControlName				EditablePanel
+		FieldName				"Party2BG"
+		xPos					0
+		yPos					-2
+		"zpos"			"10"
+		"wide"			"117"
+		"tall"			"2"
+		"bgcolor_override"	"W_BorderArmed"
+		mouseInputEnabled			0
+		pin_to_sibling			"PartySlot1"
+		pin_corner_to_sibling		PIN_TOPLEFT
+		pin_to_sibling_corner		PIN_BOTTOMLEFT		
+		}	
 		"PartySlot1"
 		{
 			"ControlName"	"CDashboardPartyMember"
@@ -282,7 +299,7 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"-1"
-				"wide"			"f0"
+				"wide"			"0"
 				"tall"			"f0"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
@@ -297,12 +314,12 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"cs-0.5"
 				"zpos"			"0"
-				"wide"			"f4"
-				"tall"			"f4"
+				"wide"			"f1"
+				"tall"			"f1"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ReplayDefaultBorder"
+				"border"		"WBorder_2"
 			}
 
 			"QueueLogoButton"
@@ -351,7 +368,21 @@
 
 				"fgcolor_override"	"TFOrange"
 			}
-
+		"Luz"
+		{
+		"ControlName""ImagePanel"
+		"fieldName""Luz"
+		"xpos""5"
+		"ypos""5"
+		"zpos""7"
+		"wide""25"
+		"tall""o1"
+		"visible""1"
+		"enabled""1"
+		"scaleImage""1"
+		"image""replay/thumbnails/l4d2/gif_noskill"
+		"fgcolor""TanDark"
+		}		
 			"QueueText"
 			{
 				"ControlName"	"CAutoFittingLabel"
@@ -363,8 +394,8 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"Tanlight"
+				"font"			"Future12"
+				"fgcolor_override"	"W_ColorIcons1"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
@@ -374,15 +405,15 @@
 				{
 					"0"
 					{
-						"font"	"HudFontSmallestBold" // TF2 Build 11
+						"font"	"Future14" // TF2 Build 11
 					}
 					"1"
 					{
-						"font"	"StorePromotionsTitle" // TF2 Build 10
+						"font"	"Future12" // TF2 Build 10
 					}
 					"2"
 					{
-						"font"	"FontStorePrice" // TF2 Build 9
+						"font"	"Future12" // TF2 Build 9
 					}
 				}
 			}
@@ -441,7 +472,7 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"CloseButton"
-				"xpos"			"rs1-6"
+				"xpos"			"rs1-7"
 				"ypos"			"11"
 				"zpos"			"10"
 				"wide"			"14"

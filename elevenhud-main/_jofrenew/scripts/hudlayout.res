@@ -24,10 +24,10 @@
 		"enabled" "1"
 
 		// TF Damage Indicator vars
-		"MinimumWidth" "128"
-		"MaximumWidth" "128"
+		"MinimumWidth" "108"
+		"MaximumWidth" "108"
 		"StartRadius" "215"
-		"EndRadius" "160"
+		"EndRadius" "80"
 		"MinimumHeight" "64"
 		"MaximumHeight" "64"
 		"MinimumTime" "2"
@@ -42,21 +42,46 @@
 		"dmg_tall1" "240"
 		"dmg_tall2" "200"
 	}
+	HudCloseCaption
+	{
+		"fieldName" "HudCloseCaption"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"c-238"
+		"ypos"		"229"
+		"zpos"		"0"
+		"wide"		"500"
+		"tall"		"100"
+		
+		//these are for the caption crosshairs
+		//i dont want to properly set them up but here it is if you want to try them
+		//for 1366x768
+//		"xpos"		"c-55"
+//		"ypos"		"c-64"	
+
+		"BgAlpha"	"0"
+
+		"GrowTime"		"0.0"
+		"ItemHiddenTime"	"0.0"  // Nearly same as grow time so that the item doesn't start to show until growth is finished
+		"ItemFadeInTime"	"0.0"	// Once ItemHiddenTime is finished, takes this much longer to fade in
+		"ItemFadeOutTime"	"0.1"
+		"topoffset"		"1"
+	}	
 	HudDeathNotice
 	{
-		"xpos"	 "105" // 6 KF
-		"ypos"	 "31" // 7 KF
+		"xpos"	 "rs1-15" // 6 KF
+	//	"ypos"	 "155" // 7 KF
 		"wide"	 "f0"
 		"tall"	 "p0.6"
 
 		"MaxDeathNotices" "8" // 1 KF
 		"IconScale"		"0.1"
-		"LineHeight"	"8" // 3 KF
-		"LineSpacing"	"1" // 4 KF
+		"LineHeight"	"12" // 3 KF
+		"LineSpacing"	"0" // 4 KF
 		"CornerRadius"	"0" // 2 KF
-		"RightJustify"	"1"	// If 1, draw notices from the right
+	//	"RightJustify"	"0"	// If 1, draw notices from the right
 		
-		"TextFont"		"Code9"
+		"TextFont"		"NotoBold12"
 		
 		"TeamBlue"		"G_KillfeedBlue"
 		"TeamRed"		"G_KillfeedRed"
@@ -71,38 +96,28 @@
 //	}
 	HudWeaponAmmo
 	{
-		"xpos"	"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"	"0"	[$WIN32]
-		"ypos_minmode"	"0"	[$WIN32]
-		"xpos"	"0"	[$X360]
-		"ypos"	"0"	[$X360]
-		"wide"	"f0"
-		"tall"	"480"
+		"fieldName" "HudWeaponAmmo"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"			"c100"
+		"ypos"			"325"
+		"zpos"			"0"
+		"wide"			"124"
+		"tall"			"36"
 	}
-	
 	HudMedicCharge
 	{
-		"xpos"			"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"0"	[$WIN32]
-		"ypos_minmode"	"0"	[$WIN32]
-		"xpos"			"0"	[$X360]
-		"ypos"			"0"	[$X360]
-		"wide"			"f0"
-		"tall"			"480"
-		"zpos"			"2"
-	//	"pin_to_sibling"	"HudWeaponAmmo"	 //HELL		
+		"xpos"			"c100"
+		"ypos"			"325"
+		"zpos"			"0"
+		"wide"			"124"
+		"tall"			"36"
 	}
 	
 	HudDemomanCharge
 	{
-		"xpos"			"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"0"	[$WIN32]
-		"ypos_minmode"	"0"	[$WIN32]
-		"xpos"			"0"	[$X360]
-		"ypos"			"0"	[$X360]
+		"xpos"			"0"	
+	"ypos"			"0"
 		"zpos"			"1"			\\ draw in front of ammo
 		"wide"			"f0"
 		"wide_minmode"	"f0"
@@ -111,12 +126,9 @@
 	
 	HudDemomanPipes
 	{
-		"xpos"			"0"	[$WIN32]
-		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"0"	[$WIN32]
-		"ypos_minmode"	"0"	[$WIN32]
-		"xpos"			"0"	[$X360]
-		"ypos"			"0"	[$X360]
+		"xpos"			"0"	
+
+		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
 	}
@@ -150,15 +162,7 @@
 		"MeterBG"		"Gray"
 	}
 	
-	CHudAccountPanel
-	{
-		"fieldName"				"CHudAccountPanel"
-		"wide"					"120"
-		"tall"  				"45"
-		"visible" 				"1"
-		"enabled" 				"1"
-		"PaintBackgroundType"	"2"
-	}
+
 	HudFlameRocketCharge
 	{
 		"fieldName"		"HudFlameRocketCharge"
@@ -172,28 +176,69 @@
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
-	CHealthAccountPanel
+	CHudAccountPanel
 	{
-		"fieldName"				"CHealthAccountPanel"
-		"wide"					"50"
-		"tall"  				"45"
+		"fieldName"				"CHudAccountPanel"
+		"xpos"					"12"
+		"ypos"					"8"
+		"wide"					"117"
+		"tall"  				"29"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
 	}
+	
+	CHealthAccountPanel
+	{
+		"fieldName"				"CHealthAccountPanel"
+		"xpos"					"76"
+		"xpos_minbad"			"61"
+		"ypos"					"r152"
+		"ypos_minbad"			"r134"
+		"wide"					"116"
+		"tall"  				"180"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
+	
 	HudScopeCharge
 	{
-		"xpos"		"cs-0.5+128"
-		//"ypos"	 "cs-0.5+50"
+		"fieldName" "HudScopeCharge"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	 "c64"
+		"ypos"	 "c-60"
 		"wide"	 "64"
 		"tall"	 "128"
+		"alpha" "1"
 	}
 	CDamageAccountPanel
 	{
+		"fieldName"				"CDamageAccountPanel"
+		"xpos"					"0"
+		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"f0"
+		"tall"					"480"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
 	}
 	
+	DisguiseStatus
+	{
+		"fieldName" "DisguiseStatus"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"10"	[$WIN32]
+		"ypos"		"r70"	[$WIN32]
+		"xpos"		"50"	[$X360]
+		"ypos"		"330"	[$X360]
+		"wide"		"500"
+		"tall"		"200"
+		"TextFont"	"Default"	[$X360]
+	}
+
 	CMainTargetID
 	{
 		"fieldName" 	"CMainTargetID"
@@ -206,20 +251,34 @@
 		"priority"	"40"
 		"priority_lodef"	"5"
 	}
+	"CSpectatorTargetIDAnchor" // Icon Anchor to move Vaccinator Resistance
+	{
+		"ControlName" "EditablePanel"
+		"fieldName" 	"CSpectatorTargetIDAnchor"
+		"xpos" 		"0"
+		"ypos"		"-1110"
+		"wide"		"f0"
+		"tall" 		"0"
+		"visible"	"1"
+		"enabled" 	"1"
+	}
 	CSpectatorTargetID
 	{
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"-1110-555" //-550
+		"ypos"		"-555" //-550
 		"wide"	 	"252"
 		"tall"	 	"1035"
 		"priority"	"40"
 		
 		"x_offset" "0"
 		"y_offset" "0"
-	
+		
+		"pin_to_sibling" 	"CSpectatorTargetIDAnchor"
+		"pin_corner_to_sibling" "PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT"
 	}
 	
 	CSecondaryTargetID
@@ -262,16 +321,6 @@
 	//	"pin_to_sibling"	"HudTournament"	 //HELL		
 	}
 	
-	\\ Spy
-	DisguiseStatus
-	{
-		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"wide"		"f0"
-		"tall"		"480"
-	}
 	
 	"HudMenuSpyDisguise"
 	{
@@ -556,7 +605,19 @@
 		"wide"			"f0"
 		"tall"			"f0"
 	}	
-
+	HudDemomanCharge
+	{
+		"fieldName"		"HudDemomanCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"			// draw in front of ammo
+		"wide"			"f0"
+		"tall"			"480"
+		"MeterFG"		"245 245 245 255"
+		"MeterBG"		"0 0 0 100"
+	}	
 	HudTFCrosshair
 	{
 		"xpos"			"cs-0.5-p0.0005"	//p0.05 = 1 wide	- > 0.01
@@ -583,5 +644,26 @@
 		//"ypos_lodef"				"90"
 		"wide"					"f0"
 		"tall"					"f0"
+	}	
+	CriticalPanel [$WIN32]
+	{
+		"fieldName"				"CriticalPanel"		
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"r155"
+		"ypos"					"r75"
+		"wide"					"150"
+		"tall"					"25"
+	}
+	
+	HudArenaClassLayout [$WIN32]
+	{
+		"fieldName"				"HudArenaClassLayout"		
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"r320"
+		"wide"					"f0"
+		"tall"					"320"
 	}	
 }

@@ -7,7 +7,7 @@
 		"xpos"			"12"
 		"ypos"			"6"
 		
-		"wide"			"76"
+		"wide"			"0"
 		////"wide_minmode"	"56"
 		"tall"			"38"
 		//"visible"		"1"

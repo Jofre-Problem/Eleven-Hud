@@ -4,56 +4,6 @@
 {
 	"MOTD_Panel"
 	{		
-	"DontAskToggle"
-	{
-		"ControlName"		"ConVarCheckButton"
-		"fieldName"		"DontAskToggle"
-		"xpos"		"c98"
-		"ypos"		"70"
-		"wide"		"180"
-		"tall"		"25"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"test"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"wrap"		"1"
-		"convar"		"r_drawviewmodel"
-	}	"ValueBar0"
-	{
-		"ControlName"		"AnalogBar"
-		"fieldName"			"ValueBar0"
-		"xpos"		"c98"
-		"ypos"		"100"
-		"zpos"				"100"
-		"wide"				"230"
-		"tall"				"27"
-		"tabPosition"		"0"
-		"progress"			"0.5"
-	}		
-
-	"ActionTwoBind"
-	{
-		"ControlName"			"CBindPanel"
-		"fieldName"				"ActionTwoBind"
-		"xpos"					"0"
-		"ypos"					"-10"
-		"zpos"					"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"fgcolor_override"      "127 127 127 255"
-		"scale"                 "1.0"
-		"bind"					"+attack2" [$WIN32]
-		"bind"					"+attack" [$X360]
-	
-		"pin_to_sibling"		"ValueBar0"
-		"pin_corner_to_sibling"	"1"
-		"pin_to_sibling_corner"	"0"
-	}		
 		"FriendsContainer"
 		{
 			"ControlName"	"EditablePanel"

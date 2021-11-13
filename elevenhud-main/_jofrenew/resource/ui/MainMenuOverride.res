@@ -10,8 +10,8 @@
 //	#base "../#jofre/dashboard_bg.res"
 //	#base "../#jofre/loadout_explanation_bg.res"
 
-	#base "../ui2/multiple-bg.res"// :: check mainmenu - downbartype.res"
-	#base "../ui2/mm_border.res"
+//	#base "../ui2/multiple-bg.res"// :: check mainmenu - downbartype.res"
+//	#base "../ui2/mm_border.res"
 	#base "../#jofre/desktop icons black.res"
 	
 //	#base "../#jofre/safe-mode.res"
@@ -583,9 +583,9 @@ alpha		"111"
 		xPos					cs-0.5
 		yPos					rs1
 		zPos					1003
-		wide					330
+		wide					210
 		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
-		bgcolor_override				"0 0 0 	0"//"W_ColorTheme1"
+		bgcolor_override				"0 0 0 0"//"W_ColorTheme1"
 		mouseInputEnabled			0			// mouse input passes though to panels below
 		"PaintBackgroundType"	"0"
 	}	
@@ -787,178 +787,7 @@ alpha		"111"
 		paintBackground			0
 			
 		pin_to_sibling			"Minmode1"
-	}	
-	"YoutubeURL"
-	{
-		ControlName				URLLabel
-		FieldName				"YoutubeURL"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.051
-
-		font					"Blank"
-		labelText				""
-		enabled					1
-		visible					1
-
-		paintBackground			0
-			
-		urlText				"https://www.youtube.com/watch?v=DLzxrzFCyOs"
-
-		pin_to_sibling			"OpenMinmode"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-	}	
-	"yt1"
-	{
-		ControlName				CExLabel
-		FieldName				"yt1"
-		xPos					0
-		yPos					-2
-		zPos					3999
-		wide					35
-		tall					p0.051
-		mouseinputenabled 		0
-		labelText				"s"
-		font					"NewIcons18"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		centerwrap		"1"
-		paintBackground			1
-		fgcolor_override		"255 0 0 255"
-		pin_to_sibling			"YoutubeURL"
 	}
-	"yt2"
-	{
-		ControlName				CExLabel
-		FieldName				"yt2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.051
-		mouseinputenabled 		0
-		labelText				"t"
-		font					"NewIcons18"
-		textAlignment			center
-centerwrap		"1"
-		enabled					1
-		visible					1
-		fgcolor_override		"WhiteSolid"
-		paintBackground			0
-			
-		pin_to_sibling			"yt1"
-	}
-	"ChromeURL"
-	{
-		ControlName				URLLabel
-		FieldName				"ChromeURL"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.051
-
-		font					"Blank"
-		labelText				""
-		enabled					1
-		visible					1
-		paintBackground			0
-			
-		urlText				"https://www.duckduckgo.com/"
-
-		pin_to_sibling			"YoutubeURL"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
-	}	
-	"chr1"
-	{
-		ControlName				CExLabel
-		FieldName				"chr1"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.051
-		mouseinputenabled 		0
-		labelText				"Ö"
-		font					"NewIcons18"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"223 34 39 255"	
-		pin_to_sibling			"ChromeURL"
-	}
-	"chr2"
-	{
-		ControlName				CExLabel
-		FieldName				"chr2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.051
-		mouseinputenabled 		0
-		labelText				"×"
-		font					"NewIcons18"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		fgcolor_override		"63 156 68 255"
-		paintBackground			0
-			
-		pin_to_sibling			"chr1"
-	}
-	"chr3"
-	{
-		ControlName				CExLabel
-		FieldName				"chr3"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.051
-		mouseinputenabled 		0
-		labelText				"u"
-		font					"NewIcons18"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		fgcolor_override		"252 210 9 255"
-		paintBackground			0
-			
-		pin_to_sibling			"chr1"
-	}	
-	"chr4"
-	{
-		ControlName				CExLabel
-		FieldName				"chr4"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.051
-		mouseinputenabled 		0
-		labelText				"v"
-		font					"NewIcons18"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		fgcolor_override		"8 107 180 255"
-		paintBackground			0
-			
-		pin_to_sibling			"chr1"
-	}		
 
 	"Notifications_ShowButtonPanel"	// notification alert
 	{
