@@ -211,7 +211,6 @@ event HudLowAmmoPulseStop
 }
 event HudMedicCharged
 {
-	RunEvent HudMedicRainbowCharged 	0.0
 	Animate	ChargeMeter 	FgColor		"255 255 255 0"		Accel 0.0 0.0
 	Animate	ChargeLabelBG 	FgColor		"255 255 255 0"		Accel 0.0 0.0
 	Animate	ChargeMeter1 	FgColor		"255 255 255 0"		Accel 0.0 0.0
@@ -219,18 +218,6 @@ event HudMedicCharged
 	Animate	ChargeMeter3 	FgColor		"255 255 255 0"		Accel 0.0 0.0
 	Animate	ChargeMeter4 	FgColor		"255 255 255 0"		Accel 0.0 0.0
 	RunEvent HudMedicCharged2 0.0
-}
-event HudMedicRainbowCharged
-{
-	Animate	UberCheck 				FgColor		"0 255 0 255"		Linear 0.0 0.1
-	Animate	UberCheck 				FgColor		"72 255 255 255"			Linear 0.1 0.1
-	Animate	UberCheck 				FgColor		"0 0 255 255"			Linear 0.2 0.1
-	Animate	UberCheck 				FgColor		"255 0 255 255"		Linear 0.3 0.1
-	Animate	UberCheck 				FgColor		"255 0 0 255"			Linear 0.4 0.1
-	Animate	UberCheck 				FgColor		"Yellow"		Linear 0.5 0.1
-
-
-	RunEvent HudMedicChargedLoop		0.6
 }
 
 event HudMedicCharged2

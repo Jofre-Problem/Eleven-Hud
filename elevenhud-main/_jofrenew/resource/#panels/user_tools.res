@@ -1,3 +1,4 @@
+//ccvar slider doesnt exist here
 "Resource/NewGameDialog.res"	
 {
 	"BugUIPanel"
@@ -5,7 +6,7 @@
 		"ControlName"		"CBugUIPanel"
 		"fieldName"		"BugUIPanel"
 
-		"wide"		"180"
+		"wide"		"245"
 		"tall"		"300"
 
 	}
@@ -15,9 +16,9 @@
 			"fieldName"		"Windows_Notification"
 			"xpos"		"0"
 			"ypos"		"0"
-			"zpos"		"100"
+			"zpos"		"10"
 
-			"wide"		"180"	
+			"wide"		"245"	
 			"tall"		"300"	
 
 
@@ -42,22 +43,36 @@
 				fgcolor_override		"W_ColorIcons1"
 				labelText				"> user_tools"
 				textAlignment			west
-			}	
-			"paint"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""paint"
-		"xpos""10"
-		"ypos""25"
-		"zpos""7"
-		"wide""145"
-		"tall""145"
-		"visible""1"
-		"enabled""1"
-		"scaleImage""1"
-		"image""replay/thumbnails/misc/paint_2"
-		"fgcolor""TanDark"
-		}																					
-		}	
-	
-}
+			}
+		}		
+	"ChatLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"ChatLabel"
+		"xpos"		"15"
+		"ypos"		"36"
+		"zpos"		"111"
+		"wide"		"25"
+		"tall"		"20"
+		"labelText"		"z"
+		"textAlignment"		"center"
+		"fgcolor_override"		"W_ColorIcons1"
+		"font"					"NewIcons9"		
+	}	
+	"ChatSlider"
+	{
+		"ControlName"		"Slider"
+		"fieldName"		"ChatSlider"
+		"xpos"		"50"
+		"ypos"		"36"
+		"wide"		"190"
+		"tall"		"15"
+		"zpos"		"111"
+		"leftText"		"0"
+		"rightText"		"15"
+		"minvalue"		"0"
+		"maxvalue"		"15"
+		"cvar_name"		"hud_saytext_time"
+		"allowoutofrange"		"0"	
+	}
+}	

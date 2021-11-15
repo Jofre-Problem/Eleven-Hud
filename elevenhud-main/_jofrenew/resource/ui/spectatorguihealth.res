@@ -166,5 +166,10 @@
 		"textAlignment"	"center"	
 		"font"			"ScoreboardVerySmall"
 		"fgcolor"		"TFOrange"
-	}							
+	}		
+	"PlayerStatusHealthValue"
+	{
+
+		"wide"			"0"
+	}						
 }

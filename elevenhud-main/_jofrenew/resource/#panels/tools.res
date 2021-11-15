@@ -32,7 +32,7 @@
 			"paintbackground"		"1"
 			"mouseInputenabled"	"0"
 			"border"		"Rice1"			
-			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
+			"bgcolor_override"				"W_ColorTheme1"	//"W_ColorTheme2"
 
 			"4plug"		
 			{

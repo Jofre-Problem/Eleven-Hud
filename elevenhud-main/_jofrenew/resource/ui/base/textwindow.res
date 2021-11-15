@@ -1,5 +1,8 @@
 #base "../../#hp/blurred-screen.res"
+#base "../../ui2/l4d2_transition.res"
 #base "../../ui2/tank.res"
+
+
 "Resource/UI/TextWindow.res"
 {
 	"info"
@@ -31,25 +34,28 @@
 		"scaleImage"	"1"
 		"fillcolor"		"0 0 0 220"
 	}
-	
+
+
+
+
 	"TFMessageTitle"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TFMessageTitle"
-		"xpos"			"10"
-		"ypos"			"0"
+		"xpos"					"45"
+		"ypos"					"13"
 		"zpos"			"1"
-		"wide"			"420"
-		"tall"			"52"
+		"wide"					"500"
+		"tall"					"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"WELCOME"
-		"textAlignment"	"west"
+		"labelText"		"Prepare..."
+		"textAlignment"	"north-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"NotoBold28"
+		"font"			"Future30"
 		"fgcolor"		"255 255 255 255"
 	}	
 
@@ -65,12 +71,12 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"Noto18"
-		"xpos"			"c-184"
-		"ypos"			"125"
+		"font"			"Noto14"
+		"xpos"			"0"
+		"ypos"			"62"
 		"zpos"			"1"
-		"wide"			"415"
-		"tall"			"240"
+		"wide"			"f-30"
+		"tall"			"350"
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -84,11 +90,11 @@
 	{
 		"ControlName"		"HTML"
 		"fieldName"		"HTMLMessage"
-		"xpos"			"c-184"
-		"ypos"			"75"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
 		"zpos"			"1"
-		"wide"			"415"
-		"tall"			"295"
+		"wide"			"245"
+		"tall"			"175"
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -101,10 +107,10 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"ok"
-		"xpos"			"r210"
-		"ypos"			"0"
+		"xpos"			"CS-0.5"
+		"ypos"			"rs1-25"
 		"zpos"			"6"
-		"wide"			"200"
+		"wide"			"f0"
 		"tall"			"52"
 		"autoResize"	"0"
 		"pinCorner"		"2"
@@ -112,13 +118,13 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"CONTINUE"//"→"
-		"textAlignment"		"east"
+		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"NotoBold28"
+		"font"			"Future18"
 		
 		"fgcolor"		"NotoMenuText"
 		

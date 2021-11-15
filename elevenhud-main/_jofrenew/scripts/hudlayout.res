@@ -70,7 +70,7 @@
 	HudDeathNotice
 	{
 		"xpos"	 "rs1-15" // 6 KF
-	//	"ypos"	 "155" // 7 KF
+		"ypos"	 "45" // 7 KF
 		"wide"	 "f0"
 		"tall"	 "p0.6"
 
@@ -451,11 +451,9 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"r60"
 		"wide"					"f0"
-		"tall"					"f0"
-		"zpos"					"4"
-		"proportionaltoparent"	"1"
+		"tall"					"60"
 	}
 	HudVoiceStatus
 	{
@@ -505,24 +503,12 @@
 		"wide"					"120"
 		"tall"					"f0"
 	}
-	
+
 	HudArenaClassLayout [$WIN32]
 	{
 		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"f0"
-	}
-	
-	WinPanel
-	{
-		"fieldName"				"WinPanel"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"10"
-		"wide"					"f0"
-		"tall"					"480"
 	}
 	ArenaWinPanel
 	{
@@ -532,7 +518,6 @@
 		"tall"					"480"
 		//"pin_to_sibling"	"WinPanel"	 //HELL				
 	}
-	
 	HudSpellMenu
 	{
 		"wide"	 "f0"
@@ -632,7 +617,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
-		"ypos"					"20"
+		"ypos"					"r260"
 		"wide"					"f0"
 		"tall"					"240"
 	}	

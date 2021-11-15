@@ -2,7 +2,7 @@
 {
 	"HudPlayerHealth"
 	{
-		"HealthBonusPosAdj"	"75"
+		"HealthBonusPosAdj"	"75"//+74"
 	}
 	"PlayerStatusHealthValueLowester"
 	{

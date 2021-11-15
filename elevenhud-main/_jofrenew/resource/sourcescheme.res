@@ -83,7 +83,27 @@ Scheme
 				"wide"		"300"
 				"antialias" 	"1"
 			}
-		}        
+		}    
+		"Product12"
+		{
+			"1"
+			{
+				"name"		"Product Sans"
+				"tall"		"12"
+				"wide"		"300"
+				"antialias" 	"1"
+			}
+		}  	
+		"Product14"
+		{
+			"1"
+			{
+				"name"		"Product Sans"
+				"tall"		"14"
+				"wide"		"300"
+				"antialias" 	"1"
+			}
+		}  					
 		"DefaultFixedOutline" //edited by INsane 2010 for small netgraph font on all screen sizes
 		{
             "1" //For screen heights between 768 and 1023 (eg 4:3 aspect Width 1024X768 High... 16:9 aspect Width 1360x768 High, 16:9 aspect Width 1776x1000 High... 16:10 aspect Width 1280x768 High, 16:10 aspect Width 1280x800 High, 16:10 aspect Width 1400x900 High.)

@@ -1,1 +1,1 @@
-#base "#panels/user_tools.res"
+#base "#panels/magnum.res"

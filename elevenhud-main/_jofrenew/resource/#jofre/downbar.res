@@ -16,6 +16,24 @@
 		mouseInputEnabled			0			// mouse input passes though to panels below
 		"PaintBackgroundType"	"0"
 	}
+		"Gradient"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"		"Gradient"
+		xPos					0
+		yPos					rs1
+		zPos					1004
+		wide					f0
+		alpha			"210"
+		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
+		
+			"proportionaltoparent"	"1"
+			"scaleimage"	"1"
+			"mouseinputenabled"	"0"
+			"alpha"		"160"
+
+			"image"		"replay/thumbnails/gradient"		
+		}	
 			"DownBar2"				// background for the left side buttons
 	{
 		ControlName				ImagePanel
