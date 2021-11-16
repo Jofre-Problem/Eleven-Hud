@@ -4,16 +4,16 @@
 	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"Default"
+		//"font"					"Default"
 	//	"xpos"					"0"
 	//	"ypos"					"-41"
 		"zpos"					"2"
 	//	"wide"					"40"
 	//	"tall"					"6"				
-		"autoResize"			"0"
-		"pinCorner"				"0"
+		//"autoResize"			"0"
+		//"pinCorner"				"0"
 		//"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+		//"dulltext"				"0"
+		//"brighttext"			"0"
 	}	
 }

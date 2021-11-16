@@ -18,7 +18,376 @@
 		"resize_time"		"0.2"
 	}
 
+
+
+
+
+		"slash1"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash1"
+			"font"			"NewIcons20"
+			"labelText"		"ù"//"%kills%"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"18"
+			"wide"			"10"
+			"tall"			"18"
+			
+			"fgcolor"		"255 108 107 255"
+"pin_to_sibling"	"bgg1"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		}	
+
+			"bgg1"						{			ControlName				ImagePanel			FieldName				
+			"bgg1"
+		"xpos"			"rs1"
+		"ypos"			"0"
+		"wide"			"p0.1"
+		"tall"			"18"
+			fillColor				"255 108 107 255"					
+	}	
+
+
+
+			"bgg2"						{			ControlName				ImagePanel			FieldName				
+			"bgg2"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"p0.04"
+		"tall"			"18"
+			fillColor				"81 175 239 255"			"pin_to_sibling"	"bgg1"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
+	}	
+
+
+		"slash2"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash2"
+			"font"			"NewIcons20"
+			"labelText"		"ù"//"%kills%"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"10"
+			"tall"			"18"
+			
+			"fgcolor"		"81 175 239 255"
+"pin_to_sibling"	"bgg2"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		}	
+
+
+
+
+			"bgg3"						{			ControlName				ImagePanel			FieldName				
+			"bgg3"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"p0.08"
+		"tall"			"18"
+			fillColor				"152 190 101 255"			"pin_to_sibling"	"bgg2"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
+	}	
+
+
+		"slash3"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash3"
+			"font"			"NewIcons20"
+			"labelText"		"ù"//"%kills%"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"10"
+			"tall"			"18"
+			
+			"fgcolor"		"152 190 101 255"
+"pin_to_sibling"	"bgg3"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		}	
+
+
+			"bgg4"						{			ControlName				ImagePanel			FieldName				
+			"bgg4"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"p0.08"
+		"tall"			"18"
+			fillColor				"236 189 123 255"			"pin_to_sibling"	"bgg3"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
+	}	
+
+
+		"slash4"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash4"
+			"font"			"NewIcons20"
+			"labelText"		"ù"//"%kills%"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"10"
+			"tall"			"18"
+			
+			"fgcolor"		"236 189 123 255"
+"pin_to_sibling"	"bgg4"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		}
+
+
+
+
+
+
 	
+
+
+			"bgg5"						{			ControlName				ImagePanel			FieldName				
+			"bgg5"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"p0.01"
+		"tall"			"18"
+			fillColor				"29 35 48 255"		
+	}	
+
+
+		"slash5"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash5"
+			"font"			"NewIcons20"
+			"labelText"		"È"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"30"
+			"tall"			"18"
+			
+			"fgcolor"		"29 35 48 255"
+"pin_to_sibling"	"bgg5"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
+
+	
+		"bgg6"						{			ControlName				ImagePanel			FieldName				
+			"bgg6"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"p0.129"
+		"tall"			"18"
+			fillColor				"255 108 107 255"		
+	"pin_to_sibling"	"bgg5"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+	}	
+
+
+		"slash6"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash6"
+			"font"			"NewIcons20"
+			"labelText"		"È"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"30"
+			"tall"			"18"
+			
+			"fgcolor"		"255 108 107 255"
+"pin_to_sibling"	"bgg6"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"StatusIcon"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"StatusIcon"
+		"xpos""rs1-170"
+		"ypos""0"
+		"zpos""20"
+		"wide""20"
+		"tall""18"
+		"font""NewIcons15"
+		"textAlignment""west"
+		"command""engine showconsole; status"
+		"proportionaltoparent""1"
+		"labeltext""ý"
+		"mouseinputenabled""1"
+		"keyboardinputenabled""0"
+		"actionsignallevel""2"
+		"RoundedCorners""0"
+
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
+
+		"defaultBgColor_override""Blank"
+
+			defaultFgColor_override		"W_ColorIcons1"
+			armedFgColor_override		"W_BorderArmed"
+		"paintbackground""0"
+		"image_drawcolor""Tanlight"
+		"image_armedcolor""Tanlight"
+
+		"SubImage"
+		{
+		"ControlName""ImagePanel"
+		"fieldName""SubImage"
+		"tall""0"
+		}
+	}
+	"StatusLabel"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"StatusLabel"
+		"xpos""0"
+		"ypos""0"
+		"zpos""20"
+		"wide""40"
+		"tall""18"
+		"visible""1"
+		"enabled""1"
+		"font""NotoBold12"
+		"textAlignment""west"
+		"command""engine showconsole; status"
+		"proportionaltoparent""1"
+		"labeltext""Status"
+		"mouseinputenabled""1"
+		"keyboardinputenabled""0"
+		"actionsignallevel""2"
+		"RoundedCorners""0"
+
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
+
+		"defaultBgColor_override""Blank"
+
+			defaultFgColor_override		"W_ColorIcons1"
+			armedFgColor_override		"W_BorderArmed"
+			"pin_to_sibling" "StatusIcon"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		"paintbackground""0"
+		"image_drawcolor""Tanlight"
+		"image_armedcolor""Tanlight"
+	}	
+
+
+
+
+
+
+
+	"ReloadIcon"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"ReloadIcon"
+		"xpos""rs1-238"
+		"ypos""0"
+		"zpos""20"
+		"wide""20"
+		"tall""18"
+		"font""NewIcons15"
+		"textAlignment""west"
+		"command""engine hud_reloadscheme"
+		"proportionaltoparent""1"
+		"labeltext""%"
+		"mouseinputenabled""1"
+		"keyboardinputenabled""0"
+		"actionsignallevel""2"
+		"RoundedCorners""0"
+
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
+
+		"defaultBgColor_override""Blank"
+
+			defaultFgColor_override		"W_ColorIcons1"
+			armedFgColor_override		"W_BorderArmed"
+		"paintbackground""0"
+		"image_drawcolor""Tanlight"
+		"image_armedcolor""Tanlight"
+
+		"SubImage"
+		{
+		"ControlName""ImagePanel"
+		"fieldName""SubImage"
+		"tall""0"
+		}
+	}
+	"ReloadLabel"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"ReloadLabel"
+		"xpos""0"
+		"ypos""0"
+		"zpos""20"
+		"wide""40"
+		"tall""18"
+		"visible""1"
+		"enabled""1"
+		"font""NotoBold12"
+		"textAlignment""west"
+		"command""engine hud_reloadscheme"
+		"proportionaltoparent""1"
+		"labeltext""Reload"
+		"mouseinputenabled""1"
+		"keyboardinputenabled""0"
+		"actionsignallevel""2"
+		"RoundedCorners""0"
+
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
+
+		"defaultBgColor_override""Blank"
+
+			defaultFgColor_override		"W_ColorIcons1"
+			armedFgColor_override		"W_BorderArmed"
+			"pin_to_sibling" "ReloadIcon"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		"paintbackground""0"
+		"image_drawcolor""Tanlight"
+		"image_armedcolor""Tanlight"
+	}	
+
+
+
+
+
+
+
 	"TopBar"
 	{
 		"ControlName"	"EditablePanel"
@@ -33,7 +402,21 @@
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	"DownBar"				// background for the left side buttons
 	{
 		ControlName				EditablePanel
@@ -42,7 +425,7 @@
 		yPos					0
 		zPos					-10
 		wide					f0
-		alpha			"210"
+		alpha			"0"//210"
 		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
 		bgcolor_override				"W_ColorTheme1"//"W_ColorTheme1"
 		mouseInputEnabled			0			// mouse input passes though to panels below
@@ -61,7 +444,7 @@
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
 			"mouseinputenabled"	"0"
-			"alpha"		"160"
+			"alpha"		"0"//"160"
 
 			"image"		"replay/thumbnails/gradient_1"
 				"pin_to_sibling"	"DownBar"
@@ -102,18 +485,18 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"8"
+			"xpos"			"rs1-95"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"25"
-			"tall"			"26"
+			"tall"			"19"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labeltext"		"z"
-			"font"			"NewIcons12"
+			"font"			"NewIcons15"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -143,143 +526,60 @@
 		}		
 		"PartySlot0"
 		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot0"
-			"xpos"			"40"
-			"ypos"			"1"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			////"autoResize"	"0"
-			//"pinCorner"			"3"
-			//"visible"		"1"
-			//"enabled"		"1"
-			//"tabposition"	"0"
-			"proportionaltoparent"	"1"
-			//"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"0"
+			"xpos"					"30"
+			"ypos"					"0"
+			"wide"					"0"
+			"tall"					"o1"
+			"scaleimage"	"0"
 		}
-		"Party2BG"				// background for the left side buttons
-		{
-		ControlName				EditablePanel
-		FieldName				"Party2BG"
-		xPos					0
-		yPos					-2
-		"zpos"			"10"
-		"wide"			"117"
-		"tall"			"2"
-		"bgcolor_override"	"W_BorderArmed"
-		mouseInputEnabled			0
-		pin_to_sibling			"PartySlot1"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT		
-		}	
 		"PartySlot1"
 		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot1"
-			"xpos"			"64"
-			"ypos"		"1"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			////"autoResize"	"0"
-			//"pinCorner"			"3"
-			//"visible"		"1"
-			//"enabled"		"1"
-			//"tabposition"	"0"
-			"proportionaltoparent"	"1"
-			//"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"1"
+			"xpos"					"28"
+			"ypos"					"0"
+			"wide"					"20"
+			"tall"					"o1"
+		//	"pin_to_sibling" "PartySlot0"		"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		}
-
 		"PartySlot2"
 		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot2"
-			"xpos"			"88"
-			"ypos"		"1"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			////"autoResize"	"0"
-			//"pinCorner"			"3"
-			//"visible"		"1"
-			//"enabled"		"1"
-			//"tabposition"	"0"
-			"proportionaltoparent"	"1"
-			//"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"2"
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"20"
+			"tall"					"o1"
+			"pin_to_sibling" "PartySlot1"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}
-
 		"PartySlot3"
 		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot3"
-			"xpos"			"112"
-			"ypos"		"1"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			////"autoResize"	"0"
-			//"pinCorner"			"3"
-			//"visible"		"1"
-			//"enabled"		"1"
-			//"tabposition"	"0"
-			"proportionaltoparent"	"1"
-			//"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"3"
-		}
-
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"20"
+			"tall"					"o1"
+			"pin_to_sibling" "PartySlot2"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}		
 		"PartySlot4"
 		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot4"
-			"xpos"			"136"
-			"ypos"			"1"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			////"autoResize"	"0"
-			//"pinCorner"			"3"
-			//"visible"		"1"
-			//"enabled"		"1"
-			//"tabposition"	"0"
-			"proportionaltoparent"	"1"
-			//"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"4"
-		}
-
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"20"
+			"tall"					"o1"
+			"pin_to_sibling" "PartySlot3"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}		
 		"PartySlot5"
 		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot5"
-			"xpos"			"160"
-			"ypos"			"1"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			////"autoResize"	"0"
-			//"pinCorner"			"3"
-			//"visible"		"1"
-			//"enabled"		"1"
-			//"tabposition"	"0"
-			"proportionaltoparent"	"1"
-			//"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"5"
-		}
+			"xpos"					"0"
+			"ypos"					"0"
+			"wide"					"20"
+			"tall"					"o1"
+			"pin_to_sibling" "PartySlot4"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}		
 		"QueueContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -368,21 +668,6 @@
 
 				"fgcolor_override"	"TFOrange"
 			}
-		"Luz"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""Luz"
-		"xpos""5"
-		"ypos""5"
-		"zpos""7"
-		"wide""25"
-		"tall""o1"
-		"visible""1"
-		"enabled""1"
-		"scaleImage""1"
-		"image""replay/thumbnails/l4d2/gif_noskill"
-		"fgcolor""TanDark"
-		}		
 			"QueueText"
 			{
 				"ControlName"	"CAutoFittingLabel"
@@ -628,7 +913,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"28"
+			"tall"			"17+p0.005"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -688,7 +973,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"28"
+			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -759,7 +1044,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"28"
+			"tall"			"19"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"

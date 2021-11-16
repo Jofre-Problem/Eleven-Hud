@@ -269,15 +269,13 @@
 		ControlName				CExButton
 		FieldName				"Workshop"
 		xPos					0
-		yPos					rs1-25
-		zPos					1050
-		wide					30
-		tall					p0.043
-		textInsetx				"1"
-alpha		"111"
-		labelText				"j"
+		yPos					0
+		zPos					4000
+		wide					20
+		tall					17+p0.003
+		labelText				"ø"
 		textAlignment			center
-		
+		font			"NewIcons17"
 		command				"engine workshop"
 
 		sound_depressed			"sound_menu/button.wav"

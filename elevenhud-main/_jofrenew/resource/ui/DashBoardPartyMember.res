@@ -6,13 +6,12 @@
 	{
 		// "ControlName"			"CAvatarImagePanel"
 		fieldName				"avatar"
-		xpos					1
-		ypos					1
-		zpos					3
-		wide					f2
-		tall					f2
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"101"
+		"wide"										"f0"
+		"tall"										"f0"
 		proportionaltoparent		1
-		mouseinputenabled			0
 		scaleImage				1
 	}
 
@@ -23,30 +22,27 @@
 		xpos					0
 		ypos					0
 		zpos					0
-		wide					20
-		tall					25
+		"wide"										"20"
+		"tall"										"20"
 		proportionaltoparent		1
 		visible				1
 		mouseinputenabled			0
 		
-		labelText				"^"
-		font					"NewIcons12"
+		labelText				"ë"
+		font					"NewIcons20"
 		textAlignment			center
 
-		fgcolor_override			"W_ColorIcons1"
-		alpha				"110"
+		fgcolor_override			"W_ColorTheme1"
 		paintbackground			0
 	}
 
 	"LeaderIcon"
 	{
-		ControlName				ImagePanel
-		fieldName				"LeaderIcon"
-		xpos						0
-		ypos						0
-		zpos						5
-		wide						8
-		tall						8
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"105"
+		"wide"										"8"
+		"tall"										"8"
 		visible					1
 		mouseinputenabled		0
 
