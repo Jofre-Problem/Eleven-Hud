@@ -42,8 +42,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"delete"
 
 		"border_default"	"MainMenuMiniButtonDefault"
@@ -97,8 +97,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"trigger"
 
 		"border_default"	"MainMenuMiniButtonDefault"
@@ -152,8 +152,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"accept"
 
 		"border_default"	"MainMenuMiniButtonDefault"
@@ -203,8 +203,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"decline"
 
 		"border_default"	"MainMenuMiniButtonDefault"

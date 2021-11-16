@@ -516,8 +516,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"prevpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 			}		
 			
 			"CurPageLabel"
@@ -559,8 +559,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"nextpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 			}	
 		
 			"ViewPublishedButton"
@@ -584,8 +584,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"view_files"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 			}
 		
 			"EditButton"
@@ -608,8 +608,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 				
 				"labelText"		"#TF_SteamWorkshop_Edit"
 				"command"		"edit"
@@ -653,8 +653,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 				
 				"labelText"		"#TF_SteamWorkshop_View"
 				"command"		"view"				
@@ -698,8 +698,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 				
 				"labelText"		"#TF_SteamWorkshop_Delete"
 				"command"		"delete_item"
@@ -742,8 +742,8 @@
 			"font"			"IntroMenuCaption"
 			"textAlignment"	"center"
 			"Command"		"browse"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			
 			"paintbackground"	"1"
 			fgcolor_override			"W_ColorTexto1"
@@ -914,8 +914,8 @@
 			"font"			"IntroMenuCaption"
 			"textAlignment"	"center"
 			"Command"		"itemtest"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground"	"1"
 			fgcolor_override			"W_ColorTexto1"
 			defaultFgColor_override		"W_ColorTexto1"
@@ -944,8 +944,8 @@
 			"font"			"IntroMenuCaption"
 			"textAlignment"	"center"
 			"Command"		"publish"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground"	"1"
 			
 			fgcolor_override			"W_ColorTexto1"
@@ -977,8 +977,8 @@
 			"font"			"IntroMenuCaption"
 			"textAlignment"	"center"
 			"Command"		"learn_more"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground"	"1"
 			
 			fgcolor_override			"W_ColorTexto1"
@@ -1010,8 +1010,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"view_legal_agreement"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground"	"1"
 			
 			fgcolor_override			"W_ColorTexto1"
@@ -1046,8 +1046,8 @@
 			"brighttext"	"0"
 			"Command"		"cancel"
 			
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"bgcolor_override"		"W_ColorLinea1"
 			"paintbackground"	"1"
 			

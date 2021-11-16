@@ -83,25 +83,6 @@
 		"textAlignment"	"center"	
 		"labelText"		"#uberpadded"	
 	}
-	"UberCheck"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"UberCheck"
-
-		"font"			"NewIcons57"//"UberCheckmark"
-
-		"fgcolor"		"Blank"
-
-		"xpos"			"80"
-		"ypos"			"0"
-		"zpos"			"100"
-		"wide"			"36"
-		"tall"			"36"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"east"	
-		"labelText"		"y"//"#ubercheckmark"	
-	}
 	"ChargeLabelBG"
 	{
 		"ControlName"	"CExLabel"

@@ -123,8 +123,8 @@
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					"sound_depressed"	"sound_menu/button.wav"
+					"sound_released"	"sound_menu/button2.wav"
 				}
 
 				"RequeueButton"
@@ -152,8 +152,8 @@
 					"keyboardinputenabled"	"0"
 					"actionsignallevel"	"3"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					"sound_depressed"	"sound_menu/button.wav"
+					"sound_released"	"sound_menu/button2.wav"
 				}
 			}
 
@@ -220,8 +220,8 @@
 					"actionsignallevel"	"3"
 					//"paintbackground"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					"sound_depressed"	"sound_menu/button.wav"
+					"sound_released"	"sound_menu/button2.wav"
 				}
 			}
 
@@ -391,8 +391,8 @@
 					"actionsignallevel"	"3"
 					//"paintbackground"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					"sound_depressed"	"sound_menu/button.wav"
+					"sound_released"	"sound_menu/button2.wav"
 				}
 			}
 		}
@@ -504,8 +504,8 @@
 					"actionsignallevel"	"3"
 					//"paintbackground"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					"sound_depressed"	"sound_menu/button.wav"
+					"sound_released"	"sound_menu/button2.wav"
 				}
 			}
 		}
@@ -603,8 +603,8 @@
 				"actionsignallevel"	"2"
 				//"paintbackground"	"1"
 
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 			}
 
 			"JoinNowButton"
@@ -635,8 +635,8 @@
 				"armedBgColor_override"		"CreditsGreen"
 				"defaultBgColor_override"	"SaleGreen"
 
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 			}
 		}
 

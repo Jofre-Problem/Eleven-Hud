@@ -37,8 +37,8 @@
 			//"wrap"		"0"
 			"command"		"next"
 			"font"			"MenuSmallFont"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"Quit"  
@@ -66,8 +66,8 @@
 			//"wrap"		"0"
 			"command"		"quit"
 			"font"			"MenuSmallFont"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 		
 		"Replay"  
@@ -93,8 +93,8 @@
 			"command"		"replay"
 			"font"			"MenuSmallFont"
 			"fgcolor"		"Black"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		
 		"BottomBar"

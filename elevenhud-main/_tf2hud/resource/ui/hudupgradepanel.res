@@ -161,8 +161,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"PlayerUpgrade"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			//"bgcolor_override"	"142 132 121 255"
 			"alpha"	"0"
 		}
@@ -420,8 +420,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"quick_equip_bottle"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"LoadoutButton"
@@ -445,8 +445,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"open_charinfo_direct"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		
 		"UpgradeItemsDescriptionBG"
@@ -614,8 +614,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		
 		"CloseButton"
@@ -639,8 +639,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"close"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"RespecButton"
@@ -664,8 +664,8 @@
 			////"dulltext"		"0"
 			"brighttext"	"1"
 			"Command"		"respec"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}	
 	

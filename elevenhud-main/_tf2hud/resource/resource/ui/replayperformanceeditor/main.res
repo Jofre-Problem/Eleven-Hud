@@ -23,8 +23,8 @@
 			"bgcolor_override"	"255 107 95 255"
 			"wide"			"10"
 			"tall"			"10"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"SubImage"
 			{
@@ -130,8 +130,8 @@
 		
 		"labeltext"		""
 		"Command"		"timescale_showpanel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -168,8 +168,8 @@
 		
 		"labeltext"		""
 		"Command"		"setcamera_first"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -206,8 +206,8 @@
 		
 		"labeltext"		""
 		"Command"		"setcamera_third"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -245,8 +245,8 @@
 		
 		"labeltext"		""
 		"Command"		"setcamera_free"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -342,8 +342,8 @@
 		
 		"labeltext"		""
 		"Command"		"settick_in"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -382,8 +382,8 @@
 		
 		"labeltext"		""
 		"Command"		"goto_start"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -421,8 +421,8 @@
 		
 		"labeltext"		""
 		"Command"		"goto_back"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -460,8 +460,8 @@
 		
 		"labeltext"		""
 		"Command"		"play"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -498,8 +498,8 @@
 		
 		
 		"labeltext"		""
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -537,8 +537,8 @@
 		
 		"labeltext"		""
 		"Command"		"goto_end"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -576,8 +576,8 @@
 		
 		"labeltext"		""
 		"Command"		"settick_out"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"
@@ -621,8 +621,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"toggle_menu"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"paintbackground"	"0"
 		"image_drawcolor"	"255 255 255 191"

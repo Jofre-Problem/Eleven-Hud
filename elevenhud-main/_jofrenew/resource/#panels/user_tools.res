@@ -1,50 +1,28 @@
 //ccvar slider doesnt exist here
 "Resource/NewGameDialog.res"	
 {
-	"BugUIPanel"
+	"ChangeGameDialog"
 	{
 		"ControlName"		"CBugUIPanel"
-		"fieldName"		"BugUIPanel"
+		"fieldName"		"ChangeGameDialog"
 
 		"wide"		"245"
 		"tall"		"300"
 
 	}
-		"Windows_Notification"
+	"4plug"		
 		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"Windows_Notification"
-			"xpos"		"0"
-			"ypos"		"0"
-			"zpos"		"10"
-
-			"wide"		"245"	
-			"tall"		"300"	
-
-
-//		"wide"		"600"	
-//		"tall"		"318"	
-
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
-			"mouseInputenabled"	"0"
-			"border"		"Rice1"			
-			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
-
-			"4plug"		
-			{
-				ControlName				Label
-				FieldName				"4plug"
-				xPos					5
-				yPos					5
-				wide					200
-				tall					20	
-				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
-				labelText				"> user_tools"
-				textAlignment			west
-			}
-		}		
+			ControlName				Label
+			FieldName				"4plug"
+			xPos					5
+			yPos					5
+			wide					200
+			tall					20	
+			font					"Code10"
+			fgcolor_override		"W_ColorIcons1"
+			labelText				"> user_tools"
+		textAlignment			west
+	}	
 	"ChatLabel"
 	{
 		"ControlName"		"Label"
@@ -61,7 +39,7 @@
 	}	
 	"ChatSlider"
 	{
-		"ControlName"		"Slider"
+		"ControlName"		"CCVarSlider"
 		"fieldName"		"ChatSlider"
 		"xpos"		"50"
 		"ypos"		"36"

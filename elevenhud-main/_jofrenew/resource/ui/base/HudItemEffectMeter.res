@@ -35,7 +35,6 @@
 		"brighttext"			"0"
 		"font"					"TFFontSmall"
 	}
-	
 	"ItemEffectMeter"
 	{	
 		"ControlName"			"ContinuousProgressBar"

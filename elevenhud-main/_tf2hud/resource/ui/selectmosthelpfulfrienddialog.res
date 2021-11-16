@@ -41,8 +41,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 			
 			"avatar"
@@ -159,8 +159,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"friends"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"subbutton1"
 		{
@@ -183,8 +183,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"server"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
 	"StatePanel1"
@@ -333,7 +333,7 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

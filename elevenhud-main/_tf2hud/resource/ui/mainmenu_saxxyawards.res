@@ -121,8 +121,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"submit"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ButtonBorder"
 		
         "defaultBgColor_override"		"56 74 94 255"
@@ -150,8 +150,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"viewdetails"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ButtonBorder"
 		
         "defaultBgColor_override"		"56 74 94 255"

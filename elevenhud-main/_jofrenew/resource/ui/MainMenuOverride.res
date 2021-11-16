@@ -1,5 +1,6 @@
 	#base "../#jofre/motd-list.res"
 	#base "../#jofre/motd-code.res"
+	#base "../ui2/preload.res"
 	#base "../../home/servers.res"
 //	#base "../../#customization/resource/ui/summersale_border.res"
 	#base "../#jofre/downbar.res" //:: check mainmenu - downbartype.res"
@@ -116,8 +117,8 @@
 			font					"NewIcons18"
 			textAlignment			center
 			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released			"sound_menu/button2.wav"
 							
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -151,8 +152,8 @@
 		//	font					"NewIcons18"
 			textAlignment			center
 			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released			"sound_menu/button2.wav"
 						
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -186,8 +187,8 @@
 		//	font					"NewIcons18"
 			textAlignment			center
 			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released			"sound_menu/button2.wav"
 						
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -279,8 +280,8 @@ alpha		"111"
 		
 		command				"engine workshop"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"236 71 233 255"
@@ -318,8 +319,8 @@ alpha		"111"
 		
 		command				"OpenAchievementsDialog"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 	
 		paintBackground			0
 
@@ -422,8 +423,8 @@ alpha		"111"
 		textAlignment			center
 		command				"opentf2options"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		paintBackground			0
 		
@@ -526,8 +527,8 @@ alpha		"111"
 	
 		command					"engine open_store"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 	
 		paintBackground			0
 		
@@ -605,8 +606,8 @@ alpha		"111"
 		
 		command				"questlog"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 //		tooltipText			"hi"
 	
@@ -665,8 +666,8 @@ alpha		"111"
 		
 		command				"engine demoui"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 	
 		paintBackground			0
@@ -737,8 +738,8 @@ alpha		"111"
 		
 		command				"engine toggle cl_hud_minmode"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		paintBackground			0
 
 		pin_to_sibling			"OpenDemo"
@@ -793,10 +794,10 @@ alpha		"111"
 	{
 		ControlName				EditablePanel
 		FieldName				"Notifications_ShowButtonPanel"
-		xPos					rs1-5
+		xPos					cs-0.5
 		yPos					35
 		zPos					30
-		"wide"			"p0.085"
+		"wide"			"p0.065"
 		"tall"			"40"
 		"tabPosition"	"1"	
 		"pinCorner"				"0"
@@ -829,8 +830,8 @@ alpha		"111"
 
 			labelText				""
 			
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released			"sound_menu/button2.wav"
 			sound_armed				"UI/buttonrollover.wav"
 			
 			paintbackground			0
@@ -888,7 +889,7 @@ alpha		"111"
 			textAlignment			center
 			textInsetY				-2
 
-			fgcolor_override			"W_ColorTheme1"
+			fgcolor_override			"W_ColorIcons1"
 			paintBackground			0
 
 			pin_to_sibling			"NotificationCountBg"
@@ -949,8 +950,8 @@ alpha		"111"
 
 			Command				"noti_hide"
 
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released			"sound_menu/button2.wav"
 		
 			defaultFgColor_override		"W_ColorIcons1"
 			defaultBgColor_override		"W_ColorTheme1"
@@ -1155,8 +1156,8 @@ alpha		"111"
 		armedFgColor_override		"W_ColorTheme4"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 	
 		paintBackground			0
@@ -1179,8 +1180,8 @@ alpha		"111"
 		armedFgColor_override		"W_ColorTheme4"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 	
 		paintBackground			0
@@ -1227,8 +1228,8 @@ alpha		"111"
 			"actionsignallevel" "2"
 			"Command"		"motd_show"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground" "0"
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"W_ColorTheme4"

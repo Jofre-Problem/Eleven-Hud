@@ -265,8 +265,8 @@
 		//"Default"		"1"
 		
 		"Command"		"shuffle"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionalToParent"	"1"
 	}
 		
@@ -292,8 +292,8 @@
 		"default"		"0"
 		"Command"		"cancel"
 		"tabPosition"	"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionalToParent"	"1"
 	}
 
@@ -318,8 +318,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"getkey"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionalToParent"	"1"
 	}
 
@@ -344,8 +344,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"usekey"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionalToParent"	"1"
 	}
 }

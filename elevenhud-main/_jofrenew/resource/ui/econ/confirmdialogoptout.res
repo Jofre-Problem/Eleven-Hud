@@ -83,8 +83,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}		
 
 	"ConfirmButton"
@@ -107,8 +107,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"confirm"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}			
 	
 	"OptOutCheckbox"

@@ -225,8 +225,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"discarditem"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}			
 	
 	"backpack_panel"
@@ -264,8 +264,8 @@
 		"brighttext"	"0"
 		"Command"		"vguicancel"
 		"default"		"0"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}
 	
 	"ShowExplanationsButton"
@@ -289,8 +289,8 @@
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"show_explanations"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}
 	
 	"StartExplanation"
@@ -374,8 +374,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -439,8 +439,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
@@ -549,8 +549,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -596,8 +596,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"prevexplanation"
 			
 			"paintbackground"	"0"
@@ -661,8 +661,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
@@ -770,8 +770,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -817,8 +817,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"Command"		"prevexplanation"
 			
 			"paintbackground"	"0"

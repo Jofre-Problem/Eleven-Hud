@@ -1,1 +1,1 @@
-#base "#panels/draws.res"
+#base "#panels/user_tools.res"

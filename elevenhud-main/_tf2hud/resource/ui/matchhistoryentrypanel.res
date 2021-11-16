@@ -43,9 +43,9 @@
 			"border_armed"		"NoBorder"
 			"armedBgColor_override"	"235 226 202 20"
 
-			"sound_armed"		"ui/item_info_mouseover.wav"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_armed"		"ui/item_info_mouseover.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"WinLabel"

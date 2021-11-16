@@ -592,8 +592,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"icons_left"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}		
 	"IconsMoveRightButton"
 	{
@@ -615,8 +615,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"icons_right"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}	
 	
 	"ClassUsageMouseoverLabel"
@@ -662,8 +662,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"-1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}		
 	"RotRightButton"
 	{
@@ -685,8 +685,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}	
 				
 	"NextWeaponButton"
@@ -710,8 +710,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"next_weapon"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}					
 
 	"ZoomButton"
@@ -735,8 +735,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"zoom_toggle"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}
 
 	"TeamButton"
@@ -760,8 +760,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"team_toggle"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}
 
 	"PaintNameLabel"

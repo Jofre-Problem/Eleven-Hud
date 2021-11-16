@@ -135,8 +135,8 @@
 			"Default"			"0"
 			"font"				"MenuKeys"
 			"scaleImage"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 	}
 	
@@ -269,8 +269,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"craft"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}			
 		
 		"FreeAccountLabel"
@@ -313,8 +313,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"upgrade"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultBgColor_override"	"102 122 42 255"
 			"armedBgColor_override"		"143 167 57 255"
@@ -475,7 +475,7 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"reloadscheme"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

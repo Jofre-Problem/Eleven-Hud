@@ -109,8 +109,8 @@
 		//"border_armed"		"MainMenuMiniButtonArmed"
 		//"paintbackground"	"1"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"TanLight"
@@ -216,8 +216,8 @@
 		"eatmouseinput"	"0"	
 		"button_activation_type"	"1"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 				
 		"defaultFgColor_override" "TanDarker"
 		"armedFgColor_override" "TanLight"

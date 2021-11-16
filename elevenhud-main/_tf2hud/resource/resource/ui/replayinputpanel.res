@@ -119,8 +119,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}		
 
 		"SaveButton"
@@ -144,8 +144,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"save"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}			
 	}
 }

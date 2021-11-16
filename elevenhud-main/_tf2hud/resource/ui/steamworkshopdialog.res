@@ -154,8 +154,8 @@
 				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"Command"		"learn_more"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 		}
 
@@ -264,8 +264,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"prevpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}		
 			
 			"CurPageLabel"
@@ -307,8 +307,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"nextpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}	
 		
 			"ViewPublishedButton"
@@ -332,8 +332,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"view_files"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 		
 			"EditButton"
@@ -356,8 +356,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				
 				"labelText"		"#TF_SteamWorkshop_Edit"
 				"command"		"edit"
@@ -401,8 +401,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				
 				"labelText"		"#TF_SteamWorkshop_View"
 				"command"		"view"				
@@ -446,8 +446,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				
 				"labelText"		"#TF_SteamWorkshop_Delete"
 				"command"		"delete_item"
@@ -490,8 +490,8 @@
 			"font"			"HudFontSmallest"
 			"textAlignment"	"center"
 			"Command"		"browse"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
@@ -518,8 +518,8 @@
 			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"itemtest"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"border_disabled"	"MainMenuButtonDisabled"
@@ -547,8 +547,8 @@
 			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"publish"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
 			"paintbackground"	"0"
@@ -575,8 +575,8 @@
 			"font"			"HudFontSmall"
 			"textAlignment"	"center"
 			"Command"		"learn_more"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"ViewLegalAgreementButton"
@@ -600,8 +600,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"view_legal_agreement"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"CancelButton"
@@ -625,8 +625,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}			
 	}
 }

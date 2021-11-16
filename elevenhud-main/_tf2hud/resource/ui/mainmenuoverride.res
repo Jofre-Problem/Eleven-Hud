@@ -47,8 +47,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				
 				"border_default"	"MainMenuButtonDefault"
 				"border_armed"		"MainMenuButtonArmed"
@@ -292,13 +292,13 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"vo/null.mp3"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"vo/null.mp3"
 		"actionsignallevel" "1"
 		"proportionaltoparent"	"1"
 				
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		//"paintbackground"	"1"
 		"paintborder"		"0"
 		"image_drawcolor"	"235 226 202 255"
@@ -548,8 +548,8 @@
 			"Command"		"noti_show"
 			"navActivate"	"<QuickplayButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -611,13 +611,13 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"vo/null.mp3"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"vo/null.mp3"
 			"actionsignallevel" "2"
 			"proportionaltoparent"	"1"
 				
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 			"paintborder"		"0"
 			"image_drawcolor"	"235 226 202 255"
@@ -684,13 +684,13 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"vo/null.mp3"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"vo/null.mp3"
 			"actionsignallevel" "2"
 			"proportionaltoparent"	"1"
 				
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 			"paintborder"		"0"
 			"image_drawcolor"	"235 226 202 255"
@@ -762,8 +762,8 @@
 			"Command"		"motd_show"
 			"navActivate"	"<QuickplayButton"		// after selecting this, nav to this sibling
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -859,8 +859,8 @@
 			"navDown"			"MOTD_URLButton"
 			"navActivate"		"<QuickplayButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"motd_hide"
 			
 			"paintbackground"	"0"
@@ -1058,8 +1058,8 @@
 			//"navLeft"		"MOTD_PrevButton"
 			//"navRight"		"MOTD_NextButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultFgColor_override" "TanLight"
 			"defaultBgColor_override" "TanDarker"
@@ -1093,8 +1093,8 @@
 			//"navUp"			"MOTD_CloseButton"
 			//"navRight"		"MOTD_URLButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
 			"image_drawcolor"	"235 226 202 255"
@@ -1141,8 +1141,8 @@
 			//"navUp"			"MOTD_CloseButton"
 			//"navLeft"		"MOTD_URLButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
 			"image_drawcolor"	"235 226 202 255"
@@ -1209,8 +1209,8 @@
 			"Command"		"noti_hide"
 			"navActivate"	"<QuickplayButton"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 
 			"paintbackground"	"0"
 			
@@ -1530,8 +1530,8 @@
 //					////"dulltext"		"0"
 //					//"brighttext"	"0"
 //					//"Default"		"1"
-//					"sound_depressed"	"UI/buttonclick.wav"
-//					"sound_released"	"UI/buttonclickrelease.wav"
+//					//"sound_depressed"	"UI/buttonclick.wav"
+//					//"sound_released"	"UI/buttonclickrelease.wav"
 //					"labeltext"		"#MMenu_ViewUpdateDetails"
 //					"proportionaltoparent"	"1"
 //					"command"		"view_update_page"
@@ -1600,8 +1600,8 @@
 //					////"dulltext"		"0"
 //					//"brighttext"	"0"
 //					//"Default"		"1"
-//					"sound_depressed"	"UI/buttonclick.wav"
-//					"sound_released"	"UI/buttonclickrelease.wav"
+//					//"sound_depressed"	"UI/buttonclick.wav"
+//					//"sound_released"	"UI/buttonclickrelease.wav"
 //					"labeltext"		"#MMenu_ViewWar"
 //					"proportionaltoparent"	"1"
 //					"command"		"view_war"
@@ -1813,8 +1813,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				"labeltext"		"#MMenu_SafeMode_SaveSettings"
 				"proportionaltoparent"	"1"
 				"command"		"safemode_save_settings"
@@ -1850,8 +1850,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				//"Default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				"labeltext"		"#MMenu_SafeMode_LeaveSafeMode"
 				"proportionaltoparent"	"1"
 				"command"		"safemode_leave"
@@ -1928,8 +1928,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"command"		"showpromocodes"
 		
 		"border_default"	"MainMenuButtonDefault"
@@ -1979,8 +1979,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"RoundedCorners"	"5"
 			
 			//"paintbackground"	"1"
@@ -2048,8 +2048,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"MainMenuSubButtonBorder"
 			//"paintbackground"	"1"
@@ -2115,8 +2115,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"MainMenuSubButtonBorder"
 			//"paintbackground"	"1"
@@ -2183,8 +2183,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			
 			
 			//"paintbackground"	"1"
@@ -2266,8 +2266,8 @@
 		//"Default"		"1"
 		"command"		"engine open_charinfo"
 		"labeltext"		"#MMenu_CharacterSetup"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionaltoparent"	"1"
 			
 		//"paintbackground"	"1"
@@ -2329,8 +2329,8 @@
 		"command" "engine open_store"
 		"proportionaltoparent"	"1"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 			
 		//"paintbackground"	"1"
 				
@@ -2379,8 +2379,8 @@
 		//"navLeft"		"ReportBugButton"
 		//"navRight"		"TF2SettingsButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"image_drawcolor"	"235 226 202 255"
 		"SubImage"
@@ -2425,8 +2425,8 @@
 		//"navUp"			"Notifications_Panel"
 		//"navLeft"		"SettingsButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 		
 		"image_drawcolor"	"235 226 202 255"
@@ -2473,8 +2473,8 @@
 		//"navLeft"		"QuitButton"
 		//"navRight"		"AchievementsButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"PaintBackgroundType" "0"
 		"border_default"	"MainMenuSubButtonBorder"
 		
@@ -2521,8 +2521,8 @@
 		//"navLeft"		"NewUserForumsButton"
 		//"navRight"		"CommentaryButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 		
 		"image_drawcolor"	"235 226 202 255"
@@ -2568,8 +2568,8 @@
 		//"navLeft"		"AchievementsButton"
 		//"navRight"		"CoachPlayersButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 		
 		"image_drawcolor"	"235 226 202 255"
@@ -2615,8 +2615,8 @@
 		//"navLeft"		"CommentaryButton"
 		//"navRight"		"ReportBugButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 		
 		"image_drawcolor"	"235 226 202 255"
@@ -2662,8 +2662,8 @@
 		//"navLeft"		"AchievementsButton"
 		//"navRight"		"CoachPlayersButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 		
 		"image_drawcolor"	"235 226 202 255"
@@ -2709,8 +2709,8 @@
 		//"navLeft"		"AchievementsButton"
 		//"navRight"		"CoachPlayersButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 		
 		"image_drawcolor"	"235 226 202 255"
@@ -2756,8 +2756,8 @@
 		//"navLeft"		"CoachPlayersButton"
 		//"navRight"		"SettingsButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"image_drawcolor"	"235 226 202 255"
 		"SubImage"
@@ -2800,8 +2800,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"exitreplayeditor"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"image_drawcolor"	"235 226 202 255"
 		"SubImage"

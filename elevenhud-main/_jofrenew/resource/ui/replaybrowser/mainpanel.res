@@ -24,8 +24,8 @@
 		
 		command				"back"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -186,7 +186,7 @@
 		"brighttext"	"0"
 		"default"		"0"
 		"Command"		"back"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 	}	
 }

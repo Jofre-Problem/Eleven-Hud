@@ -179,8 +179,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"prevpage"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 		}	
 		
 		"CancelButton"
@@ -201,8 +201,8 @@
 		"font"										"NewIcons22"
 		"textAlignment"								"west"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 		}			
 		
 		"ModeSelectionPanel"

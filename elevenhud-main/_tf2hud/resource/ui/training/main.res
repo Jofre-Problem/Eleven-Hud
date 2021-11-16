@@ -124,8 +124,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"prevpage"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 		
 		"CancelButton"
@@ -148,8 +148,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}			
 		
 		"ModeSelectionPanel"

@@ -1,6 +1,6 @@
 #base "../../overrides/transparentclass/file.res"
 #base "../ui2/not_transparent_class.res"
-#base "../ui2/blue-light.res"
+//#base "../ui2/blue-light.res"
 "Resource/UI/HudPlayerClass.res"
 {
 	"HudPlayerClass"

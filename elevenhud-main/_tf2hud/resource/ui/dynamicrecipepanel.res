@@ -87,8 +87,8 @@
 			"Default"			"0"
 			"font"				"MenuKeys"
 			"scaleImage"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 	}
 
@@ -200,8 +200,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"craft"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}		
 		
 		"PrevInputPageButton"
@@ -224,8 +224,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"previnputpage"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"CurInputPageLabel"
 		{
@@ -265,8 +265,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"nextinputpage"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}			
 	}
 
@@ -364,8 +364,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}	
 		
 		"PrevPageButton"
@@ -388,8 +388,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"prevpage"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"CurPageLabel"
 		{
@@ -429,8 +429,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"nextpage"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}				
 	}
 

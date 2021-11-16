@@ -15,5 +15,6 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"bgcolor_override"	"5 41 59 200"
+		"bgcolor_override_minmode"	"64 64 64 100"
 	}	
 }

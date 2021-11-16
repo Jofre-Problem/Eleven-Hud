@@ -337,8 +337,8 @@
 
 			Command				"vguicancel"
 
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released			"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released			"sound_menu/button2.wav"
 		
 			defaultFgColor_override		"W_ColorIcons1"
 			defaultBgColor_override		"W_ColorTheme1"

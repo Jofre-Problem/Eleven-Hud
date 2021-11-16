@@ -124,8 +124,8 @@
 			"actionsignallevel"	"2"
 			"roundedcorners"	"0"
 			"paintbackground"	"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			"fgcolor"			"W_ColorIcons1"
 			"fgcolor_override"	"W_ColorIcons1"
 			"defaultFgColor_override"	"W_ColorIcons1"
@@ -438,8 +438,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 				"Command"		"manage_queues"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
@@ -488,8 +488,8 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 				"Command"		"leave_queue"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
@@ -615,8 +615,8 @@
 				"armedBgColor_override"		"CreditsGreen"
 				"defaultBgColor_override"	"SaleGreen"
 
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
 			}
 		}
 
@@ -647,8 +647,8 @@
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 
 			"armedBgColor_override"		"Blank"
 			"defaultBgColor_override"	"Blank"
@@ -709,8 +709,8 @@
 			"textinsetx"	"0"
 			"use_proportional_insets"	"1"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 
 			"armedBgColor_override"		"Blank"
 			"defaultBgColor_override"	"Blank"
@@ -781,8 +781,8 @@
 			"textinsetx"	"0"
 			"use_proportional_insets"	"1"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 
 			"armedBgColor_override"		"Blank"
 			"defaultBgColor_override"	"Blank"

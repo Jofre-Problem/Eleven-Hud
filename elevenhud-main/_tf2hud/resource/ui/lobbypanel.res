@@ -651,8 +651,8 @@
 				//"Default"		"1"
 				"Command"		"invite"
 
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 
 			"TourLevelImage"

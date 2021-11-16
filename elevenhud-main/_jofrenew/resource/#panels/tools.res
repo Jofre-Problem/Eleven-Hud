@@ -13,6 +13,16 @@
 		"settitlebarvisible"		"1"	
 		"title"		"#GameUI_NewGame"
 	}
+	"frame_brGrip"
+	{
+		"ControlName"		"Panel"
+		"fieldName"		"frame_brGrip"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"9999"
+		"wide"		"18"
+		"tall"		"18"
+	}	
 		"Windows_Notification"
 		{
 			"ControlName"	"EditablePanel"

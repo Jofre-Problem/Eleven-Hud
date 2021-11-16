@@ -113,8 +113,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -226,8 +226,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -302,8 +302,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -491,8 +491,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -566,8 +566,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -679,8 +679,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -792,8 +792,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -867,8 +867,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -1057,8 +1057,8 @@
 		selectonhover			1
 		keyboardinputenabled		0
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		sound_armed				"UI/buttonrollover.wav"
 
 		defaultFgColor_override		"255 255 255 255"
@@ -1124,8 +1124,8 @@
 		
 		paintbackground			0
 		
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 	}
 
 	// #endregion

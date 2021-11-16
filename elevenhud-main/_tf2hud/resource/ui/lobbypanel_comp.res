@@ -69,8 +69,8 @@
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 		"ShowMatchHistoryButton"
@@ -92,8 +92,8 @@
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 
 
@@ -208,8 +208,8 @@
 					"command"	"sort0"
 					"actionsignallevel"	"4"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 				}
 
 				"DateButton"
@@ -242,8 +242,8 @@
 					"command"	"sort1"
 					"actionsignallevel"	"4"	
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 				}
 
 				"MapButton"
@@ -276,8 +276,8 @@
 					"command"	"sort2"
 					"actionsignallevel"	"4"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 				}
 
 				"KDRButton"
@@ -308,8 +308,8 @@
 					"command"	"sort3"
 					"actionsignallevel"	"4"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 				}
 			}
 

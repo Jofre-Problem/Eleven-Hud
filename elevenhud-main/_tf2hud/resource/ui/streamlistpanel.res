@@ -55,8 +55,8 @@
 		"navDown"			"MOTD_URLButton"
 		"navActivate"		"<QuickplayButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"hide_streams"
 			
 		"paintbackground"	"0"
@@ -201,8 +201,8 @@
 		//"Default"		"1"
 		"command"		"view_more"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 			
 		"defaultFgColor_override" "TanLight"
 		"defaultBgColor_override" "TanDarker"

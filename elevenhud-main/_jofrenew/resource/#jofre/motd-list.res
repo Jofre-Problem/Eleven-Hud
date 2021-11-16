@@ -113,8 +113,8 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 			
@@ -152,8 +152,8 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -199,8 +199,8 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -254,8 +254,8 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -310,8 +310,8 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -365,8 +365,8 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -412,8 +412,8 @@
 			command				"OpenBenchmarkDialog"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -452,8 +452,8 @@
 			command				"OpenChangeGameDialog"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -492,8 +492,8 @@
 			command				""//"OpenMatchmakingBasePanel"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -532,8 +532,8 @@
 			command				"OpenControllerDialog"
 			"actionsignallevel"	"2"
 		
-			"sound_depressed"							"UI/buttonclick.wav"
-			"sound_released"							"UI/buttonclickrelease.wav"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
 		
@@ -642,8 +642,8 @@
 			"proportionaltoparent" "1"
 			"actionsignallevel"	"2"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"sound_menu/button.wav"
+			"sound_released"	"sound_menu/button2.wav"
 			
 			"defaultFgColor_override" "W_ColorIcons1"
 			"defaultBgColor_override" "W_ColorTheme1"

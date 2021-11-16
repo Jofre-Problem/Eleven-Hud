@@ -139,8 +139,8 @@
 			Command				""
 			font					"MenuKeys"
 			scaleImage			1
-			sound_depressed	"UI/buttonclick.wav"
-			sound_released		"UI/buttonclickrelease.wav"
+			sound_depressed	"sound_menu/button.wav"
+			sound_released		"sound_menu/button2.wav"
 		}	
 	}
 	"ClassLabel"
@@ -315,8 +315,8 @@
 			defaultBgColor_override		"W_ColorTheme1"
 			armedBgColor_override		"W_BorderArmed"
 
-			sound_depressed			"UI/buttonclick.wav"
-			sound_released				"UI/buttonclickrelease.wav"
+			sound_depressed			"sound_menu/button.wav"
+			sound_released				"sound_menu/button2.wav"
 		}
 	}
 	

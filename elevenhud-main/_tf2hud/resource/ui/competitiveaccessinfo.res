@@ -159,8 +159,8 @@
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
 
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			
 				//"paintbackground"	"1"
 
@@ -242,8 +242,8 @@
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
 
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			
 				//"paintbackground"	"1"
 
@@ -344,8 +344,8 @@
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
 			
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			
 				//"paintbackground"	"1"
 			

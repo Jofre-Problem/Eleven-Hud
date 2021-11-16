@@ -25,7 +25,7 @@
 		"command"									"%button_command%"
 		"proportionaltoparent" 						"1"
 		"actionsignallevel"							"2"
-		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_depressed"							"sound_menu/button.wav"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"

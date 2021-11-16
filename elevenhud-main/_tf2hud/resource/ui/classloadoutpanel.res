@@ -85,8 +85,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			//"Default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
 	
@@ -372,8 +372,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -454,8 +454,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"characterloadout"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 
 		"SubImage"
 		{
@@ -492,8 +492,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"tauntloadout"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 
 		"SubImage"
 		{
@@ -592,8 +592,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"

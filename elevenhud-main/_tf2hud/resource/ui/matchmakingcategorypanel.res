@@ -86,9 +86,9 @@
 			"armedBgColor_override"	"LightOrange"
 			"selectedBGColor_override" "Orange"
 
-			"sound_armed"		"ui/item_info_mouseover.wav"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_armed"		"ui/item_info_mouseover.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 
 			"image_default"	"glyph_expand"
 
@@ -139,7 +139,7 @@
 			"labeltext"		""
 			"smallcheckimage"	"1"
 
-			"sound_depressed"	"UI/buttonclickrelease.wav"	
+			//"sound_depressed"	"UI/buttonclickrelease.wav"	
 			"button_activation_type"	"1"
 		}
 

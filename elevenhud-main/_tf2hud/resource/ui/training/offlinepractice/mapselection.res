@@ -68,8 +68,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"goprev"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	
 	"NextButton"
@@ -93,8 +93,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"gonext"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	
 	"MapNameLabel"
@@ -160,8 +160,8 @@
 		//"dulltext"			"0"
 		////"brighttext"		"0"
 		"Command"			"startofflinepractice"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_default"	"MainMenuButtonDefault"
 		"border_armed"		"MainMenuButtonArmed"

@@ -64,8 +64,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"Close"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"OkButton"
 	{
@@ -88,8 +88,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"Ok"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"PanelListPanel"

@@ -73,8 +73,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"exportmovie"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 
 	"ShowRenderInfoButton"
@@ -95,8 +95,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"showrenderinfo"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		//"paintbackground"	"1"
 		
@@ -136,8 +136,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"youtubeupload"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"ViewYouTubeButton"
@@ -158,8 +158,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"viewyoutube"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"ShareYouTubeURLButton"
@@ -180,8 +180,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"shareyoutubeurl"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"DeleteButton"
@@ -203,8 +203,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"delete_replayitem"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ReplayGrayFillGrayBorder"
 		"border_armed"		"ReplayGrayFillGrayBorder"
 		"armedBgColor_override"	"ReplayBrowser.Button.ArmedBgColor"
@@ -231,8 +231,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"play"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ReplayGrayFillGrayBorder"
 		"border_armed"		"ReplayGrayFillGrayBorder"
 		"armedBgColor_override"	"ReplayBrowser.Button.ArmedBgColor"
@@ -258,8 +258,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"render_replay_dlg"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ReplayGrayFillGrayBorder"
 		"border_armed"		"ReplayGrayFillGrayBorder"
 		"armedBgColor_override"	"ReplayBrowser.Button.ArmedBgColor"

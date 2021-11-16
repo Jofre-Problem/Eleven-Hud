@@ -541,8 +541,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"command" "mann_up_now"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
 

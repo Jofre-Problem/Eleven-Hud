@@ -164,8 +164,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"search"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 
 			"StopSearchButton"
@@ -188,8 +188,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"stopsearch"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 		}
 

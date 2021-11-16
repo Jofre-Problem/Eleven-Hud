@@ -46,8 +46,8 @@
 		
 		command				"OpenServerBrowser"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -79,8 +79,8 @@
 		
 		command				"engine open_charinfo; hideconsole"		// open backpack directly (default engine open_charinfo)
 																// also close to prevent weird clipping
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -106,8 +106,8 @@
 		
 		command				"OpenOptionsDialog"
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -136,8 +136,8 @@
 		
 		command				"engine con_enable 1; toggleconsole"		// making sure it's enabled
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -169,8 +169,8 @@
 		"default"		"1"
 		"Command"		"view_newuser_forums"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"sound_menu/button.wav"
+		"sound_released"	"sound_menu/button2.wav"
 		"PaintBackgroundType" "1"
 		"alpha"				"0"	
 		"image_drawcolor"	"Blank"

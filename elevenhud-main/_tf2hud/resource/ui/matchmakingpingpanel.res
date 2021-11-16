@@ -66,7 +66,7 @@
 		"smallcheckimage"	"1"
 		"fgcolor_override"	"TanDark"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 	}
 
@@ -108,7 +108,7 @@
 		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 
 		"cvar_name" "tf_party_ignore_invites"
@@ -130,7 +130,7 @@
 		"smallcheckimage"	"1"
 		"enabled"	"0"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 	}
 
@@ -149,7 +149,7 @@
 		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 		"fgcolor_override"		"TanDark"
 	}
@@ -170,7 +170,7 @@
 		"smallcheckimage"	"1"
 		"actionsignallevel"	"1"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 
 		"cvar_name"	"tf_mm_custom_ping_enabled"
@@ -193,7 +193,7 @@
 		"font"			"HudFontSmallest"
 		"smallcheckimage"	"1"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 	}
 
@@ -213,7 +213,7 @@
 		"wrap"		"1"
 		"fgcolor"		"TanDark"
 
-		"sound_depressed"	"UI/buttonclickrelease.wav"	
+		//"sound_depressed"	"UI/buttonclickrelease.wav"	
 		"button_activation_type"	"1"
 	}
 

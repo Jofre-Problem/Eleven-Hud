@@ -85,8 +85,8 @@
 				"proportionaltoparent"	"1"
 				"command"		"safemode_save_settings"
 				"actionsignallevel"	"3"
-				"sound_depressed"							"UI/buttonclick.wav"
-				"sound_released"							"UI/buttonclickrelease.wav"
+				"sound_depressed"							"sound_menu/button.wav"
+				"sound_released"							"sound_menu/button2.wav"
 				
 				"paintbackground"							"0"
 				
@@ -123,8 +123,8 @@
 				"proportionaltoparent"	"1"
 				"command"		"safemode_leave"
 				"actionsignallevel"	"3"
-				"sound_depressed"							"UI/buttonclick.wav"
-				"sound_released"							"UI/buttonclickrelease.wav"
+				"sound_depressed"							"sound_menu/button.wav"
+				"sound_released"							"sound_menu/button2.wav"
 				
 				"paintbackground"							"0"
 				

@@ -184,8 +184,8 @@
 		"labelText"		"Screenshot shows abuse; upload it with report."
 		"font"			"HudFontSmall"
 		//"textAlignment"	"west"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"AvatarImage"
@@ -249,8 +249,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"prevcustomtexture"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	
 	"CustomTextureNextButton"
@@ -274,8 +274,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"nextcustomtexture"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 	
 	"NoCustomTexturesLabel"
@@ -337,8 +337,8 @@
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"Command"		"discard"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"SubmitButton"
@@ -354,8 +354,8 @@
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"Command"		"submit"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"SaveForLaterButton"
@@ -371,7 +371,7 @@
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

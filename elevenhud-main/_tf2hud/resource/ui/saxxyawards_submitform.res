@@ -107,8 +107,8 @@
 		////"dulltext"		"0"
 		"brighttext"	"1"
 		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 
 	"RulesButton"
@@ -132,8 +132,8 @@
 		////"dulltext"		"0"
 		"brighttext"	"1"
 		"Command"		"rules"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"SubmitButton"
@@ -157,7 +157,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"submit"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 }

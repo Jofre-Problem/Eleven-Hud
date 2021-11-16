@@ -16,8 +16,8 @@
 
 		Command				"close"			// "Unknown command close" but it works
 		
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released			"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"Blank"
 		armedFgColor_override		"W_ColorIcons1"

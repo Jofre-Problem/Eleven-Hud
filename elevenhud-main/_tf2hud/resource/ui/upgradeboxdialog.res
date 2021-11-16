@@ -76,8 +76,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"upgrade"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		"defaultBgColor_override"	"102 122 42 255"
 		"armedBgColor_override"		"143 167 57 255"
 		"depressedBgColor_override"	"143 167 57 255"
@@ -105,7 +105,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"confirm"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}			
 }

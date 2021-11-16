@@ -291,8 +291,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"ready"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"PaintBackgroundType" "0"
 		
@@ -633,8 +633,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"showdetails"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"PrevPageButton"
@@ -657,8 +657,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"prevpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	"CurPageLabel"
 	{
@@ -698,8 +698,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"nextpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 
 	"HudChatHistory"
@@ -810,8 +810,8 @@
 		"wrap"			"1"
 		"centerwrap"	"1"
 		"Command"		"confirm_trade"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"BackButton"
 	{
@@ -834,8 +834,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		//"Default"		"1"
 	}		
 

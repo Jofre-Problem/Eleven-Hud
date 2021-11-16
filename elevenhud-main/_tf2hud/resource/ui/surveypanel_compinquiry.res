@@ -71,8 +71,8 @@
 					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 					
 					"labeltext"		""
 					"Command"		"option0"
@@ -109,8 +109,8 @@
 					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 
 					"labeltext"		""
 					"Command"		"option1"
@@ -145,8 +145,8 @@
 					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 
 					"labeltext"		""
 					"Command"		"option2"
@@ -182,8 +182,8 @@
 					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 					
 					"labeltext"		""
 					"Command"		"option3"
@@ -218,8 +218,8 @@
 					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 					
 					"labeltext"		""
 					"Command"		"option4"
@@ -254,8 +254,8 @@
 					//"visible"		"1"
 					"proportionaltoparent"	"1"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 					
 					"labeltext"		""
 					"Command"		"option4"
@@ -292,8 +292,8 @@
 				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"Command"		"submit"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"2"
 			}

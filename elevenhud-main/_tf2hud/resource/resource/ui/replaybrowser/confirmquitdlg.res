@@ -89,8 +89,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"rendernow"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}			
 	
 	"ReplaysButton"
@@ -114,8 +114,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"gotoreplays"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}			
 	
 	"QuitButton"
@@ -139,8 +139,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"quit"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 
 	"DontShowThisAgainCheckbox"

@@ -174,8 +174,8 @@
 
 		"activeimage"		"pve/buy_disabled"
 		"inactiveimage"		"pve/buy_disabled"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"255 255 255 0"
 		"defaultBgColor_override"	"255 255 255 0"
@@ -208,8 +208,8 @@
 
 		"activeimage"		"pve/sell_disabled"
 		"inactiveimage"		"pve/sell_disabled"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"255 255 255 0"
 		"defaultBgColor_override"	"255 255 255 0"

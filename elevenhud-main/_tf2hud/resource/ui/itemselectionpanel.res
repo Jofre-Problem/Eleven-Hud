@@ -254,8 +254,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"OnlyAllowUniqueQuality"
@@ -299,8 +299,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"show_backpack"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"ShowSelection"
 	{
@@ -323,8 +323,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"show_selection"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"PrevPageButton"
@@ -347,8 +347,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"prevpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"CurPageLabel"
@@ -390,8 +390,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"nextpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"mouseoveritempanel"

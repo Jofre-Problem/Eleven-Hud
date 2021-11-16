@@ -27,7 +27,7 @@
 		"font"										"Noto14"
 		"smallcheckimage"							"1"
 
-		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_depressed"							"sound_menu/button.wav"
 		"button_activation_type"					"1"
 	}
 

@@ -299,8 +299,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"prevpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"CurPageLabel"
@@ -342,8 +342,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"nextpage"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}	
 		
 	"WikiButton"
@@ -367,8 +367,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"wiki"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"ViewSetButton"
@@ -392,8 +392,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"viewset"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"StoreButton"
@@ -416,8 +416,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"openstore"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"ReloadSchemeButton"
@@ -441,7 +441,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"reloadscheme"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

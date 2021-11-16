@@ -265,8 +265,8 @@
 						//"brighttext"	"0"
 						//"Default"		"1"
 
-						"sound_depressed"	"UI/buttonclick.wav"
-						"sound_released"	"UI/buttonclickrelease.wav"
+						//"sound_depressed"	"UI/buttonclick.wav"
+						//"sound_released"	"UI/buttonclickrelease.wav"
 
 						"paintbackground"	"0"
 
@@ -346,8 +346,8 @@
 						//"brighttext"	"0"
 						//"Default"		"1"
 
-						"sound_depressed"	"UI/buttonclick.wav"
-						"sound_released"	"UI/buttonclickrelease.wav"
+						//"sound_depressed"	"UI/buttonclick.wav"
+						//"sound_released"	"UI/buttonclickrelease.wav"
 
 						"paintbackground"	"0"
 
@@ -567,8 +567,8 @@
 					//"Default"		"1"
 					"actionsignallevel" "3"
 
-					"sound_depressed"	"UI/buttonclick.wav"
-					"sound_released"	"UI/buttonclickrelease.wav"
+					//"sound_depressed"	"UI/buttonclick.wav"
+					//"sound_released"	"UI/buttonclickrelease.wav"
 
 					//"auto_wide_tocontents"	"0"
 					"paintbackground"	"0"
@@ -659,8 +659,8 @@
 						//"Default"		"1"
 						"actionsignallevel" "4"
 
-						"sound_depressed"	"UI/buttonclick.wav"
-						"sound_released"	"UI/buttonclickrelease.wav"
+						//"sound_depressed"	"UI/buttonclick.wav"
+						//"sound_released"	"UI/buttonclickrelease.wav"
 
 						//"auto_wide_tocontents"	"0"
 						"paintbackground"	"0"
@@ -699,8 +699,8 @@
 						//"Default"		"1"
 						"actionsignallevel" "4"
 
-						"sound_depressed"	"UI/buttonclick.wav"
-						"sound_released"	"UI/buttonclickrelease.wav"
+						//"sound_depressed"	"UI/buttonclick.wav"
+						//"sound_released"	"UI/buttonclickrelease.wav"
 
 						//"auto_wide_tocontents"	"0"
 						"paintbackground"	"0"

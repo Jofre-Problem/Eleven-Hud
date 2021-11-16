@@ -163,7 +163,7 @@
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

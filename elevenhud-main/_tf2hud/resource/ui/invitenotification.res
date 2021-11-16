@@ -132,8 +132,8 @@
 		"armedBgColor_override"		"CreditsGreen"
 		"defaultBgColor_override"	"SaleGreen"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"DeclineButton"
@@ -169,8 +169,8 @@
 		"actionsignallevel"	"1"
 
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 }

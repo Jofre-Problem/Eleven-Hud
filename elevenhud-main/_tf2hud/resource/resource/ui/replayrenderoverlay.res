@@ -99,8 +99,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"confirmcancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}			
 	
 	"PreviewCheckButton"

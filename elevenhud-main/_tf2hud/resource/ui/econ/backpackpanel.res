@@ -64,8 +64,8 @@
 				"textAlignment"	"center"
 				"labelText"		"%page%"
 				"font"				"HudFontSmallest"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 
 			"New"
@@ -418,8 +418,8 @@
 	//	////"dulltext"		"0"
 	//	//"brighttext"	"0"
 	//	"Command"		"prevpage"
-	//	"sound_depressed"	"UI/buttonclick.wav"
-	//	"sound_released"	"UI/buttonclickrelease.wav"
+	//	//"sound_depressed"	"UI/buttonclick.wav"
+	//	//"sound_released"	"UI/buttonclickrelease.wav"
 	//}		
 	//
 	//"CurPageLabel"
@@ -461,8 +461,8 @@
 	//	////"dulltext"		"0"
 	//	//"brighttext"	"0"
 	//	"Command"		"nextpage"
-	//	"sound_depressed"	"UI/buttonclick.wav"
-	//	"sound_released"	"UI/buttonclickrelease.wav"
+	//	//"sound_depressed"	"UI/buttonclick.wav"
+	//	//"sound_released"	"UI/buttonclickrelease.wav"
 	//}		
 	
 	"DragToNextPageButton"
@@ -485,8 +485,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		""
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	"DragToPrevPageButton"
 	{
@@ -508,8 +508,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		""
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"CancelApplyToolButton"
@@ -533,8 +533,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"canceltool"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 
 
@@ -559,8 +559,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"show_explanations"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"StartExplanation"
@@ -644,8 +644,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -709,8 +709,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
@@ -819,8 +819,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -866,8 +866,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
 			
 			"paintbackground"	"0"
@@ -931,8 +931,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
@@ -1041,8 +1041,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -1088,8 +1088,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
 			
 			"paintbackground"	"0"
@@ -1135,8 +1135,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
@@ -1263,8 +1263,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -1310,8 +1310,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
 			
 			"paintbackground"	"0"
@@ -1357,8 +1357,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"nextexplanation"
 			
 			"paintbackground"	"0"
@@ -1484,8 +1484,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
 			
 			"paintbackground"	"0"
@@ -1531,8 +1531,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"default"		"0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
 			
 			"paintbackground"	"0"

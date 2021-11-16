@@ -141,8 +141,8 @@
 		actionsignallevel			1
 		labeltext					""
 
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released				"UI/buttonclickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released				"sound_menu/button2.wav"
 
 		paintbackground				1
 		defaultBgColor_override		"0 0 0 0"

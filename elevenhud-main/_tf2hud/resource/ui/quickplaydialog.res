@@ -123,8 +123,8 @@
 				//"brighttext"	"0"
 				//"Default"		"1"
 				"Command"		"more_info"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}
 	
 			"ModeInfoContainer"
@@ -297,8 +297,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"prevpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}		
 				
 			"NextPageButton"
@@ -321,8 +321,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"Command"		"nextpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 			}	
 		}
 
@@ -726,8 +726,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"playnow"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
@@ -759,8 +759,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"show_servers"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 
 			"border_default"	"MainMenuButtonDefault"
 			"border_armed"		"MainMenuButtonArmed"
@@ -795,8 +795,8 @@
 			//"Default"		"1"
 			"Command"		"ToggleShowOptions"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		
 			"image_drawcolor"	"235 226 202 255"
 			"SubImage"
@@ -855,8 +855,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"explain_beta"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 			"proportionaltoparent"	"1"
 
 			"pin_to_sibling"               "BetaCheckButton"
@@ -908,8 +908,8 @@
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"cancel"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}		
 
 		"BetaExplanation"
@@ -994,8 +994,8 @@
 				////"dulltext"		"0"
 				//"brighttext"	"0"
 				"default"		"0"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
+				//"sound_depressed"	"UI/buttonclick.wav"
+				//"sound_released"	"UI/buttonclickrelease.wav"
 				"Command"		"close"
 				"proportionaltoparent"	"1"
 			

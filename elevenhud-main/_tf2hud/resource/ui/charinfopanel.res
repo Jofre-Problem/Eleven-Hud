@@ -134,8 +134,8 @@
 		//"brighttext"	"0"
 		"default"		"0"
 		"Command"		"back"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}		
 	
 	"NotificationsPresentPanel"

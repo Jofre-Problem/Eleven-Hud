@@ -44,7 +44,7 @@
 		Command				"loadout scout"
 				"border_default"				"OutlinedGreyBox"
 		"border_armed"					"GrayDialogBorder"
-		sound_depressed			"UI/buttonclick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/scout_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -72,7 +72,7 @@
 		
 		Command				"loadout soldier"
 		
-		sound_depressed			"UI/buttonclick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/soldier_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -101,7 +101,7 @@
 
 		Command				"loadout pyro"
 		
-		sound_depressed			"UI/buttonclick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/pyro_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -131,7 +131,7 @@
 		
 		Command				"loadout demoman"
 		
-		sound_depressed			"UI/ButtonClick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released				"vo/demoman_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -160,7 +160,7 @@
 		
 		Command						"loadout heavy"
 		
-		sound_depressed			"UI/ButtonClick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/heavy_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -185,7 +185,7 @@
 		Command				"loadout engineer"
 				"border_default"				"OutlinedGreyBox"
 		"border_armed"					"GrayDialogBorder"		
-		sound_depressed			"UI/ButtonClick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/engineer_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -215,7 +215,7 @@
 		
 		Command				"loadout medic"
 
-		sound_depressed			"UI/ButtonClick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/medic_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -245,7 +245,7 @@
 		
 		Command						"loadout sniper"
 		
-		sound_depressed			"UI/ButtonClick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released				"vo/sniper_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -275,7 +275,7 @@
 
 		Command				"loadout spy"
 		
-		sound_depressed			"UI/ButtonClick.wav"
+		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/spy_go01.mp3"
 		
 			defaultFgColor_override		"W_ColorIcons1"
@@ -307,8 +307,8 @@
 
 		Command				"backpack"
 		
-		sound_depressed			"UI/ButtonClick.wav"
-		sound_released			"UI/ButtonClickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 					"border_default"				"OutlinedGreyBox"
 		"border_armed"					"GrayDialogBorder"				
 		paintbackground			0
@@ -336,8 +336,8 @@
 
 		Command				"crafting"
 		
-		sound_depressed			"UI/ButtonClick.wav"
-		sound_released			"UI/ButtonClickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 				
 			defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -365,8 +365,8 @@
 		
 		Command				"armory"
 		
-		sound_depressed			"UI/ButtonClick.wav"
-		sound_released			"UI/ButtonClickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 				
 			defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -390,8 +390,8 @@
 
 		Command				"trading"
 
-		sound_depressed			"UI/ButtonClick.wav"
-		sound_released			"UI/ButtonClickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 				
 			defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
@@ -415,8 +415,8 @@
 
 		Command				"paintkit_preview"
 
-		sound_depressed			"UI/ButtonClick.wav"
-		sound_released			"UI/ButtonClickrelease.wav"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
 				
 			defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"

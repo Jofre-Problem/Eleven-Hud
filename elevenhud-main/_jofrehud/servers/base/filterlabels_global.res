@@ -78,7 +78,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"MaxPlayerFilterLabel"
 		"xpos"		"12"
-		"ypos"		"210"
+		//"ypos"		"210"
 		"wide"		"144"
 		"tall"		"24"
 		//"autoResize"		"0"

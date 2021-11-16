@@ -171,8 +171,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"nextitem"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"PrevButton"
 	{
@@ -194,8 +194,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"previtem"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"CloseButton"
@@ -219,8 +219,8 @@
 		//"brighttext"	"0"
 		"Command"		"vguicancel"
 		//"Default"		"1"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"OpenLoadoutButton"
 	{
@@ -242,8 +242,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"changeloadout"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"DiscardButton"
@@ -266,8 +266,8 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"discarditem"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override" "117 107 94 255"
 		"armedBgColor_override" "145 73 59 255"

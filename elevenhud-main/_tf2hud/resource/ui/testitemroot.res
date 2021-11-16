@@ -354,8 +354,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_test0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"RemoveItemButton0"
 		{
@@ -378,8 +378,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_remove0"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"TestingHeadgearLabel"
 		{
@@ -438,8 +438,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_test1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"RemoveItemButton1"
 		{
@@ -462,8 +462,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_remove1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"TestingMisc1Label"
 		{
@@ -522,8 +522,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_test2"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"RemoveItemButton2"
 		{
@@ -546,8 +546,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_remove2"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"TestingMisc2Label"
 		{
@@ -606,8 +606,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_test3"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 		"RemoveItemButton3"
 		{
@@ -630,8 +630,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"item_remove3"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
 	
@@ -728,8 +728,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"bot_add"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 				
 		"BotSelectionComboBox"
@@ -783,8 +783,8 @@
 			//"brighttext"	"0"
 			//"Default"		"1"
 			"Command"		"bot_removeall"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
 	
@@ -821,8 +821,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"export"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"ImportButton"
 	{
@@ -845,8 +845,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"import"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"ImportRecentButton"
 	{
@@ -869,8 +869,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"importrecent"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	
 	"CancelButton"
@@ -894,8 +894,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"cancel"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 	"OkButton"
 	{
@@ -918,8 +918,8 @@
 		//"brighttext"	"0"
 		//"Default"		"1"
 		"Command"		"ok"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
 	"SteamWorkshopButton"
@@ -957,8 +957,8 @@
 			"command"		"steamworkshop"
 			"labeltext"			"#MMenu_SteamWorkshop"
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			//"sound_depressed"	"UI/buttonclick.wav"
+			//"sound_released"	"UI/buttonclickrelease.wav"
 					
 			"image_armedcolor"	"235 226 202 255"
 			"image_drawcolor"	"235 226 202 255"
@@ -1001,7 +1001,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		"Command"		"reloadscheme"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }
