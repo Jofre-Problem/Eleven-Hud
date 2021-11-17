@@ -1,11 +1,11 @@
 //#base "../#jofre/downbar.res"
-//#base "../#jofre/blur_bg.res"
 #base "../#jofre/blur_bg.res"
-//#base "../#jofre/blur_bg_image.res"
+#base "../#jofre/charbg.res"
 #base "../#jofre/home.res"
 //#base "../#jofre/downbar.res"
 "Resource/UI/CharInfoPanel.res"
 {
+
 	"character_info"		// drawn over main menu
 	{
 		ControlName				EditablePanel
@@ -83,7 +83,7 @@
 			"font"				"Regular14"
 	//		"defaultBgColor_override"	"Blank"
 			"selectedcolor"		"W_ColorIcons1"
-			"unselectedcolor"	"W_ColorTheme1"	
+			"unselectedcolor"	"W_ColorIcons2"	
 	/	/	"paintbackground"	"0"
 			"activeborder_override"	"noborder"
 			"normalborder_override" "noborder"
@@ -104,10 +104,10 @@
 		xPos					0
 		yPos					25
 		"zpos"			"190"
-		"wide"			"p0.3"
+		"wide"			"p0.22"
 		"tall"			"30"
 "bgcolor_override"	"W_ColorTheme1"
-"alpha"	"100"
+"alpha"	"200"
 }
 	"POLY_4_Label"
 	{
@@ -120,7 +120,7 @@
 		"ypos"			"0"
 		"zpos"			"190"
 		"wide"			"30"
-		"tall"			"30"	"alpha"	"100"
+		"tall"			"30"	"alpha"	"200"
 		"fgcolor_override"	"W_ColorTheme1"
 "pin_to_sibling"	"POLY_4_BG"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}

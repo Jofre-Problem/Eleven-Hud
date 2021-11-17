@@ -25,12 +25,15 @@
 	{
 	//	"ControlName"		"Button"
 	//	"fieldName"		"CancelButton"
-		"xpos"		"c450"
-		"ypos"		"6"
+		"xpos"		"5"//"c500"
+		"ypos"		"9"
 		"zpos"		"100"
-		"wide"		"100"
-		"tall"		"20"
-		"textAlignment"		"center"
+		"wide"		"40"
+		"tall"		"18"
+		"alpha"		"70"
+	//	"labelText"	"x"
+		"font"		"Product12"
+		"textAlignment"		"west"
 		"default"		"1"
 	}
 }	

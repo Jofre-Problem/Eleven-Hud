@@ -6,12 +6,10 @@
 			FieldName				"ImprovisedBG"
 			xPos					0
 			yPos					0
-			zPos					-2
 			wide					f0
 			tall					f0
-			fillColor				"0 0 0 1"		// hides console and stuff
-			//"fillColor"				"W_ColorTheme4"
-			"alpha"					"255"
+			"fillColor"				"238 238 238 255"
+			"alpha"					"200"
 			mouseInputEnabled			0			// mouse input passes though to panels below
 		}
 }

@@ -1,9 +1,10 @@
-#base "../#bases/reload_scheme.res"
 //#base "../#jofre/downbar.res"
 //#base "../#jofre/dashboard_bg.res"
 //#base "../#jofre/new_mm_panel1.res"
+
 //#base "../#jofre/blur_bg.res"
-#base "../#jofre/blur_bg_image.res"
+//#base "../#jofre/charbg.res"
+#base "../#jofre/char_tank.res"
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 //#base "../../#customization/resource/ui/summersale_border.res"

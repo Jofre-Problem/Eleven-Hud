@@ -42,7 +42,7 @@
 		"tall"			"f20"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"RoundedCorners"	"0"
+		//"RoundedCorners"	"0"
 		"font"			"HudFontSmallest"
 		
 		"bgcolor_override"	"0 0 0 50"
@@ -113,7 +113,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 80"
-		"RoundedCorners"	"0"
+		//"RoundedCorners"	"0"
 		"border"		"NoBorder"
 
 		"keyboardinputenabled"	"0"
@@ -134,7 +134,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 0"
-		"RoundedCorners"	"0"
+		//"RoundedCorners"	"0"
 		"font"			"HudFontSmallest"
 		"alpha"			"0"
 		"mouseinputenabled"	"0"

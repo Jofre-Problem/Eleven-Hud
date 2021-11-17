@@ -14,6 +14,7 @@ Scheme
 		"W_BorderArmedText"	"64 64 64 255"
 		"W_ColorTexto1" "133 122 84 255"
 		"W_ColorIcons1"	"0 6 0 255"
+		"W_ColorIcons2"	"15 21 15 255"
 		"W_ColorIcons1Blur"	"0 6 0 178"
 		"W_ColorIconsArmed1" "217 171 108 255"
 

@@ -60,27 +60,56 @@ Scheme
 		TFColors.ChatTextTeamRed	"255 63 53 255"
 	}
 
+
 	Fonts
 	{
-		"Default"
+		"ChatFont"
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"9"
-				"weight"	"0"
-				"range"		"0x0000 0x017F"
-				"antialias"	"1"
+				"name"			"Product Sans"
+				"tall"			"12"
+				"yres"			"480 599"
+				"dropshadow"	"0"
+				"antialias"		"1"
 			}
+
 			"2"
 			{
-				"tall"		"10"
-			}		
+				"name"			"Product Sans"
+				"tall"			"14"
+				"yres"			"600 767"
+				"dropshadow"	"0"
+				"antialias"		"1"
+			}
+
 			"3"
 			{
-				"tall"		"12"
-			}					
-		}
+				"name"			"Product Sans"
+				"tall"			"16"
+				"yres"			"768 1023"
+				"dropshadow"	"0"
+				"antialias"		"1"
+			}
+
+			"4"
+			{
+				"name"			"Product Sans"
+				"tall"			"16"
+				"yres"			"1024 1199"
+				"dropshadow"	"0"
+				"antialias"		"1"
+			}
+
+			"5"
+			{
+				"name"			"Product Sans"
+				"tall"			"20"
+				"yres"			"1200 10000"
+				"dropshadow"	"0"
+				"antialias"		"1"
+			}
+		}		
 	}	
 	Borders
 	{
@@ -97,4 +126,12 @@ Scheme
 			"draw_corner_height" 	"0"	
 		}
 	}
+	CustomFontFiles
+	{
+		"10"
+		{
+			"font" "_jofrenew/font/optimized/ProductSans-Regular.ttf"
+			"name" "Product Sans"
+		}		
+	}	
 }	

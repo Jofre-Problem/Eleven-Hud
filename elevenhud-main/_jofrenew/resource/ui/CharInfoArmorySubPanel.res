@@ -1,5 +1,6 @@
 //#base "../#jofre/blur_bg.res"
-#base "../#jofre/blur_bg_image.res"
+#base "../#jofre/char_tank.res"
+#base "../#jofre/char_bg.res"
 "Resource/UI/CharInfoArmorySubPanel.res"
 {
 	"armory_panel"
@@ -15,9 +16,9 @@
 
 		// Model panels
 		
-		thumbnail_bgcolor			"W_ColorTheme2"
-		thumbnail_bgcolor_mouseover	"W_ColorTheme4"
-		thumbnail_bgcolor_selected	"W_ColorLinea1"
+		thumbnail_bgcolor			"228 228 228 248"
+		thumbnail_bgcolor_mouseover		"193 175 75 255"
+		thumbnail_bgcolor_selected	"172 172 172 155"
 		
 		thumbnails_rows			4
 		thumbnails_columns		4
@@ -67,7 +68,7 @@
 		zpos					-1
 		wide					290
 		tall					223
-		fillColor				"W_ColorTheme2"
+		fillColor				"228 228 228 248"
 	}
 	"CaratLabel"
 	{
