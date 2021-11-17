@@ -11,7 +11,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"GameTabs"
@@ -25,7 +25,7 @@
 		//"autoResize"	"3"
 		//"pinCorner"			"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"1"
 	}
 	"StatusLabel"
@@ -39,7 +39,7 @@
 		//"autoResize"		"1"
 		//"pinCorner"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
 		"dulltext"		"0"

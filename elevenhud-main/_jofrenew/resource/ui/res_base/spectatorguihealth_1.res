@@ -37,7 +37,7 @@
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
 	}	
@@ -51,7 +51,7 @@
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -65,7 +65,7 @@
 		"wide"			"654"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CustomSegundo"

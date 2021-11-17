@@ -10,7 +10,7 @@
         "wide"          "14"
         "tall"          "14"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"image"				"replay/thumbnails/bg_blank"	
 		"teambg_1"			"replay/thumbnails/bg_blank"

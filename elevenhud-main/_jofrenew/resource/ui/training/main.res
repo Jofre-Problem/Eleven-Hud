@@ -54,7 +54,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"bgcolor_override"	"0 0 0 200"
 	}
@@ -82,7 +82,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -137,7 +137,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 
 		"SubTitleLabel"
@@ -155,7 +155,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 
 		"BackButton"
@@ -167,7 +167,7 @@
 			"zpos"			"0"
 			"wide"			"0"
 			"tall"			"0"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"

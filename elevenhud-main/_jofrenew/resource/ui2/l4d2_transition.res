@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"fillcolor"		"0 0 0 255"
 	}	
@@ -24,7 +24,7 @@
 		"wide"			"f0"
 		"tall"			"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"fillcolor"		"100 100 100 255"
 		pin_to_sibling		"HeaderBackground"	

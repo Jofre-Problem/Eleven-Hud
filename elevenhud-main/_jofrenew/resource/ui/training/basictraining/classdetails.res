@@ -63,7 +63,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		
 		"DescLabel"
@@ -80,7 +80,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 		}
 		
@@ -98,7 +98,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"fgcolor_override" "116 108 101 255"
 		}
 		
@@ -155,7 +155,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		
 		"SecondaryLabel"
@@ -172,7 +172,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		
 		"MeleeLabel"
@@ -189,7 +189,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 	}
 	

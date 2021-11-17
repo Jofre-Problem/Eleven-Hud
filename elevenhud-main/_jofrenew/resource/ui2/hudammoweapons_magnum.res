@@ -67,7 +67,7 @@
 		"wide"			"5000"
 		"tall"			"0" //40
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		""	
 	}
@@ -84,7 +84,7 @@
 		"wide"			"100"
 		"tall"			"0" //70
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"#ammobar"
 	}				
@@ -100,7 +100,7 @@
 		"wide"			"35"
 		"tall"			"34"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"		
 		"labelText"		"%AmmoInReserve%"
 	}
@@ -116,7 +116,7 @@
 		"wide"			"190"
 		"tall"			"34"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"		
 		"labelText"		"%AmmoInReserve%"
 	}	
@@ -132,7 +132,7 @@
 //		"wide"			"500"
 //		"tall"			"34"
 //		"visible"		"0"
-//		"enabled"		"1"
+//		//"enabled"		"1"
 //		"textAlignment"	"center"		
 //		"labelText"		"#ammoreservepadded"
 //	}									
@@ -148,7 +148,7 @@
 		"wide"			"85"
 		"tall"			"34"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"---"	
 		"alpha"			"0"
@@ -165,7 +165,7 @@
 		"wide"			"37"
 		"tall"			"35"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"b"	
 	}			
@@ -181,7 +181,7 @@
 		"wide"			"150"
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/cover"
 		"scaleImage"		"1"	
 //		"teambg_2"		"replay/thumbnails/hp/redteam"
@@ -197,7 +197,7 @@
 		"wide"			"85"
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/cover"
 		"scaleImage"		"1"	
 //		"teambg_2"		"replay/thumbnails/hp/redteam2"
@@ -213,7 +213,7 @@
 		"wide"			"50"
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"			"255 127 0 255"
 		"alpha"			"0"
 	}
@@ -229,7 +229,7 @@
 		"wide"			"5000"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"#ammopadded"	
 	}
@@ -245,7 +245,7 @@
 		"wide"			"5000"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%ammo%"	
 	}
@@ -261,7 +261,7 @@
 //		"wide"			"143" //150
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"#doubleammo"
 	}
@@ -275,7 +275,7 @@
 		"wide"			"100"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"%ammo%"
 		"textAlignment"	"west"	
 		"font"			"LowAmmoFont"
@@ -291,7 +291,7 @@
 		"wide"			"17"
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"35 35 35 255"
 	}
 	"AmmoWhiteCover2"
@@ -304,7 +304,7 @@
 		"wide"			"17"
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"35 35 35 255"
 	}
 	"AmmoBlackCover"
@@ -343,7 +343,7 @@
 		"wide"			"5"
 		"tall"			"36"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image" 		"replay/thumbnails/hp/REFRACTnormal"
 		"scaleimage"	"1"
 	}
@@ -356,7 +356,7 @@
 		"wide"			"150"
 		"tall"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"0 0 0 100"
 	}						
 }

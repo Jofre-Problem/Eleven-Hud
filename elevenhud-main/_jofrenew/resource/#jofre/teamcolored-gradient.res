@@ -23,7 +23,7 @@
 			"tall"			"20"
 			"zpos"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"labelText"		"/"
 			"textAlignment"	"center"
 			"fgcolor"		"blue"

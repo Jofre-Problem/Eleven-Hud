@@ -272,10 +272,10 @@
 		wide					28
 		tall					25
 
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"x"
 		"font"			"Blank"
@@ -303,7 +303,7 @@
 			"wide"			"0"
 			"tall"			"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"replay/thumbnails/null"
 			"scaleImage"	"1"
 		}				
@@ -318,7 +318,7 @@
 		wide					28
 		tall					p0.045
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"x"
 		"textAlignment"		"center"
 		

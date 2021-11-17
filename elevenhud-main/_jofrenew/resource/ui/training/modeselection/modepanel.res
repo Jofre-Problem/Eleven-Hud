@@ -9,7 +9,7 @@
 		"wide"			"225"
 		"tall"			"205"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 
 		"ModeNameLabel"
 		{
@@ -23,10 +23,10 @@
 			"zpos"			"2"
 			"wide"			"225"
 			"tall"			"25"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"mouseinputenabled" "0"
 			"fgcolor_override"	"87 79 70 255"
 		}
@@ -43,10 +43,10 @@
 			"zpos"			"2"
 			"wide"			"225"
 			"tall"			"55"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"fgcolor_override"	"89 81 71 255"
 			"auto_wide_tocontents" "0"
 			"wrap"				   "1"
@@ -62,7 +62,7 @@
 			"wide"			"205"
 			"tall"			"205"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"border"		"MainMenuHighlightBorder"
 		}
 		
@@ -76,7 +76,7 @@
 			"wide"			"185"
 			"tall"			"185"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"tileImage"		"0"
 			"scaleImage"	"1"
 			"image"			""

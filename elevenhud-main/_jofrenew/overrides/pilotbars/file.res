@@ -19,7 +19,7 @@
 		"wide"			"800"
 		"tall"			"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"82 82 82 100"
 	}
 	"TeamBarH2"
@@ -31,7 +31,7 @@
 		"wide"			"800"
 		"tall"			"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"82 82 82 100"
 	}
 	"TeamBarV1"
@@ -43,7 +43,7 @@
 		"wide"			"1"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"82 82 82 100"
 	}
 	"TeamBarV2"
@@ -55,7 +55,7 @@
 		"wide"			"1"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"82 82 82 100"
 	}
 	}

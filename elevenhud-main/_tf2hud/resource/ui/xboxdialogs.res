@@ -93,7 +93,7 @@
 		"fieldName"		"OptionsSelectionLeft"
 		"xpos"		"12"
 		"ypos"			"38"
-		//"ypos_hidef"	"40"
+		////"ypos_hidef"	"40"
 		"zpos"		"75"
 		"wide"		"528"
 		//"wide_hidef"	"728"
@@ -111,7 +111,7 @@
 		"fieldName"		"OptionsSelectionLeft2"
 		"xpos"			"14"
 		"ypos"			"40"
-		//"ypos_hidef"	"42"
+		////"ypos_hidef"	"42"
 		"zpos"			"80"
 		"wide"			"524"
 		//"wide_hidef"		"724"
@@ -173,7 +173,7 @@
 		"fieldName"		"OptionLabel0"
 		"xpos"			"20"
 		"ypos"			"36"
-		//"ypos_hidef"	"35"
+		////"ypos_hidef"	"35"
 		"zpos"			"100"
 		"wide"			"245"
 		//"wide_hidef"		"345"
@@ -197,7 +197,7 @@
 		"xpos"			"296"
 		//"xpos_hidef"		"396"
 		"ypos"			"36"
-		//"ypos_hidef"	"35"
+		////"ypos_hidef"	"35"
 		"zpos"			"100"
 		"wide"			"245"
 		//"wide_hidef"		"345"
@@ -221,7 +221,7 @@
 		"xpos"			"296"
 		//"xpos_hidef"		"396"
 		"ypos"			"37"
-		//"ypos_hidef"	"40"
+		////"ypos_hidef"	"40"
 		"zpos"			"100"
 		"wide"			"245"
 		//"wide_hidef"		"345"
@@ -319,7 +319,7 @@
 		"xpos"			"40"
 		//"xpos_lodef"			"20"
 		"ypos"			"25"
-		//"ypos_lodef"		"20"
+		////"ypos_lodef"		"20"
 		"zpos"			"2"
 		"wide"			"500"
 		//"wide_lodef"			"390"
@@ -339,7 +339,7 @@
 		"xpos"			"45"
 		//"xpos_lodef"			"25"
 		"ypos"			"40"
-		//"ypos_lodef"			"27"
+		////"ypos_lodef"			"27"
 		"zpos"			"9"
 		"wide"			"75"
 		"tall"			"75"
@@ -363,7 +363,7 @@
 		"ControlName"	"label"
 		"xpos"			"8"
 		"ypos"			"8"
-		//"ypos_lodef"	"3"
+		////"ypos_lodef"	"3"
 		"font"			"MatchmakingDialogMenuLarge"
 	}
 	
@@ -372,7 +372,7 @@
 		// This label should only be created in code, so don't set "ControlName"
 		"xpos"			"8"
 		"ypos"			"30"
-		//"ypos_lodef"	"20"
+		////"ypos_lodef"	"20"
 		"font"			"MatchmakingDialogMenuSmall"
 	}
 }
@@ -394,7 +394,7 @@
 		"xpos"			"35"
 		//"xpos_lodef"	"20"
 		"ypos"			"3"
-		//"ypos_lodef"	"1"
+		////"ypos_lodef"	"1"
 		"font"			"MatchmakingDialogMenuSmall"
 		//"font_lodef"	"MatchmakingDialogMenuSmall"
 	}
@@ -405,7 +405,7 @@
 		"xpos"			"5"
 		//"xpos_lodef"	"5"
 		"ypos"			"7"
-		//"ypos_lodef"	"4"
+		////"ypos_lodef"	"4"
 		"wide"			"16"
 		//"wide_lodef"	"12"
 		"tall"			"16"
@@ -452,7 +452,7 @@
 		"xpos"			"265"
 		//"xpos_lodef"	"165"
 		"ypos"			"5"
-		//"ypos_lodef"	"4"
+		////"ypos_lodef"	"4"
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"	"MatchmakingDialogMenuBrowserDetails"
 	}
@@ -461,7 +461,7 @@
 	{
 		"ControlName"	"label"
 		"ypos"			"5"
-		//"ypos_lodef"	"7"
+		////"ypos_lodef"	"7"
 		"font"			"MatchmakingDialogMenuLarge"
 		//"font_lodef"	"MatchmakingDialogMenuBrowserDetails"
 	}
@@ -472,7 +472,7 @@
 		"xpos"			"425"
 		//"xpos_lodef"	"325"
 		
-		//"ypos_lodef"	"3"
+		////"ypos_lodef"	"3"
 		"wide"			"30"
 		//"wide_lodef"	"25"
 		"tall"			"30"
@@ -527,7 +527,7 @@
 		"ControlName"	"Label"
 		"xpos"			"200"
 		"ypos"			"1"
-		//"ypos_lodef"			"0"
+		////"ypos_lodef"			"0"
 		"wide"			"32"
 		//"wide_lodef"			"28"
 		"tall"			"32"
@@ -540,7 +540,7 @@
 	{
 		"ControlName"	"Label"
 		"ypos"			"1"
-		//"ypos_lodef"			"0"
+		////"ypos_lodef"			"0"
 		"wide"			"32"
 		//"wide_lodef"			"28"
 		"tall"			"32"
@@ -593,7 +593,7 @@
 	{
 		"ControlName"	"label"
 		"ypos"			"13"
-		//"ypos_lodef"	"10"
+		////"ypos_lodef"	"10"
 		"font"			"MatchmakingDialogMenuSmall"
 	}
 	
@@ -616,7 +616,7 @@
 		//"xpos_hidef"	"618"
 		//"xpos_lodef"	"435"
 		"ypos"			"6"
-		//"ypos_lodef"	"6"
+		////"ypos_lodef"	"6"
 		"wide"			"32"
 		"tall"			"32"
 		//"wide_lodef"	"24"
@@ -727,7 +727,7 @@
 		"xpos"			"100"
 		//"xpos_lodef"			"80"
 		"ypos"			"120"
-		//"ypos_lodef"			"25"
+		////"ypos_lodef"			"25"
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -744,7 +744,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Welcome"
 	}
@@ -753,7 +753,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		//"ypos_lodef"			"45"
+		////"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"300"
 
@@ -817,7 +817,7 @@
 		"xpos"			"100"
 		//"xpos_lodef"			"100"
 		"ypos"			"200"
-		//"ypos_lodef"			"50"
+		////"ypos_lodef"			"50"
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -840,7 +840,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Paused_Title"
 	}
@@ -849,7 +849,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		//"ypos_lodef"			"45"
+		////"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
 		//"minwide_lodef"			"350"
@@ -903,7 +903,7 @@
 		"xpos"			"100"
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
-		//"ypos_lodef"			"100"
+		////"ypos_lodef"			"100"
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -926,7 +926,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 		"labeltext"		"#TF_Unranked"
 	}
@@ -935,7 +935,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		//"ypos_lodef"			"45"
+		////"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
 		//"minwide_lodef"			"350"
@@ -971,7 +971,7 @@
 		"xpos"			"100"
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
-		//"ypos_lodef"			"100"
+		////"ypos_lodef"			"100"
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -994,7 +994,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 		"labeltext"		"#TF_Ranked"
 	}
@@ -1003,7 +1003,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		//"ypos_lodef"			"45"
+		////"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
 		//"minwide_lodef"		"350"
@@ -1039,7 +1039,7 @@
 		"xpos"			"100"
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
-		//"ypos_lodef"			"100"
+		////"ypos_lodef"			"100"
 		"borderwidth"	"25"
 		
 		"Footer"
@@ -1062,7 +1062,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 		"labeltext"		"#TF_SystemLink_Title"
 	}
@@ -1071,7 +1071,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		//"ypos_lodef"			"45"
+		////"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"300"
 		//"minwide_hidef"		"480"
@@ -1099,7 +1099,7 @@
 	"AchievementsDialog"
 	{
 		//"xpos_lodef"	"c-265"
-		//"ypos_lodef"	"40"
+		////"ypos_lodef"	"40"
 		"borderwidth"	"15"
 		//"tall_hidef"	"475"
 		//"tall_lodef"	"367"
@@ -1151,8 +1151,8 @@
 	{
 		//"xpos_lodef"	"460"
 		//"xpos_hidef"	"660"
-		//"ypos_lodef"	"325"
-		//"ypos_hidef"	"410"
+		////"ypos_lodef"	"325"
+		////"ypos_hidef"	"410"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
@@ -1162,8 +1162,8 @@
 	{
 		//"xpos_lodef"	"482"
 		//"xpos_hidef"	"682"
-		//"ypos_lodef"	"325"
-		//"ypos_hidef"	"410"
+		////"ypos_lodef"	"325"
+		////"ypos_hidef"	"410"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
@@ -1173,7 +1173,7 @@
 	{
 		"xpos"				"15"
 		"ypos"				"90"
-		//"ypos_lodef"				"85"
+		////"ypos_lodef"				"85"
  		"itemspacing"		"3"
  		//"itemspacing_lodef"		"2"
 		//"minwide_hidef"		"700"
@@ -1195,7 +1195,7 @@
 		"xpos"			"100"
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
-		//"ypos_lodef"			"100"
+		////"ypos_lodef"			"100"
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -1218,7 +1218,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Rankings_Title"
 	}
@@ -1227,7 +1227,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		//"ypos_lodef"			"45"
+		////"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"425"
 		//"minwide_lodef"			"350"
@@ -1261,7 +1261,7 @@
 		"xpos"			"495"
 		//"xpos_lodef"	"380"
 		"ypos"			"45"
-		//"ypos_lodef"	"50"
+		////"ypos_lodef"	"50"
 		"wide"			"286"
 		//"wide_lodef"	"165"
 		"tall"			"270"
@@ -1289,7 +1289,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"	"10"
 		"ypos"			"35"
-		//"ypos_lodef"			"30"
+		////"ypos_lodef"			"30"
 		"wide"			"271"
 		//"wide_lodef"			"145"
 		"tall"			"24"
@@ -1304,7 +1304,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"	"10"
 		"ypos"			"60"
-		//"ypos_lodef"			"70"
+		////"ypos_lodef"			"70"
 		"wide"			"256"
 		//"wide_lodef"			"145"
 		"tall"			"190"
@@ -1545,7 +1545,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 	}
 	
@@ -1554,7 +1554,7 @@
 		"ControlName"	"Label"
 		"xpos"			"15"
 		"ypos"			"320"
-		//"ypos_lodef"	"240"
+		////"ypos_lodef"	"240"
 		"wide"			"750"
 		//"wide_lodef"	"500"
 		"tall"			"50"
@@ -1571,7 +1571,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"			"10"
 		"ypos"			"70"
-		//"ypos_lodef"			"50"
+		////"ypos_lodef"			"50"
 		"minwide"		"400"
 		//"minwide_lodef"			"380"
  		"itemspacing"	"2"
@@ -1768,7 +1768,7 @@
 	"SessionLobby_Host"
 	{		
 		//"xpos_lodef"				"c-294"
-		//"ypos_lodef"				"15"
+		////"ypos_lodef"				"15"
 		"wide"				"900"
 		//"wide_lodef"				"588"
 		"tall"				"510"
@@ -1842,7 +1842,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"	"25"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Lobby_Title"
 	}
@@ -1852,7 +1852,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"	"25"
 		"ypos"			"45"
-		//"ypos_lodef"	"50"
+		////"ypos_lodef"	"50"
 		"wide"			"350"
 		//"wide_lodef"	"250"
 		"tall"			"40"
@@ -1865,7 +1865,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"120"
-		//"ypos_lodef"	"100"
+		////"ypos_lodef"	"100"
 		"wide"			"370"
 		//"wide_lodef"	"233"
 		"tall"			"35"
@@ -1878,7 +1878,7 @@
 		"font"			"GameUIButtons"
 		"xpos"			"25"
 		"ypos"			"121"
-		//"ypos_lodef"	"101"
+		////"ypos_lodef"	"101"
 		"wide"			"32"
 		"tall"			"32"
 	}
@@ -1888,7 +1888,7 @@
 		"xpos"			"68"
 		//"xpos_lodef"	"53"
 		"ypos"			"125"
-		//"ypos_lodef"	"105"
+		////"ypos_lodef"	"105"
 		"wide"			"350"
 		//"wide_lodef"	"223"
 		"tall"			"30"
@@ -1902,7 +1902,7 @@
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"15"
 		"ypos"			"162"
-		//"ypos_lodef"	"142"
+		////"ypos_lodef"	"142"
 		"wide"			"370"
 		//"wide_lodef"	"233"
 		"tall"			"190"
@@ -1924,7 +1924,7 @@
 			"font"				"MatchmakingDialogMenuLarge"
 			"xpos"				"15"
 			"ypos"				"45"
-			//"ypos_lodef"				"40"
+			////"ypos_lodef"				"40"
 			"wide"				"275"
 		}	
 		"DescOne"
@@ -1934,7 +1934,7 @@
 			//"font_lodef"		"MatchmakingDialogMenuMediumSmall"
 			"xpos"				"15"
 			"ypos"				"100"
-			//"ypos_lodef"		"80"
+			////"ypos_lodef"		"80"
 			"wide"				"275"
 		}
 		"DescTwo"
@@ -1944,7 +1944,7 @@
 			//"font_lodef"		"MatchmakingDialogMenuMediumSmall"
 			"xpos"				"15"
 			"ypos"				"130"
-			//"ypos_lodef"		"100"
+			////"ypos_lodef"		"100"
 			"wide"				"275"
 		}
 		"DescThree"
@@ -1954,7 +1954,7 @@
 			//"font_lodef"		"MatchmakingDialogMenuMediumSmall"
 			"xpos"				"15"
 			"ypos"				"160"
-			//"ypos_lodef"		"120"
+			////"ypos_lodef"		"120"
 			"wide"				"275"
 		}
 		"ValueTwo"
@@ -1965,7 +1965,7 @@
 			"xpos"				"75"
 			//"xpos_lodef"		"143"
 			"ypos"				"130"
-			//"ypos_lodef"		"100"
+			////"ypos_lodef"		"100"
 			"wide"				"275"
 			//"wide_lodef"		"75"
 			"textAlignment"		"east"
@@ -1978,7 +1978,7 @@
 			"xpos"				"75"
 			//"xpos_lodef"		"143"
 			"ypos"				"160"
-			//"ypos_lodef"		"120"
+			////"ypos_lodef"		"120"
 			"wide"				"275"
 			//"wide_lodef"		"75"
 			"textAlignment"		"east"
@@ -1990,7 +1990,7 @@
 		"ControlName"	"EditablePanel"
 		"xpos"			"15"
 		"ypos"			"360"
-		//"ypos_lodef"	"304"
+		////"ypos_lodef"	"304"
 		"wide"			"370"
 		//"wide_lodef"	"233"
 		"tall"			"123"		
@@ -2013,7 +2013,7 @@
 				"xpos"			"32"
 				//"xpos_lodef"	"25"
 				"ypos"			"7"
-				//"ypos_lodef"	"0"
+				////"ypos_lodef"	"0"
 				"wide"			"64"
 				"tall"			"32"
 			}
@@ -2026,7 +2026,7 @@
 				"xpos"			"32"
 				//"xpos_lodef"	"25"
 				"ypos"			"83"
-				//"ypos_lodef"	"56"
+				////"ypos_lodef"	"56"
 				"wide"			"64"
 				"tall"			"32"
 			}
@@ -2039,7 +2039,7 @@
 				"xpos"			"15"
 				//"xpos_lodef"	"12"
 				"ypos"			"45"
-				//"ypos_lodef"	"28"
+				////"ypos_lodef"	"28"
 				"wide"			"64"
 				"tall"			"32"
 			}
@@ -2054,7 +2054,7 @@
 			"xpos"			"98"
 			//"xpos_lodef"	"70"
 			"ypos"			"14"
-			//"ypos_lodef"	"7"
+			////"ypos_lodef"	"7"
 			"wide"			"300"
 		}
 		
@@ -2067,7 +2067,7 @@
 			"xpos"			"98"
 			//"xpos_lodef"	"70"
 			"ypos"			"14"
-			//"ypos_lodef"	"7"
+			////"ypos_lodef"	"7"
 			"wide"			"300"
 			"visible"		"0"
 		}
@@ -2081,7 +2081,7 @@
 			"xpos"			"98"
 			//"xpos_lodef"	"70"
 			"ypos"			"90"
-			//"ypos_lodef"	"63"
+			////"ypos_lodef"	"63"
 			"wide"			"300"
 		}	
 				
@@ -2094,7 +2094,7 @@
 			"xpos"			"98"
 			//"xpos_lodef"	"70"
 			"ypos"			"51"
-			//"ypos_lodef"	"34"
+			////"ypos_lodef"	"34"
 			"wide"			"300"
 		}
 	}
@@ -2105,7 +2105,7 @@
 		"xpos"			"397"
 		//"xpos_lodef"	"250"
 		"ypos"			"10"
-		//"ypos_lodef"	"20"
+		////"ypos_lodef"	"20"
 		"wide"			"180"
 		//"wide_lodef"	"115"
 		"tall"			"70"
@@ -2118,7 +2118,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"10"
-			//"ypos_lodef"			"5"
+			////"ypos_lodef"			"5"
 			"wide"			"180"
 			//"wide_lodef"	"100"
 		}
@@ -2130,7 +2130,7 @@
 			"xpos"			"87"
 			//"xpos_lodef"	"8"
 			"ypos"			"11"
-			//"ypos_lodef"	"23"
+			////"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
 			//"textAlignment_hidef"	"east"
@@ -2143,7 +2143,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"45"
-			//"ypos_lodef"	"45"
+			////"ypos_lodef"	"45"
 			"wide"			"150"
 			//"wide_lodef"	"110"
 		}
@@ -2155,7 +2155,7 @@
 		"xpos"			"397"
 		//"xpos_lodef"	"250"
 		"ypos"			"143"
-		//"ypos_lodef"	"163"
+		////"ypos_lodef"	"163"
 		"wide"			"180"
 		//"wide_lodef"	"115"
 		"tall"			"70"
@@ -2168,7 +2168,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"10"
-			//"ypos_lodef"			"5"
+			////"ypos_lodef"			"5"
 			"wide"			"180"
 			//"wide_lodef"	"100"
 		}
@@ -2180,7 +2180,7 @@
 			"xpos"			"87"
 			//"xpos_lodef"	"8"
 			"ypos"			"11"
-			//"ypos_lodef"	"23"
+			////"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
 			//"textAlignment_hidef"	"east"
@@ -2193,7 +2193,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"45"
-			//"ypos_lodef"	"45"
+			////"ypos_lodef"	"45"
 			"wide"			"150"
 			//"wide_lodef"	"110"
 		}
@@ -2204,7 +2204,7 @@
  		"xpos"			"580"
  		//"xpos_lodef"	"368"
  		"ypos"			"10"
- 		//"ypos_lodef"	"20"
+ 		////"ypos_lodef"	"20"
  		"tall"			"50"
  		"minwide"		"300"
  		//"minwide_lodef"	"208"
@@ -2216,7 +2216,7 @@
  		"xpos"			"580"
  		//"xpos_lodef"	"368"
  		"ypos"			"133"
- 		//"ypos_lodef"	"163"
+ 		////"ypos_lodef"	"163"
   		"tall"			"50"
 		"minwide"		"300"
 		//"minwide_lodef"	"208"
@@ -2232,7 +2232,7 @@
 	"SessionLobby_Client"
 	{
 		//"xpos_lodef"				"c-294"
-		//"ypos_lodef"				"15"
+		////"ypos_lodef"				"15"
 		"wide"			"900"
 		//"wide_lodef"			"588"
 		"tall"				"510"
@@ -2304,7 +2304,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"	"25"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Lobby_Title"
 	}
@@ -2314,7 +2314,7 @@
 		"xpos"			"15"
 		//"xpos_lodef"	"25"
 		"ypos"			"45"
-		//"ypos_lodef"	"50"
+		////"ypos_lodef"	"50"
 		"wide"			"350"
 		//"wide_lodef"	"250"
 		"tall"			"30"
@@ -2327,7 +2327,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"120"
-		//"ypos_lodef"	"100"
+		////"ypos_lodef"	"100"
 		"wide"			"370"
 		//"wide_lodef"	"233"
 		"tall"			"35"
@@ -2340,7 +2340,7 @@
 		"font"			"GameUIButtons"
 		"xpos"			"25"
 		"ypos"			"121"
-		//"ypos_lodef"	"101"
+		////"ypos_lodef"	"101"
 		"wide"			"32"
 		"tall"			"32"
 	}
@@ -2350,7 +2350,7 @@
 		"xpos"			"68"
 		//"xpos_lodef"	"53"
 		"ypos"			"125"
-		//"ypos_lodef"	"105"
+		////"ypos_lodef"	"105"
 		"wide"			"350"
 		//"wide_lodef"	"223"
 		"tall"			"30"
@@ -2364,7 +2364,7 @@
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"15"
 		"ypos"			"162"
-		//"ypos_lodef"	"142"
+		////"ypos_lodef"	"142"
 		"wide"			"370"
 		//"wide_lodef"	"233"
 		"tall"			"190"
@@ -2386,7 +2386,7 @@
 			"font"				"MatchmakingDialogMenuLarge"
 			"xpos"				"15"
 			"ypos"				"45"
-			//"ypos_lodef"				"40"
+			////"ypos_lodef"				"40"
 			"wide"				"275"
 		}	
 		"DescOne"
@@ -2396,7 +2396,7 @@
 			//"font_lodef"		"MatchmakingDialogMenuMediumSmall"
 			"xpos"				"15"
 			"ypos"				"100"
-			//"ypos_lodef"		"80"
+			////"ypos_lodef"		"80"
 			"wide"				"275"
 		}
 		"DescTwo"
@@ -2406,7 +2406,7 @@
 			//"font_lodef"		"MatchmakingDialogMenuMediumSmall"
 			"xpos"				"15"
 			"ypos"				"130"
-			//"ypos_lodef"		"100"
+			////"ypos_lodef"		"100"
 			"wide"				"275"
 		}
 		"DescThree"
@@ -2416,7 +2416,7 @@
 			//"font_lodef"		"MatchmakingDialogMenuMediumSmall"
 			"xpos"				"15"
 			"ypos"				"160"
-			//"ypos_lodef"		"120"
+			////"ypos_lodef"		"120"
 			"wide"				"275"
 		}
 		"ValueTwo"
@@ -2427,7 +2427,7 @@
 			"xpos"				"75"
 			//"xpos_lodef"		"143"
 			"ypos"				"130"
-			//"ypos_lodef"		"100"
+			////"ypos_lodef"		"100"
 			"wide"				"275"
 			//"wide_lodef"		"75"
 			"textAlignment"		"east"
@@ -2440,7 +2440,7 @@
 			"xpos"				"75"
 			//"xpos_lodef"		"143"
 			"ypos"				"160"
-			//"ypos_lodef"		"120"
+			////"ypos_lodef"		"120"
 			"wide"				"275"
 			//"wide_lodef"		"75"
 			"textAlignment"		"east"
@@ -2463,7 +2463,7 @@
 		"xpos"			"397"
 		//"xpos_lodef"	"250"
 		"ypos"			"10"
-		//"ypos_lodef"	"20"
+		////"ypos_lodef"	"20"
 		"wide"			"180"
 		//"wide_lodef"	"115"
 		"tall"			"70"
@@ -2476,7 +2476,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"10"
-			//"ypos_lodef"			"5"
+			////"ypos_lodef"			"5"
 			"wide"			"180"
 			//"wide_lodef"	"100"
 		}
@@ -2488,7 +2488,7 @@
 			"xpos"			"87"
 			//"xpos_lodef"	"8"
 			"ypos"			"11"
-			//"ypos_lodef"	"23"
+			////"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
 			//"textAlignment_hidef"	"east"
@@ -2501,7 +2501,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"45"
-			//"ypos_lodef"	"45"
+			////"ypos_lodef"	"45"
 			"wide"			"150"
 			//"wide_lodef"	"110"
 		}
@@ -2513,7 +2513,7 @@
 		"xpos"			"397"
 		//"xpos_lodef"	"250"
 		"ypos"			"143"
-		//"ypos_lodef"	"163"
+		////"ypos_lodef"	"163"
 		"wide"			"180"
 		//"wide_lodef"	"115"
 		"tall"			"70"
@@ -2526,7 +2526,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"10"
-			//"ypos_lodef"			"5"
+			////"ypos_lodef"			"5"
 			"wide"			"180"
 			//"wide_lodef"	"100"
 		}
@@ -2538,7 +2538,7 @@
 			"xpos"			"87"
 			//"xpos_lodef"	"8"
 			"ypos"			"11"
-			//"ypos_lodef"	"23"
+			////"ypos_lodef"	"23"
 			"wide"			"85"
 			//"wide_lodef"	"100"
 			//"textAlignment_hidef"	"east"
@@ -2551,7 +2551,7 @@
 			"xpos"			"12"
 			//"xpos_lodef"	"8"
 			"ypos"			"45"
-			//"ypos_lodef"	"45"
+			////"ypos_lodef"	"45"
 			"wide"			"150"
 			//"wide_lodef"	"110"
 		}
@@ -2562,7 +2562,7 @@
  		"xpos"			"580"
  		//"xpos_lodef"	"368"
  		"ypos"			"10"
- 		//"ypos_lodef"	"20"
+ 		////"ypos_lodef"	"20"
  		"tall"			"50"
  		"minwide"		"300"
  		//"minwide_lodef"	"208"
@@ -2574,7 +2574,7 @@
  		"xpos"			"580"
  		//"xpos_lodef"	"368"
  		"ypos"			"133"
- 		//"ypos_lodef"	"163"
+ 		////"ypos_lodef"	"163"
   		"tall"			"50"
 		"minwide"		"300"
 		//"minwide_lodef"	"208"
@@ -2718,7 +2718,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_SystemLink_Client_Dialog"
 	}
@@ -2728,7 +2728,7 @@
 		"xpos"				"15"
 		//"xpos_lodef"				"3"
 		"ypos"				"45"
-		//"ypos_lodef"		"50"
+		////"ypos_lodef"		"50"
 		"minwide"			"570"
 		//"minwide_lodef"		"405"
  		"itemspacing"		"2"
@@ -2746,7 +2746,7 @@
  				"xpos"			"5"
  				//"xpos_lodef"			"4"
  				"ypos"			"4"
- 				//"ypos_lodef"			"1"
+ 				////"ypos_lodef"			"1"
  				"wide"			"295"
  				//"wide_lodef"			"202"
 				"font"			"MatchmakingDialogMenuLarge"
@@ -2757,7 +2757,7 @@
  			{
 				"header"		"#TF_Players"
    				"ypos"			"5"
-   				//"ypos_lodef"			"1"
+   				////"ypos_lodef"			"1"
 				"wide"			"80"
 				//"wide_lodef"			"66"
   				"align"			"5"	// east
@@ -2769,7 +2769,7 @@
  			{
 				"header"		"#TF_MatchOption_Scenario"
    				"ypos"			"4"
-   				//"ypos_lodef"			"1"
+   				////"ypos_lodef"			"1"
 				"wide"			"145"
 				//"wide_lodef"			"105"
   				"align"			"5"	// east
@@ -2782,7 +2782,7 @@
 				"header"		"#TF_Scoreboard_Ping"
 				//"header_lodef"		" "
   				
-  				//"ypos_lodef"			"0"
+  				////"ypos_lodef"			"0"
 				"wide"			"40"
 				//"wide_lodef"	"25"
   				"align"			"4"	// center
@@ -2929,7 +2929,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"			"10"
+		////"ypos_lodef"			"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_SystemLink_Client_Dialog"
 	}
@@ -2939,7 +2939,7 @@
 		"xpos"				"15"
 		//"xpos_lodef"				"3"
 		"ypos"				"45"
-		//"ypos_lodef"		"50"
+		////"ypos_lodef"		"50"
 		"minwide"			"570"
 		//"minwide_lodef"		"405"
  		"itemspacing"		"2"
@@ -2957,7 +2957,7 @@
  				"xpos"			"5"
  				//"xpos_lodef"			"8"
  				"ypos"			"4"
- 				//"ypos_lodef"			"1"
+ 				////"ypos_lodef"			"1"
  				"wide"			"315"
  				//"wide_lodef"			"215"
 				"font"			"MatchmakingDialogMenuLarge"
@@ -2968,7 +2968,7 @@
  			{
 				"header"		"#TF_Players"
    				"ypos"			"5"
-   				//"ypos_lodef"			"1"
+   				////"ypos_lodef"			"1"
 				"wide"			"90"
 				//"wide_lodef"			"70"
   				"align"			"5"	// east
@@ -2980,7 +2980,7 @@
  			{
 				"header"		"#TF_MatchOption_Scenario"
    				"ypos"			"4"
-   				//"ypos_lodef"			"1"
+   				////"ypos_lodef"			"1"
 				"wide"			"155"
 				//"wide_lodef"			"105"
   				"align"			"5"	// east
@@ -3032,7 +3032,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		//"ypos_lodef"	"10"
+		////"ypos_lodef"	"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_RankedLeaderboards_Title"
 	}
@@ -3042,7 +3042,7 @@
 		"xpos"				"15"
 		//"xpos_lodef"		"10"
 		"ypos"				"50"
-		//"ypos_lodef"		"40"
+		////"ypos_lodef"		"40"
 		"minwide"			"750"
 		//"minwide_lodef"		"565"
  		"itemspacing"		"2"
@@ -3062,7 +3062,7 @@
  				"header"		"#TF_Rank"
  				"xpos"			"5"
  				"ypos"			"4"
- 				//"ypos_lodef"	"0"
+ 				////"ypos_lodef"	"0"
  				"wide"			"100"
  				"align"			"4"	// center
 				"locked"		"1"
@@ -3074,7 +3074,7 @@
  			{
 				"header"		"#TF_Gamertag"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"480"
 				//"wide_lodef"			"320"
   				"align"			"3"	// west
@@ -3087,7 +3087,7 @@
  			{
 				"header"		"#TF_Scoreboard_Score"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"			"130"
   				"align"			"4"	// center
@@ -3111,7 +3111,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"458"
-		//"ypos_lodef"	"324"
+		////"ypos_lodef"	"324"
 		"ControlName"	"label"
 		"font"			"MatchmakingDialogMenuSmall"
 	}	
@@ -3120,8 +3120,8 @@
 	{
 		//"xpos_lodef"	"525"
 		//"xpos_hidef"	"670"
-		//"ypos_lodef"	"322"
-		//"ypos_hidef"	"458"
+		////"ypos_lodef"	"322"
+		////"ypos_hidef"	"458"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
@@ -3131,8 +3131,8 @@
 	{
 		//"xpos_lodef"	"547"
 		//"xpos_hidef"	"700"
-		//"ypos_lodef"	"322"
-		//"ypos_hidef"	"458"
+		////"ypos_lodef"	"322"
+		////"ypos_hidef"	"458"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
@@ -3155,8 +3155,8 @@
 	{
 		//"xpos_lodef"	"190"
 		//"xpos_hidef"	"200"
-		//"ypos_lodef"	"320"
-		//"ypos_hidef"	"450"
+		////"ypos_lodef"	"320"
+		////"ypos_hidef"	"450"
 		//"tall_hidef"	"40"
 		"zpos"				"7"
 		"textAlignment"	"east"
@@ -3170,7 +3170,7 @@
 		"xpos"				"280"
 		//"xpos_lodef"		"260"
 		"ypos"				"453"
-		//"ypos_lodef"		"320"
+		////"ypos_lodef"		"320"
 		"zpos"				"7"
 		"wide"				"240"
 		//"tall_hidef"		"40"
@@ -3185,8 +3185,8 @@
 	{
 		//"xpos_lodef"	"350"
 		//"xpos_hidef"	"425"
-		//"ypos_lodef"	"320"
-		//"ypos_hidef"	"450"
+		////"ypos_lodef"	"320"
+		////"ypos_hidef"	"450"
 		"zpos"			"8"
 		//"tall_hidef"	"40"
 		"textAlignment"	"east"
@@ -3200,7 +3200,7 @@
 		"xpos"				"505"
 		//"xpos_lodef"		"420"
 		"ypos"				"453"
-		//"ypos_lodef"		"320"
+		////"ypos_lodef"		"320"
 		"zpos"				"8"
 		"wide"				"240"
 		//"tall_hidef"		"40"
@@ -3253,7 +3253,7 @@
 		"xpos"			"20"
 		//"xpos_lodef"	"20"
 		"ypos"			"15"
-		//"ypos_lodef"	"10"
+		////"ypos_lodef"	"10"
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_StatsLeaderboards_Title"
 	}
@@ -3282,7 +3282,7 @@
  				"header"		"#TF_Rank"
  				"xpos"			"5"
  				"ypos"			"4"
- 				//"ypos_lodef"	"0"
+ 				////"ypos_lodef"	"0"
  				"wide"			"80"
  				"align"			"4"	// center
 				"locked"		"1"
@@ -3294,7 +3294,7 @@
  			{
 				"header"		"#TF_Gamertag"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"325"
 				//"wide_lodef"	"195"
   				"align"			"3"	// west
@@ -3307,7 +3307,7 @@
  			{
 				"header"		"#TF_Scoreboard_Score"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3320,7 +3320,7 @@
  			{
 				"header"		"#TF_ScoreBoard_KillsLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3333,7 +3333,7 @@
  			{
 				"header"		"#TF_ScoreBoard_CapturesLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3346,7 +3346,7 @@
  			{
 				"header"		"#TF_ScoreBoard_DefensesLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3359,7 +3359,7 @@
  			{
 				"header"		"#TF_ScoreBoard_DominationLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3372,7 +3372,7 @@
  			{
 				"header"		"#TF_ScoreBoard_RevengeLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3385,7 +3385,7 @@
  			{
 				"header"		"#TF_ScoreBoard_DestructionLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3398,7 +3398,7 @@
  			{
 				"header"		"#TF_ScoreBoard_HeadshotsLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3411,7 +3411,7 @@
  			{
 				"header"		"#TF_ScoreBoard_HealingLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3424,7 +3424,7 @@
  			{
 				"header"		"#TF_ScoreBoard_InvulnLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3437,7 +3437,7 @@
  			{
 				"header"		"#TF_ScoreBoard_AssistsLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3450,7 +3450,7 @@
  			{
 				"header"		"#TF_ScoreBoard_BackstabsLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3463,7 +3463,7 @@
  			{
 				"header"		"#StatPanel_Label_HealthLeached"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3476,7 +3476,7 @@
  			{
 				"header"		"#TF_ScoreBoard_SentryKillsLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3489,7 +3489,7 @@
  			{
 				"header"		"#TF_ScoreBoard_TeleportsLabel"
    				"ypos"			"5"
-   				//"ypos_lodef"	"0"
+   				////"ypos_lodef"	"0"
 				"wide"			"150"
 				//"wide_lodef"	"150"
   				"align"			"4"	// center
@@ -3506,7 +3506,7 @@
 		"xpos"			"380"
 		//"xpos_lodef"	"252"
 		"ypos"			"420"
-		//"ypos_lodef"	"308"
+		////"ypos_lodef"	"308"
 		"wide"			"500"
 		//"wide_lodef"	"340"
 		"tall"			"10"
@@ -3517,7 +3517,7 @@
 		"xpos"			"20"
 		//"xpos_lodef"	"20"
 		"ypos"			"450"
-		//"ypos_lodef"	"322"
+		////"ypos_lodef"	"322"
 		"ControlName"	"label"
 		"font"			"MatchmakingDialogMenuSmall"
 	}	
@@ -3526,8 +3526,8 @@
 	{
 		//"xpos_lodef"	"545"
 		//"xpos_hidef"	"820"
-		//"ypos_lodef"	"322"
-		//"ypos_hidef"	"450"
+		////"ypos_lodef"	"322"
+		////"ypos_hidef"	"450"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
@@ -3537,8 +3537,8 @@
 	{
 		//"xpos_lodef"	"567"
 		//"xpos_hidef"	"845"
-		//"ypos_lodef"	"322"
-		//"ypos_hidef"	"450"
+		////"ypos_lodef"	"322"
+		////"ypos_hidef"	"450"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
@@ -3549,7 +3549,7 @@
 		"xpos"				"635"
 		//"xpos_lodef"		"350"
 		"ypos"				"30"
-		//"ypos_lodef"		"35"
+		////"ypos_lodef"		"35"
 		"wide"				"240"
 		//"tall_hidef"		"40"
 		"ControlName"		"Label"
@@ -3562,8 +3562,8 @@
 	{
 		//"xpos_lodef"	"190"
 		//"xpos_hidef"	"320"
-		//"ypos_lodef"	"322"
-		//"ypos_hidef"	"440"
+		////"ypos_lodef"	"322"
+		////"ypos_hidef"	"440"
 		//"tall_hidef"	"40"
 		"zpos"			"7"
 		"textAlignment"	"east"
@@ -3577,7 +3577,7 @@
 		"xpos"				"400"
 		//"xpos_lodef"		"260"
 		"ypos"				"445"
-		//"ypos_lodef"		"322"
+		////"ypos_lodef"		"322"
 		//"tall_hidef"		"40"
 		"zpos"				"7"
 		"wide"				"240"
@@ -3592,8 +3592,8 @@
 	{
 		//"xpos_lodef"	"350"
 		//"xpos_hidef"	"570"
-		//"ypos_lodef"	"322"
-		//"ypos_hidef"	"440"
+		////"ypos_lodef"	"322"
+		////"ypos_hidef"	"440"
 		//"tall_hidef"	"40"
 		"zpos"			"8"
 		"textAlignment"	"east"
@@ -3607,7 +3607,7 @@
 		"xpos"				"650"
 		//"xpos_lodef"		"420"
 		"ypos"				"445"
-		//"ypos_lodef"		"322"
+		////"ypos_lodef"		"322"
 		//"tall_hidef"		"40"
 		"zpos"				"8"
 		"wide"				"240"
@@ -3712,7 +3712,7 @@
 		"fieldName"			"LeftArrow"
 		"xpos" 				"15"
 		"ypos"				"110"
-		//"ypos_hidef"		"155"
+		////"ypos_hidef"		"155"
 		"wide"				"32"
 		"tall"				"32"
 		
@@ -3733,7 +3733,7 @@
 		"xpos" 				"484"
 		//"xpos_hidef"		"683"
 		"ypos"				"110"
-		//"ypos_hidef"		"155"
+		////"ypos_hidef"		"155"
 		"wide"				"32"
 		"tall"				"32"
 		
@@ -3754,7 +3754,7 @@
 		"xpos" 				"245"
 		//"xpos_hidef"		"350"
 		"ypos"				"88"
-		//"ypos_hidef"		"130"
+		////"ypos_hidef"		"130"
 		"zpos"				"90"
 		"wide"				"32"
 		"tall"				"32"
@@ -3776,7 +3776,7 @@
 		"xpos" 				"245"
 		//"xpos_hidef"		"350"
 		"ypos"				"123"
-		//"ypos_hidef"		"178"
+		////"ypos_hidef"		"178"
 		"zpos"				"100"
 		"wide"				"32"
 		"tall"				"32"
@@ -3798,7 +3798,7 @@
 		"xpos"				"208"
 		//"xpos_hidef"		"294"
 		"ypos"				"112"
-		//"ypos_hidef"		"158"
+		////"ypos_hidef"		"158"
 		"zpos"				"75"
 		"wide"				"100"
 		//"wide_hidef"		"142"
@@ -3816,7 +3816,7 @@
 		"fieldName"		"BonusSelectionLabel"
 		
 		"ypos"			"108"
-		//"ypos_hidef"	"152"
+		////"ypos_hidef"	"152"
 		"zpos"			"100"
 		"wide"			"520"
 		//"wide_hidef"	"730"
@@ -3840,7 +3840,7 @@
 		"xpos"			"12"
 		//"xpos_hidef"	"18"
 		"ypos"			"43"
-		//"ypos_hidef"	"50"
+		////"ypos_hidef"	"50"
 		"zpos"			"200"
 		"wide"			"45"
 		//"wide_hidef"	"64"
@@ -3856,7 +3856,7 @@
 		"xpos"				"12"
 		//"xpos_hidef"		"18"
 		"ypos"				"87"
-		//"ypos_hidef"		"116"
+		////"ypos_hidef"		"116"
 		"zpos"				"200"
 		"wide"				"45"
 		//"wide_hidef"		"64"
@@ -3874,7 +3874,7 @@
 		"xpos"			"463"
 		"xpos"			"648"
 		"ypos"			"43"
-		//"ypos_hidef"	"50"
+		////"ypos_hidef"	"50"
 		"zpos"			"90"
 		"wide"			"45"
 		//"wide_hidef"	"64"
@@ -3890,7 +3890,7 @@
 		"xpos"				"463"
 		//"xpos_hidef"		"648"
 		"ypos"				"87"
-		//"ypos_hidef"		"116"
+		////"ypos_hidef"		"116"
 		"zpos"				"99"
 		"wide"				"45"
 		//"wide_hidef"		"64"
@@ -4010,7 +4010,7 @@
 		"fieldName"		"LevelPicBorder"
 		
 		"ypos"			"34"
-		//"ypos_hidef"	"48"
+		////"ypos_hidef"	"48"
 		"wide"			"122"
 		//"wide_hidef"	"172"
 		"tall"			"75"
@@ -4027,7 +4027,7 @@
 		"xpos"			"7"	
 		//"xpos_hidef"	"10"
 		"ypos"			"41"
-		//"ypos_hidef"	"58"
+		////"ypos_hidef"	"58"
 		"wide"			"107"
 		//"wide_hidef"	"152"
 		"tall"			"61"
@@ -4048,7 +4048,7 @@
 		"xpos"			"463"
 		"xpos"			"648"
 		"ypos"			"43"
-		//"ypos_hidef"	"50"
+		////"ypos_hidef"	"50"
 		"zpos"			"90"
 		"wide"			"45"
 		//"wide_hidef"	"64"
@@ -4063,7 +4063,7 @@
 		"fieldName"		"ChapterLabel"
 		
 		"ypos"			"14"
-		//"ypos_hidef"	"20"
+		////"ypos_hidef"	"20"
 		"wide"			"107"
 		//"wide_hidef"	"152"
 		"tall"			"14"
@@ -4134,7 +4134,7 @@
 		"xpos"				"3"
 		//"xpos_hidef"		"10"
 		"ypos"				"72"
-		//"ypos_hidef"		"120"
+		////"ypos_hidef"		"120"
 		"wide"				"43"
 		"tall"				"42"
 		

@@ -3,10 +3,6 @@
 // Blank is a blank font
 // NewIcons17 is default font
 // border = WBorder_1
-	"Workshop"		// open advanced options
-	{
-		font					"NewIcons17"
-	}
 	"CallVote"			// call a vote
 	{
 		"SubButton"
@@ -35,13 +31,13 @@
 		ControlName				CExButton
 		FieldName				"BrowseServers"
 		xPos					rs1
-		yPos					rs1-12
+		yPos					rs1-10
 		zPos					1050
 		wide					15
-		tall					12
+		tall					10
 		labelText				"}"
-		font					"NewIcons12"
-		alpha		"111"
+		font					"NewIcons11"
+		alpha		"100"
 		textAlignment			center
 		
 		command				"OpenServerBrowser"
@@ -65,16 +61,16 @@
 		yPos					rs1
 		zPos					1050
 		wide					15
-		tall					12
+		tall					10
 		
 
 		"use_proportional_insets" "0"
 		"pinCorner"		"0"
-		"textinsetx"	"0"		
+		"textinsetx"	"1"		
 		
 		labelText				"="
-		font					"NewIcons12"
-		alpha		"111"
+		font					"NewIcons11"
+		alpha		"100"
 		textAlignment			center
 		
 		command				"engine open_charinfo; hideconsole"		// open backpack directly (default engine open_charinfo)
@@ -94,14 +90,14 @@
 		ControlName				CExButton
 		FieldName				"Settings"
 		xPos					rs1-15
-		yPos					rs1-12
+		yPos					rs1-10
 		zPos					1050
 		wide					15
-		tall					12
+		tall					10
 
 		labelText				"Í"
-		font					"NewIcons12"
-		alpha		"111"
+		font					"NewIcons11"
+		alpha		"100"
 		textAlignment			center
 		
 		command				"OpenOptionsDialog"
@@ -128,10 +124,10 @@
 		yPos					rs1
 		zPos					1050
 		wide					15
-		tall					12
+		tall					10
 		labelText				"_"
-		font					"NewIcons12"
-		alpha		"111"
+		font					"NewIcons11"
+		alpha		"100"
 		textAlignment			center
 		
 		command				"engine con_enable 1; toggleconsole"		// making sure it's enabled
@@ -156,7 +152,7 @@
 		wide					28
 		tall					25
 
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
@@ -185,7 +181,7 @@
 			"wide"			"0"
 			"tall"			"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"replay/thumbnails/null"
 			"scaleImage"	"1"
 		}				

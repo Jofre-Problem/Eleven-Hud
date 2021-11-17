@@ -45,7 +45,7 @@
 			"wide"			"140"
 			"tall"			"60"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -67,7 +67,7 @@
 		"tall"			"30"
 		"autoResize"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"centerwrap"	"1"
 	}
 
@@ -85,7 +85,7 @@
 		"tall"			"64"
 		"autoResize"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"paintbackground" "0"
 		"border"		"BackpackItemBorder_SelfMade"
 	}
@@ -99,7 +99,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"backpack_jewel_modify_target_b_g"
 		"tileImage"		"0"
 		"tileVertically" "0"
@@ -148,7 +148,7 @@
 		"tall"			"80"
 		"autoResize"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
 
@@ -163,7 +163,7 @@
 		"tall"			"25"
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
@@ -186,7 +186,7 @@
 		"tall"			"25"
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#CraftNameConfirm"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"

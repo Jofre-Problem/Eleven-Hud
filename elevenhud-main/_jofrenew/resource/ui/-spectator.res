@@ -11,7 +11,7 @@
 		"tall"			"52"
 		"image"			"replay/thumbnails/l4d2/ghost_title_bg"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"scaleImage"	"1"

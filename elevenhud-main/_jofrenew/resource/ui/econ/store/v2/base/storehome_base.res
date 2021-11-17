@@ -9,10 +9,10 @@
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -102,7 +102,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"	
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"use_item_sounds" "1"
 		}
@@ -153,7 +153,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"	
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"use_item_sounds" "1"		
 		}
 	}
@@ -187,10 +187,10 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -208,7 +208,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	
 		"MannCoImage"
 		{
@@ -220,7 +220,7 @@
 			"wide"			"420"
 			"tall"			"220"
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"store/saxton_welcome"
 			"scaleImage"	"1"
 		}
@@ -236,7 +236,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"proportiontoparent"	"1"
 
 		"StoreBackgroundImage"
@@ -322,10 +322,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"<"
 		"font"			"HudFontSmallBold"
@@ -352,7 +352,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -365,10 +365,10 @@
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		">"
 		"font"			"HudFontSmallBold"
@@ -395,7 +395,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	
 	"CartButton"
@@ -411,7 +411,7 @@
 		"wide"			"56"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
 		
@@ -431,7 +431,7 @@
 		"wide"			"24"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"store_cart"
 		"scaleImage"	"1"
 	}
@@ -445,10 +445,10 @@
 		"zpos"			"2"
 		"wide"			"160"
 		"tall"			"23"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Store_BrowseTheStore"
 		"font"			"HudFontSmallBold"
@@ -470,10 +470,10 @@
 		"zpos"			"2"
 		"wide"			"170"
 		"tall"			"24"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Store_MarketPlace"
 		"font"			"HudFontSmallBold"
@@ -503,7 +503,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 
 	"HomePageLabelContainer"
@@ -533,7 +533,7 @@
 			"autoresize"	"1"
 			"pinCorner"		"0"
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 
 		"KeyLabel"
@@ -551,7 +551,7 @@
 			"autoresize"	"1"
 			"pinCorner"		"0"
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 
 		"TauntLabel"
@@ -569,7 +569,7 @@
 			"autoresize"	"1"
 			"pinCorner"		"0"
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 	}
 }

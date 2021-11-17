@@ -5,7 +5,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Image"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tileImage"		"0"
 		"scaleImage"	"1"
 		"image"			"illustrations/training_basic"
@@ -54,7 +54,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"wrap"			"0"
 		"fgcolor_override"	"201 79 57 255"
 	}

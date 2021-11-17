@@ -10,7 +10,7 @@
 		"wide"			"o1"
 		"tall"			"f0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			""
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"

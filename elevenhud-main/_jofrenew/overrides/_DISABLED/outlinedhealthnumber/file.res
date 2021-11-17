@@ -10,7 +10,7 @@
 		"wide"			"5000"
 		"tall"			"42"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"%health%"
 		"textAlignment"	"center"	
 		"font"			"HealthAndAmmoOutline"

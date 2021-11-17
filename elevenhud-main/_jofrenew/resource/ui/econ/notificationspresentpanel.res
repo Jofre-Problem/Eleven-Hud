@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"30"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"border"		"noborder"
 	}
 
@@ -24,7 +24,7 @@
 		"wide"			"p0.7"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"

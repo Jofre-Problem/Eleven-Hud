@@ -137,7 +137,7 @@
 	{
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"c-15"
 		"ypos"			"c20"
 		"xpos_minmode"	"c-15"
@@ -153,7 +153,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
@@ -167,7 +167,7 @@
 	{
 		"fieldName"		"HudFlameRocketCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"			// draw in front of ammo
@@ -301,7 +301,7 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"0"
-		"ypos_lodef"			"0"
+		//"ypos_lodef"			"0"
 		"zpos"					"2"
 		"wide"					"f0"
 		"tall"					"f0"
@@ -314,7 +314,7 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"0"
-		"ypos_lodef"			"0"
+		//"ypos_lodef"			"0"
 		"zpos"					"0"
 		"wide"					"f0"
 		"tall"					"f0"
@@ -329,8 +329,8 @@
 		"enabled" 		"1"
 		"xpos"			"0"
 		"ypos"			"0"
-		"ypos_hidef"	"0"
-		"ypos_lodef"	"0"
+		//"ypos_hidef"	"0"
+		//"ypos_lodef"	"0"
 		"wide"			"f0"
 		"tall"			"f0"	[$WIN32]
 		"tall"			"f0"	[$X360]
@@ -388,8 +388,8 @@
 		"xpos_hidef"		"-8"
 		"xpos_lodef"		"-8"
 		"ypos"		"0"
-		"ypos_hidef"		"0"
-		"ypos_lodef"		"0"
+		//"ypos_hidef"		"0"
+		//"ypos_lodef"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		
@@ -539,7 +539,7 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"ypos_minmode"			"0"
-		"ypos_lodef"			"0"
+		//"ypos_lodef"			"0"
 		"wide"					"f0"
 		"tall"					"480"
 	}
@@ -548,8 +548,8 @@
 	{
 		"xpos"			"0"
 		"ypos"			"0"
-		"ypos_hidef"	"0"
-		"ypos_lodef"	"0"
+		//"ypos_hidef"	"0"
+		//"ypos_lodef"	"0"
 		"wide"			"f0"
 		"tall"			"f0"
 		
@@ -594,7 +594,7 @@
 	{
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"			// draw in front of ammo
@@ -625,8 +625,8 @@
 	{
 		"xpos"					"0"
 		"ypos"					"0"
-		//"ypos_hidef"				"90"
-		//"ypos_lodef"				"90"
+		////"ypos_hidef"				"90"
+		////"ypos_lodef"				"90"
 		"wide"					"f0"
 		"tall"					"f0"
 	}	

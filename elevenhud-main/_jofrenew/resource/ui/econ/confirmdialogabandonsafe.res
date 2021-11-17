@@ -9,7 +9,7 @@
 		"wide"			"300"
 		"tall"			"200"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
@@ -30,7 +30,7 @@
 		"tall"			"20"
 		"autoResize"	"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
 	
@@ -48,7 +48,7 @@
 		"tall"			"170"
 
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"centerwrap"	"1"
 		"fgcolor_override" "Tanlight"
 	}
@@ -63,7 +63,7 @@
 		"wide"			"100"
 		"tall"			"25"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#GameUI_CancelBold"
 		"font"			"HudFontSmall"
@@ -107,7 +107,7 @@
 		"tall"			"25"
 		"default"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#ConfirmButtonText"
 		"font"			"HudFontSmall"

@@ -66,7 +66,7 @@
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
 		"fgcolor"		"W_ColorTheme3"

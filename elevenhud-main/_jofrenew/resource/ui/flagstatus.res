@@ -10,7 +10,7 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 	}
 	"Briefcase"
@@ -23,7 +23,7 @@
 		"wide"			"14"
 		"tall"			"14"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_briefcase"
 		"scaleImage"	"1"
 		
@@ -45,7 +45,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_home"
 		"scaleImage"	"1"	
 		

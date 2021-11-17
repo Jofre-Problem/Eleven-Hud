@@ -5,6 +5,6 @@
 		"fieldName"		"ExplanationLabel"
 		"zpos"			"1"
 		//"pinCorner"		"0"
-		//"enabled"		"1"		
+		////"enabled"		"1"		
 	}	
 }	

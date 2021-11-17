@@ -29,7 +29,7 @@
 		"wide"			"280"
 		"tall"			"80"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_left"
 		"scaleImage"	"1"	
 		
@@ -60,7 +60,7 @@
 		"wide"			"280"
 		"tall"			"80"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_right"
 		"scaleImage"	"1"	
 		
@@ -91,7 +91,7 @@
 		"wide"			"280"
 		"tall"			"80"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_outline"
 		"scaleImage"	"1"	
 		
@@ -121,7 +121,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"NotoBold40"
@@ -153,7 +153,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
@@ -185,7 +185,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"NotoBold40"
@@ -217,7 +217,7 @@
 		"wide"			"75"
 		"tall"			"35"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
@@ -249,7 +249,7 @@
 		"wide"			"100"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"fillcolor"		"NotoBlueSolid"
 		
@@ -279,7 +279,7 @@
 		"wide"			"100"
 		"tall"			"30"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"fillcolor"		"NotoRedSolid"
 		
@@ -309,7 +309,7 @@
 		"wide"			"50"
 		"tall"			"30"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"fillcolor"		"NotoDark"
 		
@@ -340,7 +340,7 @@
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_outline"
 		"scaleImage"	"1"	
 	}			
@@ -355,7 +355,7 @@
 		"wide"			"80"	[$WIN32]
 		"tall"			"16"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#TF_PlayingTo"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -390,7 +390,7 @@
 		"wide"			"150"	[$WIN32]
 		"tall"			"38"	[$WIN32]
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
 		"scaleImage"	"1"	
 		
@@ -420,7 +420,7 @@
 		"wide"			"160"
 		"tall"			"90"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"if_hybrid"
 		{
@@ -461,7 +461,7 @@
 		"wide"			"160"
 		"tall"			"90"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 				
 		"if_hybrid"
 		{
@@ -503,7 +503,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"if_hybrid"
 		{
@@ -526,7 +526,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"	"1"
 		
@@ -551,7 +551,7 @@
 		"wide"			"40"
 		"tall"			"o1"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"marked_for_death"
 		"scaleImage"	"1"
 	}
@@ -566,7 +566,7 @@
 		"wide"			"40"
 		"tall"			"20"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontMediumBold"
@@ -583,7 +583,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"	"1"
 	}			

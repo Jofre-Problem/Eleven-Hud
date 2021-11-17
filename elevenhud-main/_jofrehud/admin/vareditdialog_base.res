@@ -37,7 +37,7 @@
 		"tall"		"24"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 
 		"textHidden"		"0"
 		"editable"		"1"

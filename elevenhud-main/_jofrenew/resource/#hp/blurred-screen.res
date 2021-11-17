@@ -11,7 +11,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/blur/blur_top"
 		"scaleImage"	"1"
 	}
@@ -26,7 +26,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/blur/blur_right"
 		"scaleImage"	"1"
 	}
@@ -41,7 +41,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/blur/blur_bot"
 		"scaleImage"	"1"
 	}
@@ -56,7 +56,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/blur/blur_left"
 		"scaleImage"	"1"
 	}
@@ -71,7 +71,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/REFRACTblur"
 		"scaleImage"	"1"
 	}

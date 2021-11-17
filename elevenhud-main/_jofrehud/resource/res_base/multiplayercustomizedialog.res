@@ -26,7 +26,7 @@
 		//"autoResize"		"0"
 		"pinCorner"		"3"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
@@ -44,7 +44,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"labelText"		"#GameUI_Advanced"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
@@ -58,7 +58,7 @@
 		"fieldName"		"Primary Color Slider"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"Secondary Color Slider"
 	{
@@ -66,7 +66,7 @@
 		"fieldName"		"Secondary Color Slider"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"High Quality Models"
 	{
@@ -76,7 +76,7 @@
 		"tall"		"24"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"labelText"		"#GameUI_HighModels"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
@@ -90,7 +90,7 @@
 		"xpos"		"40"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"SpraypaintList"
 	{
@@ -99,7 +99,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}
 	"ModelImage"
 	{
@@ -109,7 +109,7 @@
 		"tall"		"200"
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"LogoImage"
@@ -121,7 +121,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"topHorizLeft"
@@ -129,7 +129,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"topHorizLeft"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
@@ -142,7 +142,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
@@ -155,7 +155,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"
@@ -168,7 +168,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"0"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
 		//"dulltext"		"0"

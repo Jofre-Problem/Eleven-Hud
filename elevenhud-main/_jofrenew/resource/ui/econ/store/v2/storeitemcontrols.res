@@ -10,7 +10,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 
 	"AddToCartButton"
@@ -22,10 +22,10 @@
 		"zpos"			"10"
 		"wide"			"20"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
 		"font"			"HudFontSmallBold"
@@ -57,7 +57,7 @@
 			"wide"			"18"
 			"tall"			"18"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"store_cart"
 			"scaleImage"	"1"
 		}				

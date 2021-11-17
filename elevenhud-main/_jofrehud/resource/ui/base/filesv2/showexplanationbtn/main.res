@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowExplanationsButton"
-		//"autoResize"	"0"
+		////"autoResize"	"0"
 		//"pinCorner"		"0"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		//"tabposition"	"0"
 		"labelText"		"?"
 		"textAlignment"	"center"

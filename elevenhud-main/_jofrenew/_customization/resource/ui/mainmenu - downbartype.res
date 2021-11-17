@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"gradient_pure_black"
 		"scaleImage"	"1"		
 	}

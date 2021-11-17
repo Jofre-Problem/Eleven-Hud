@@ -62,7 +62,7 @@
 		"zpos"			"1"
 		"wide"			"244"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"centerwrap"	"1"
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -108,7 +108,7 @@
 		"tall"			"o1"
 		"default"		"1"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"y"//"M"//"y"
 		"font"			"NewIcons57"
 		"textAlignment"	"center"

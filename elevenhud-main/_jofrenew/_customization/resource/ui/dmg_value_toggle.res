@@ -4,12 +4,12 @@
 	{
 		"labelText"		"%metal%"	
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	"DamageAccountLabelShadow"
 	{
 		"labelText"		"%metal%"	
 		"visible"		"1"
-		"enabled"		"1"		
+		//"enabled"		"1"		
 	}
 }

@@ -10,7 +10,7 @@
 		"wide"			"34"
 		"tall"			"34"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay\thumbnails\hp\REFRACTcircle"
 		"scaleImage"	"1"
 	}
@@ -24,7 +24,7 @@
 		"wide"			"34"
 		"tall"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image" 		"replay/thumbnails/hp/REFRACTnormal"
 		"scaleimage"	"1"
 	}

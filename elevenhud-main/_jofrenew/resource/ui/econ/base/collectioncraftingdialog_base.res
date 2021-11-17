@@ -57,7 +57,7 @@
 				"wide"			"p0.8"
 				"tall"			"f0"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"labelText"		"#TF_CollectionCrafting_AttachItem"
 				"mouseinputenabled" "0"
 				"paintbackground"	"0"
@@ -77,7 +77,7 @@
 				"wide"			"o1"
 				"tall"			"p0.8"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"labelText"		""
 				"font"			"HudFontSmall"
 				"textAlignment"	"center"
@@ -113,7 +113,7 @@
 					"wide"			"o1"
 					"tall"			"p1.5"
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"image"			"trade_ups/trade_ups_attach_box"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -344,7 +344,7 @@
 		"tall"			"30"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#TF_CollectionCrafting_WaitingForResponse"
 		"textAlignment"	"center"
 		"mouseinputenabled" "0"
@@ -367,7 +367,7 @@
 		"tall"			"30"
 			
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#TF_CollectionCrafting_ReponseTimeout"
 		"textAlignment"	"center"
 		"centerwrap"	"1"
@@ -403,7 +403,7 @@
 			"tall"			"50"
 				
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"labelText"		"%resultstring%"
 			"mouseinputenabled" "0"
 			"paintbackground"	"0"
@@ -454,7 +454,7 @@
 			"wide"			"p0.7"
 			"tall"			"p0.4"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"item_carousel_bg"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"
@@ -577,7 +577,7 @@
 			
 			
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -613,7 +613,7 @@
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"0"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 				"proportionaltoparent" "1"
@@ -687,7 +687,7 @@
 					"wide"			"19"
 					"tall"			"19"
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"scaleImage"	"1"
 				}				
 			}
@@ -735,7 +735,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"mouseinputenabled" "0"
 		"proportionaltoparent"	"1"
 
@@ -805,7 +805,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		"#TF_CollectionCrafting_ApplyStamp"
 		"font"			"HudFontSmallest"
@@ -839,7 +839,7 @@
 		
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		"Send"
 		"font"			"HudFontSmall"
@@ -931,7 +931,7 @@
 				
 				"pinCorner"		"3"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				
 				"labelText"		"#TF_CollectionCrafting_Submit"
 				"font"			"HudFontSmall"
@@ -965,7 +965,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		""
 		"font"			"HudFontSmall"
@@ -1001,7 +1001,7 @@
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"close_button"
 			"scaleImage"	"1"
 			"proportionaltoparent" "1"
@@ -1020,7 +1020,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		"#TF_CollectionCrafting_NextItem"
 		"font"			"HudFontSmall"
@@ -1045,7 +1045,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		"?"
 		"font"			"HudFontSmall"
@@ -1070,7 +1070,7 @@
 		
 		
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		"?"
 		"font"			"HudFontSmall"
@@ -1095,7 +1095,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"		"?"
 		"font"			"HudFontSmall"
@@ -1145,7 +1145,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1164,7 +1164,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1181,7 +1181,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1211,7 +1211,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1231,7 +1231,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
 		"NextButton"
@@ -1246,7 +1246,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1276,7 +1276,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1319,7 +1319,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1338,7 +1338,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1356,7 +1356,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1386,7 +1386,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1403,7 +1403,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1434,7 +1434,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1454,7 +1454,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "200 80 60 255"
 		}	
@@ -1497,7 +1497,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1516,7 +1516,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1534,7 +1534,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1564,7 +1564,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1584,7 +1584,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "200 80 60 255"
 		}
@@ -1600,7 +1600,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1631,7 +1631,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
@@ -1674,7 +1674,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor_override" "46 43 42 255"
 		}
@@ -1693,7 +1693,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "46 43 42 255"
@@ -1711,7 +1711,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1741,7 +1741,7 @@
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
@@ -1758,7 +1758,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"labelText"		""
 			"font"			"HudFontSmall"
@@ -1789,7 +1789,7 @@
 				"wide"			"30"
 				"tall"			"30"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
@@ -1809,7 +1809,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"proportionaltoparent"	"1"
 			"fgcolor_override" "200 80 60 255"
 		}

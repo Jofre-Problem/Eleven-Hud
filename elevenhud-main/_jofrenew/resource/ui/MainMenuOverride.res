@@ -272,7 +272,7 @@
 		yPos					0
 		zPos					4000
 		wide					20
-		tall					17+p0.003
+		tall					16
 		labelText				"ø"
 		textAlignment			center
 		font			"NewIcons17"
@@ -309,7 +309,7 @@
 		yPos					0
 		zPos					4001
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		
 		labelText				""
 		font					"Blank"
@@ -369,10 +369,10 @@
 		yPos					-2
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		mouseinputenabled 		0
 		labelText				"Ú"
-		font					"NewIcons20"
+		font					"NewIcons17"
 		textAlignment			center
 
 		enabled					1
@@ -392,10 +392,10 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		mouseinputenabled 		0
 		labelText				"Û"
-		font					"NewIcons20"
+		font					"NewIcons17"
 		textAlignment			center
 
 		enabled					1
@@ -414,7 +414,7 @@
 		yPos					0
 		zPos					4001
 		wide					35
-		tall					p0.051
+		tall					p0.043
 
 		labelText				""
 		font					"Blank"
@@ -452,10 +452,10 @@
 		yPos					-2
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 	mouseinputenabled 		0
 		labelText				"ô"
-		font					"NewIcons15"
+		font					"NewIcons12"
 		textAlignment			center
 
 		enabled					1
@@ -473,10 +473,10 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 	mouseinputenabled 		0
 		labelText				"õ"
-		font					"NewIcons15"
+		font					"NewIcons12"
 		textAlignment			center
 
 		enabled					1
@@ -494,10 +494,10 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 	mouseinputenabled 		0
 		labelText				"ö"
-		font					"NewIcons15"
+		font					"NewIcons12"
 		textAlignment			center
 
 		enabled					1
@@ -515,7 +515,7 @@
 		yPos					0
 		zPos					4001
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		"pinCorner"		"0"
 		"textinsetx"	"0"
 		labelText				""
@@ -542,10 +542,10 @@
 		yPos					-2
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 
 		labelText				"ÿ"
-		font					"NewIcons17"
+		font					"NewIcons15"
 		textAlignment			center
 		mouseinputenabled 		0
 		enabled					1
@@ -562,10 +562,10 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 	mouseinputenabled 		0
 		labelText				"þ"
-		font					"NewIcons17"
+		font					"NewIcons15"
 		textAlignment			center
 
 		enabled					1
@@ -583,7 +583,7 @@
 		yPos					rs1
 		zPos					1003
 		wide					210
-		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
+		tall					"p0.043"	//p0.0525 //p0.05 = 1mm...
 		bgcolor_override				"0 0 0 0"//"W_ColorTheme1"
 		mouseInputEnabled			0			// mouse input passes though to panels below
 		"PaintBackgroundType"	"0"
@@ -596,7 +596,7 @@
 		yPos					0
 		zPos					4001
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		labelText				""
 		font					"Blank"
 		textAlignment			center
@@ -621,10 +621,10 @@
 		yPos					-2
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		mouseinputenabled 		0
 		labelText				"ü"
-		font					"NewIcons18"
+		font					"NewIcons17"
 		textAlignment			center
 		paintBackground			0
 		fgcolor_override		"196 171 55 255"
@@ -638,10 +638,10 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		mouseinputenabled 		0
 		labelText				"û"
-		font					"NewIcons18"
+		font					"NewIcons17"
 		textAlignment			center
 		paintBackground			0
 		"pin_to_sibling"		"TestQuest"
@@ -656,7 +656,7 @@
 		yPos					0
 		zPos					4001
 		wide					35
-		tall					p0.051
+		tall					p0.043
 
 		labelText				""
 		font					"Blank"
@@ -682,11 +682,11 @@
 		yPos					-2
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 	mouseinputenabled 		0
 
 		labelText				"q"
-		font					"NewIcons17"
+		font					"NewIcons12"
 		textAlignment			center
 
 		enabled					1
@@ -705,11 +705,11 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 	mouseinputenabled 		0
 
 		labelText				"r"
-		font					"NewIcons17"
+		font					"NewIcons12"
 		textAlignment			center
 
 		enabled					1
@@ -728,7 +728,7 @@
 		yPos					0
 		zPos					4001
 		wide					35
-		tall					p0.051
+		tall					p0.043
 
 		labelText				""
 		font					"Blank"
@@ -753,10 +753,10 @@
 		yPos					-2
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		mouseinputenabled 		0
 		labelText				"Ò"
-		font					"NewIcons18"
+		font					"NewIcons15"
 		textAlignment			center
 
 		enabled					1
@@ -774,10 +774,10 @@
 		yPos					0
 		zPos					4000
 		wide					35
-		tall					p0.051
+		tall					p0.043
 		mouseinputenabled 		0
 		labelText				"Õ"
-		font					"NewIcons18"
+		font					"NewIcons15"
 		textAlignment			center
 
 		enabled					1
@@ -924,7 +924,7 @@
 			"autoResize"		"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"tabPosition"		"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
@@ -1140,13 +1140,13 @@
 	{
 		ControlName				CExButton
 		FieldName				"Workspace3"
-		"xpos"			"50"
+		"xpos"			"40-p.001"
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					p0.049
+		tall					p0.042
 			"labelText"		"3"
-			"font"			"Segoe10"
+			"font"			"Segoe9"
 			"textAlignment"	"center"
 		
 		command				"engine showstatsdlg"
@@ -1164,13 +1164,13 @@
 	{
 		ControlName				CExButton
 		FieldName				"SafeMode2"
-		"xpos"			"31"
+		"xpos"			"24-p0.001"
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					p0.049
+		tall					p0.042
 			"labelText"		"2"
-			"font"			"Segoe10"
+			"font"			"Segoe9"
 			"textAlignment"	"center"
 		
 		command				"engine togglesafe"
@@ -1188,15 +1188,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"12"
+		"xpos"			"8-p0.001"
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					p0.051
-		"autoResize"	"0"
+		tall					p0.043
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 
 		"MOTD_ShowButtonPanel_SB"
 		{
@@ -1206,14 +1206,14 @@
 			"ypos"			"0"
 			"zpos"			"1"
 		wide					13
-		tall					p0.051
-			"autoResize"	"0"
+		tall					p0.043
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"1"
-			"font"			"Segoe10"
+			"font"			"Segoe9"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"

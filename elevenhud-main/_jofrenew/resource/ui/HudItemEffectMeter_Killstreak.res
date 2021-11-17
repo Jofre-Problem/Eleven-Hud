@@ -5,7 +5,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"c124"	[$WIN32]
 		"ypos"			"r36"	[$WIN32]
 		"wide"			"100"
@@ -25,7 +25,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"  //1
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"bgcolor_override"	"Blank"
 		"proportionalToParent"	"1"

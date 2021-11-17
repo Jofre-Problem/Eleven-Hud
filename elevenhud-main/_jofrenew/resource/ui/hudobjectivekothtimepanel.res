@@ -32,7 +32,7 @@
 			"wide"			"45"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"textAlignment"		"west"
 			"labelText"		"0:00"
 		}	
@@ -70,7 +70,7 @@
 			"wide"			"45"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"textAlignment"		"east"
 			"labelText"		"0:00"
 		}	

@@ -34,8 +34,8 @@
 		//"xpos_hidef"		"159"
 		//"xpos_lodef"		"165"
 		"ypos"				"16"
-		//"ypos_hidef"		"15"
-		//"ypos_lodef"		"16"
+		////"ypos_hidef"		"15"
+		////"ypos_lodef"		"16"
 		"zpos"				"4"	
 		"wide"				"20"
 		//"wide_lodef"		"25"
@@ -65,8 +65,8 @@
 		//"xpos_lodef"	"0"
 		"ypos"			"34"
 		////"ypos_minmode"	"24"
-		//"ypos_hidef"	"41"
-		//"ypos_lodef"	"41"
+		////"ypos_hidef"	"41"
+		////"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
 		//"wide_hidef"	"300"
@@ -103,8 +103,8 @@
 		"fieldName"		"WaitingForPlayersBG"
 		"xpos"			"16"
 		"ypos"			"31"
-		//"ypos_hidef"	"-100"	//off-screen
-		//"ypos_lodef"	"-100"	//off-screen
+		////"ypos_hidef"	"-100"	//off-screen
+		////"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -128,8 +128,8 @@
 		//"xpos_lodef"	"0"
 		"ypos"			"33"
 		////"ypos_minmode"	"24"
-		//"ypos_hidef"	"41"
-		//"ypos_lodef"	"41"
+		////"ypos_hidef"	"41"
+		////"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
 		//"wide_hidef"	"300"
@@ -166,8 +166,8 @@
 		"fieldName"		"OvertimeBG"
 		"xpos"			"16"
 		"ypos"			"31"
-		//"ypos_hidef"	"-100"	//off-screen
-		//"ypos_lodef"	"-100"	//off-screen
+		////"ypos_hidef"	"-100"	//off-screen
+		////"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -191,8 +191,8 @@
 		//"xpos_lodef"	"0"
 		"ypos"			"33"
 		////"ypos_minmode"	"24"
-		//"ypos_hidef"	"41"
-		//"ypos_lodef"	"41"
+		////"ypos_hidef"	"41"
+		////"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
 		//"wide_hidef"	"300"
@@ -229,8 +229,8 @@
 		"fieldName"		"SuddenDeathBG"
 		"xpos"			"16"
 		"ypos"			"31"
-		//"ypos_hidef"	"-100"	//off-screen
-		//"ypos_lodef"	"-100"	//off-screen
+		////"ypos_hidef"	"-100"	//off-screen
+		////"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -254,8 +254,8 @@
 		//"xpos_lodef"	"0"
 		"ypos"			"33"
 		////"ypos_minmode"	"24"
-		//"ypos_hidef"	"41"
-		//"ypos_lodef"	"41"
+		////"ypos_hidef"	"41"
+		////"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
 		//"wide_hidef"	"300"
@@ -293,8 +293,8 @@
 		"fieldName"		"SetupBG"
 		"xpos"			"16"
 		"ypos"			"31"
-		//"ypos_hidef"	"-100"	//off-screen
-		//"ypos_lodef"	"-100"	//off-screen
+		////"ypos_hidef"	"-100"	//off-screen
+		////"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -318,8 +318,8 @@
 		//"xpos_lodef"	"0"
 		"ypos"			"33"
 		////"ypos_minmode"	"24"
-		//"ypos_hidef"	"41"
-		//"ypos_lodef"	"41"
+		////"ypos_hidef"	"41"
+		////"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
 		//"wide_hidef"	"300"
@@ -357,8 +357,8 @@
 		"fieldName"		"ServerTimeLimitLabelBG"
 		"xpos"			"16"
 		"ypos"			"31"
-		//"ypos_hidef"	"-100"	//off-screen
-		//"ypos_lodef"	"-100"	//off-screen
+		////"ypos_hidef"	"-100"	//off-screen
+		////"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"

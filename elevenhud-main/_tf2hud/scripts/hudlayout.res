@@ -56,7 +56,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"r162"	
 		////"xpos_minmode"	"r52"	
 		"ypos"			"r52"	
@@ -71,7 +71,7 @@
 	{
 		"fieldName"		"HudMedicCharge"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"r138"	
 		////"xpos_minmode"	"r100"	
 		"ypos"			"r69"	
@@ -84,7 +84,7 @@
 	{
 		"fieldName"		"HudDemomanCharge"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"r80"	
 		////"xpos_minmode"	"r52"	
 		"ypos"			"r21"	
@@ -101,7 +101,7 @@
 	{
 		"fieldName"		"HudBowCharge"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"r80"	
 		////"xpos_minmode"	"r52"	
 		"ypos"			"r21"	
@@ -118,7 +118,7 @@
 	{
 		"fieldName"		"HudFlameRocketCharge"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"r80"	
 		////"xpos_minmode"	"r52"	
 		"ypos"			"r21"	
@@ -135,7 +135,7 @@
 	{
 		"fieldName"		"HudBossHealth"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"c-100"
 		"ypos"			"42"
 		"wide"			"200"
@@ -310,8 +310,8 @@
 		//"xpos_hidef"		"32"
 		//"xpos_lodef"		"40"
 		//"ypos"		"0"
-		//"ypos_hidef"		"16"
-		//"ypos_lodef"		"25"
+		////"ypos_hidef"		"16"
+		////"ypos_lodef"		"25"
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -864,7 +864,7 @@
 		"xpos"					"c-133"
 		//"xpos_lodef"			"c-190"
 		"ypos"				"270"
-		//"ypos_lodef"			"250"
+		////"ypos_lodef"			"250"
 		"wide"					"266"
 		//"wide_lodef"			"400"
 		"tall"					"120"
@@ -924,7 +924,7 @@
 	{
 		"fieldName"		"HudUpgradePanel"
 		"visible"		"0"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 		"xpos"			"c-200"
 		"ypos"			"260"
 		"wide"			"400"
@@ -987,8 +987,8 @@
 		
 		"xpos"			"c-235"
 		"ypos"			"c-52"
-		//"ypos_hidef"	"c-42"
-		//"ypos_lodef"	"c-42"
+		////"ypos_hidef"	"c-42"
+		////"ypos_lodef"	"c-42"
 		"wide"			"470"
 		"tall"			"200"	
 		//"PaintBackgroundType"	"0"
@@ -998,7 +998,7 @@
 	{
 		"fieldName"		"HudDemomanPipes"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"r162"	
 		////"xpos_minmode"	"r110"	
 		"ypos"			"r52"	
@@ -1014,7 +1014,7 @@
 		
 		"xpos"					"c-160"
 		"ypos"					"65"
-		//"ypos_lodef"			"75"
+		////"ypos_lodef"			"75"
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -1027,7 +1027,7 @@
 		
 		"xpos"					"c-160"
 		"ypos"					"15"
-		//"ypos_lodef"			"75"
+		////"ypos_lodef"			"75"
 		"wide"					"320"
 		"tall"					"300"
 	}
@@ -1039,8 +1039,8 @@
 		
 		"xpos"					"c-160"
 		"ypos"					"75"
-		//"ypos_hidef"				"90"
-		//"ypos_lodef"			"90"
+		////"ypos_hidef"				"90"
+		////"ypos_lodef"			"90"
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -1052,8 +1052,8 @@
 		
 		"xpos"					"c-160"
 		"ypos"					"75"
-		//"ypos_hidef"				"90"
-		//"ypos_lodef"				"90"
+		////"ypos_hidef"				"90"
+		////"ypos_lodef"				"90"
 		"wide"					"320"
 		"tall"					"150"
 	}
@@ -1077,7 +1077,7 @@
 		
 		"xpos"					"c-160"
 		"ypos"					"65"
-		//"ypos_lodef"				"75"
+		////"ypos_lodef"				"75"
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -1088,7 +1088,7 @@
 		
 		"xpos"					"c-125"
 		"ypos"					"5"
-		//"ypos_lodef"				"75"
+		////"ypos_lodef"				"75"
 		"zpos"					"2"
 		"wide"					"250"
 		"tall"					"80"
@@ -1101,7 +1101,7 @@
 		
 		"xpos"					"c-90"
 		"ypos"					"-70"
-		//"ypos_lodef"				"75"
+		////"ypos_lodef"				"75"
 		"wide"					"180"
 		"tall"					"65"
 	}
@@ -1114,7 +1114,7 @@
 		"xpos"					"c-160"
 		"ypos"					"5"
 		////"ypos_minmode"				"15"
-		//"ypos_lodef"				"75"
+		////"ypos_lodef"				"75"
 		"wide"					"125"
 		"tall"					"70"
 	}
@@ -1196,7 +1196,7 @@
 		"wide"			"280"
 		"tall"			"280"
 		//"visible"		"1"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 	}
 	
 	HudTrainingInfoMsg
@@ -1256,14 +1256,14 @@
 	{
 		"fieldName"		"ReplayReminder"
 		"visible"		"0"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 	}
 	
 	MainMenuAdditions
 	{
 		"fieldName"		"MainMenuAdditions"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"xpos"			"c0"
 		"ypos"			"310"
 		
@@ -1275,7 +1275,7 @@
 	{
 		"fieldName"		"CoachedByPanel"
 		"visible"		"0"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 		"xpos"			"5"
 		"ypos"			"10"
 		"wide"			"250"
@@ -1286,7 +1286,7 @@
 	{
 		"fieldName"		"ItemTestHUDPanel"
 		"visible"		"0"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 		"xpos"			"5"
 		"ypos"			"10"
 		"wide"			"150"
@@ -1297,7 +1297,7 @@
 	{
 		"fieldName"		"NotificationQueuePanel"
 		"visible"		"0"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 		"xpos"			"r155"
 		"ypos"			"r90"
 		"zpos"			"100"
@@ -1313,7 +1313,7 @@
 		"wide"			"640"
 		"tall"			"480"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"bgcolor_override"	"Blank"
 		//"PaintBackgroundType"	"0" // rounded corners
 	}
@@ -1322,7 +1322,7 @@
 	{
 		"fieldName"		"HudAlert"
 		"visible"		"0"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		// might fix something
 		"xpos"			"c-160"
 		"ypos"			"100"
@@ -1339,7 +1339,7 @@
 		"wide"			"640"
 		"tall"			"480"
 		//"visible"		"1"
-		////"enabled"		"1"
+		//////"enabled"		"1"
 		"bgcolor_override"	"Blank"
 		//"PaintBackgroundType"	"0" // rounded corners
 	}
@@ -1363,8 +1363,8 @@
 		
 		"xpos"			"c-235"
 		"ypos"			"c-52"
-		//"ypos_hidef"	"c-42"
-		//"ypos_lodef"	"c-42"
+		////"ypos_hidef"	"c-42"
+		////"ypos_lodef"	"c-42"
 		"wide"			"470"
 		"tall"			"200"
 		//"PaintBackgroundType"	"0"

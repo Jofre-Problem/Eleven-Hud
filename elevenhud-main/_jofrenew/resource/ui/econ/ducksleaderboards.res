@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 
 		"score_step"	"30"
 
@@ -38,7 +38,7 @@
 				"wide"			"100"
 				"tall"			"16"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"auto_wide_tocontents"	"1"
@@ -60,7 +60,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"		"0"
@@ -83,7 +83,7 @@
 			"autoResize"	"3"
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"border"		"MainMenuBGBorder"
 			"PaintBackgroundType"	"2"
@@ -98,7 +98,7 @@
 				"wide"			"o1"
 				"tall"			"p1.09"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			"../HUD/eotl_leaderboard_background"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
@@ -117,7 +117,7 @@
 				"autoResize"	"3"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				
 				"PaintBackgroundType"	"2"
 				"proportionaltoparent"	"1"
@@ -138,7 +138,7 @@
 					"autoResize"	"1"
 					
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"fgcolor_override"	"Tanlight"
 					"proportionaltoparent" "1"
 				}
@@ -174,7 +174,7 @@
 					"autoResize"	"1"
 					
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"wrap"			"1"
 					"fgcolor_override"	"Tanlight"
 					"proportionaltoparent" "1"
@@ -190,7 +190,7 @@
 					"tall"			"p0.8"
 					
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					
 					"proportionaltoparent"	"1"
 				}
@@ -211,7 +211,7 @@
 				"autoResize"	"1"
 				
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"fgcolor_override"	"Tanlight"
 				"proportionaltoparent" "1"
 			}
@@ -228,7 +228,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				
 				"labelText"		""
 				"font"			"HudFontSmall"
@@ -260,7 +260,7 @@
 					"wide"			"14"
 					"tall"			"14"
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"image"			"close_button"
 					"scaleImage"	"1"
 				}				
@@ -278,7 +278,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				
 				"labelText"		""
 				"font"			"HudFontSmall"
@@ -310,7 +310,7 @@
 					"wide"			"f0"
 					"tall"			"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"image"			"blog_forward_solid"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -329,7 +329,7 @@
 				
 				
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				
 				"labelText"		""
 				"font"			"HudFontSmall"
@@ -361,7 +361,7 @@
 					"wide"			"f0"
 					"tall"			"f0"
 					"visible"		"1"
-					"enabled"		"1"
+					//"enabled"		"1"
 					"image"			"blog_back_solid"
 					"scaleImage"	"1"
 					"proportionaltoparent" "1"
@@ -398,7 +398,7 @@
 			
 			
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
@@ -417,7 +417,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"bgcolor_override"	"0 0 0 252"
 	}
@@ -434,7 +434,7 @@
 		
 		
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"labelText"			""
 		"bgcolor_override"	"0 0 0 220"

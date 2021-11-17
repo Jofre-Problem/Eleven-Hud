@@ -23,7 +23,7 @@
 		"wide"			"120"
 		"tall"			"11"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"
 		"font"			"CustomPrimero"
 
@@ -48,7 +48,7 @@
 		"wide"			"59"
 		"tall"			"2"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor_override"		"WhiteSolid"
 		"bgcolor_override"		"0 0 0 100"
 

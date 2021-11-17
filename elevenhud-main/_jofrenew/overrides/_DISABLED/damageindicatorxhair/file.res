@@ -10,7 +10,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay\thumbnails\crosshair\meddot"
 		"scaleImage"	"1"
 		"alpha"			"255"
@@ -25,7 +25,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay\thumbnails\hp\REFRACTdamageindicator"
 		"scaleImage"	"1"
 	}
@@ -56,7 +56,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fillcolor"		"0 0 0 125"
 	}
 }

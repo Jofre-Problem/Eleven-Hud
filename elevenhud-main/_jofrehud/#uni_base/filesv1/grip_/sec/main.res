@@ -7,7 +7,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"TopRightGrip"
@@ -17,7 +17,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"BottomLeftGrip"
@@ -27,7 +27,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"BottomRightGrip"
@@ -37,7 +37,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 }	

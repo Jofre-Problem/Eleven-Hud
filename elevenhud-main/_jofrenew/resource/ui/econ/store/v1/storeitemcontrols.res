@@ -10,7 +10,7 @@
 		"wide"			"15"
 		"tall"			"15"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 
 	"AddToCart"
@@ -21,10 +21,10 @@
 		"ypos"			"0"
 		"wide"			"15"
 		"tall"			"15"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"textinsetx"	"100"
 		"use_proportional_insets" "1"
@@ -61,7 +61,7 @@
 			"wide"			"9"
 			"tall"			"9"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"store_cart"
 			"scaleImage"	"1"
 		}				

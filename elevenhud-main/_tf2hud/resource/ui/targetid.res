@@ -155,19 +155,12 @@
 	
 	"KillStreakIcon"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"KillStreakIcon"
-		"xpos"			"10"
-		////"xpos_minmode"	"30"
-		"ypos"			"20"
-		////"ypos_minmode"	"16"
-		"zpos"			"12"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
 		
-		"image"			"../hud/leaderboard_streak"
-		"scaleImage"	"1"
+		"image"			"replay/thumbnails/null"
+		"scaleImage"	"0"
 	}
 	
 	"MoveableSubPanel"
@@ -180,7 +173,7 @@
 		"wide"			"32"
 		"tall"			"36"
 		"visible"		"1"
-		"enabled"		"1"	
+		//"enabled"		"1"	
 		
 		"MoveableIconBG"
 		{

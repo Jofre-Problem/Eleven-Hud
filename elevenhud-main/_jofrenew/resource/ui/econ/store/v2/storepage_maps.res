@@ -67,7 +67,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	
 	"SubTitleLabel"
@@ -85,7 +85,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor"		"96 90 85 255"
 	}
 	
@@ -98,10 +98,10 @@
 		"zpos"			"5"
 		"wide"			"120"
 		"tall"			"25"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Store_LearnMore"
 		"font"			"HudFontSmallBold"

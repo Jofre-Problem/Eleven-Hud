@@ -184,7 +184,7 @@
 		"wide"			"f0"
 		"tall"			"10"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"
 		"image"			"replay/thumbnails/bottom_shadow"
 		pin_to_sibling			"Lista"
@@ -201,7 +201,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"bgcolor_override"	"0 0 0 0"
 	}

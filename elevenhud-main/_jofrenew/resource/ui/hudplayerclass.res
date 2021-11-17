@@ -13,7 +13,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"		
+		//"enabled"		"1"		
 	}
 	"PlayerStatusClassImage"
 	{
@@ -85,10 +85,10 @@
 		"zpos"			"-100"		
 		"wide"			"100"
 		"tall"			"200"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"render_texture"	"0"
 		"fov"			"12"

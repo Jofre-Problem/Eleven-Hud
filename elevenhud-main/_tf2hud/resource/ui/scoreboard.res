@@ -8,10 +8,10 @@
 		"ypos"			"31"
 		"wide"			"640"
 		"tall"			"448"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"		"0"
 		"medal_width"		"20"
 		"avatar_width"		"65"
@@ -32,10 +32,10 @@
 		"ypos"			"9"
 		"wide"			"290"
 		"tall"			"71"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/score_panel_blue_bg_solid"
 		"scaleImage"		"1"
 		
@@ -54,7 +54,7 @@
 		"wide"			"60"
 		"tall"			"60"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/team_blue"
 		"scaleImage"		"1"
 
@@ -73,7 +73,7 @@
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -99,10 +99,10 @@
 		"ypos"			"9"
 		"wide"			"290"
 		"tall"			"71"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/score_panel_red_bg_solid"
 		"scaleImage"		"1"
 
@@ -122,7 +122,7 @@
 		"wide"			"80"
 		"tall"			"80"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/team_red"
 		"scaleImage"		"1"
 
@@ -141,7 +141,7 @@
 		"wide"			"45"
 		"tall"			"45"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			""
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
@@ -168,10 +168,10 @@
 		"zpos"			"-1"
 		"wide"			"640"
 		"tall"			"410"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -195,7 +195,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -214,10 +214,10 @@
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"55"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -237,10 +237,10 @@
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"55"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -261,7 +261,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -283,7 +283,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -302,10 +302,10 @@
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"55"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -325,10 +325,10 @@
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"55"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -349,7 +349,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -366,13 +366,13 @@
 		"xpos"			"11"
 		"xpos_hidef"	"31"
 		"ypos"			"60"
-		"ypos_lodef"	"62"
+		//"ypos_lodef"	"62"
 		"wide"			"300"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -389,10 +389,10 @@
 		"zpos"			"-1"
 		"wide"			"80"
 		"tall"			"43"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -409,10 +409,10 @@
 		"zpos"			"1"
 		"wide"			"68"
 		"tall"			"23"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"border"		"TFFatLineBorderOpaque"
 
 		if_mvm
@@ -432,10 +432,10 @@
 		"zpos"			"2"
 		"wide"			"72"
 		"tall"			"10"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -454,10 +454,10 @@
 		"zpos"			"2"
 		"wide"			"72"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor"		"BrightYellow"
 		"centerwrap"	"1"
 		
@@ -477,10 +477,10 @@
 		"ypos"			"60"
 		"wide"			"300"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -499,7 +499,7 @@
 		"tall"			"280"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
 		"linespacing"	"18"
@@ -523,7 +523,7 @@
 		"tall"			"280"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
 		"linespacing"	"18"
@@ -545,10 +545,10 @@
 		"zpos"			"2"
 		"wide"			"2"
 		"tall"			"292"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 153"
 		"PaintBackgroundType"	"0"
@@ -570,10 +570,10 @@
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -592,10 +592,10 @@
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -611,10 +611,10 @@
 		"zpos"			"-2"
 		"wide"			"633"
 		"tall"			"72"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 153"
 		"PaintBackgroundType"	"0"
@@ -635,7 +635,7 @@
 		"wide"			"92"
 		"tall"			"92"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
 		
@@ -654,10 +654,10 @@
 		"zpos"			"10"		
 		"wide"			"130"
 		"tall"			"260"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		"render_texture"	"0"
 		"fov"			"12"
@@ -794,10 +794,10 @@
 		"zpos"			"-1"
 		"wide"			"485"
 		"tall"			"29"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"border"		"TFThinLineBorder"
 		
 		if_mvm
@@ -817,10 +817,10 @@
 		"zpos"			"3"
 		"wide"			"300"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -840,10 +840,10 @@
 		"zpos"			"3"
 		"wide"			"265"
 		"tall"			"12"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -862,10 +862,10 @@
 		"zpos"			"3"
 		"wide"			"265"
 		"tall"			"12"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"fgcolor"		"236 227 203 255"
 
 		if_mvm
@@ -882,10 +882,10 @@
 		"zpos"			"3"
 		"wide"			"465"
 		"tall"			"1"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"	
 		"fillcolor"		"127 127 127 153"
 		"PaintBackgroundType"	"0"
@@ -907,7 +907,7 @@
 		"zpos"			"3"
 		"wide"			"140"
 		"tall"			"20"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
@@ -927,10 +927,10 @@
 		"zpos"			"3"
 		"wide"			"600"
 		"tall"			"53"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -949,10 +949,10 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 
 		"DuelingIcon"
@@ -965,7 +965,7 @@
 			"wide"			"32"
 			"tall"			"32"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"../backpack/player/items/crafting/icon_dueling"
 			"scaleImage"	"1"
 		}
@@ -978,10 +978,10 @@
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"53"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 	
 			"AvatarBGPanel"
 			{
@@ -1006,7 +1006,7 @@
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			""
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
@@ -1021,10 +1021,10 @@
 				"zpos"			"2"
 				"wide"			"100"
 				"tall"			"18"
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"east"
@@ -1041,10 +1041,10 @@
 				"zpos"			"3"
 				"wide"			"100"
 				"tall"			"20"
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"font"			"ScoreboardMedium"
 			}
 		}
@@ -1057,10 +1057,10 @@
 			"ypos"			"0"
 			"wide"			"200"
 			"tall"			"53"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 	
 			"AvatarBGPanel"
 			{
@@ -1085,7 +1085,7 @@
 				"wide"			"32"
 				"tall"			"32"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"image"			""
 				"scaleImage"	"1"	
 				"color_outline"	"52 48 45 255"
@@ -1100,10 +1100,10 @@
 				"zpos"			"2"
 				"wide"			"100"
 				"tall"			"18"
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
@@ -1120,10 +1120,10 @@
 				"zpos"			"3"
 				"wide"			"200"
 				"tall"			"20"
-				"autoResize"	"0"
+				//"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
-				"enabled"		"1"
+				//"enabled"		"1"
 				"font"			"ScoreboardMedium"
 			}
 		}
@@ -1138,10 +1138,10 @@
 		"zpos"			"3"
 		"wide"			"600"
 		"tall"			"448"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		
 		if_mvm
 		{
@@ -1160,10 +1160,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"DeathsLabel"
 		{
@@ -1177,10 +1177,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"AssistsLabel"
 		{
@@ -1194,10 +1194,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"DestructionLabel"
 		{
@@ -1211,10 +1211,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}												
 		"Kills"
 		{
@@ -1228,10 +1228,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Deaths"
 		{
@@ -1245,10 +1245,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}	
 		"GameType"
 		{
@@ -1262,7 +1262,7 @@
 			"zpos"			"3"
 			"wide"			"145"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
@@ -1280,10 +1280,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Destruction"
 		{
@@ -1297,10 +1297,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"CapturesLabel"
 		{
@@ -1314,10 +1314,10 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"DefensesLabel"
 		{
@@ -1331,10 +1331,10 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"DominationLabel"
 		{
@@ -1348,10 +1348,10 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"RevengeLabel"
 		{
@@ -1365,10 +1365,10 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Captures"
 		{
@@ -1382,10 +1382,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Defenses"
 		{
@@ -1399,10 +1399,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Domination"
 		{
@@ -1416,10 +1416,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Revenge"
 		{
@@ -1433,10 +1433,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"HealingLabel"
 		{
@@ -1450,10 +1450,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"InvulnLabel"
 		{
@@ -1467,10 +1467,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"TeleportsLabel"
 		{
@@ -1484,10 +1484,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"HeadshotsLabel"
 		{
@@ -1501,10 +1501,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Healing"
 		{
@@ -1518,10 +1518,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Invuln"
 		{
@@ -1535,10 +1535,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Teleports"
 		{
@@ -1552,10 +1552,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"Headshots"
 		{
@@ -1569,10 +1569,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}						
 		"BackstabsLabel"
 		{
@@ -1586,10 +1586,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"Backstabs"
 		{
@@ -1603,10 +1603,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}		
 		"BonusLabel"
 		{
@@ -1624,7 +1624,7 @@
 			"autoResize"		"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"Bonus"
 		{
@@ -1641,7 +1641,7 @@
 			"autoResize"		"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"SupportLabel"
 		{
@@ -1655,10 +1655,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"Support"
 		{
@@ -1672,10 +1672,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"DamageLabel"
 		{
@@ -1689,10 +1689,10 @@
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"Damage"
 		{
@@ -1706,10 +1706,10 @@
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 	}
 

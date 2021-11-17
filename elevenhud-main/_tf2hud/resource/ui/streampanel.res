@@ -38,7 +38,7 @@
 			"wide"			"50"
 			"tall"			"50"
 			//"visible"		"1"
-			////"enabled"		"1"	
+			//////"enabled"		"1"	
 			"scaleImage"	"1"
 			"image"			"animated/tf2_logo_hourglass"
 
@@ -77,7 +77,7 @@
 		"wide"			"80"
 		"tall"			"50"
 		//"visible"		"1"
-		////"enabled"		"1"	
+		//////"enabled"		"1"	
 		//"scaleImage"	"0"
 	}
 

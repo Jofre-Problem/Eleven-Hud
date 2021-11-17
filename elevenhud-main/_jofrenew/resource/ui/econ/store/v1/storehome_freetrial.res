@@ -9,10 +9,10 @@
 		"ypos"			"40"
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
@@ -70,7 +70,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"	
 			"visible"		"0"
-			"enabled"		"1"
+			//"enabled"		"1"
 			
 			"use_item_sounds" "1"
 		}
@@ -105,10 +105,10 @@
 			"zpos"			"2"
 			"wide"			"140"
 			"tall"			"60"
-			"autoResize"	"0"
+			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
 			"fgcolor"		"117 107 94 255"
@@ -125,7 +125,7 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	
 		"MannCoImage"
 		{
@@ -137,7 +137,7 @@
 			"wide"			"220"
 			"tall"			"80"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"store/store_mannco_logo"
 			"scaleImage"	"1"
 		}
@@ -151,7 +151,7 @@
 			"wide"			"275"
 			"tall"			"200"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"store/store_saxton_thumbs_up"
 			"scaleImage"	"1"
 		}
@@ -203,7 +203,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}		
 	"FeaturedItemPrice"
 	{
@@ -220,7 +220,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}		
 	"FeaturedItemSymbol"
 	{
@@ -232,7 +232,7 @@
 		"wide"			"50"
 		"tall"			"50"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"store/store_starburst"
 		"scaleImage"	"1"
 	}
@@ -252,7 +252,7 @@
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 	}
 	
 	"CheckoutButton"
@@ -264,10 +264,10 @@
 		"zpos"			"1"
 		"wide"			"210"
 		"tall"			"25"
-		"autoResize"	"0"
+		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#Store_StartShopping"
 		"font"			"HudFontSmallBold"
@@ -320,7 +320,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 		}
 		"FreeTrialTitleShadow"
 		{
@@ -337,7 +337,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"fgcolor"		"Black"
 		}
 
@@ -356,7 +356,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 		}
 		
@@ -370,7 +370,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
 			"tileVertically" "0"
@@ -390,7 +390,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor"		"117 107 94 255"
 		}
@@ -404,7 +404,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
 			"tileVertically" "0"
@@ -424,7 +424,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor"		"117 107 94 255"
 		}
@@ -438,7 +438,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
 			"tileVertically" "0"
@@ -458,7 +458,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor"		"117 107 94 255"
 		}
@@ -472,7 +472,7 @@
 			"wide"			"3"
 			"tall"			"5"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"loadout_dotted_line"
 			"tileImage"		"1"
 			"tileVertically" "0"
@@ -492,7 +492,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor"		"117 107 94 255"
 		}
@@ -512,7 +512,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"fgcolor"		"178 82 22 255"
 		}
 		
@@ -531,7 +531,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"wrap"			"1"
 		}
 
@@ -545,7 +545,7 @@
 			"wide"			"100"
 			"tall"			"100"
 			"visible"		"1"
-			"enabled"		"1"
+			//"enabled"		"1"
 			"image"			"../backpack/player/items/all_class/all_manncap_large"
 			"scaleImage"	"1"
 		}

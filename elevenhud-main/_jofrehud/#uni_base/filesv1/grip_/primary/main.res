@@ -7,7 +7,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"BottomGrip"
@@ -17,7 +17,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"LeftGrip"
@@ -27,7 +27,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 	"RightGrip"
@@ -37,7 +37,7 @@
 		//"autoResize"		"0"
 		//"pinCorner"		"0"
 		"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 		"tabPosition"		"0"
 	}
 }	

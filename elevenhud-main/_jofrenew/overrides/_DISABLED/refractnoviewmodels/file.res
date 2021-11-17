@@ -11,7 +11,7 @@
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/REFRACTnormal"
 		"scaleImage"	"1"
 	}

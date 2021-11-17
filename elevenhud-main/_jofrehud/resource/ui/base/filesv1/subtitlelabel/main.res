@@ -6,6 +6,6 @@
 		"fieldName"		"SubtitleLabel"
 		//"pinCorner"		"0"
 		//"visible"		"1"
-		//"enabled"		"1"
+		////"enabled"		"1"
 	}	
 }

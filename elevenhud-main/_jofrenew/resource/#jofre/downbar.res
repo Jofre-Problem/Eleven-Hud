@@ -11,8 +11,8 @@
 		zPos					1003
 		wide					f0
 		alpha			"210"
-		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
-		bgcolor_override				"W_ColorTheme1"//"W_ColorTheme1"
+		tall					"p0.043"	//p0.0525 //p0.05 = 1mm...
+		bgcolor_override				"W_ColorTheme1"//"255 0 255 255"//W_ColorTheme1"//"W_ColorTheme1"
 		mouseInputEnabled			0			// mouse input passes though to panels below
 		"PaintBackgroundType"	"0"
 	}
@@ -21,17 +21,17 @@
 			"ControlName"		"ImagePanel"
 			"fieldName"		"Gradient"
 		xPos					0
-		yPos					rs1
+		yPos					0
 		zPos					1004
 		wide					f0
 		alpha			"210"
-		tall					"p0.051"	//p0.0525 //p0.05 = 1mm...
+		tall					"p0.043"	//p0.0525 //p0.05 = 1mm...
 		
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
 			"mouseinputenabled"	"0"
 			"alpha"		"160"
-
+pin_to_sibling		"DownBar"
 			"image"		"replay/thumbnails/gradient"		
 		}	
 			"DownBar2"				// background for the left side buttons

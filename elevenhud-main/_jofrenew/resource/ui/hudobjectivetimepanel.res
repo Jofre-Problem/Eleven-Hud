@@ -10,7 +10,7 @@
 		"wide"			"78"
 		"tall"			"33"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/timericon_bg_dx9"	
 		"scaleImage"		"1"	
 	}
@@ -24,7 +24,7 @@
 		"wide"			"72"
 		"tall"			"24"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/timericon_bg_dx9"	
 		"scaleImage"		"1"	
 	}
@@ -38,7 +38,7 @@
 		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"replay/thumbnails/hp/timericon_refract"
 		"scaleimage"	"1"
 	}
@@ -71,7 +71,7 @@
 		"tall"			"19"
 		"fgcolor"		"236 240 241 255"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#game_WaitingForPlayers"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -86,13 +86,13 @@
 		"xpos"			"216"	[$WIN32]
 		"xpos"			"211"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
+		//"ypos_hidef"	"-100"	//off-screen
+		//"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 	}
@@ -107,7 +107,7 @@
 		"tall"			"20"
 		"fgcolor"		"255 25 50 255"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"F"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -122,13 +122,13 @@
 		"xpos"			"216"	[$WIN32]
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
+		//"ypos_hidef"	"-100"	//off-screen
+		//"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 	}
@@ -143,7 +143,7 @@
 		"tall"			"19"
 		"fgcolor"		"236 240 241 255"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#game_SuddenDeath"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -158,13 +158,13 @@
 		"xpos"			"216"	[$WIN32]
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
+		//"ypos_hidef"	"-100"	//off-screen
+		//"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 	}	
@@ -179,7 +179,7 @@
 		"tall"			"19"
 		"fgcolor"		"236 240 241 255"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"#game_Setup"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -194,13 +194,13 @@
 		"xpos"			"216"	[$WIN32]
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
+		//"ypos_hidef"	"-100"	//off-screen
+		//"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 	}
@@ -215,7 +215,7 @@
 		"tall"			"19"
 		"fgcolor"		"236 240 241 255"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"center"
 		"dulltext"		"0"
@@ -230,13 +230,13 @@
 		"xpos"			"216"	[$WIN32]
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
-		"ypos_hidef"	"-100"	//off-screen
-		"ypos_lodef"	"-100"	//off-screen
+		//"ypos_hidef"	"-100"	//off-screen
+		//"ypos_lodef"	"-100"	//off-screen
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 	}

@@ -5,7 +5,7 @@
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"xpos"			"c-190"
 		"ypos"			"r19"
 		"wide"			"60"
@@ -24,7 +24,7 @@
 		"wide"			"60"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"border"		"noborder"
 	}
 	
@@ -38,7 +38,7 @@
 		"wide"			"12"
 		"tall"			"12"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"image"			"../hud/ico_powerup_critboost_red"
 		"scaleImage"	"1"
 	}

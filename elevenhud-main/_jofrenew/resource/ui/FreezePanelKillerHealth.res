@@ -10,7 +10,7 @@
 		"wide"			"200"
 		"tall"			"20"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
@@ -65,7 +65,7 @@
 		"wide"			"40"
 		"tall"			"28"
 		"visible"		"1"
-		"enabled"		"1"
+		//"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%Health%"
 		"font"			"NotoBold24"

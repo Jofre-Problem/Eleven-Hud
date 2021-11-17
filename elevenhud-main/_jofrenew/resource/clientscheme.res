@@ -486,7 +486,17 @@ Scheme
 				"yres"			"0 2000"
 			}
 		}		
-		"Segoe10"
+		"Segoe9"
+		{
+			"1"
+			{
+				"name"		"FantasqueSansMono-Regular"
+				"tall"		"9"
+				"wide"		"100"
+				"antialias" 	"1"
+			}
+		}		
+		"Segoe12"
 		{
 			"1"
 			{
@@ -496,7 +506,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		"Segoe10-Blur"
+		"Segoe12-Blur"
 		{
 			"1"
 			{
