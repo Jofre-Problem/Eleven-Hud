@@ -10,7 +10,7 @@
 		//"tall"		"240"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 	}
@@ -25,13 +25,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"7"
 		//////"labelText"		"#Okay_Button"
 		//////"textAlignment"		"center"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"okay"
 		////"Default"		"0"
 	}
@@ -45,13 +45,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"8"
 		//////"labelText"		"#Cancel_Button"
 		//////"textAlignment"		"center"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"close"
 		////"Default"		"0"
 	}
@@ -65,13 +65,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"#Options_Panel_AutoRefresh"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Default"		"0"
 	}
 	"RconCheckButton"
@@ -84,13 +84,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"3"
 		//////"labelText"		"#Options_Panel_SaveRcon"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Default"		"0"
 	}
 	"RefreshTextEntry"
@@ -103,7 +103,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
@@ -120,13 +120,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"4"
 		//////"labelText"		"#Options_Panel_Collect_Stats"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Default"		"0"
 	}
 	"GraphsRefreshTimeTextEntry"
@@ -139,7 +139,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"5"
 		////"textHidden"		"0"
@@ -156,13 +156,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"6"
 		//////"labelText"		"#Options_Panel_Get_Logs"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Default"		"0"
 	}
 	"TimeLabel"
@@ -175,13 +175,13 @@
 		//"tall"		"16"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"labelText"		"#Options_Panel_Seconds"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//"associate"		"RefreshCheckButton"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"WarningLabel1"
 	{
@@ -193,12 +193,12 @@
 		//"tall"		"16"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"labelText"		"#Options_Panel_SaveRcon_Unsecure"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"GraphsTimelabel"
 	{
@@ -210,12 +210,12 @@
 		//"tall"		"16"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"labelText"		"#Options_Panel_Collect_Stats_Time"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"Label1"
 	{
@@ -227,11 +227,11 @@
 		//"tall"		"16"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"labelText"		"#Options_Panel_Seconds"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 }

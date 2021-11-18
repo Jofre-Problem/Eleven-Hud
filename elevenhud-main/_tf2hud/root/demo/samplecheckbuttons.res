@@ -9,11 +9,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"Label for the group of Check buttons"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 	"Check1"
 	{
@@ -25,11 +25,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"Reverse Mouse"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Check2"
@@ -42,11 +42,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"MouseLook"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Check3"
@@ -59,11 +59,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"Mouse filter"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Check4"
@@ -76,11 +76,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"Joy stick"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Check5"
@@ -93,11 +93,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		//////"tabPosition"		"1"
 		//////"labelText"		"Disabled"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 
@@ -110,11 +110,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Reverse mouse up/down axis"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 
 	"CheckDesc2"
@@ -126,11 +126,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Use the mouse to look around"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 
 	"CheckDesc3"
@@ -142,11 +142,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Smoothes mouse movement"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 
 	"CheckDesc4"
@@ -158,11 +158,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Enable the joystick"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 
 	"CheckDesc5"
@@ -174,10 +174,10 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"Use the joystick to look around"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 }

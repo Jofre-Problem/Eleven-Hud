@@ -22,7 +22,7 @@
 
 		//////"pinCorner"			"0"
 
-		////"visible"		"1"
+		//////"visible"		"1"
 
 		//////"enabled"		"1"
 
@@ -54,7 +54,7 @@
 
 		//////"pinCorner"			"0"
 
-		////"visible"		"1"
+		//////"visible"		"1"
 
 		//////"enabled"		"1"
 
@@ -64,9 +64,9 @@
 
 		////"textAlignment"		"north-west"
 
-		////"dulltext"		"0"
+		//////"dulltext"		"0"
 
-		////"brighttext"		"0"
+		//////"brighttext"		"0"
 
 		//"wrap"		"1"
 

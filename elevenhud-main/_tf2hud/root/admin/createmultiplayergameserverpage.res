@@ -10,7 +10,7 @@
 		//"tall"		"360"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		"settitlebarvisible"		"1"
@@ -25,7 +25,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
@@ -43,7 +43,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"4"
 		////"textHidden"		"0"
@@ -61,7 +61,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"5"
 		////"textHidden"		"0"
@@ -79,7 +79,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
@@ -97,13 +97,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"9"
 		//////"labelText"		"#Start_Server_Button"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"start"
 		//////"Default"		"1"
 	}
@@ -117,13 +117,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"10"
 		//////"labelText"		"#Start_Server_Cancel"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"cancel"
 		////"Default"		"0"
 	}
@@ -137,13 +137,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"8"
 		//////"labelText"		"#Start_Server_Secure"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		//////"Default"		"1"
 		"state"		"0"
 	}
@@ -158,7 +158,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
@@ -176,14 +176,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#Start_Server_Name_Label"
 		//////"textAlignment"		"east"
 		//"associate"		"ServerNameEdit"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"MaxPlayersLabel"
 	{
@@ -195,14 +195,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#Start_Server_Max_Players_Label"
 		//////"textAlignment"		"east"
 		//"associate"		"NumPlayers"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"MODLabel"
 	{
@@ -214,14 +214,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Game"
 		//////"textAlignment"		"east"
 		//"associate"		"MODCombo"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"Label1"
 	{
@@ -233,14 +233,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#Start_Server_Map_Label"
 		//////"textAlignment"		"east"
 		//"associate"		"MapList"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"Label4"
 	{
@@ -252,14 +252,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#Start_Server_Network_Label"
 		//////"textAlignment"		"east"
 		//"associate"		"NetworkCombo"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"RCONPasswordEdit"
 	{
@@ -271,7 +271,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"7"
 		////"textHidden"		"0"
@@ -289,14 +289,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#Start_Server_RCON_Password"
 		//////"textAlignment"		"east"
 		//"associate"		"RCONPasswordEdit"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"Label2"
 	{
@@ -308,14 +308,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"UDP Port"
 		//////"textAlignment"		"east"
 		//"associate"		"PortEdit"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"PortEdit"
 	{
@@ -327,7 +327,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"6"
 		////"textHidden"		"0"

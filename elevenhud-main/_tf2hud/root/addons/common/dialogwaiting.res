@@ -10,7 +10,7 @@
 		//"tall"		"140"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -24,13 +24,13 @@
 		//"tall"		"40"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"Setting up YYY Game with XXX"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"AbortBtn"
 	{
@@ -42,13 +42,13 @@
 		//"tall"		"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"Abort"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		//////"Default"		"0"
 	}
 }

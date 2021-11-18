@@ -9,11 +9,11 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Label for the group of radio buttons"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 	"Radio1"
 	{
@@ -25,12 +25,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		"SubTabPosition"  "0"
 		//////"labelText"		"Training Room"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Radio2"
@@ -43,12 +43,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		"SubTabPosition"  "1"
 		//////"labelText"		"Easy"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Radio3"
@@ -61,12 +61,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		"SubTabPosition"  "2"
 		//////"labelText"		"Medium"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Radio4"
@@ -79,12 +79,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		"SubTabPosition"  "3"
 		//////"labelText"		"Difficult"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 	"Radio5"
@@ -97,12 +97,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		
 		"SubTabPosition"  "4"
 		//////"labelText"		"Disabled"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 
@@ -115,7 +115,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Description"
@@ -131,7 +131,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Description"
@@ -147,7 +147,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Description"
@@ -163,7 +163,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Description"
@@ -179,7 +179,7 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"Description"

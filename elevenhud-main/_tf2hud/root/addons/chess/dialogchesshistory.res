@@ -10,7 +10,7 @@
 		//"tall"		"380"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		//"tall"		"320"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -38,13 +38,13 @@
 		//"tall"		"48"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"#SteamAddOn_ReviewMoves"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"MoveHistoryPanel"
 	{
@@ -56,12 +56,12 @@
 		//"tall"		"250"
 		////////"autoResize"		"3"
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"CloseButton"
 	{
@@ -73,13 +73,13 @@
 		//"tall"		"24"
 		
 		//////"pinCorner"		"3"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"#SteamAddOn_Close"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		//////"Default"		"0"
 	}
 }

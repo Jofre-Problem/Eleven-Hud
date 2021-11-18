@@ -10,7 +10,7 @@
 		//"tall"		"289"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		////"WizardWide"		"0"
@@ -26,13 +26,13 @@
 		//"tall"		"60"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#Friends_SearchingForFriend"
 		////"textAlignment"		"north-west"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 		//"wrap"		"1"
 	}
 }

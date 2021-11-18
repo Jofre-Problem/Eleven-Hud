@@ -25,7 +25,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
@@ -57,7 +57,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
@@ -91,7 +91,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
@@ -109,11 +109,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"4"
 		//////"labelText"		"#Config_Friendly_Fire"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}
 
 
@@ -132,11 +132,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"5"
 		//////"labelText"		"#Config_Uploads"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}
 
 
@@ -164,7 +164,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"6"
 		////"textHidden"		"0"
@@ -196,7 +196,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"7"
 		////"textHidden"		"0"
@@ -214,11 +214,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"8"
 		//////"labelText"		"#Config_Voice"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}
 
 

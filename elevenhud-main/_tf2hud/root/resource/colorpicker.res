@@ -10,7 +10,7 @@
 		//"tall"			"480"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//"settitlebarvisible"	"1"
@@ -26,7 +26,7 @@
 			//"tall"			"256"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			
 		}
@@ -41,7 +41,7 @@
 			//"tall"			"268"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			
 		}
@@ -56,7 +56,7 @@
 			//"tall"			"50"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			
 		}
@@ -71,7 +71,7 @@
 			//"tall"			"50"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			
 		}
@@ -86,14 +86,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"selected"		"1"
 			//////"tabPosition"		"8"
 			//////"labelText"			"H"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 			////"wrap"				"0"
 			////"Default"			"0"
 			"SubTabPosition"	"1"
@@ -109,13 +109,13 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"8"
 			//////"labelText"			"S"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 			////"wrap"				"0"
 			////"Default"			"0"
 			"SubTabPosition"	"2"
@@ -131,13 +131,13 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"8"
 			//////"labelText"			"V"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 			////"wrap"				"0"
 			////"Default"			"0"
 			"SubTabPosition"	"3"
@@ -153,13 +153,13 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"8"
 			//////"labelText"			"R"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 			////"wrap"				"0"
 			////"Default"			"0"
 			"SubTabPosition"	"4"
@@ -175,13 +175,13 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"8"
 			//////"labelText"			"G"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 			////"wrap"				"0"
 			////"Default"			"0"
 			"SubTabPosition"	"5"
@@ -197,13 +197,13 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"8"
 			//////"labelText"			"B"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 			////"wrap"				"0"
 			////"Default"			"0"
 			"SubTabPosition"	"6"
@@ -219,14 +219,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			//////"tabPosition"		"1"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 		
 		"SaturationText"
@@ -239,14 +239,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			//////"tabPosition"		"2"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 
 		"SaturationLabel"
@@ -259,14 +259,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			
 			//////"labelText"			"%"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 
 		"ValueText"
@@ -279,14 +279,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			//////"tabPosition"		"3"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 
 		"ValueLabel"
@@ -299,14 +299,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			
 			//////"labelText"			"%"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 
 		"RedText"
@@ -319,14 +319,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			//////"tabPosition"		"4"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 
 		"GreenText"
@@ -339,14 +339,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			//////"tabPosition"		"5"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 
 		"BlueText"
@@ -360,13 +360,13 @@
 			//"NumericInputOnly" "1"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"6"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}		
 			
 		"AlphaText"
@@ -380,13 +380,13 @@
 			//"NumericInputOnly" "1"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"		"7"
 			//////"labelText"			""
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}	
 		
 		"AlphaLabel"
@@ -399,14 +399,14 @@
 			//"tall"			"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//"NumericInputOnly" "1"
 			
 			//////"labelText"			"A"
-			////////"textAlignment"		"west"
+			//////////"textAlignment"		"west"
 			////////"dulltext"			"0"
-			////////"brighttext"		"0"
+			//////////"brighttext"		"0"
 		}
 	}
 }

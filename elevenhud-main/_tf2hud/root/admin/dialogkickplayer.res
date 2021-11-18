@@ -10,7 +10,7 @@
 		//"tall"		"150"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 	}
@@ -25,12 +25,12 @@
 		//"tall"		"66"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"textAlignment"		"center"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"PlayerLabel"
 	{
@@ -42,12 +42,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"textAlignment"		"center"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"OkayButton"
 	{
@@ -59,12 +59,12 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"3"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"Okay"
 		//////"Default"		"1"
 	}
@@ -78,13 +78,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		//////"labelText"		"#Cancel_Button"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"Close"
 		////"Default"		"0"
 	}

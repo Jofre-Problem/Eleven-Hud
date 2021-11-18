@@ -10,7 +10,7 @@
 		//"tall"		"435"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -25,7 +25,7 @@
 		//"tall"		"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -39,13 +39,13 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"#SteamAddOn_StartGame"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		//////"Default"		"0"
 	}
 	"Divider0"
@@ -58,7 +58,7 @@
 		//"tall"		"2"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}	
@@ -74,7 +74,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_North"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}	
@@ -88,7 +88,7 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -102,11 +102,11 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"#SteamAddOn_Invite"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	"CancelInviteButton0"
@@ -123,7 +123,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_Cancel"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	
@@ -138,7 +138,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_East"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}		
@@ -152,7 +152,7 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -166,11 +166,11 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"#SteamAddOn_Invite"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	"CancelInviteButton1"
@@ -187,7 +187,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_Cancel"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	"PlayerPositionLabel2"
@@ -201,7 +201,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_South"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}			
@@ -215,7 +215,7 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -229,11 +229,11 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"#SteamAddOn_Invite"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	"CancelInviteButton2"
@@ -250,7 +250,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_Cancel"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	"PlayerPositionLabel3"
@@ -264,7 +264,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_West"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}			
@@ -279,7 +279,7 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 	}
@@ -293,11 +293,11 @@
 		//"tall"			"24"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"#SteamAddOn_Invite"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	"CancelInviteButton3"
@@ -314,7 +314,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_Cancel"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}
 	
@@ -328,7 +328,7 @@
 		//"tall"		"125"
 		////////"autoResize"		"3"
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
@@ -346,7 +346,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		////////"pinCorner"			"2"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		////"textHidden"		"0"
@@ -363,13 +363,13 @@
 		//"tall"		"24"
 		
 		////////"pinCorner"			"3"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		//////"labelText"		"#SteamAddOn_Btn_Send"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		//////"Default"		"0"
 	}	
 	"LastMessageLabel"
@@ -386,9 +386,9 @@
 		
 		
 		//////"labelText"		"Last message received at:"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	
 }

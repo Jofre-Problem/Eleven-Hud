@@ -10,7 +10,7 @@
 		//"tall"		"216"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 	}
@@ -25,13 +25,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		//////"labelText"		"#TrackerUI_RemoveUser"
-		//////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"OK"
 		////"Default"		"0"
 	}
@@ -45,13 +45,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"#TrackerUI_Cancel"
-		//////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 		////"Command"		"Close"
 		////"Default"		"0"
 	}
@@ -65,13 +65,13 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"You are about to remove johnc from your contact list."
-		//////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"InfoLabel"
 	{
@@ -83,13 +83,13 @@
 		//"tall"		"92"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"#TrackerUI_WarningNoLongerSeeYou"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 		//"wrap"			"1"
 	}
 }

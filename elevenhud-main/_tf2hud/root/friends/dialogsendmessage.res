@@ -7,7 +7,7 @@
 		//////"labelText"		"#TrackerUI_Close"
 		//////"tabPosition"		"3"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		//"BgColor"		"70 70 70 255"
 		//"FgColor"		"255 170 0 255"
 		//"tall"		"24"
@@ -24,7 +24,7 @@
 		//////"labelText"		"#TrackerUI_Reply"
 		//////"tabPosition"		"2"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		//"BgColor"		"70 70 70 255"
 		//"FgColor"		"255 170 0 255"
 		//"tall"		"24"
@@ -36,11 +36,11 @@
 	}
 	"NameLabel"
 	{
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//////"labelText"		"test2"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		//"BgColor"		"70 70 70 255"
 		//"FgColor"		"HUDWhite"
 		//"tall"		"20"
@@ -52,11 +52,11 @@
 	}
 	"InfoText"
 	{
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//////"labelText"		"#TrackerUI_MessageFrom"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		//"BgColor"		"70 70 70 255"
 		//"FgColor"		"255 170 0 255"
 		//"tall"		"20"
@@ -70,7 +70,7 @@
 	{
 		//////"tabPosition"		"1"
 		////"enabled"		"0"
-		//////"visible"		"1"
+		////////"visible"		"1"
 		//"BgColor"		"100 100 100 255"
 		//"FgColor"		"255 170 0 255"
 		//"tall"		"128"
@@ -84,7 +84,7 @@
 	{
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		//"BgColor"		"70 70 70 255"
 		//"FgColor"		"255 170 0 255"
 		//"tall"		"224"

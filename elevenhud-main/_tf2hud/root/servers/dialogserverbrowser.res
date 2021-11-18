@@ -10,7 +10,7 @@
 		"tall"		"384"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
 	}
@@ -24,7 +24,7 @@
 		"tall"		"306"
 		//"autoResize"	"3"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"1"
 	}
@@ -38,11 +38,11 @@
 		"tall"		"24"
 		//"autoResize"		"1"
 		//"pinCorner"			"2"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
-		"textAlignment"		"west"
-		"dulltext"		"0"
+		//"textAlignment"		"west"
+		//"dulltext"		"0"
 		//"zpos"	"1"
 	}
 }

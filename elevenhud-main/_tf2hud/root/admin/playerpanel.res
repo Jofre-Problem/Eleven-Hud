@@ -10,7 +10,7 @@
 		//"tall"		"332"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 	}
@@ -24,7 +24,7 @@
 		//"tall"		"276"
 		////////"autoResize"		"3"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 	}
@@ -38,14 +38,14 @@
 		//"tall"		"24"
 		
 		////////"pinCorner"			"2"
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		//////"tabPosition"		"2"
 		//////"labelText"		"#Player_Panel_Kick"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
-		////"wrap"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
+		//////"wrap"		"0"
 		////"Default"		"0"
 	}
 	"ban"
@@ -58,14 +58,14 @@
 		//"tall"		"24"
 		
 		////////"pinCorner"			"2"
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		//////"tabPosition"		"3"
 		//////"labelText"		"#Player_Panel_Ban"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
-		////"wrap"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
+		//////"wrap"		"0"
 		//////"Default"		"1"
 	}
 	"ServerContextMenu"
@@ -97,10 +97,10 @@
 		////"enabled"		"0"
 		
 		//////"labelText"		"#Player_Panel_Chat"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
-		////"wrap"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
+		//////"wrap"		"0"
 		////"Default"		"0"
 	}
 	"slap"
@@ -117,10 +117,10 @@
 		////"enabled"		"0"
 		
 		//////"labelText"		"#Player_Panel_Slap"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
-		////"wrap"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
+		//////"wrap"		"0"
 		////"Default"		"0"
 	}
 }

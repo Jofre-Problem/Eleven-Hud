@@ -11,11 +11,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Label on top"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 	"Editbox1"
 	{
@@ -27,10 +27,10 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 
@@ -44,11 +44,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Label at left"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 	"Edit2"
 	{
@@ -60,10 +60,10 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 
@@ -77,11 +77,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"Disabled"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 	"Edit3"
 	{
@@ -93,10 +93,10 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		//////"tabPosition"		"1"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		////"Default"		"0"
 	}
 
@@ -110,11 +110,11 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//////"labelText"		"Disabled"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 	}
 
 }

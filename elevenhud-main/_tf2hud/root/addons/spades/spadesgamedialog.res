@@ -10,7 +10,7 @@
 		//"tall"		"565"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"SysMenu"
@@ -36,7 +36,7 @@
 		//"tall"		"16"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"Divider0"
@@ -49,7 +49,7 @@
 		//"tall"		"2"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}	
 	"TextPlayerName0"
@@ -63,8 +63,8 @@
 		
 		
 		//////"labelText"		""
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerBid0"
@@ -78,8 +78,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerTricks0"
@@ -93,8 +93,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"TextPlayerName1"
@@ -108,8 +108,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerBid1"
@@ -123,8 +123,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerTricks1"
@@ -138,8 +138,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"TextPlayerName2"
@@ -153,8 +153,8 @@
 		
 		
 		//////"labelText"		""
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerBid2"
@@ -168,8 +168,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerTricks2"
@@ -183,8 +183,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"TextPlayerName3"
@@ -198,8 +198,8 @@
 		
 		
 		//////"labelText"		""
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerBid3"
@@ -213,8 +213,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	"LabelPlayerTricks3"
@@ -228,8 +228,8 @@
 		
 		
 		//////"labelText"		""		
-		////////"textAlignment"		"west"
-		////////"visible"		"1"
+		//////////"textAlignment"		"west"
+		//////////"visible"		"1"
 		
 	}
 	
@@ -256,7 +256,7 @@
 		
 		//////"tabPosition"		"21"
 		//////"labelText"		"#Spades_DealNextHand"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}    
 	
 	"GameTablePanel"
@@ -269,7 +269,7 @@
 		//"tall"			"175"
 		
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"BiddingInstructionsLabel"
@@ -299,7 +299,7 @@
 		
 		//////"labelText"		""		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringBidTricks0"
@@ -314,7 +314,7 @@
 		
 		//////"labelText"		"#Spades_TeamBidTricks"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringPointsText0"
@@ -329,7 +329,7 @@
 		
 		//////"labelText"		"#SteamAddOn_Points"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringPointsValue0"
@@ -344,7 +344,7 @@
 		
 		//////"labelText"		""		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidText0"
@@ -359,7 +359,7 @@
 		
 		//////"labelText"		"#Spades_MadeDoubleNilBid"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidValue0"
@@ -374,7 +374,7 @@
 		
 		//////"labelText"		"+50"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidText0"
@@ -389,7 +389,7 @@
 		
 		//////"labelText"		"#Spades_FailDoubleNilBid"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidValue0"
@@ -404,7 +404,7 @@
 		
 		//////"labelText"		"-100"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringScoreText0"
@@ -419,7 +419,7 @@
 		
 		//////"labelText"		"#SteamAddOn_Score"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringScoreValue0"
@@ -434,7 +434,7 @@
 		
 		//////"labelText"		"0"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	
@@ -450,7 +450,7 @@
 		
 		//////"labelText"		""		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringBidTricks1"
@@ -465,7 +465,7 @@
 		
 		//////"labelText"		"#Spades_TeamBidTricks"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringPointsText1"
@@ -480,7 +480,7 @@
 		
 		//////"labelText"		"#SteamAddOn_Points"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringPointsValue1"
@@ -495,7 +495,7 @@
 		
 		//////"labelText"		"+52"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidText1"
@@ -510,7 +510,7 @@
 		
 		//////"labelText"		"#Spades_MadeDoubleNilBid"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringFirstNilBidValue1"
@@ -525,7 +525,7 @@
 		
 		//////"labelText"		"+50"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidText1"
@@ -540,7 +540,7 @@
 		
 		//////"labelText"		"#Spades_FailDoubleNilBid"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringSecondNilBidValue1"
@@ -555,7 +555,7 @@
 		
 		//////"labelText"		"-100"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringScoreText1"
@@ -570,7 +570,7 @@
 		
 		//////"labelText"		"#SteamAddOn_Score"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	"TeamScoringScoreValue1"
@@ -585,7 +585,7 @@
 		
 		//////"labelText"		"0"		
 		//////"textAlignment"		"north-west"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 	}
 	
@@ -660,7 +660,7 @@
 		
 		//////"tabPosition"		"2"
 		//////"labelText"		"#Spades_DoubleNILBid"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}	
 	
 	"ShowCardsButton"
@@ -677,7 +677,7 @@
 		
 		//////"tabPosition"		"3"
 		//////"labelText"		"#Spades_ShowCards"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}    
 	
 	"Bid01Button"
@@ -694,9 +694,9 @@
 		
 		//////"tabPosition"		"4"
 		//////"labelText"		"1"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	} 
 	"Bid02Button"
 	{
@@ -712,9 +712,9 @@
 		
 		//////"tabPosition"		"5"
 		//////"labelText"		"2"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	} 
 	"Bid03Button"
 	{
@@ -730,9 +730,9 @@
 		
 		//////"tabPosition"		"6"
 		//////"labelText"		"3"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	} 
 	"Bid04Button"
 	{
@@ -748,9 +748,9 @@
 		
 		//////"tabPosition"		"7"
 		//////"labelText"		"4"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	} 
 	"Bid05Button"
 	{
@@ -766,9 +766,9 @@
 		
 		//////"tabPosition"		"8"
 		//////"labelText"		"5"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	} 
 	"Bid06Button"
 	{
@@ -784,9 +784,9 @@
 		
 		//////"tabPosition"		"9"
 		//////"labelText"		"6"
-		////////"textAlignment"		"west"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		//////////"textAlignment"		"west"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	} 
 	"Bid07Button"
 	{
@@ -802,7 +802,7 @@
 		
 		//////"tabPosition"		"10"
 		//////"labelText"		"7"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"Bid08Button"
 	{
@@ -818,7 +818,7 @@
 		
 		//////"tabPosition"		"11"
 		//////"labelText"		"8"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"Bid09Button"
 	{
@@ -834,7 +834,7 @@
 		
 		//////"tabPosition"		"12"
 		//////"labelText"		"9"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"Bid10Button"
 	{
@@ -850,7 +850,7 @@
 		
 		//////"tabPosition"		"13"
 		//////"labelText"		"10"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"Bid11Button"
 	{
@@ -866,7 +866,7 @@
 		
 		//////"tabPosition"		"14"
 		//////"labelText"		"11"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"Bid12Button"
 	{
@@ -882,7 +882,7 @@
 		
 		//////"tabPosition"		"15"
 		//////"labelText"		"12"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"Bid13Button"
 	{
@@ -898,7 +898,7 @@
 		
 		//////"tabPosition"		"16"
 		//////"labelText"		"13"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	} 
 	"NilBidButton"
 	{
@@ -914,7 +914,7 @@
 		
 		//////"tabPosition"		"17"
 		//////"labelText"		"#Spades_NIL"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 	}  
 	"ShowScoreBtn"
 	{
@@ -926,11 +926,11 @@
 		//"tall"			"24"
 		
 		////////"pinCorner"			"3"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		//////"tabPosition"		"18"
 		//////"labelText"		"#SteamAddOn_ShowScore"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}		     
 	"LastTrickBtn"
@@ -943,11 +943,11 @@
 		//"tall"			"24"
 		
 		////////"pinCorner"			"3"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		////"enabled"		"0"
 		//////"tabPosition"		"19"
 		//////"labelText"		"#SteamAddOn_LastTrick"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}		     
 	"LastTrickLabel"
@@ -964,7 +964,7 @@
 		
 		
 		//////"labelText"		"#SteamAddOn_LastTrick"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"Default"		"0"
 	}		     	
 	"ChatTextLog"
@@ -977,7 +977,7 @@
 		//"tall"		"75"
 		////////"autoResize"		"3"
 		
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
@@ -995,7 +995,7 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		////////"pinCorner"			"2"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		
 		////"textHidden"		"0"
@@ -1012,11 +1012,11 @@
 		//"tall"		"24"
 		
 		////////"pinCorner"			"3"
-		////////"visible"		"1"
+		//////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//////"labelText"		"#SteamAddOn_Btn_Send"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		////////"Default"		"1"
 	}	
 	"LastMessageLabel"
@@ -1033,9 +1033,9 @@
 		
 		
 		//////"labelText"		"Last message received at:"
-		////////"textAlignment"		"west"
+		//////////"textAlignment"		"west"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 	
 }

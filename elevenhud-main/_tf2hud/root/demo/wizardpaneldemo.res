@@ -10,7 +10,7 @@
 		//"tall"		"24"	//changed to 24 from 20
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
@@ -27,7 +27,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
@@ -44,7 +44,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"4"
 		////"textHidden"		"0"
@@ -61,7 +61,7 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
@@ -78,14 +78,14 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"First Name"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//"associate"		"FirstNameEdit"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"FirstNameText"
 	{
@@ -97,14 +97,14 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"User Name"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//"associate"		"UserNameEdit"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"UserNameText"
 	{
@@ -116,14 +116,14 @@
 		//"tall"		"20"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Last Name"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//"associate"		"LastNameEdit"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"Unnamed dialog1"
 	{
@@ -135,14 +135,14 @@
 		//"tall"		"24"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"eMail Address"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//"associate"		"EmailEdit"
-		//////////"dulltext"		"0"
-		////////"brighttext"		"0"
+		////////////"dulltext"		"0"
+		//////////"brighttext"		"0"
 	}
 	"Unnamed dialog2"
 	{
@@ -154,12 +154,12 @@
 		//"tall"		"48"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//////"labelText"		"Enter Information About Friend"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		//////"dulltext"		"1"
-		////////"brighttext"		"0"
+		//////////"brighttext"		"0"
 	}
 }

@@ -10,7 +10,7 @@
 		//"tall"			"256"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 	
@@ -24,14 +24,14 @@
 			//"tall"		"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
-			"disabled"		"1"
+			//"disabled"		"1"
 			//////"tabPosition"	"1"
 			//////"labelText"		"physics"
-			////////"textAlignment"		"west"
-			//////////"dulltext"		"0"
-			////////"brighttext"		"0"
+			//////////"textAlignment"		"west"
+			////////////"dulltext"		"0"
+			//////////"brighttext"		"0"
 			////"Default"		"0"
 		}
 		
@@ -45,14 +45,14 @@
 			//"tall"		"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
-			"disabled"		"1"
+			//"disabled"		"1"
 			//////"tabPosition"	"1"
 			//////"labelText"		"dynamic"
-			////////"textAlignment"		"west"
-			//////////"dulltext"		"0"
-			////////"brighttext"		"0"
+			//////////"textAlignment"		"west"
+			////////////"dulltext"		"0"
+			//////////"brighttext"		"0"
 			////"Default"		"0"
 		}
 		
@@ -66,14 +66,14 @@
 			//"tall"		"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
-			"disabled"		"1"
+			//"disabled"		"1"
 			//////"tabPosition"	"1"
 			//////"labelText"		"static"
-			////////"textAlignment"		"west"
-			//////////"dulltext"		"0"
-			////////"brighttext"		"0"
+			//////////"textAlignment"		"west"
+			////////////"dulltext"		"0"
+			//////////"brighttext"		"0"
 			////"Default"		"0"
 		}
 		
@@ -87,14 +87,14 @@
 			//"tall"		"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
-			"disabled"		"1"
+			//"disabled"		"1"
 			//////"tabPosition"	"1"
 			//////"labelText"		"Model is missing $staticprop entry"
-			////////"textAlignment"		"west"
-			//////////"dulltext"		"0"
-			////////"brighttext"		"0"
+			//////////"textAlignment"		"west"
+			////////////"dulltext"		"0"
+			//////////"brighttext"		"0"
 			////"Default"		"0"
 		}
 		
@@ -108,13 +108,13 @@
 			//"tall"		"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"	"1"
 			//////"labelText"		"Mass"
-			////////"textAlignment"		"west"
-			//////////"dulltext"		"0"
-			////////"brighttext"		"0"
+			//////////"textAlignment"		"west"
+			////////////"dulltext"		"0"
+			//////////"brighttext"		"0"
 			////"Default"		"0"
 		}
 		
@@ -128,13 +128,13 @@
 			//"tall"		"24"
 			
 			
-			//////"visible"		"1"
+			////////"visible"		"1"
 			
 			//////"tabPosition"	"1"
 			//////"labelText"		"100"
-			////////"textAlignment"		"west"
-			//////////"dulltext"		"0"
-			////////"brighttext"		"0"
+			//////////"textAlignment"		"west"
+			////////////"dulltext"		"0"
+			//////////"brighttext"		"0"
 			////"Default"		"0"
 		}	
 	}

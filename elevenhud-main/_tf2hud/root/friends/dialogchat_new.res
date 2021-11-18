@@ -10,7 +10,7 @@
 		//"tall"		"292"
 		
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//"paintbackground"		"1"
@@ -27,7 +27,7 @@
 		//"tall"		"44"
 		////////"autoResize"		"1"
 		////////"pinCorner"			"2"
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"1"
 		//"paintbackground"		"1"
@@ -47,7 +47,7 @@
 		//"tall"		"134"
 		////////"autoResize"		"3"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		////"enabled"		"0"
 		
 		//"paintbackground"		"1"
@@ -63,13 +63,13 @@
 		//"tall"		"44"
 		
 		////////"pinCorner"			"3"
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		//////"tabPosition"		"2"
 		//"paintbackground"		"1"
 		//////"labelText"		"#Friends_Chat_Send"
-		//////"textAlignment"		"west"
-		////"wrap"		"0"
+		////////"textAlignment"		"west"
+		//////"wrap"		"0"
 		//////"Default"		"1"
 		//"selected"		"0"
 	}
@@ -83,14 +83,14 @@
 		//"tall"		"18"
 		////////"autoResize"		"1"
 		////////"pinCorner"			"2"
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//"paintbackground"		"1"
 		//////"labelText"		"#Friends_LastMessageReceived"
-		//////"textAlignment"		"west"
+		////////"textAlignment"		"west"
 		"font"		"DefaultSmall"
-		////"wrap"		"0"
+		//////"wrap"		"0"
 	}
 	"NameLabel"
 	{
@@ -102,12 +102,12 @@
 		//"tall"		"24"
 		////////"autoResize"		"1"
 		
-		//////"visible"		"1"
+		////////"visible"		"1"
 		
 		
 		//"paintbackground"		"1"
 		//////"labelText"		"#Friends_ChatToPlusStatus"
-		//////"textAlignment"		"west"
-		////"wrap"		"0"
+		////////"textAlignment"		"west"
+		//////"wrap"		"0"
 	}
 }

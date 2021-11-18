@@ -10,7 +10,7 @@
 		"tall"		"180"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
@@ -32,8 +32,8 @@
 		"tabPosition"		"1"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinGame"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 		"Default"		"1"
 	}
 	"Close"
@@ -46,13 +46,13 @@
 		"tall"		"24"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"3"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Close"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"Refresh"
@@ -70,8 +70,8 @@
 		"tabPosition"		"2"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_Refresh"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"InfoLabel"
@@ -89,8 +89,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerNotResponding"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"AutoRetry"
 	{
@@ -107,8 +107,8 @@
 		"tabPosition"		"4"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AutoRetry"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 		"Default"		"0"
 	}
 	"AutoRetryAlert"
@@ -126,8 +126,8 @@
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_AlertMeWhenSlotOpens"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -146,8 +146,8 @@
 		"tabPosition"		"5"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_JoinWhenSlotOpens"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 		"Default"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -182,7 +182,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerName"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"GameLabel"
 	{
@@ -194,13 +194,13 @@
 		"tall"		"20"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_GameLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ServerIPLabel"
 	{
@@ -218,7 +218,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_IPAddressLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"MapLabel"
 	{
@@ -236,7 +236,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_MapLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PlayersLabel"
 	{
@@ -254,7 +254,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_PlayersLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"PingLabel"
 	{
@@ -272,7 +272,7 @@
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_LatencyLabel"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"ServerText"
 	{
@@ -288,8 +288,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"GameText"
 	{
@@ -301,13 +301,13 @@
 		"tall"		"20"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"Team Fortress Classic"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"ServerIPText"
 	{
@@ -343,8 +343,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"PlayersText"
 	{
@@ -360,8 +360,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"PingText"
 	{
@@ -377,8 +377,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"Label1"
 	{
@@ -396,7 +396,7 @@
 		"paintbackground"		"1"
 		"labelText"		"Label"
 		"textAlignment"		"east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 	"SecureText"
 	{
@@ -412,8 +412,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
-		"textAlignment"		"west"
-		"wrap"		"0"
+		//"textAlignment"		"west"
+		//"wrap"		"0"
 	}
 	"Label2"
 	{
@@ -425,7 +425,7 @@
 		"tall"		"52"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
@@ -443,12 +443,12 @@
 		"tall"		"20"
 		//"autoResize"		"0"
 		//"pinCorner"			"0"
-		"visible"		"1"
+		//"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"labelText"		"#ServerBrowser_ServerLabel"
 		"textAlignment"		"north-east"
-		"wrap"		"0"
+		//"wrap"		"0"
 	}
 }
