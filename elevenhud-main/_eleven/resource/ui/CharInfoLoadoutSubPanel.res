@@ -20,7 +20,7 @@
 		settitlebarvisible		0	// ?
 		"ypos"			"40"
 		"wide"			"f0"
-		"tall"			"485"	
+		"tall"			"489"	
 		paintbackground			0
 		zpos -500
 		itemcountcolor			"OrangeLight"		// check out!
@@ -152,7 +152,7 @@
 		ControlName				CExButton
 		fieldName				"HeavyButton"
 		"xpos"							"c-27"
-		"ypos"							"60"
+		"ypos"							"60+55"
 		"wide"							"54"
 		"tall"							"100"
 				"border_default"				"OutlinedDullGreyBox"
@@ -367,7 +367,7 @@
 		ControlName				CExButton
 		fieldName				"ArmoryButton"
 		"xpos"							"c-27"
-		"ypos"							"250"
+		"ypos"							"250+55"
 		"wide"							"54"
 		"tall"							"100"
 				"border_default"				"OutlinedDullGreyBox"
@@ -444,39 +444,32 @@
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 		"PIN_TOPRIGHT"
 	}
-	
 
-
-	// #endregion
-
-	// #region CHARINFO PANELS 
-
-	"class_loadout_panel" //---------
+	//"class_loadout_panel"
+	//	wide					f0
+	//	tall					450		//  411 parent's height
+	"class_loadout_panel"
 	{
-		ControlName				CClassLoadoutPanel
-		fieldName				"class_loadout_panel"
-		xpos					0
-		ypos					0
-		zpos					5
-		wide					f0
-		tall					450		//  411 parent's height
-		//proportionaltoparent	1	// requires reload on launch
-		visible				0
-
-		// => resource\ui\ClassLoadoutPanel.res
+		"ControlName"					"CClassLoadoutPanel"
+		"fieldName"						"class_loadout_panel"
+		"xpos"							"0"
+		"ypos"							"0"
+		"wide"							"f0"
+		"tall"							"400"
+		"zpos"							"500"
+		"visible"						"0"
 	}
 
 	"backpack_panel"
 	{
-		ControlName				CBackpackPanel
-		fieldName				"backpack_panel"
-		xpos					40
-		ypos					0
-		tall		f0
-		zpos					5
-		visible				0
-
-		// => resource\ui\econ\BackpackPanel.res
+		"ControlName"					"CBackpackPanel"
+		"fieldName"						"backpack_panel"
+		"xpos"							"0"
+		"ypos"							"0"
+		"wide"							"f0"
+		"tall"							"400"
+		"zpos"							"500"
+		"visible"						"0"
 	}
 
 	// crafting_panel => resource\ui\CraftingPanel.res
@@ -485,11 +478,11 @@
 	{
 		ControlName				CArmoryPanel
 		fieldName				"armory_panel"
-		xpos					0
-		ypos					0
-		zpos					5
-		wide					f0
-		tall					411
+		"xpos"							"0"
+		"ypos"							"0"
+		"wide"							"f0"
+		"tall"							"400"
+		"zpos"							"500"
 		visible				0
 
 		// => resource\ui\CharInfoArmorySubPanel.res

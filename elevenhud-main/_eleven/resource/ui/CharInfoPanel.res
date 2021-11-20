@@ -3,6 +3,7 @@
 #base "../#jofre/charbg.res"
 #base "../#jofre/home.res"
 //#base "../#jofre/downbar.res"
+
 "Resource/UI/CharInfoPanel.res"
 {
 
@@ -20,7 +21,7 @@
 		paintbackground			0
 		
 		clientinsetx_override		0		// content xpos offset
-		sheetinset_bottom			-7		// content ypos offset (reversed)
+		sheetinset_bottom			-10           // perfect
 	}
 	"BackgroundHeader"
 	{
@@ -55,75 +56,41 @@
 
 	"Sheet"
 	{
-//		"ControlName"	"EditablePanel"
-//		"fieldName"		"Sheet"		
-"tabheight"		"35"
-	//	"transition_time" "0.1"
-			zpos					200		// buttons above sheet	
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Sheet"
+			zpos					1003		// buttons above sheet	
 			tall 		"f0"			//JP f0
 		"tabxindent"	"5"
 		"tabxdelta"		"3"
-//		"tabxfittotext"	"1"
-//"tabheight"	"30"	
-"yoffset"	"20"
-//		"tabheight"		"10"			//JP 10
-//		"transition_time" "0"
+		"tabxfittotext"	"1"
+		"tabheight"		"10"			//JP 10
+		"transition_time" "0"
+		yoffset				-10	//JP 10 tab y pos, pushes other content		
 //		yoffset				-10	//JP 10 tab y pos, pushes other content		
-	"HeaderLine"
-		{
-			"tall"			"0"
-			"image"			"loadout_solid_line"
-			"scaleImage"	"1"
-		}				
+	
+	"HeaderLine"		{			"tall"			"0"		}				
 		
 		"tabskv"
 		{
 	//		textinsety				-13   //cant be changed
-	//		"textinsetx"		"3"
-			"font"				"Regular14"
+			"textinsetx"		"3"
+			"font"				"Blank"//"Regular14"
 	//		"defaultBgColor_override"	"Blank"
-			"selectedcolor"		"W_ColorIcons1"
-			"unselectedcolor"	"W_ColorIcons2"	
+			"selectedcolor"		"Blank"
+			"unselectedcolor"	"Blank"	
 	/	/	"paintbackground"	"0"
 			"activeborder_override"	"noborder"
 			"normalborder_override" "noborder"
 			
 	//		"fgcolor"	"Blank"
-	//		"defaultBgColor_override" "Blank"
-			"defaultFgColor_override" "W_ColorLinea1"
-	//		"armedBgColor_override" "Blank"
-			"armedFgColor_override" "W_ColorTheme1"
-	//		"selectedBgColor_override" "Blank"
-			"selectedFgColor_override"	"W_ColorIcons1"
+			"defaultBgColor_override" "Blank"
+		//	"defaultFgColor_override" "W_ColorLinea1"
+			"armedBgColor_override" "Blank"
+		//	"armedFgColor_override" "W_ColorTheme1"
+			"selectedBgColor_override" "Blank"
+		//	"selectedFgColor_override"	"W_ColorIcons1"
 		}
 	}
-	"POLY_4_BG"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"POLY_4_BG"
-		xPos					0
-		yPos					25
-		"zpos"			"190"
-		"wide"			"p0.22"
-		"tall"			"30"
-"bgcolor_override"	"W_ColorTheme1"
-"alpha"	"200"
-}
-	"POLY_4_Label"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"POLY_4_Label"
-		"font"			"NewIcons57"
-		"labelText"		"È"
-		"textAlignment"		"west"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"190"
-		"wide"			"30"
-		"tall"			"30"	"alpha"	"200"
-		"fgcolor_override"	"W_ColorTheme1"
-"pin_to_sibling"	"POLY_4_BG"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 	// Visible when notifications are present, clicking it goes back to main menu
 	// Same position as the notification alert on main menu
 	
@@ -132,7 +99,7 @@
 		ControlName				CNotificationsPresentPanel
 		fieldName				"NotificationsPresentPanel"
 		xPos					0
-		yPos					0
+		yPos					55
 		zPos					10000
 		wide					42
 		tall					o1

@@ -1,4 +1,4 @@
-//#base "../#jofre/blur_bg.res"
+#base "../#jofre/blur_bg.res"
 //#base "../#jofre/char_tank.res"
 #base "../#jofre/char_bg.res"
 "Resource/UI/CharInfoArmorySubPanel.res"
@@ -76,27 +76,7 @@
 	
 	"ArmoryLabel"
 	{
-		"ControlName"					"Label"
-		"fieldName"						"ArmoryLabel"
-		"font"							"Noto36"
-		"labelText"						"catalog"
-		"textAlignment"					"west"
-		"xpos"							"-2"
-		"ypos"							"5"
-		"zpos"							"1"
-		"wide"							"240"
-		"tall"							"25"
-		"autoResize"					"0"
-		"pinCorner"						"0"
-		"visible"						"1"
-		"enabled"						"1"
-		"AllCaps"						"1"
-		"fgcolor_override"				"White"
-		"alpha"							"125"
-		
-		"pin_to_sibling" 				"ItemsBG"
-		"pin_corner_to_sibling" 		"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner" 		"PIN_TOPLEFT"
+		"wide"							"0"
 	}
 
 	"FilterComboBox"

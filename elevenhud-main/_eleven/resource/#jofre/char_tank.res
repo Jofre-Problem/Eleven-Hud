@@ -5,7 +5,7 @@
 	"ControlName""ImagePanel"
 	"fieldName""BlurMainBG1"
 	"xpos""rs1"
-	"ypos""rs1-55"
+	"ypos""rs1"
 	"zpos""-5"
 	"wide""400"
 	"tall""o1"
