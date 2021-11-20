@@ -39,7 +39,7 @@
 			"xpos"		"0"
 			//"ypos"		"0"
 			"wide"		"p0.5"
-			"tall"		"f6"
+			"tall"		"0"
 			"zpos"	"0"
 			//"visible"		"1"
 			////"enabled"		"1"
