@@ -9,7 +9,7 @@
 			wide					f0
 			tall					f0
 			"fillColor"				"238 238 238 255"
-			"alpha"					"200"
+			"alpha"					"210"
 			mouseInputEnabled			0			// mouse input passes though to panels below
 		}
 }

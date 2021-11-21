@@ -1,6 +1,7 @@
 	#base "../#jofre/motd-list.res"
 	#base "../#jofre/motd-code.res"
 	#base "../ui2/preload.res"
+	#base "../ui2/_motd_polyv2.res"
 	#base "../ui2/_motd_spray.res"
 	#base "../ui2/_motd_sourcemod.res"
 	#base "../../home/servers.res"
@@ -16,7 +17,7 @@
 //	#base "../ui2/multiple-bg.res"// :: check mainmenu - downbartype.res"
 //	#base "../ui2/mm_border.res"
 	#base "../#jofre/desktop icons black.res"
-//	#base "../ui2/polybar_1.res"
+	#base "../ui2/polybar_1.res"
 //	#base "../#jofre/safe-mode.res"
 "Resource/UI/MainMenuOverride.res"
 {
@@ -285,8 +286,9 @@
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"236 71 233 255"
-	
-		paintBackground			0
+		defaultBgColor_override		"29 35 48 255"
+		armedBgColor_override		"29 35 48 255"
+		paintBackground			1
 
 		"navUp"			""
 		"navLeft"		""
@@ -1153,7 +1155,7 @@
 			"textAlignment"	"center"
 		
 		command				"engine showstatsdlg"
-		defaultFgColor_override		W_ColorTheme4
+		defaultFgColor_override		"64 83 102 255"
 		armedFgColor_override		"W_ColorIcons1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
@@ -1177,7 +1179,7 @@
 			"textAlignment"	"center"
 		
 		command				"engine togglesafe"
-		defaultFgColor_override		W_ColorTheme4
+		defaultFgColor_override		"64 83 102 255"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
@@ -1221,7 +1223,7 @@
 			"brighttext"	"0"
 			"default"		"1"
 			
-		defaultFgColor_override		W_ColorTheme4
+		defaultFgColor_override		"64 83 102 255"
 		armedFgColor_override		"W_ColorIcons1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
@@ -1241,21 +1243,21 @@
 			}			
 		}
 	}	
-			"polybar1bg"						{			ControlName				ImagePanel			FieldName				
-			"polybar1bg"
+			"polybar1bg_V2"						{			ControlName				ImagePanel			FieldName				
+			"polybar1bg_V2"
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"zpos"				2900
 		"wide"			"p0.05"
 		"tall"			"18"
-			fillColor				"32 34 40 255"		
+			fillColor				"78 196 247 255"		
 	}	
 
 
-		"polybar1slash"
+		"polybar1slash_V2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"polybar1slash"
+			"fieldName"		"polybar1slash_V2"
 			"font"			"NewIcons20"
 			"labelText"		"È"
 			"textAlignment"		"west"
@@ -1265,15 +1267,15 @@
 			"wide"			"30"
 			"tall"			"18"
 			
-			"fgcolor"		"32 34 40 255"
-"pin_to_sibling"	"polybar1bg"
+			"fgcolor"		"78 196 247 255"
+"pin_to_sibling"	"polybar1bg_V2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 
-		"polybar1slash2"
+		"polybar1slash2_V2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"polybar1slash2"
+			"fieldName"		"polybar1slash2_V2"
 			"font"			"NewIcons20"
 			"labelText"		"È"
 			"textAlignment"		"west"
@@ -1283,8 +1285,8 @@
 			"wide"			"30"
 			"tall"			"18"
 			
-			"fgcolor"		"22 24 30 255"
-"pin_to_sibling"	"polybar1slash"
+			"fgcolor"		"100 4 177 255"
+"pin_to_sibling"	"polybar1slash_V2"
 		}
 	"RankPanel"
 	{

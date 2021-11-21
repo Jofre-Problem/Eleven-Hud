@@ -1,9 +1,9 @@
 "_jofrehud/resource/#jofre/blur_bg.res"
 {
-	"BlurMainBG1"
+	"Tank"
 	{
 	"ControlName""ImagePanel"
-	"fieldName""BlurMainBG1"
+	"fieldName""Tank"
 	"xpos""rs1"
 	"ypos""rs1"
 	"zpos""-5"

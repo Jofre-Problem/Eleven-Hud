@@ -1,4 +1,4 @@
-#base "../ui2/polybar_1.res"
+//#base "../ui2/polybar_1.res"
 "Resource/UI/MatchMakingDashboard.res"
 {
 	"MMDashboard"
@@ -17,9 +17,6 @@
 		"expanded_height"	"35"
 		"resize_time"		"0.2"
 	}
-
-
-
 
 
 		"slash1"

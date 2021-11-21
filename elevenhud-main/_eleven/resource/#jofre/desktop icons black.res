@@ -26,33 +26,6 @@
 			font					"NewIcons17"
 		}
 	}	
-	"BrowseServers"			// open server browser; other buttons pinned to this
-	{
-		ControlName				CExButton
-		FieldName				"BrowseServers"
-		xPos					rs1
-		yPos					r0
-		zPos					1050
-		wide					15
-		tall					10
-		labelText				"}"
-		font					"NewIcons11"
-		alpha		"100"
-		textAlignment			center
-		
-		command				"OpenServerBrowser"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-		
-		paintBackground			0
-		
-		"navRight"		"CharacterSetupButton"
-	}
-
 	"CharacterSetupButton"			// open backpack
 	{
 		ControlName				CExButton

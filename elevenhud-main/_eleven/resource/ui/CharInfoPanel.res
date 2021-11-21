@@ -1,6 +1,7 @@
 //#base "../#jofre/downbar.res"
-#base "../#jofre/blur_bg.res"
-#base "../#jofre/charbg.res"
+//#base "../#jofre/blur_bg.res"
+//#base "../#jofre/charbg.res"
+#base "../ui2/testgradient.res"
 #base "../#jofre/home.res"
 //#base "../#jofre/downbar.res"
 
@@ -99,10 +100,10 @@
 		ControlName				CNotificationsPresentPanel
 		fieldName				"NotificationsPresentPanel"
 		xPos					0
-		yPos					55
+		yPos					70
 		zPos					10000
-		wide					42
-		tall					o1
+		wide					f0
+		tall					30
 		visible				0
 		alpha					0
 	}

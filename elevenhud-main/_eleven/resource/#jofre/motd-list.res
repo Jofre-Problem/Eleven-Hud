@@ -10,41 +10,11 @@
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"f0"
-		"tall"			"p1"
+		"tall"			"f0"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"paintbackground"	"0"
-		"border"		"Noborder"	
-	"Settings"		// open options window
-	{
-		ControlName				CExButton
-		FieldName				"Settings"
-		xPos					c0
-		yPos					cs-0.5
-		zPos					1050
-		wide					15
-		tall					10
-
-		labelText				"Í"
-		font					"NewIcons11"
-		alpha		"100"
-		textAlignment			center
-		
-		command				"OpenOptionsDialog"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-
-		paintBackground			0
-		
-		"use_proportional_insets" "0"
-		"pinCorner"		"0"
-		"textinsetx"	"0"				
-		"navRight"		"ToggleConsole"
-	}
+		"border"		"Noborder"
 
 		"FriendsContainer"
 		{
@@ -114,8 +84,8 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ButtonsPanel"
-			"xpos"		"60"
-			"ypos"		"rs1-25"
+			"xpos"		"0"
+			"ypos"		"c0"
 			"zpos"		"10"
 			"wide"		"p0.266" //0.266 / 10 = 0.0266
 			"tall"		"20"
@@ -126,8 +96,8 @@
 			"tabPosition"		"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
-			"border"			"SteamWorkshopBorder"
-			"bgcolor_override"				"W_ColorTheme1"
+			"border"			"noborder"
+			"bgcolor_override"				"blank"
 		}	
 	
 		"OpenDev"

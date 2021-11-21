@@ -1,10 +1,10 @@
 //#base "../#jofre/downbar.res"
 //#base "../#jofre/dashboard_bg.res"
 //#base "../#jofre/new_mm_panel1.res"
-
+#base "../ui2/polybar_1.res"
 //#base "../#jofre/blur_bg.res"
 //#base "../#jofre/charbg.res"
-#base "../#jofre/char_tank.res"
+#base "../ui2/tank.res"
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 //#base "../../#customization/resource/ui/summersale_border.res"
@@ -455,7 +455,7 @@
 		"xpos"							"0"
 		"ypos"							"0"
 		"wide"							"f0"
-		"tall"							"400"
+		"tall"							"f0"
 		"zpos"							"500"
 		"visible"						"0"
 	}

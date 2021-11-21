@@ -20,7 +20,7 @@
 			"textAlignment"		"west"
 			"xpos" 			"0"					//"c-60"//			"180"
 			"ypos"			"0"
-			"zpos"			"3001"
+			"zpos"			"1001"
 			"wide"			"30"
 			"tall"			"18"
 			
@@ -32,8 +32,9 @@
 		"polybarbg2"						{			ControlName				ImagePanel			FieldName				
 			"polybarbg2"
 		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"p0.129"
+		"ypos"			"0"	
+		"zpos"			"1001"
+		"wide"			"p0.132"
 		"tall"			"18"
 			fillColor				"255 108 107 255"		
 	"pin_to_sibling"	"polybar1bg"
@@ -50,8 +51,7 @@
 			"labelText"		"È"
 			"textAlignment"		"west"
 			"xpos" 			"0"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"1"
+			"ypos"			"0"	"zpos"			"1001"
 			"wide"			"30"
 			"tall"			"18"
 			

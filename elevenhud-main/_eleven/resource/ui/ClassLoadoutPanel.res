@@ -1,4 +1,5 @@
-//#base "../../#customization//resource/ui/summersale_border.res"
+#base "../ui2/testgradient.res"
+#base "../ui2/tank.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
 		"ClassLabel"
@@ -7,13 +8,12 @@
 			"xpos"		"cs-0.5"
 			"zpos"		"4000"
 			textAlignment	"center"
-			//"wide"					0
+			"wide"					0
 			//"tall"					0
 		}			
-	// ---		
-	"2ndPanel"
+	"tank"
 	{
-		"wide"				"p0.123"
+	"zpos""-1"
 	}			
 	"class_loadout_panel"
 	{
@@ -47,7 +47,7 @@
 		"modelpanels_kv"
 		{
 			ControlName				CItemModelPanel
-			xpos						c-70
+			xpos						c-90
 			ypos						270
 			wide						50
 			tall						50

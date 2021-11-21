@@ -21,7 +21,7 @@
 #base "healthshadow.res"
 
 //props to anyone who understands this mess
-
+// I somewhat did!
 "Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data
@@ -39,42 +39,7 @@
 		"HealthDeathWarning"	"1.0"
 		"HealthDeathWarningColor"	"255 255 255 255"
 	}	
-	"progress"
-	{
-		"ControlName"		"ProgressBar"
-		"fieldName"		"Progress"
-		"xpos"		"0"
-		"ypos"		"40"
-		"wide"		"124"
-		"tall"		"10"
-		"fgcolor_override"	"Green"
-		"bgcolor"	"blank"
-		"variable" "health"
-	}	
-	"progress2"
-	{
-		"ControlName"		"ProgressBar"
-		"fieldName"		"Progress2"
-		"xpos"		"3"
-		"ypos"		"40"
-		"wide"		"120"
-		"tall"		"10""fgcolor_override"	"Green"
-		"bgcolor_override"	"blank"
-		"bgcolor"	"blank"
-		"variable" "health"
-	}		
-	"progressShadow"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"progressShadow"
-		"xpos"			"0"
-		"ypos"			"50"
-		"wide"			"150"
-		"tall"			"2"
-		"visible"		"1"
-		//"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
-	}	
+
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"
