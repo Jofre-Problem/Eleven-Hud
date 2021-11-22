@@ -54,7 +54,7 @@
 				tall					20	
 				font					"Code10"
 				fgcolor_override		"W_ColorIcons1"
-				labelText				"> neofetch"
+				labelText				"> fetch"
 				textAlignment			west
 			}	
 			"Dunno"		

@@ -10,7 +10,7 @@
 	}
 	"progress"
 	{
-	}
+	}		
 	"TimeRemainingLabel"
 	{
 	}

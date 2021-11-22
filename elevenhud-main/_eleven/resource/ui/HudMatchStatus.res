@@ -89,7 +89,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"c-255"
+		"xpos"				"cs-0.5"
 		"ypos"				"16"
 		"ypos"				"24"
 		"zpos"				"1"
@@ -111,14 +111,14 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"Noto24"
 			"fgcolor"		"236 240 241 255"
-			"xpos"			"242"
+			"xpos"			"cs-0.5"
 			"ypos"			"-6"
 			"zpos"			"3"
 			"wide"			"45"
 			"tall"			"31"
 			"visible"		"1"
 			//"enabled"		"1"
-			"textAlignment"		"east"
+			"textAlignment"		"center"
 		//	"labelText"		"0:00"
 		}
 	}
@@ -251,7 +251,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"surface8"
+				"font"			"Code7"
 				"xpos"			"1"
 				"ypos"			"16"
 				"zpos"			"8"
@@ -472,7 +472,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"RankUpLabel"
-		"font"			"CustomPrimeroBold"
+		"font"			"Noto36"
 		"xpos"			"cs-0.5"
 		"ypos"			"80"
 		"wide"			"600"
@@ -495,7 +495,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"RankUpShadowLabel"
-		"font"			"CustomPrimeroBold"
+		"font"			"Noto36"
 		"xpos"			"cs-0.5+2"
 		"ypos"			"80+2"
 		"wide"			"600"

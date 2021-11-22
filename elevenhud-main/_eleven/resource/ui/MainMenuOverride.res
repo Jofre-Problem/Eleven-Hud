@@ -4,6 +4,7 @@
 	#base "../ui2/_motd_polyv2.res"
 	#base "../ui2/_motd_spray.res"
 	#base "../ui2/_motd_sourcemod.res"
+	#base "../ui2/_motd_boxes.res"
 	#base "../../home/servers.res"
 //	#base "../../#customization/resource/ui/summersale_border.res"
 //	#base "../#jofre/downbar.res"
@@ -16,8 +17,7 @@
 
 //	#base "../ui2/multiple-bg.res"// :: check mainmenu - downbartype.res"
 //	#base "../ui2/mm_border.res"
-	#base "../#jofre/desktop icons black.res"
-	#base "../ui2/polybar_1.res"
+//	#base "../ui2/polybar_1.res"
 //	#base "../#jofre/safe-mode.res"
 "Resource/UI/MainMenuOverride.res"
 {
@@ -26,7 +26,15 @@
 	"TFCharacterImage"
 	{
 		"tall"			"0"
-	}		
+	}	
+	"CharacterSetupButton"
+	{
+		"tall"			"0"
+	}	
+	"NewUserForumsButton"
+	{
+		"tall"			"0"
+	}				
 	"TFLogoImage"
 	{
 		"wide"			"0"
@@ -99,32 +107,31 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"CallVote"
-		xPos					"rs1-30"//210 - 33
-		yPos					rs1
+		xPos					"rs1"
+		yPos					20
 		zPos					1050
-		wide					25
-		tall					p0.048
+		wide					10
+		tall					10
 		"bgcolor_override"		"Blank"
 		"paintBackground"	"0"
-		alpha		"111"
 		"SubButton"
 		{
 			ControlName				CExImageButton
 			fieldName				"SubButton"
 			xpos					0
 			ypos					0
-			wide					25
-			tall					f0
+			wide					10
+			tall					10
 			proportionaltoparent		1
 
-			font					"NewIcons18"
+			font					"NewIcons9"
 			textAlignment			center
 			
 			sound_depressed			"sound_menu/button.wav"
 			sound_released			"sound_menu/button2.wav"
 							
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
+			defaultFgColor_override		"W_ColorTheme1"
+			armedFgColor_override		"W_ColorIconsArmed1"
 
 			paintbackground			0
 		}
@@ -134,31 +141,30 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"MutePlayers"
-		xPos					"rs1-55"//210 - 33
-		yPos					rs1
+		xPos					"rs1"
+		yPos					35
 		zPos					1050
-		wide					25
-		tall					p0.048
+		wide					10
+		tall					10
 		"bgcolor_override"		"Blank"
 		"paintBackground"	"0"
-		alpha		"111"
 		"SubButton"
 		{
 			ControlName				CExImageButton
 			fieldName				"SubButton"
 			xpos					0
 			ypos					0
-			wide					25
-			tall					f0
+			wide					10
+			tall					10
 			proportionaltoparent		1
 
-		//	font					"NewIcons18"
+			font					"NewIcons9"
 			textAlignment			center
 			
 			sound_depressed			"sound_menu/button.wav"
 			sound_released			"sound_menu/button2.wav"
 						
-		defaultFgColor_override		"W_ColorIcons1"
+		defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorIconsArmed1"
 
 			paintbackground			0
@@ -169,25 +175,24 @@
 	{
 		ControlName				EditablePanel
 		FieldName				"ReportPlayer"
-		xPos					"rs1-75"//210 - 33
-		yPos					rs1
+		xPos					rs1
+		yPos					50
 		zPos					1050
-		wide					25
-		tall					p0.048
+		wide					10
+		tall					10
 		"bgcolor_override"		"Blank"
 		"paintBackground"	"0"
-		alpha		"111"
-		"SubButton"
+	"SubButton"
 		{
 			ControlName				CExImageButton
 			fieldName				"SubButton"
 			xpos					0
 			ypos					0
-			wide					25
-			tall					f0
+			wide					10
+			tall					10
 			proportionaltoparent		1
 
-		//	font					"NewIcons18"
+			font					"NewIcons9"
 			textAlignment			center
 			
 			sound_depressed			"sound_menu/button.wav"
@@ -1264,7 +1269,7 @@
 			"xpos" 			"0"					//"c-60"//			"180"
 			"ypos"			"0"
 			"zpos"			"2901"
-			"wide"			"30"
+			"wide"			"20"
 			"tall"			"18"
 			
 			"fgcolor"		"78 196 247 255"
@@ -1282,7 +1287,7 @@
 			"xpos" 			"-8"					//"c-60"//			"180"
 			"ypos"			"0"
 			"zpos"			"2900"
-			"wide"			"30"
+			"wide"			"19"
 			"tall"			"18"
 			
 			"fgcolor"		"100 4 177 255"

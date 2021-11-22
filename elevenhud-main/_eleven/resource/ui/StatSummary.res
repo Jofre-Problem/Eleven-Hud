@@ -15,7 +15,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		"xpos"			"99990"
 		"ypos"			"0"
 		"wide"			"0"
 		"tall"			"0"
@@ -39,13 +39,14 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"			"BackgroundColor"
 			"xpos"				"0"
-			"ypos"				"0"
+			"ypos"				"cs-0.5"
 			"zpos"				"0"
 			"wide"				"f0"
-			"tall"				"f0"
+			"tall"				"50"
 			"visible"			"1"
 			"enabled"			"1"
 			"bgcolor_override"	"W_ColorTheme1"
+			"border"		"Rice1"
 		}
 	
 		"Background"
@@ -230,16 +231,13 @@
 	}			
 	"MapLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"MapLabel"
 		"font"			"Noto36"
-		"labelText"			"%maplabel%"
 		"textAlignment"		"center"
 		"xpos"				"cs-0.5"
-		"ypos"				"cs-0.5+30"
+		"ypos"				"cs-0.5"
 		"zpos"				"-90"
 		"wide"				"f0"
-		"tall"				"35"
+		"tall"				"50"
 		"AllCaps"			"1"
 		"fgcolor_override"	"W_ColorTheme3"
 	}

@@ -467,7 +467,7 @@
 		"xpos"							"0"
 		"ypos"							"0"
 		"wide"							"f0"
-		"tall"							"400"
+		"tall"							"f0"
 		"zpos"							"500"
 		"visible"						"0"
 	}
@@ -481,7 +481,7 @@
 		"xpos"							"0"
 		"ypos"							"0"
 		"wide"							"f0"
-		"tall"							"400"
+		"tall"							"f0"
 		"zpos"							"500"
 		visible				0
 
@@ -494,7 +494,7 @@
 		xpos					cs-0.5
 		ypos					0
 		zpos					6			// on top of other panels
-		wide					f70
+		wide					f0
 		tall					"f0"//p0.9472
 		visible				0
 		paintbackground			0

@@ -1,4 +1,4 @@
-//#base "../ui2/polybar_1.res"
+#base "../ui2/polybar_1.res"
 "Resource/UI/MatchMakingDashboard.res"
 {
 	"MMDashboard"
