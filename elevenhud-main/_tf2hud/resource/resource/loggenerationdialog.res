@@ -111,7 +111,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"GenerateLog"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Cancel"
 	{
@@ -132,7 +132,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"CancelLogGeneration"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Time1Text"
 	{

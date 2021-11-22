@@ -160,7 +160,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_maximize"
 	{
@@ -180,7 +180,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_mintosystray"
 	{
@@ -201,7 +201,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_close"
 	{
@@ -221,7 +221,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_menu"
 	{
@@ -240,7 +240,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugTitle"
 	{
@@ -254,7 +254,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"75"
@@ -273,7 +273,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -424,14 +424,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"11"
+		//"tabPosition"		"11"
 		"labelText"		"Take shot"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"snapshot"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugSaveGame"
 	{
@@ -445,14 +445,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"12"
+		//"tabPosition"		"12"
 		"labelText"		"Save game"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"savegame"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugSaveBSP"
 	{
@@ -473,7 +473,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"savebsp"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugSaveVMF"
 	{
@@ -495,7 +495,7 @@
 		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
 		"Command"		"savevmf"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugChooseVMFFolder"
 	{
@@ -516,7 +516,7 @@
 		////"brighttext"		"0"
 		//"font"		"DefaultVerySmall"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugIncludeFile"
 	{
@@ -537,7 +537,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"addfile"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugClearIncludedFiles"
 	{
@@ -558,7 +558,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"clearfiles"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugPosition"
 	{
@@ -667,7 +667,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -686,7 +686,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -705,7 +705,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -724,7 +724,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -743,7 +743,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -781,14 +781,14 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"Submit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"submit"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugCancel"
 	{
@@ -802,7 +802,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"9"
+		//"tabPosition"		"9"
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -823,14 +823,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		"labelText"		"Clear Form"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"clearform"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Label1"
 	{

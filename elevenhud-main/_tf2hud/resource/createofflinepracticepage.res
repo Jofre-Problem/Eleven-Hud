@@ -26,7 +26,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -159,7 +159,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"2"
@@ -235,12 +235,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty3"
 		"textAlignment"		"east"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"3"
 	}
 	"SkillLevel2"
@@ -255,12 +255,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty2"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"3"
 	}
 	"SkillLevel1"
@@ -275,12 +275,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty1"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"2"
 	}
 	"SkillLevel0"
@@ -295,12 +295,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#TF_Bot_Difficulty0"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"1"
 	}
 }

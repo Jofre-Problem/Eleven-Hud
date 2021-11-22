@@ -128,7 +128,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"QualityPresetCombo"
@@ -148,7 +148,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
 	}
@@ -172,7 +172,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 
 	"ShowAdvancedOptions"
@@ -194,7 +194,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 
 	"SeparatorLine"
@@ -229,7 +229,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"VideoModeCombo"
@@ -249,7 +249,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
 	}
@@ -271,7 +271,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"CodecCombo"
@@ -291,7 +291,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
 	}
@@ -313,7 +313,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"MotionBlurSlider"
@@ -350,7 +350,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"QualitySlider"
@@ -389,7 +389,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 
 	"EstimateTimeLabel"
@@ -409,7 +409,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	"EstimateFileLabel"
 	{
@@ -428,7 +428,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"EnterANameLabel"
@@ -447,7 +447,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"TitleInput"
@@ -470,7 +470,7 @@
 		
 		"bgcolor_override"		"117 107 95 255"
 		"fgcolor_override"		"202 190 164 255"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"maxchars"		"255"
 	}
 	
@@ -512,7 +512,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"ExportRaw"
@@ -534,7 +534,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 	
 	"GlowEnabled"
@@ -556,7 +556,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}	
 	
 	"LockWarningLabel"

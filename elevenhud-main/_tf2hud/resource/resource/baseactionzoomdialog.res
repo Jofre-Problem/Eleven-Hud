@@ -47,7 +47,7 @@
 		"textAlignment"		"north-west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"MinimiseToSysTray"
@@ -68,7 +68,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"MinimizeToSysTray"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"CloseButton"
 	{
@@ -87,7 +87,7 @@
 		"textAlignment"		"north-west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"MenuButton"
 	{
@@ -105,7 +105,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"OK"
 	{
@@ -144,7 +144,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"command"		"Cancel"
 	}
 	"actionname"
@@ -290,7 +290,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ZoomStayout"
 	{
@@ -309,7 +309,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Label1"
 	{

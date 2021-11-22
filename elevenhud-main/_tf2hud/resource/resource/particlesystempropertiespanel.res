@@ -30,7 +30,7 @@
 				//"UnpinnedCornerOffsetX" "-6"
 				//"visible"		"1"
 				
-				"tabPosition"	"1"
+				//"tabPosition"	"1"
 				"editable"		"0"
 				"maxchars"		"-1"
 			}
@@ -51,7 +51,7 @@
 				
 				//"visible"		"1"
 				
-				"tabPosition"	"1"
+				//"tabPosition"	"1"
 			}
 		}
 		

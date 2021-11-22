@@ -212,7 +212,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -256,7 +256,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"8000"
@@ -301,7 +301,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
 		//"textHidden"		"0"
 		"editable"		"0"
@@ -1223,7 +1223,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 	}
 

@@ -640,7 +640,7 @@
 			
 			//"visible"			"1"
 			
-			"tabPosition"		"1"
+			//"tabPosition"		"1"
 			//"textHidden"		"0"
 			"editable"			"0"
 			"maxchars"			"-1"
@@ -668,13 +668,13 @@
 			//"pinCorner"			"3"
 			//"visible"		"1"
 			"enabled"		"0"
-			"tabPosition"	"4"
+			//"tabPosition"	"4"
 			"labelText"		"#TF_call_vote"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"CallVote"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"			"HudFontSmall"
 		}
 		"Button1"
@@ -689,13 +689,13 @@
 			//"pinCorner"			"3"
 			//"visible"		"1"
 			
-			"tabPosition"	"4"
+			//"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
 			"Command"		"Close"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"			"HudFontSmall"
 		}
 	}

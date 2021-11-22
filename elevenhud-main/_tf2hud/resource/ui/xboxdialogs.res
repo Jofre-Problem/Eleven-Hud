@@ -728,7 +728,7 @@
 		//"xpos_lodef"			"80"
 		"ypos"			"120"
 		////"ypos_lodef"			"25"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		
 		"Footer"
 		{
@@ -818,7 +818,7 @@
 		//"xpos_lodef"			"100"
 		"ypos"			"200"
 		////"ypos_lodef"			"50"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		
 		"Footer"
 		{
@@ -904,7 +904,7 @@
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
 		////"ypos_lodef"			"100"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		
 		"Footer"
 		{
@@ -972,7 +972,7 @@
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
 		////"ypos_lodef"			"100"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		
 		"Footer"
 		{
@@ -1040,7 +1040,7 @@
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
 		////"ypos_lodef"			"100"
-		"borderwidth"	"25"
+		//"borderwidth"	"25"
 		
 		"Footer"
 		{
@@ -1100,7 +1100,7 @@
 	{
 		//"xpos_lodef"	"c-265"
 		////"ypos_lodef"	"40"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		//"tall_hidef"	"475"
 		//"tall_lodef"	"367"
 		"gametotal"		"100"
@@ -1196,7 +1196,7 @@
 		//"xpos_lodef"			"100"
 		"ypos"			"250"
 		////"ypos_lodef"			"100"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		
 		"Footer"
 		{
@@ -1366,7 +1366,7 @@
 		//"wide_lodef"			"560"
 		"tall"			"340"
 		//"tall_lodef"			"280"
-		"borderwidth"	"30"
+		//"borderwidth"	"30"
 		
 		"SessionProperty"
 		{
@@ -1773,7 +1773,7 @@
 		//"wide_lodef"				"588"
 		"tall"				"510"
 		//"tall_lodef"				"405"
-		"borderwidth"		"30"
+		//"borderwidth"		"30"
 		"teamspacing"		"10"
 		//"teamspacing_lodef"			"3"
 				
@@ -2237,7 +2237,7 @@
 		//"wide_lodef"			"588"
 		"tall"				"510"
 		//"tall_lodef"				"405"
-		"borderwidth"	"30"
+		//"borderwidth"	"30"
 		"teamspacing"	"10"
 		//"teamspacing_lodef"		"3"
 		
@@ -2593,7 +2593,7 @@
 		//"wide_lodef"	"580"
 		"tall"			"395"
 		//"tall_lodef"	"320"
-		"borderwidth"	"30"
+		//"borderwidth"	"30"
 			
 		// These should be in the same order as the scenario defines in hl2orange.spa.h
 		"ScenarioInfoPanels"
@@ -2804,7 +2804,7 @@
 		//"wide_lodef"	"580"
 		"tall"			"395"
 		//"tall_lodef"	"320"
-		"borderwidth"	"30"
+		//"borderwidth"	"30"
 			
 		// These should be in the same order as the scenario defines in hl2orange.spa.h
 		"ScenarioInfoPanels"
@@ -3003,7 +3003,7 @@
 		//"wide_lodef"	"480"
 		"tall"			"495"
 		//"tall_lodef"	"350"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		//"borderwidth_lodef"	"10"
 		
 		"Footer"
@@ -3223,7 +3223,7 @@
 		//"wide_lodef"	"480"
 		"tall"			"495"
 		//"tall_lodef"	"350"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		//"borderwidth_lodef"	"10"
 		
 		"Footer"

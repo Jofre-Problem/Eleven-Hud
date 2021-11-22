@@ -45,7 +45,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		"Command"		"FogOverride"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"FogEnable"
 	{
@@ -73,7 +73,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		"Command"		"FogEnable"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"FogStart"
 	{
@@ -296,7 +296,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		"Command"		"FogEnableSky"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"FogStartSky"
 	{
@@ -519,7 +519,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		"Command"		"FarZOverride"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"FarZ"
 	{
@@ -972,7 +972,7 @@
 		"textinsetx"		"6"
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BuildModeDialog"
 	{

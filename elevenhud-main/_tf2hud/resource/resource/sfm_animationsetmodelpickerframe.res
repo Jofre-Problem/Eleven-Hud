@@ -112,7 +112,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}	
 }

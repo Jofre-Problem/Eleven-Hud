@@ -26,7 +26,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"GotoButton"
 	{
@@ -46,7 +46,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"DeleteButton"
@@ -67,7 +67,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 		"command"		"Delete"
 	}
@@ -111,7 +111,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"EntitiesLabel"
@@ -170,7 +170,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"1"
 	}
@@ -192,7 +192,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"2"
 	}
@@ -214,7 +214,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 		"SubTabPosition"		"3"
 	}
@@ -236,7 +236,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"KeyvalueCheck"
@@ -257,7 +257,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"KeyTextEntry"
@@ -272,7 +272,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -310,7 +310,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -335,7 +335,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"ClassnameCheck"
@@ -356,7 +356,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"ClassNameComboBox"
@@ -371,7 +371,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

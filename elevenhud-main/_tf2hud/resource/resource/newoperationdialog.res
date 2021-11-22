@@ -73,7 +73,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Create"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Cancel"
@@ -95,7 +95,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Label1"

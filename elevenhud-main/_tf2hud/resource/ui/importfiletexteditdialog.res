@@ -62,7 +62,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 	}
 
@@ -85,7 +85,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Done"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 	}
 }

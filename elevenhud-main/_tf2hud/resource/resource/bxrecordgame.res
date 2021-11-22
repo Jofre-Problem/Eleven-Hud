@@ -160,7 +160,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_maximize"
 	{
@@ -180,7 +180,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_mintosystray"
 	{
@@ -201,7 +201,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_close"
 	{
@@ -221,7 +221,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_menu"
 	{
@@ -240,7 +240,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Record"
 	{
@@ -261,7 +261,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"RecordGame"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Cancel"
 	{
@@ -282,7 +282,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"CancelRecord"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ChooseDemLabel"
 	{
@@ -379,7 +379,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ChooseMap"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"RecordCameraPos"
 	{
@@ -399,7 +399,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"RecordCameraRot"
@@ -420,7 +420,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"RecordCameraFOV"
@@ -441,7 +441,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"ViewPlayerCam"
@@ -462,7 +462,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"TeleportPlayer"
@@ -483,7 +483,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Noclip"
@@ -504,7 +504,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"RecordWorld"
@@ -525,7 +525,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"RecordStationary"
@@ -546,7 +546,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"RecordSprites"
@@ -567,7 +567,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"RecordSounds"
@@ -588,7 +588,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"RecordNarration"
@@ -609,7 +609,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"RecordNarrationFromStart"
@@ -630,7 +630,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"SequenceLabel"

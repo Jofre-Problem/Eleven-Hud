@@ -6,8 +6,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		//"enabled"		"1"
-		"xpos"			"c124"	[$WIN32]
-		"ypos"			"r36"	[$WIN32]
+		"xpos"			"c124"	
+		"ypos"			"r36"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"

@@ -34,7 +34,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Tree"
 	{
@@ -83,7 +83,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"play"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Stop"
 	{
@@ -125,7 +125,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"nexttrack"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"PrevTrack"
 	{
@@ -146,7 +146,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"prevtrack"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Mute"
 	{
@@ -166,7 +166,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Shuffle"
 	{
@@ -186,7 +186,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"volume"
 	{

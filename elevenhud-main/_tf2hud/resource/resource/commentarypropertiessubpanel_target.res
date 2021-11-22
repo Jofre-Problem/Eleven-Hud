@@ -27,7 +27,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -105,7 +105,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -181,7 +181,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -200,7 +200,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -238,7 +238,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -257,7 +257,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -276,7 +276,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

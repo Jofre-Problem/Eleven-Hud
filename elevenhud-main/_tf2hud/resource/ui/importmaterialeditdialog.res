@@ -77,7 +77,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditSkin0"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"0 0 0 0"
@@ -102,7 +102,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditSkin1"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"0 0 0 0"
@@ -478,7 +478,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -516,7 +516,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -554,7 +554,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -592,7 +592,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -738,7 +738,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -777,7 +777,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -801,7 +801,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -825,7 +825,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1030,7 +1030,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1054,7 +1054,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1078,7 +1078,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1252,7 +1252,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1276,7 +1276,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1300,7 +1300,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1331,7 +1331,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Done"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 	}
 
@@ -1354,7 +1354,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmall"
 	}
 }

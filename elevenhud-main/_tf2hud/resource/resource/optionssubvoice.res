@@ -47,7 +47,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"leftText"		""
 		"rightText"		""
 	}
@@ -63,7 +63,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 	}
 	"voice_modenable"
 	{
@@ -77,12 +77,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_EnableVoice"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"MicBoost"
 	{
@@ -96,12 +96,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#GameUI_BoostMicrophone"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Microphonelabel"
 	{
@@ -208,13 +208,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_TestMicrophone"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"TestMicrophone"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"MilesVoiceLabel"
 	{

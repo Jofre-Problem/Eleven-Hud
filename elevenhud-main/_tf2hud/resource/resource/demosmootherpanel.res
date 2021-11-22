@@ -32,7 +32,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothRevert"
 	{
@@ -52,7 +52,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"revert"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothOk"
 	{
@@ -72,7 +72,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothCancel"
 	{
@@ -92,7 +92,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothSave"
 	{
@@ -112,7 +112,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"save"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothReload"
 	{
@@ -132,7 +132,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"reload"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothStartFrame"
 	{
@@ -188,7 +188,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"original"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothPreviewProcessed"
 	{
@@ -208,7 +208,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"processed"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothBackoff"
 	{
@@ -227,7 +227,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothHideLegend"
 	{
@@ -246,7 +246,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothHideOriginal"
 	{
@@ -265,7 +265,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothHideProcessed"
 	{
@@ -284,7 +284,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothSelectionInfo"
 	{
@@ -321,7 +321,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothSelect"
 	{
@@ -341,7 +341,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"select"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothPauseResume"
 	{
@@ -361,7 +361,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"togglepause"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothStepForward"
 	{
@@ -381,7 +381,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"stepforward"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothStepBackward"
 	{
@@ -401,7 +401,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"stepbackward"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothRevertPoint"
 	{
@@ -421,7 +421,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"revertpoint"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothSetKeyFrame"
 	{
@@ -441,7 +441,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"keyframe"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothSetLookTarget"
 	{
@@ -461,7 +461,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"looktarget"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothUndo"
 	{
@@ -481,7 +481,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"undo"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothRedo"
 	{
@@ -501,7 +501,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"redo"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothNextKey"
 	{
@@ -521,7 +521,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"nextkey"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothPrevKey"
 	{
@@ -541,7 +541,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"prevkey"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothNextTarget"
 	{
@@ -561,7 +561,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"nexttarget"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothPrevTarget"
 	{
@@ -581,7 +581,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"prevtarget"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothCameraAtPoint"
 	{
@@ -601,7 +601,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"setview"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothFixFrameButton"
 	{
@@ -620,7 +620,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmoothFixFrames"
 	{
@@ -658,7 +658,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"processkey"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	
 	"DemoSmoothGotoFrame"
@@ -697,7 +697,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"gotoframe"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Label1"
 	{

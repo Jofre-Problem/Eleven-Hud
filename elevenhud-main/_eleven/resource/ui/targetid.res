@@ -67,7 +67,39 @@
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"
 	}
-	
+	"TargetDataLabelTrue2"	//indica cuanto de uber y de metal tienen los demas	//bugeado con las otras clases
+	{	
+		"ControlName"		"CExLabel"
+		"fieldName"		"TargetDataLabelTrue2"
+		"font"			"NotoBold10"
+		"xpos"			"3"
+		"ypos"			"30"
+		"zpos"			"1"
+		"wide"			"655"
+		"tall"			"30"
+		"labelText"		"%targetdata%"
+		"textAlignment"		"center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"fgcolor"		"White"
+	}
+	"TargetDataLabelTrueShadow2"
+	{	
+		"ControlName"		"CExLabel"
+		"fieldName"		"TargetDataLabelTrueShadow2"
+		"font"			"NotoBold10"
+		"xpos"			"0"
+		"ypos"			"-1"
+		"zpos"			"0"
+		"wide"			"655"
+		"tall"			"30"
+		"labelText"		"%targetdata%"
+		"textAlignment"		"center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"fgcolor"		"TransparentBlack"
+		"pin_to_sibling"	"TargetDataLabelTrue2"
+	}	
 	"TargetNameLabel"
 	{	
 		"ControlName"		"Label"

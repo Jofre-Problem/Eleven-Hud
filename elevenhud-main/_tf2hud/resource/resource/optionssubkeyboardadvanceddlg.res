@@ -12,13 +12,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_FastSwitchCheck"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ConsoleCheck"
 	{
@@ -32,13 +32,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GameUI_DeveloperConsoleCheck"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Button1"
 	{
@@ -52,7 +52,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#GameUI_OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -73,13 +73,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

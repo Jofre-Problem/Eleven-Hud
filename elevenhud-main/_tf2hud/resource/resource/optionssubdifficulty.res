@@ -12,13 +12,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillEasy"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"1"
 	}
 	"Skill2Radio"
@@ -33,13 +33,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillNormal"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"2"
 	}
 	"Skill3Radio"
@@ -54,13 +54,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_SkillHard"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"SubTabPosition"		"3"
 	}
 	"Label1"

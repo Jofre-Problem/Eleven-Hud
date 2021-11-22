@@ -43,7 +43,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -64,14 +64,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option2"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"option3"
 	{
@@ -85,14 +85,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option3"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"option4"
 	{
@@ -106,14 +106,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option4"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"option5"
 	{
@@ -127,14 +127,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option5"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"option6"
 	{
@@ -148,14 +148,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option6"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"option7"
 	{
@@ -169,14 +169,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option7"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"option8"
 	{
@@ -190,13 +190,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labeltext"		""
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"option8"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

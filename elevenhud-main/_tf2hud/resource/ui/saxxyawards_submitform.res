@@ -79,7 +79,7 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"editable"		"0"
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
@@ -99,7 +99,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"#Replay_Cancel"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
@@ -124,7 +124,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Rules"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"
@@ -149,7 +149,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Submit"
 		"font"			"HudFontSmall"
 		"textAlignment"	"center"

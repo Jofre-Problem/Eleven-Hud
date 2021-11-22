@@ -56,7 +56,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BindingName"
 	{

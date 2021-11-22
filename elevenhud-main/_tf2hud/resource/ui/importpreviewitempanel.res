@@ -553,7 +553,7 @@
 		"textAlignment"	"center"
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"default"		"0"
+		//"Default"		"0"
 		//"sound_depressed"	"UI/buttonclick.wav"
 		//"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"options"
@@ -674,7 +674,7 @@
 			//"brighttext"	"0"
 			"wrap"			"1"
 			"Command"		"Action"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"			"HudFontSmallest"
 		}
 
@@ -745,7 +745,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditQCI"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmallest"
 	}
 	
@@ -800,7 +800,7 @@
 			////"brighttext"		"0"
 			//"wrap"		"0"
 			"Command"		"EditQC"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"		"HudFontSmallest"
 		}
 
@@ -823,7 +823,7 @@
 			////"brighttext"		"0"
 			//"wrap"		"0"
 			"Command"		"EditMaterial0"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"		"HudFontSmallest"
 		}
 
@@ -846,7 +846,7 @@
 			////"brighttext"		"0"
 			//"wrap"		"0"
 			"Command"		"EditMaterial1"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"		"HudFontSmallest"
 		}
 
@@ -869,7 +869,7 @@
 			////"brighttext"		"0"
 			//"wrap"		"0"
 			"Command"		"EditMaterial2"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"		"HudFontSmallest"
 		}
 
@@ -892,7 +892,7 @@
 			////"brighttext"		"0"
 			//"wrap"		"0"
 			"Command"		"EditMaterial3"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"		"HudFontSmallest"
 		}
 	}
@@ -999,7 +999,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			//"sound_depressed"	"UI/buttonclick.wav"
 			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
@@ -1174,7 +1174,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			//"sound_depressed"	"UI/buttonclick.wav"
 			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
@@ -1221,7 +1221,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			//"sound_depressed"	"UI/buttonclick.wav"
 			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
@@ -1396,7 +1396,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			//"sound_depressed"	"UI/buttonclick.wav"
 			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"close"
@@ -1443,7 +1443,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			//"sound_depressed"	"UI/buttonclick.wav"
 			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
@@ -1664,7 +1664,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			//"sound_depressed"	"UI/buttonclick.wav"
 			//"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"prevexplanation"
@@ -1731,7 +1731,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"BuildPreview"
-		"Default"		"0"
+		//"Default"		"0"
 		"font"		"HudFontSmallest"
 	}
 	

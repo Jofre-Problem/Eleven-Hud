@@ -26,7 +26,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"CreateTargetButton"
 	{
@@ -47,7 +47,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"DropInfoTargets"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"DeleteButton"
@@ -69,7 +69,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Delete"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"SaveButton"
@@ -91,7 +91,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Save"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"RestartMapButton"
@@ -113,7 +113,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"RestartMap"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"EntitiesLabel"
@@ -154,7 +154,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"quicksave"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"QuickLoadButton"
 	{
@@ -175,7 +175,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"quickload"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BuildModeDialog"
 	{

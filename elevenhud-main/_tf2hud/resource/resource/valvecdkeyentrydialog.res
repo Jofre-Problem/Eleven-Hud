@@ -27,7 +27,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"#GameUI_OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -47,13 +47,13 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labelText"		"#GameUI_Quit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"Cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Entry1"
 	{
@@ -67,7 +67,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"5"
@@ -85,7 +85,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"5"
@@ -103,7 +103,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"5"
@@ -121,7 +121,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"5"
@@ -139,7 +139,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"5"

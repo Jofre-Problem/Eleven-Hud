@@ -160,7 +160,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_maximize"
 	{
@@ -180,7 +180,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_mintosystray"
 	{
@@ -201,7 +201,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_close"
 	{
@@ -221,7 +221,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"frame_menu"
 	{
@@ -240,7 +240,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"dxlabel"
 	{
@@ -254,7 +254,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"14"
+		//"tabPosition"		"14"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -273,7 +273,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -292,7 +292,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -311,7 +311,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -330,7 +330,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -349,7 +349,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -369,7 +369,7 @@
 		//"visible"		"1" [!$OSX]
 		
 		
-		"tabPosition"		"12"
+		//"tabPosition"		"12"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -388,7 +388,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -407,7 +407,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"9"
+		//"tabPosition"		"9"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -426,7 +426,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -445,7 +445,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -464,7 +464,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -484,13 +484,13 @@
 		//"visible"		"1" [!$OSX]
 		
 		
-		"tabPosition"		"13"
+		//"tabPosition"		"13"
 		"labelText"		"#GameUI_Bloom"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Motion Blur Label"
@@ -525,7 +525,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"16"
+		//"tabPosition"		"16"
 		"labelText"		"#GameUI_OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -547,14 +547,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"17"
+		//"tabPosition"		"17"
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Label1"
@@ -891,7 +891,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"11"
+		//"tabPosition"		"11"
 		"leftText"		"0.00"
 		"rightText"		"1.00"
 		"minvalue"		"75"
@@ -949,7 +949,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"

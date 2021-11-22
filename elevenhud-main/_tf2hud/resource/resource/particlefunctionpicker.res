@@ -28,7 +28,7 @@
 			//"pinCorner"			"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"2"
+			//"tabPosition"		"2"
 			"labelText"		"Open"
 			"textAlignment"		"center"
 			////"dulltext"		"0"
@@ -48,12 +48,12 @@
 			//"pinCorner"			"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"3"
+			//"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			////"brighttext"		"0"
-			"Default"		"0"
+			//"Default"		"0"
 		}
 		
 		"ParticleFunctionList"
@@ -72,7 +72,7 @@
 			////"UnpinnedCornerOffsetY" "-36"
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabPosition"	"1"
 		}
 	}
 }

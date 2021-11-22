@@ -87,7 +87,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ReApply"
 	{
@@ -107,7 +107,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Cancel"
 	{
@@ -127,7 +127,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Play"
 	{
@@ -147,7 +147,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"SentenceText"
 	{
@@ -225,7 +225,7 @@
 		////"brighttext"		"0"
 		//"font"		"DefaultSmall"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"IgnoreVisibility"
 	{
@@ -246,7 +246,7 @@
 		////"brighttext"		"0"
 		//"font"		"DefaultSmall"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"CreateBookmarks"
 	{
@@ -267,7 +267,7 @@
 		////"brighttext"		"0"
 		//"font"		"DefaultSmall"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Label1"
 	{

@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -47,7 +47,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -66,7 +66,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -197,14 +197,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_Bug_TakeScreenshot"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"snapshot"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugSaveGame"
 	{
@@ -218,14 +218,14 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#GameUI_Bug_AttachSavedGame"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"savegame"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugSaveBSP"
 	{
@@ -245,7 +245,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugSaveVMF"
 	{
@@ -265,7 +265,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugIncludeFile"
 	{
@@ -285,7 +285,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugClearIncludedFiles"
 	{
@@ -305,7 +305,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugPosition"
 	{
@@ -529,14 +529,14 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"9"
+		//"tabPosition"		"9"
 		"labelText"		"#GameUI_Bug_Submit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"submit"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugCancel"
 	{
@@ -550,14 +550,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"BugClearForm"
 	{
@@ -571,7 +571,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"#GameUI_Bug_ClearForm"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

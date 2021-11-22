@@ -853,7 +853,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			"actionsignallevel"	"2"
 
 			"navDown"			"MOTD_URLButton"
@@ -1203,7 +1203,7 @@
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"default"		"0"
+			//"Default"		"0"
 			"actionsignallevel"	"2"
 
 			"Command"		"noti_hide"

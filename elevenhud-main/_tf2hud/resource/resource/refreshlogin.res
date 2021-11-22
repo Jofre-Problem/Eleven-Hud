@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -47,7 +47,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"textHidden"		"1"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -66,14 +66,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#GameUI_RefreshLogin_RememberPassword"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"RememberPassword"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Label1"
 	{
@@ -144,7 +144,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_RefreshLogin_Login"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -165,14 +165,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#GameUI_RefreshLogin_Cancel"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }
  

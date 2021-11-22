@@ -27,7 +27,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -52,7 +52,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"Command"	"PickSound"
 	}
 	"AudioFileName"
@@ -68,7 +68,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -94,7 +94,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Speaker"
 	{
@@ -109,7 +109,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -129,7 +129,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -154,7 +154,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ViewTargetPickerButton"
 	{
@@ -174,7 +174,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"viewposition"
 	{
@@ -234,7 +234,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"StartCommands"
 	{
@@ -249,7 +249,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"11"
+		//"tabPosition"		"11"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -269,7 +269,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"12"
+		//"tabPosition"		"12"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -540,7 +540,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -616,7 +616,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -635,7 +635,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -673,7 +673,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -692,7 +692,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"9"
+		//"tabPosition"		"9"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -711,7 +711,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"10"
+		//"tabPosition"		"10"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

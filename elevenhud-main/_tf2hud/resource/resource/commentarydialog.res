@@ -67,14 +67,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GAMEUI_Commentary_TurnOn"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"turnon"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"TurnOffButton"
@@ -89,7 +89,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GAMEUI_Commentary_LeaveOff"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

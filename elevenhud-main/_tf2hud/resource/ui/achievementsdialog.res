@@ -13,12 +13,12 @@
 		"tall"		"444"
 		
 		
-		"visible"					"1"
-		"enabled"					"1"
-		//"tabPosition"				"0"
+		//"visible"					"1"
+		//"enabled"					"1"
+		////"tabPosition"				"0"
 		"settitlebarvisible"		"1"
 		"title"						"#GameUI_Achievements_Title"
-		"borderwidth"				"15"
+		//"borderwidth"				"15"
 	}
 	
 	"Back" //back button
@@ -33,14 +33,14 @@
 		//"pinCorner"			"3"
 		////"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_Back"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"ResetAchievements"
@@ -62,7 +62,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ResetAchievements"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	
 	"listpanel_achievements"
@@ -77,7 +77,7 @@
 		
 		////"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	
 	"listpanel_background"

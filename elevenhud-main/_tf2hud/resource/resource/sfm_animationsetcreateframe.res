@@ -53,7 +53,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"modelname"
 	{
@@ -93,7 +93,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Ok"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"CancelButton"
@@ -115,7 +115,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Label1"

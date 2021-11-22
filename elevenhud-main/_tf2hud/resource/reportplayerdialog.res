@@ -32,7 +32,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	"ReportButton"
 	{
@@ -46,7 +46,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"			"#GameUI_ReportPlayer"
 		//"textAlignment"		"west"
 		//"dulltext"			"0"
@@ -67,7 +67,7 @@
 		//"pinCorner"				"2"
 		//"visible"			"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		"editable"			"0"
 		"maxchars"			"-1"
@@ -86,12 +86,12 @@
 		//"pinCorner"			"3"
 		"visible"		"0"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_Close"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

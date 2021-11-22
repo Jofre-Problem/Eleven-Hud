@@ -147,7 +147,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"maximize"
@@ -168,7 +168,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"mintosystray"
@@ -190,7 +190,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"MinimizeToSysTray"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Close"
@@ -211,7 +211,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Menu"
@@ -231,7 +231,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"AnimationSetPicker"
@@ -267,7 +267,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Open"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"CancelButton"

@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -47,7 +47,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -66,7 +66,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -142,7 +142,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"Y"
 		"textAlignment"		"center"
 		////"dulltext"		"0"
@@ -150,7 +150,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"PrevBookmark"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"NextButton"
 	{
@@ -171,7 +171,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"NextBookmark"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Okay"
 	{
@@ -185,7 +185,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"Okay"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -206,13 +206,13 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		"labelText"		"Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"CancelEditBookmark"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

@@ -62,7 +62,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"1"
+		//"tabPosition"	"1"
 		"labelText"		"&1"	//[$WIN32]
 		
 		"textAlignment"	"south-west"
@@ -88,7 +88,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"&2"	//[$WIN32]
 		
 		"textAlignment"	"south-west"

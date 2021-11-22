@@ -101,7 +101,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"RedoSorting"
 	{
@@ -142,7 +142,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"PlaybackLabel"
 	{
@@ -182,7 +182,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"StepForward"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"StepBack"
 	{
@@ -203,7 +203,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"StepBack"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"GotoButton"
 	{
@@ -224,7 +224,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"GotoButton"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"PlaybackScroll"
 	{

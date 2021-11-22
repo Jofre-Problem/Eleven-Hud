@@ -43,7 +43,7 @@
 			//"textinsety"		"0"
 			//"auto_wide_tocontents"		"0"
 			//"use_proportional_insets"		"0"
-			"Default"		"0"
+			//"Default"		"0"
 			"Command"		"particle_use_head_clicked"
 		}
 	

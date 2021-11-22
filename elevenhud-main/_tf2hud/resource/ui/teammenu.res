@@ -63,7 +63,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"3"
+		//"tabPosition"	"3"
 		"labelText"		"&3"	
 		
 		"textAlignment"	"south-west"
@@ -91,7 +91,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"4"
+		//"tabPosition"	"4"
 		"labelText"		"&4"	
 		
 		"textAlignment"	"south-west"
@@ -119,7 +119,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"1"
+		//"tabPosition"	"1"
 		"labelText"		"&1"	
 		
 		"textAlignment"	"south-west"
@@ -145,7 +145,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"&2"	
 		
 		"textAlignment"	"south-west"

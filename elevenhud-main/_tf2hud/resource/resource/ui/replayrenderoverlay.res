@@ -122,6 +122,6 @@
 		
 		////"dulltext"		"0"
 		//"brighttext"	"0"
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 	}
 }

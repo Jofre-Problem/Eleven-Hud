@@ -98,7 +98,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"3"
+		//"tabPosition"	"3"
 		"labeltext"		""	//[$WIN32]
 		
 		"textAlignment"	"south-west"
@@ -143,7 +143,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"4"
+		//"tabPosition"	"4"
 		"labeltext"		""
 		"textAlignment"	"south-west"
 		////"dulltext"		"0"
@@ -187,7 +187,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"1"
+		//"tabPosition"	"1"
 		"labeltext"		""
 		"textAlignment"	"south-west"
 		////"dulltext"		"0"
@@ -229,7 +229,7 @@
 		//"pinCorner"			"2"
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labeltext"		""
 		"textAlignment"	"south-west"
 		////"dulltext"		"0"

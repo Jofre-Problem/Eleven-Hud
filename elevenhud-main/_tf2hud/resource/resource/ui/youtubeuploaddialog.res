@@ -73,7 +73,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"1"
+		//"tabPosition"	"1"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
 		//"font"			"HudFontSmallest"
@@ -115,7 +115,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"fgcolor_override"		"202 190 164 255"
 		"bgcolor_override"		"60 54 46 255"
 		//"font"			"HudFontSmallest"

@@ -26,7 +26,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"

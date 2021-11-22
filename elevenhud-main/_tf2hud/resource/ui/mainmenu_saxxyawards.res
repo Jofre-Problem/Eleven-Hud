@@ -113,7 +113,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_SubmitEntry"
 		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
@@ -143,7 +143,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"2"
+		//"tabPosition"	"2"
 		"labelText"		"#Replay_Contest_Details"
 		"font"			"HudFontSmallest"
 		"textAlignment"	"center"

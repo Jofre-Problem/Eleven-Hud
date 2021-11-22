@@ -357,7 +357,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				//"enabled"		"1"
-				"tabPosition"		"1"
+				//"tabPosition"		"1"
 				"textHidden"		"0"
 				"editable"		"0"
 				"maxchars"		"-1"
@@ -377,7 +377,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				//"enabled"		"1"
-				"tabPosition"		"1"
+				//"tabPosition"		"1"
 				"textHidden"		"0"
 				"editable"		"0"
 				"maxchars"		"-1"
@@ -397,7 +397,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				//"enabled"		"1"
-				"tabPosition"		"1"
+				//"tabPosition"		"1"
 				"textHidden"		"0"
 				"editable"		"0"
 				"maxchars"		"-1"
@@ -467,7 +467,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}	
@@ -488,7 +488,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -509,7 +509,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}
@@ -530,7 +530,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -616,7 +616,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -637,7 +637,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -658,7 +658,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -679,7 +679,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -765,7 +765,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -786,7 +786,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -807,7 +807,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -828,7 +828,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -914,7 +914,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -935,7 +935,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -956,7 +956,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -977,7 +977,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1063,7 +1063,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1084,7 +1084,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1105,7 +1105,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"226 184 146 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1126,7 +1126,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"226 184 146 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1212,7 +1212,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1233,7 +1233,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1254,7 +1254,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1275,7 +1275,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"162 148 135 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1361,7 +1361,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1382,7 +1382,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1403,7 +1403,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1424,7 +1424,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"93 60 27 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1510,7 +1510,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1531,7 +1531,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1552,7 +1552,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1573,7 +1573,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"134 93 39 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1659,7 +1659,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1680,7 +1680,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -1701,7 +1701,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1722,7 +1722,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"207 147 95 255"
 			"PaintBackgroundType"	"0"
 		}	
@@ -1853,7 +1853,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"	
+			//"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 80"
 			"PaintBackgroundType"	"0"
 		}
@@ -2652,7 +2652,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		//"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -2672,7 +2672,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		//"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -2692,7 +2692,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		//"enabled"		"1"
-		"tabPosition"	"0"
+		//"tabPosition"	"0"
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
 		"dulltext"		"0"

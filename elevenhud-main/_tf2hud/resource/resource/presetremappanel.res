@@ -69,7 +69,7 @@
 			//"pinCorner"			"2"
 			//"visible"		"1"
 			
-			"tabPosition"		"2"
+			//"tabPosition"		"2"
 			"labelText"		"Ok"
 			"command"		"ok"
 			"textAlignment"		"center"
@@ -90,13 +90,13 @@
 			//"pinCorner"			"2"
 			//"visible"		"1"
 			
-			"tabPosition"	"3"
+			//"tabPosition"	"3"
 			"labelText"		"Cancel"
 			"command"		"Cancel"
 			"textAlignment"	"center"
 			////"dulltext"		"0"
 			////"brighttext"		"0"
-			"Default"		"0"
+			//"Default"		"0"
 		}
 		
 		"PresetRemapList"
@@ -115,7 +115,7 @@
 			////"UnpinnedCornerOffsetY" "-36"
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabPosition"	"1"
 		}
 	}
 }

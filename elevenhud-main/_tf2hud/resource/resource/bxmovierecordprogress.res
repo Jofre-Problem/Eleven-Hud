@@ -73,6 +73,6 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

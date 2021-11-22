@@ -119,7 +119,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -250,7 +250,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -295,7 +295,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"128"
@@ -1358,7 +1358,7 @@
 			//"brighttext"	"0"
 			//"wrap"			"0"
 			"Command"		"EditQC"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"			"HudFontSmallest"
 		}
 	}
@@ -2095,7 +2095,7 @@
 			
 			//"visible"		"1"
 			"enabled"		"0"
-			"tabPosition"		"1"
+			//"tabPosition"		"1"
 			//"textHidden"		"0"
 			//"editable"		"1"
 			"maxchars"		"128"
@@ -2127,7 +2127,7 @@
 			//"brighttext"	"0"
 			//"wrap"			"0"
 			"Command"		"EditQCI"
-			"Default"		"0"
+			//"Default"		"0"
 			"font"			"HudFontSmallest"
 		}
 	}

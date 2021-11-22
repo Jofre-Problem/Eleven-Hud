@@ -12,9 +12,9 @@
 		"wide"						"594"
 		"tall"						"64"
 		
-		"visible"					"1"
-		"enabled"					"1"
-		//"tabPosition"				"0"
+		//"visible"					"1"
+		//"enabled"					"1"
+		////"tabPosition"				"0"
 		"settitlebarvisible"		"0"
 		
 		"ProgressBarColor" 	"200 184 148 255" //[$WIN32]

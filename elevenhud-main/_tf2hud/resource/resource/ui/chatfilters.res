@@ -30,7 +30,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"		
+		//"Default"		"0"		
 	}
 	"namechange_button"
 	{
@@ -49,7 +49,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"		
+		//"Default"		"0"		
 	}
 	"publicchat_button"
 	{
@@ -68,7 +68,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"		
+		//"Default"		"0"		
 	}
 	"servermsg_button"
 	{
@@ -87,7 +87,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"		
+		//"Default"		"0"		
 	}
 	"teamchange_button"
 	{
@@ -106,7 +106,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"		
+		//"Default"		"0"		
 	}
 	
 	"achivement_button"
@@ -126,6 +126,6 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"		
+		//"Default"		"0"		
 	}
 }

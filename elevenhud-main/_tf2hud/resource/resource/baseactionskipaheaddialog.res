@@ -53,7 +53,7 @@
 		"textAlignment"		"north-west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"Close"
@@ -73,7 +73,7 @@
 		"textAlignment"		"north-west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"OK"
@@ -93,7 +93,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"command"		"OK"
 	}
 	"Cancel"
@@ -113,7 +113,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"command"		"Cancel"
 	}
 	"actionname"

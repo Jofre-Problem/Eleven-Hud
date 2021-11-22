@@ -47,7 +47,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"add"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"EditClip"
 	{
@@ -68,7 +68,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"edit"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DeleteClip"
 	{
@@ -89,7 +89,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"delete"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Tweak"
 	{

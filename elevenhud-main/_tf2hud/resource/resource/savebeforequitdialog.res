@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_SaveAndQuit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -49,14 +49,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GameUI_DontSaveAndQuit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Quit"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Button3"
 	{
@@ -70,14 +70,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#vgui_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Label1"
 	{

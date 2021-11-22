@@ -14,8 +14,7 @@
 		"enabled"				"1"
 		"separator_width"		"9"	// distance between the icons (including their backgrounds)
 		"separator_height"		"7"
-		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
-		"height_offset"			"26"	[$X360]
+		"height_offset"			"0"
 	}
 	HudDamageIndicator
 	{
@@ -229,13 +228,11 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	[$WIN32]
-		"ypos"		"r70"	[$WIN32]
-		"xpos"		"50"	[$X360]
-		"ypos"		"330"	[$X360]
+		"xpos"		"10"
+		"ypos"		"r70"
 		"wide"		"500"
 		"tall"		"200"
-		"TextFont"	"Default"	[$X360]
+		"TextFont"	"Default"	
 	}
 
 	CMainTargetID
@@ -266,7 +263,7 @@
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"cs-0.5"
 		"ypos"		"-555" //-550
 		"wide"	 	"252"
 		"tall"	 	"1035"
@@ -285,10 +282,10 @@
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"cs-0.5"
 		"ypos"		"-165"
 		"wide"	 	"252"
-		"tall"	 	"550"
+		"tall"	 	"555"
 		"priority"	"35"
 
 	}
@@ -331,8 +328,7 @@
 		//"ypos_hidef"	"0"
 		//"ypos_lodef"	"0"
 		"wide"			"f0"
-		"tall"			"f0"	[$WIN32]
-		"tall"			"f0"	[$X360]
+		"tall"			"f0"¡
 		"PaintBackgroundType"	"0"
 	//	"pin_to_sibling"	"DisguiseStatus"	 //HELL			
 	}	
@@ -372,10 +368,8 @@
 	
 	BuildingStatus_Spy
 	{
-		"xpos"		"-8"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"-8"	[$X360]
-		"ypos"		"0"	[$X360]		
+		"xpos"		"-8"
+		"ypos"		"0"	
 		"wide"		"f0"
 		"tall"		"480"
 	}
@@ -384,8 +378,6 @@
 	BuildingStatus_Engineer
 	{
 		"xpos"		"-8"
-		"xpos_hidef"		"-8"
-		"xpos_lodef"		"-8"
 		"ypos"		"0"
 		//"ypos_hidef"		"0"
 		//"ypos_lodef"		"0"
@@ -418,20 +410,6 @@
 		"wide"			"f0"
 		"tall"			"f0"		
 	}
-	
-	HudControlPointIcons
-	{
-		"xpos"					"0"
-		"ypos"					"410"
-		"wide"					"f0"
-		"tall"					"200"
-		"visible"				"1"
-		"enabled"				"1"
-		"separator_width"		"3"	\\ distance between the icons (including their backgrounds)
-		"separator_height"		"3"
-		"height_offset"			"0"	[$WIN32] \\ distance from the bottom of the panel
-	}
-	
 	"ItemAttributeTracker"
 	{
 		"fieldName" 	"ItemAttributeTracker"

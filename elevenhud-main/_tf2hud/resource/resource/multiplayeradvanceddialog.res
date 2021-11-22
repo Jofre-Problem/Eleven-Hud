@@ -26,12 +26,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		"command"		"Close"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"OK"
 	{
@@ -45,7 +45,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

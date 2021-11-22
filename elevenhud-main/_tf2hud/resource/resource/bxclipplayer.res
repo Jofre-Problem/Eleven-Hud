@@ -35,7 +35,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"OnFirstFrame"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"PrevClipTop"
@@ -57,7 +57,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"OnPrevClipTop"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"PrevFrame"
@@ -80,7 +80,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"OnPrevFrame"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"GameRec"
@@ -103,7 +103,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"OnShowRecordGameDialog"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"PlayPause"
@@ -126,7 +126,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"OnPlayPause"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"NextFrame"
@@ -149,7 +149,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"OnNextFrame"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"NextClipTop"
@@ -171,7 +171,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"OnNextClipTop"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"LastFrame"
@@ -194,7 +194,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"OnLastFrame"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"TrackMidiTime"
@@ -217,7 +217,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"TrackMidiTime"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"RepeatType"
@@ -240,7 +240,7 @@
 		//"font"		"VCRControls"
 		//"wrap"		"0"
 		"Command"		"RepeatType"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 }

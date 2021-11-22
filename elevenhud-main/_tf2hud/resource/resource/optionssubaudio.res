@@ -15,7 +15,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -34,7 +34,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"leftText"		"#GameUI_Low"
 		"rightText"		"#GameUI_High"
 	}
@@ -53,7 +53,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -75,7 +75,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -97,7 +97,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -119,7 +119,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -141,7 +141,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_SndMuteLoseFocus"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -152,7 +152,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ThirdPartySoundCredits"
 	{
@@ -169,7 +169,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -379,7 +379,7 @@
 		
 "visible"		"0"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#GameUI_TestSpeakerSettings"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

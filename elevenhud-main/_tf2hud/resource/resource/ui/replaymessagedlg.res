@@ -11,7 +11,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"bgcolor_override"	"0 0 0 240"
 	}
 	
@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"paintborder"	"1"
 		//"border"		"EconItemBorder"
 		
@@ -63,7 +63,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"10"
+			//"tabPosition"	"10"
 			"fgcolor_override" "255 255 255 255"
 		}
 		
@@ -105,7 +105,7 @@
 			
 			////"dulltext"		"0"
 			//"brighttext"	"0"
-			"tabPosition"	"10"
+			//"tabPosition"	"10"
 		}
 		
 		"OKButton"
@@ -121,7 +121,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabPosition"	"2"
 			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"

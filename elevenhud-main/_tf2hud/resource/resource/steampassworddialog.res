@@ -42,7 +42,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"textHidden"		"1"
 		//"editable"		"1"
 		"maxchars"		"32"
@@ -60,12 +60,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GameUI_OK"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		"command"		"Close"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"QuitGame"
 	{
@@ -79,12 +79,12 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#GameUI_Quit"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		"command"		"QuitGame"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"BuildDialog"
 	{

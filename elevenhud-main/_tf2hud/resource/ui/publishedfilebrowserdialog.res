@@ -177,7 +177,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"AddFile"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"ButtonDeleteFile"
@@ -199,7 +199,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"DeleteFile"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"ButtonEditFile"
@@ -221,7 +221,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"EditFile"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	
 	"ButtonRefresh"
@@ -243,7 +243,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Refresh"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 
 	"ButtonClose"
@@ -265,6 +265,6 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

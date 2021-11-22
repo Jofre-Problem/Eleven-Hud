@@ -35,7 +35,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Layoff"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Cancel"
@@ -57,7 +57,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"ChooseFileName"
@@ -79,7 +79,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ChooseFile"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"ProgressiveRefinementSettings"
@@ -101,7 +101,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ProgressiveRefinementSettings"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"AVI"
@@ -122,7 +122,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"TGA"
@@ -143,7 +143,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"WAV"
@@ -164,7 +164,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"DrawPlayers"
@@ -185,7 +185,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"DrawNPCs"
@@ -206,7 +206,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"DrawOtherEntities"
@@ -227,7 +227,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"DrawRopes"
@@ -248,7 +248,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"DrawBeams"
@@ -269,7 +269,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"1"
 	}
 	"DrawGameParticleSystems"
@@ -290,7 +290,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DrawElementsLabel"
 	{
@@ -383,7 +383,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -402,7 +402,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -421,7 +421,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -440,7 +440,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -459,7 +459,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -516,7 +516,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -535,7 +535,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -554,7 +554,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -579,7 +579,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Shutterspeed"
@@ -594,7 +594,7 @@
 		
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -695,6 +695,6 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

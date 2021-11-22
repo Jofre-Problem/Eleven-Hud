@@ -35,7 +35,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"Layoff"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Cancel"
@@ -57,7 +57,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"ChooseFileName"
@@ -79,7 +79,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"ChooseFile"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"ProgressiveRefinementSettings"
@@ -101,7 +101,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"command"		"ProgressiveRefinementSettings"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"filename"
@@ -116,7 +116,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -135,7 +135,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"7"
+		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -154,7 +154,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"8"
+		//"tabPosition"		"8"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -173,7 +173,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -192,7 +192,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"
@@ -230,7 +230,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -249,7 +249,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -268,7 +268,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -293,7 +293,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DrawEntitiesLabel"
 	{
@@ -332,7 +332,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DrawNPCs"
 	{
@@ -352,7 +352,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DrawOtherEntities"
 	{
@@ -372,7 +372,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DrawRopes"
 	{

@@ -15,7 +15,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_PortalFunnel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -25,7 +25,7 @@
 		"textinsetx"		"6"
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"PortalDepth"
 	{
@@ -42,7 +42,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"

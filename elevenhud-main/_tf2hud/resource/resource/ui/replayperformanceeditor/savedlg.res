@@ -11,7 +11,7 @@
 		
 		"visible"		"0"
 		
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		"bgcolor_override"	"0 0 0 50"
 	}
 	
@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"	"10"
+		//"tabPosition"	"10"
 		//"PaintBackgroundType"	"0"
 		"bgcolor_override"	"ReplayBrowser.BgColor"
 		//"border"			"EconItemBorder"
@@ -52,7 +52,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"10"
+			//"tabPosition"	"10"
 		}
 		
 		"FinePrintLabel"
@@ -71,7 +71,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"10"
+			//"tabPosition"	"10"
 		}
 		
 		"TitleInput"
@@ -94,7 +94,7 @@
 			
 			"bgcolor_override"		"117 107 95 255"
 			"fgcolor_override"		"202 190 164 255"
-			"tabPosition"	"10"
+			//"tabPosition"	"10"
 			"maxchars"		"255"
 		}
 		
@@ -111,7 +111,7 @@
 			
 			"visible"		"0"
 			
-			"tabPosition"	"2"
+			//"tabPosition"	"2"
 			"labelText"		"#Replay_Discard"
 			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
@@ -136,7 +136,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"2"
+			//"tabPosition"	"2"
 			"labelText"		"#Replay_Cancel"
 			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
@@ -161,7 +161,7 @@
 			
 			//"visible"		"1"
 			
-			"tabPosition"	"1"
+			//"tabPosition"	"1"
 			"labelText"		"#Replay_SavePerformance"
 			//"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"

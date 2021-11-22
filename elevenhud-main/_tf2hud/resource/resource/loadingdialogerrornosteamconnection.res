@@ -70,7 +70,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"TimeRemainingLabel"
 	{

@@ -32,7 +32,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"Close"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"OK"
 	{
@@ -52,7 +52,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"Ok"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"Advanced"
 	{
@@ -72,7 +72,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"Advanced"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"NameLabel"
 	{
@@ -154,7 +154,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"default"		"0"
+		//"Default"		"0"
 	}
 	"Player model"
 	{

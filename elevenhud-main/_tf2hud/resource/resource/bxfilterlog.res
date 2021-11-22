@@ -35,7 +35,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"FramerateLabel"
 	{
@@ -94,7 +94,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"FilterWidthLabel"
 	{
@@ -174,6 +174,6 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"CancelFilter"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 }

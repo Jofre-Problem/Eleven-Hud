@@ -56,7 +56,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"stop"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoLoad"
 	{
@@ -77,7 +77,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"load"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEdit"
 	{
@@ -98,7 +98,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"edit"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoSmooth"
 	{
@@ -119,7 +119,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"smooth"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoDriveCamera"
 	{
@@ -140,7 +140,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"drive"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoGoStart"
 	{
@@ -161,7 +161,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"reload"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoGoEnd"
 	{
@@ -181,7 +181,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoFastForward"
 	{
@@ -201,7 +201,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoFastBackward"
 	{
@@ -221,7 +221,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoPrevFrame"
 	{
@@ -242,7 +242,7 @@
 		////"brighttext"		"0"
 		//"wrap"			"0"
 		"Command"		"prevframe"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoNextFrame"
 	{
@@ -263,7 +263,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"nextframe"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoName"
 	{
@@ -386,7 +386,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"gototick"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoGoToTick"
 	{

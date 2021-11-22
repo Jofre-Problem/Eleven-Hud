@@ -32,7 +32,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"Cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"VACInfoLabel"
 	{

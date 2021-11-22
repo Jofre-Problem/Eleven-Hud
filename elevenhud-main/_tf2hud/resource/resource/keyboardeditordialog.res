@@ -35,7 +35,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"save"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Cancel"
@@ -57,7 +57,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Revert"
@@ -79,7 +79,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"revert"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"Defaults"
@@ -101,7 +101,7 @@
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"defaults"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	"KeyBoardEditorSheet"

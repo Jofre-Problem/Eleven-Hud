@@ -28,7 +28,7 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 	}
 	
 	"Back" //back button
@@ -43,14 +43,14 @@
 		//"pinCorner"			"2"
 		"visible"		"0"
 		"enabled"		"0"
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GameUI_Back"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"back"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"LoadBonusMap" //load button
 	{
@@ -64,7 +64,7 @@
 		//"pinCorner"			"3"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		"labelText"		"#GameUI_Load"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -85,14 +85,14 @@
 		//"pinCorner"			"3"
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_Cancel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ImportBonusMaps"
 	{
@@ -106,14 +106,14 @@
 		
 		//"visible"		"1"
 		
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_ImportBonusMapsEllipsis"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		//"wrap"		"0"
 		"Command"		"ImportBonusMaps"
-		"Default"		"0"
+		//"Default"		"0"
 		"selected"		"0"
 	}
 	
@@ -248,7 +248,7 @@
 		
 		"visible"		"0"
 		"enabled"		"0"
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		"editable"		"0"
 		"maxchars"		"-1"

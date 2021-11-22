@@ -16,7 +16,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_ReverseMouse"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -27,7 +27,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"MouseFilter"
 	{
@@ -45,7 +45,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"2"
+		//"tabPosition"		"2"
 		"labelText"		"#GameUI_MouseFilter"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -56,7 +56,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"MouseRaw"
 	{
@@ -85,7 +85,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"MouseAccelerationCheckbox"
 	{
@@ -114,7 +114,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Joystick"
 	{
@@ -131,7 +131,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"5"
+		//"tabPosition"		"5"
 		"labelText"		"#GameUI_JoystickLabel"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -142,7 +142,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"JoystickSouthpaw"
 	{
@@ -159,7 +159,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"6"
+		//"tabPosition"		"6"
 		"labelText"		"#GameUI_JoystickSouthpaw"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -170,7 +170,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"ReverseJoystick"
 	{
@@ -187,7 +187,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		"enabled"		"0"
-		"tabPosition"		"1"
+		//"tabPosition"		"1"
 		"labelText"		"#GameUI_ReverseJoystick"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -198,7 +198,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"HUDQuickInfo"
 	{
@@ -212,7 +212,7 @@
 		
 "visible"		"0"
 		"enabled"		"0"
-		"tabPosition"		"4"
+		//"tabPosition"		"4"
 		"labelText"		"#GameUI_HudQuickInfo"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
@@ -223,7 +223,7 @@
 		//"textinsety"		"0"
 		//"auto_wide_tocontents"		"0"
 		//"use_proportional_insets"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"Slider"
 	{
@@ -259,7 +259,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -418,7 +418,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"
@@ -440,7 +440,7 @@
 		//"pin_to_sibling_corner"		"0"
 		//"visible"		"1"
 		
-		"tabPosition"		"3"
+		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
 		"maxchars"		"-1"

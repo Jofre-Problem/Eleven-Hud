@@ -664,7 +664,7 @@
 	{
 		//"xpos_lodef"	"c-290"
 		////"ypos_lodef"	"45"
-		"borderwidth"	"15"
+		//"borderwidth"	"15"
 		//"wide_lodef"	"580"
 		//"tall_hidef"	"535"
 		//"tall_lodef"	"368"

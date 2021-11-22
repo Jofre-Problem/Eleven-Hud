@@ -33,7 +33,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"save"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEditRevert"
 	{
@@ -53,7 +53,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"revert"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEditOk"
 	{
@@ -73,7 +73,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"Close"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEditCancel"
 	{
@@ -93,7 +93,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"cancel"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEditNew"
 	{
@@ -112,7 +112,7 @@
 		//"textAlignment"		"west"
 		////"dulltext"		"0"
 		////"brighttext"		"0"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEditEdit"
 	{
@@ -132,7 +132,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"edit"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoEditDelete"
 	{
@@ -152,7 +152,7 @@
 		////"dulltext"		"0"
 		////"brighttext"		"0"
 		"command"		"delete"
-		"Default"		"0"
+		//"Default"		"0"
 	}
 	"DemoName"
 	{
