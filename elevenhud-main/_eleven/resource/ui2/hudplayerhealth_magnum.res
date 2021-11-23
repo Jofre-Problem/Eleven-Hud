@@ -22,6 +22,9 @@
 
 //props to anyone who understands this mess
 // I somewhat did!
+// warning
+// if you try to add a new element for the 1st time
+// it will crash
 "Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data
@@ -39,7 +42,16 @@
 		"HealthDeathWarning"	"1.0"
 		"HealthDeathWarningColor"	"255 255 255 255"
 	}	
-
+	"RoundInfoOverlay1"
+	{
+		"ControlName"		"RoundInfoOverlay"
+		"fieldName"			"RoundInfoOverlay1"
+		"xpos"				"0"
+		"ypos"				"80"
+		"wide"				"60"
+		"tall"				"24"
+		//"playsound" "vo/chill/hitsound.wav"
+	}	
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"

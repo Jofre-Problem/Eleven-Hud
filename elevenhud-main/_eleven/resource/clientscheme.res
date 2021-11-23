@@ -7,6 +7,8 @@
 	#base "../../ui_overrides/resource/scheme/dlc/2.res"
 	#base "ui2/noto_scheme.res"
 	#base "ui2/magnum_scheme.res"
+	#base "ui2/cs_font.res"
+	#base "ui2/cs_font_weight.res"
 	#base "../!sc/clientscheme.res"
 	#base "clientscheme_unused.res"
 Scheme
@@ -1085,6 +1087,11 @@ Scheme
 		{
 			"font" "_eleven/font/CallingCode-Regular.otf"
 			"name" "Calling Code"
-		}      		
+		} 
+	//	"100"
+	//	{
+	//		"font" "_eleven/font/sf.otf"
+	//		"name" "sf"
+	//	}   		     		
 	}	
 }

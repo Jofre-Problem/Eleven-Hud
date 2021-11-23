@@ -41,7 +41,7 @@ event ScoreboardCrosshairAnimateLoop
 event DamagedPlayer
 {
 StopEvent 	DamageAccountStuff	0.0
-RunEvent 	DamageAccountStuff      0.3 //lol
+RunEvent 	DamageAccountStuff      0.2 //lol
 }
 event DamageAccountStuff
 {

@@ -328,7 +328,7 @@
 		//"ypos_hidef"	"0"
 		//"ypos_lodef"	"0"
 		"wide"			"f0"
-		"tall"			"f0"¡
+		"tall"			"f0"
 		"PaintBackgroundType"	"0"
 	//	"pin_to_sibling"	"DisguiseStatus"	 //HELL			
 	}	

@@ -501,9 +501,6 @@ Scheme
 			{
 				"name"		"Segoe UI"
 				"tall"		"18"
-				////"weight"	"900"
-				//"antialias" "1"
-				"additive"	"1"
 			}
 		}
 

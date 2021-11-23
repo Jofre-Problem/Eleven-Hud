@@ -424,7 +424,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"11"
+		////test1//"tabPosition"		"11"
 		"labelText"		"Take shot"
 		//"textAlignment"		"west"
 		////"dulltext"		"0"

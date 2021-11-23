@@ -983,12 +983,9 @@
 	"HudMenuSpyDisguise"
 	{
 		"fieldName" 	"HudMenuSpyDisguise"
-		
-		
+	
 		"xpos"			"c-235"
 		"ypos"			"c-52"
-		////"ypos_hidef"	"c-42"
-		////"ypos_lodef"	"c-42"
 		"wide"			"470"
 		"tall"			"200"	
 		//"PaintBackgroundType"	"0"

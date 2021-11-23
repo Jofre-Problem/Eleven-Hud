@@ -891,7 +891,7 @@
 		
 		//"visible"		"1"
 		
-		//"tabPosition"		"11"
+		////test1//"tabPosition"		"11"
 		"leftText"		"0.00"
 		"rightText"		"1.00"
 		"minvalue"		"75"

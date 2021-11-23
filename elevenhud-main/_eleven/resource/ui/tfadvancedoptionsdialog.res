@@ -1,7 +1,6 @@
 #base "../#jofre/blur_bg.res"
 "Resource\UI\TFAdvancedOptionsDialog.res"
 {
-
 	"TitleLabel"
 	{		"wide"			"0"	}	
 	"CancelButton"

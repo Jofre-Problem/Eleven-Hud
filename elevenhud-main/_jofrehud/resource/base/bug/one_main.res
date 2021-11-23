@@ -163,7 +163,7 @@
 		"xpos"		"10"
 		"ypos"		"180"
 		"wide"		"80"
-		"tabPosition"		"11"
+		//test1//"tabPosition"		"11"
 		"labelText"		"Take shot"
 	}
 	"BugSaveGame"

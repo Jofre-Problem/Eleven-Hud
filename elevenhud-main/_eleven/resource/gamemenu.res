@@ -12,15 +12,15 @@
 	{
 		label				"Ä"
 		command				"OpenPlayerListDialog"
-		OnlyInGame			1
+	//	OnlyInGame			1
 		"tooltip"			"#MMenu_MutePlayers"		
 	}
 
-	"ReportPlayer"
+	"ReportPlayer"	//brokes when open on main menu
 	{
 		label				"Å"
 		command				"OpenReportPlayerDialog"
-		OnlyInGame			1
+	//	OnlyInGame			1
 		"tooltip"			"#MMenu_ReportPlayer"			
 	}
 }

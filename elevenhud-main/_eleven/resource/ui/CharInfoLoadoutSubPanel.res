@@ -26,6 +26,7 @@
 		itemcountcolor			"OrangeLight"		// check out!
 		itemcountcolor_noitems		"117 105 94 255"
 	}		
+
 	// #region CLASS BUTTONS 
 	// #endregion
 	"ScoutButton"			// other classes pinned to this

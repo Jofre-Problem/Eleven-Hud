@@ -7,7 +7,22 @@
 
 "Resource/UI/CharInfoPanel.res"
 {
-
+	"FovSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"FovSlider"
+		"xpos"		"180"
+		"ypos"		"6"
+		"wide"		"64"
+		"tall"		"12"
+		"zpos"		"4000"
+		"leftText"		"0.00"
+		"rightText"		"1.00"
+		"minvalue"		"1"
+		"maxvalue"		"6"
+		"cvar_name"		"mat_color_projection"
+		"allowoutofrange"		"0"
+	}	
 	"character_info"		// drawn over main menu
 	{
 		ControlName				EditablePanel
