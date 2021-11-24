@@ -130,7 +130,7 @@
 			sound_depressed			"sound_menu/button.wav"
 			sound_released			"sound_menu/button2.wav"
 							
-			defaultFgColor_override		"W_ColorTheme1"
+			defaultFgColor_override		"W_ColorIcons1"
 			armedFgColor_override		"W_ColorIconsArmed1"
 
 			paintbackground			0
@@ -164,7 +164,7 @@
 			sound_depressed			"sound_menu/button.wav"
 			sound_released			"sound_menu/button2.wav"
 						
-		defaultFgColor_override		"W_ColorTheme1"
+		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"W_ColorIconsArmed1"
 
 			paintbackground			0

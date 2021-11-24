@@ -1,4 +1,4 @@
-#base "../#jofre/blur_bg.res"
+ //#base "../#jofre/blur_bg.res"
 "Resource\UI\TFAdvancedOptionsDialog.res"
 {
 	"TitleLabel"

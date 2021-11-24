@@ -2,6 +2,13 @@
 #base "../ui2/tank.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
+		"testg"
+	{
+	"ControlName""ImagePanel"
+	"fieldName""testg"
+	"xpos""0"
+	"ypos""18"
+	}
 		"ClassLabel"
 		{
 			"ypos"		"c-60"

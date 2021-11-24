@@ -107,10 +107,10 @@ Scheme
 		SectionedListPanel.TextColor			"W_ColorTheme1"
 		SectionedListPanel.BrightTextColor		"W_ColorIcons1"
 		Slider.TextColor			"244 244 244 255"
-		Slider.DisabledTextColor1	"104 96 83 255"
+		Slider.DisabledTextColor1	"Blank"
 //		Slider.NobColor				"W_ColorIcons1"	
 //		Slider.TrackColor			"W_BorderArmed"
-//      Slider.DisabledTextColor2	"Blank"
+     Slider.DisabledTextColor2	"Blank"
 
 
 		//P

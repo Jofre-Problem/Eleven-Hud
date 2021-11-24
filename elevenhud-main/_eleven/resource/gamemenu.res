@@ -12,7 +12,7 @@
 	{
 		label				"Ä"
 		command				"OpenPlayerListDialog"
-	//	OnlyInGame			1
+		OnlyInGame			1
 		"tooltip"			"#MMenu_MutePlayers"		
 	}
 
@@ -20,7 +20,7 @@
 	{
 		label				"Å"
 		command				"OpenReportPlayerDialog"
-	//	OnlyInGame			1
+		OnlyInGame			1
 		"tooltip"			"#MMenu_ReportPlayer"			
 	}
 }
