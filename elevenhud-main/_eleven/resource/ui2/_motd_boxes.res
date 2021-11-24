@@ -91,7 +91,7 @@
 			labelText				"o"
 			font					"NewIcons11"
 			textAlignment			center
-			command				"engine fogui"
+			command			"engine fogui"
 			"actionsignallevel"	"2"
 		
 			"sound_depressed"							"sound_menu/button.wav"

@@ -128,7 +128,7 @@ Scheme
 		RichText.TextColor				"210 207 200 255"
 		RichText.SelectedTextColor		"Black"
 		RichText.SelectedBgColor		"Orange"
-		RichText.BgColor									"0 36 86 255"
+		RichText.BgColor				"0 36 86 255"
 		RadioButton.SelectedTextColor	"W_ColorIcons1"
 		RadioButton.TextColor			"W_ColorIconsArmed1"
 

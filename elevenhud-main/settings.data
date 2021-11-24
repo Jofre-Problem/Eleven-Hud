@@ -1,10 +1,9 @@
-[BG:#1E1E1E]
+[BG:#FAFAFA]
 Window();
 [Border:0, FG:#1C1B1C]
 Banner("4plug/4plug_images/managers/thumbnailBanner.png", "auto", "topleft");
 Banner("4plug/4plug_images/managers/thumbnailBanner_v2.png", "auto", "topleft");
 
-Banner("4plug/4plug_images/color_seccion.png", "auto", "topleft");
 [Name:Steam Summer Sale Border, Default:Lower, FG:#7A5EF8, BG:#33CCFF, Border:0]
 GlobalComboBox("Steam Summer Sale Border", "Steam Summer Sale Border")
 {
@@ -14,7 +13,7 @@ GlobalComboBox("Steam Summer Sale Border", "Steam Summer Sale Border")
 	Neon
 }
 
-[Name:CFG Advanced Scoreboard, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+[Name:CFG Advanced Scoreboard, Default:Lower, FG:#7A5EF8, BG:#F4F4F5, Border:0]
 GlobalComboBox("CFG Advanced Scoreboard", "CFG Advanced Scoreboard")
 {
 	Disabled
@@ -22,30 +21,14 @@ GlobalComboBox("CFG Advanced Scoreboard", "CFG Advanced Scoreboard")
 }
 
 
-[Name:ADDON Transparent, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+[Name:ADDON Transparent, Default:Lower, FG:#7A5EF8, BG:#F4F4F5, Border:0]
 GlobalComboBox("ADDON Transparent", "ADDON Transparent")
 {
 	Off
 	On
 }
 
-
-[Name:MAIN MENU Party on Menu, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("MAIN MENU Party on Menu", "MAIN MENU Party on Menu")
-{
-	Enabled
-	Disabled
-}
-Banner("4plug/4plug_images/party_menu.png", "auto", "topleft");
-
-[Name:MAIN MENU Particle, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
-GlobalComboBox("MAIN MENU Particle", "MAIN MENU Particle")
-{
-	Disabled
-	Enabled (Possibly hurt FPS)
-}
-
-[Name:EXPERIMENTAL Cart BG Glow, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
+[Name:EXPERIMENTAL Cart BG Glow, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL Cart BG Glow", "EXPERIMENTAL Cart BG Glow")
 {
 	OFF (Default)
@@ -53,25 +36,25 @@ GlobalComboBox("EXPERIMENTAL Cart BG Glow", "EXPERIMENTAL Cart BG Glow")
 }
 [Border:0, FG:#1C1B1C]
 Banner("4plug/4plug_images/glowbg.png", "auto", "topleft");
-[Name:EXPERIMENTAL No Chat BG, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
+[Name:EXPERIMENTAL No Chat BG, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL No Chat BG", "EXPERIMENTAL No Chat BG")
 {
 	OFF
 	ON
 }
-[Name:EXPERIMENTAL Crosshair in Scoreboard, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
+[Name:EXPERIMENTAL Crosshair in Scoreboard, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL Crosshair in Scoreboard", "EXPERIMENTAL Crosshair in Scoreboard")
 {
 	OFF
 	ON
 }
-[Name:EXPERIMENTAL Scoreboard Slide In, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
+[Name:EXPERIMENTAL Scoreboard Slide In, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL Scoreboard Slide In", "EXPERIMENTAL Scoreboard Slide In")
 {
 	OFF
 	ON
 }
-[Name:EXPERIMENTAL Scope Removal, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
+[Name:EXPERIMENTAL Scope Removal, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL Scope Removal", "EXPERIMENTAL Scope Removal")
 {
 	OFF
@@ -79,22 +62,14 @@ GlobalComboBox("EXPERIMENTAL Scope Removal", "EXPERIMENTAL Scope Removal")
 }
 [Border:0, FG:#1C1B1C]
 Banner("4plug/4plug_images/noscope.png", "auto", "topleft");
-[Name:EXPERIMENTAL Square Shadows, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
+[Name:EXPERIMENTAL Square Shadows, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL Square Shadows", "EXPERIMENTAL Square Shadows")
 {
 	OFF
 	ON
 }
 Banner("4plug/4plug_images/squares.png", "auto", "topleft");
-[Name:Damage Indicator, Default:Lower, FG:#008E2A, BG:#00DC44, Border:0]
-GlobalComboBox("Damage Indicator", "Damage Indicator")
-{
-	Stock
-	Disabled
-	Default
-	Around crosshair (10 sec)
-	Crosshair dot (10 sec)
-}
+
 
 #if CFG Advanced Scoreboard == "Disabled"
 {
@@ -104,22 +79,7 @@ Copy("4plug/4plug_overrides/cfg/scoreboard_def.cfg", "cfg/#customization/scorebo
 {
 Copy("4plug/4plug_overrides/cfg/scoreboard_advanced.cfg", "cfg/#customization/scoreboard.cfg");
 }
-#if Damage Indicator == "Stock"
-{
-Copy("4plug/4plug_overrides/HudLayout/damageindicator_stock.res", "_eleven/#customization/scripts/damageindicator.res");
-}
-#if Damage Indicator == "Disabled"
-{
-Copy("4plug/4plug_overrides/HudLayout/damageindicator_disabled.res", "_eleven/#customization/scripts/damageindicator.res");
-}
-#if Damage Indicator == "Around crosshair (10 sec)"
-{
-Copy("4plug/4plug_overrides/HudLayout/damageindicator_critheal.res", "_eleven/#customization/scripts/damageindicator.res");
-}
-#if Damage Indicator == "Crosshair dot (10 sec)"
-{
-Copy("4plug/4plug_overrides/HudLayout/damageindicator_crosshairdot.res", "_eleven/#customization/scripts/damageindicator.res");
-}
+
 #if EXPERIMENTAL Square Shadows == "OFF"
 {
 Copy("4plug/empty_scheme.res", "_eleven/#customization/resource/scheme_4plug1.res");
@@ -130,46 +90,59 @@ Copy("4plug/empty.txt", "cfg/#customization/squareaddon1.cfg");
 Copy("4plug/4plug_overrides/square/ON.res", "_eleven/#customization/resource/scheme_4plug1.res");
 Copy("4plug/4plug_overrides/addon1.cfg", "_eleven/#customization/cfg/addon1.cfg");
 }
+
 #if EXPERIMENTAL Scope Removal == "OFF"
 {
-Copy("4plug/4plug_overrides/magnumhud/removescope_off.txt", "_eleven/#customization/scripts/removescope.txt");
+Copy("4plug/4plug_overrides/magnumhud/removescope_off.txt", "_eleven/resource/ui_overrides/+removescope.txt");
 }
 #if EXPERIMENTAL Scope Removal == "ON"
 {
-Copy("4plug/4plug_overrides/magnumhud/removescope.txt", "_eleven/#customization/scripts/removescope.txt");
+Copy("4plug/4plug_overrides/magnumhud/removescope.txt", "_eleven/resource/ui_overrides/+removescope.txt");
 }
+
+
 #if EXPERIMENTAL Scoreboard Slide In == "OFF"
 {
-Copy("4plug/4plug_overrides/magnumhud/scoreboard_slide_off.txt", "_eleven/#customization/scripts/scoreboard_slide.txt");
-}
+Copy("4plug/4plug_overrides/magnumhud/scoreboard_slide_off.txt", "_eleven/resource/ui_overrides/+scoreboardslidein.txt");
 #if EXPERIMENTAL Scoreboard Slide In == "ON"
 {
-Copy("4plug/4plug_overrides/magnumhud/scoreboard_slide.txt", "_eleven/#customization/scripts/scoreboard_slide.txt");
+Copy("4plug/4plug_overrides/magnumhud/scoreboard_slide.txt", "_eleven/resource/ui_overrides/+scoreboardslidein.txt");
 }
+
+
 #if EXPERIMENTAL Crosshair in Scoreboard == "OFF"
 {
-Copy("4plug/4plug_overrides/magnumhud/crosshair_on_scoreboard_off.txt", "_eleven/#customization/scripts/crosshair_on_scoreboard.txt");
+Copy("4plug/4plug_overrides/magnumhud/crosshair_on_scoreboard_off.txt", "_eleven/resource/ui_overrides/+crosshair_in_scoreboard.txt");
 }
 #if EXPERIMENTAL Crosshair in Scoreboard == "ON"
 {
-Copy("4plug/4plug_overrides/magnumhud/crosshair_on_scoreboard.txt", "_eleven/#customization/scripts/crosshair_on_scoreboard.txt");
+Copy("4plug/4plug_overrides/magnumhud/crosshair_on_scoreboard.txt", "_eleven/resource/ui_overrides/+crosshair_in_scoreboard.txt");
 }
+
+
+
 #if EXPERIMENTAL No Chat BG == "OFF"
 {
-Copy("4plug/4plug_overrides/magnumhud/chat_bg_off.txt", "_eleven/#customization/scripts/chat_bg.txt");
+Copy("4plug/4plug_overrides/magnumhud/chat_bg_off.txt",  "_eleven/resource/ui_overrides/+nochatbg.txt");
 }
 #if EXPERIMENTAL No Chat BG == "ON"
 {
-Copy("4plug/4plug_overrides/magnumhud/chat_bg.txt", "_eleven/#customization/scripts/chat_bg.txt");
+Copy("4plug/4plug_overrides/magnumhud/chat_bg.txt",  "_eleven/resource/ui_overrides/+nochatbg.txt");
 }
+
+
+
 #if EXPERIMENTAL Cart BG Glow == "OFF (Default)"
 {
-Copy("4plug/empty.txt", "_eleven/#customization/scripts/cart_glow_anim.txt");
+Copy("4plug/empty.txt", "_eleven/resource/ui_overrides/+cart_glow.txt");
 }
 #if EXPERIMENTAL Cart BG Glow == "ON (Needs Transparent V.)"
 {
-Copy("4plug/4plug_overrides/CartGlow/ON.txt", "_eleven/#customization/scripts/cart_glow_anim.txt");
+Copy("4plug/4plug_overrides/CartGlow/ON.txt", "_eleven/resource/ui_overrides/+cart_glow.txt");
 }
+
+
+
 #if Steam Summer Sale Border == "Disabled"
 {
 Copy("4plug/empty_res.txt", "_eleven/#customization/resource/ui/summersale_border.res");
@@ -186,56 +159,21 @@ Copy("4plug/4plug_overrides/summersale/azul.res", "_eleven/#customization/resour
 {
 Copy("4plug/4plug_overrides/summersale/neon.res", "_eleven/#customization/resource/ui/summersale_border.res");
 }
-#if UI Match Status == "No Name - Small"
-{
-Copy("4plug/4plug_overrides/match/match1.res", "_eleven/#customization/resource/ui/hudmatchstatus.res");
-}
-#if UI Match Status == "Swissolo"
-{
-Copy("4plug/4plug_overrides/match/match2.res", "_eleven/#customization/resource/ui/hudmatchstatus.res");
-}
-#if MAIN MENU Task Bar Type == "Default"
-{
-Copy("4plug/4plug_overrides/Mainmenu/mainmenu_downbar_def.res", "_eleven/#customization/resource/ui/mainmenu - downbartype.res");
-}
-#if MAIN MENU Task Bar Type == "Concept (Cleaner)"
-{
-Copy("4plug/4plug_overrides/Mainmenu/mainmenu_downbar_concept.res", "_eleven/#customization/resource/ui/mainmenu - downbartype.res");
-}
-#if MAIN MENU Advanced Dev Menu == "Disabled"
-{
-Copy("4plug/4plug_overrides/Mainmenu/mainmenu_safemode_off.res", "_eleven/#customization/resource/ui/mainmenu_safemode.res");
-Copy("4plug/empty.txt", "cfg/#customization/safemode.cfg");
-}
-#if MAIN MENU Advanced Dev Menu == "Enabled (Hurts FPS)"
-{
-Copy("4plug/4plug_overrides/Mainmenu/mainmenu_safemode_on.res", "_eleven/#customization/resource/ui/mainmenu_safemode.res");
-Copy("4plug/4plug_overrides/Mainmenu/safemode.cfg", "cfg/#customization/safemode.cfg");
-}
-#if MAIN MENU Preload == "Disabled"
-{
-Copy("4plug/empty_res.txt", "_eleven/#customization/resource/ui/mainmenu_preload.res");
-}
-#if MAIN MENU Preload == "Enabled (Possibly longer load time)"
-{
-Copy("4plug/4plug_overrides/Mainmenu/mainmenu_preload.res", "_eleven/#customization/resource/ui/mainmenu_preload.res");
-}
-#if MAIN MENU Particle == "Disabled"
-{
-Copy("4plug/empty_res.txt", "_eleven/#customization/resource/ui/mainmenu_budhud_particle.res");
-}
-#if MAIN MENU Particle == "Enabled (Possibly hurt FPS)"
-{
-Copy("4plug/4plug_overrides/Mainmenu/mainmenu_particle.res", "_eleven/#customization/resource/ui/mainmenu_budhud_particle.res");
-}
+
+
+
 #if ADDON Transparent == "On"
 {
-Copy("4plug/4plug_overrides/HudLayout/transparent_on.res", "_eleven/#customization/scripts/transparent.res");
+Copy("4plug/4plug_overrides/HudLayout/transparent_on.res", "_eleven/resource/ui_overrides/-transparent.res");
 }
 #if ADDON Transparent == "Off"
 {
-Copy("4plug/empty_res.txt", "_eleven/#customization/scripts/transparent.res");
+Copy("4plug/empty_res.txt", "_eleven/resource/ui_overrides/-transparent.res");
 }
+
+
+
+
 #if ADDON Transparent Class Model == "On"
 {
 Copy("4plug/4plug_overrides/ui/class-transparent.res", "_eleven/#customization/resource/ui/hudplayerclass - transparent.res");
@@ -243,12 +181,4 @@ Copy("4plug/4plug_overrides/ui/class-transparent.res", "_eleven/#customization/r
 #if ADDON Transparent Class Model == "Off"
 {
 Copy("4plug/4plug_overrides/ui/class-transparent-off.res", "_eleven/#customization/resource/ui/hudplayerclass - transparent.res");
-}
-#if MAIN MENU Party on Menu == "On"
-{
-Copy("4plug/4plug_overrides/ui/shortcut/mainmenu_party_on_menu_sc_on.res", "_eleven/#customization/resource/ui/sc/mainmenu_party_on_menu_sc.res");
-}
-#if MAIN MENU Party on Menu == "Off"
-{
-Copy("4plug/4plug_overrides/empty.txt", "_eleven/#customization/resource/ui/sc/mainmenu_party_on_menu_sc.res");
 }

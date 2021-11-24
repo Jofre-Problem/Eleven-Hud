@@ -130,7 +130,7 @@ Scheme
 			"1"
 			{
 				"name"				"Product Sans"
-				"tall"				"15"		
+		//		"tall"				"15"		
 				"antialias"			"1"
 			}
 		}  		

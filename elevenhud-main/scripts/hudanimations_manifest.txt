@@ -2,15 +2,17 @@ hudanimations_manifest
 {
 	"file"		"scripts/hudanimations.txt"
 	"file"		"_eleven/scripts/hudanimations.txt"
-	"file"		"_eleven/scripts/uber.txt"
-	"file"		"_eleven/_customization/scripts/_main.txt"
-	"file"		"_eleven/_customization/scripts/chat_bg.txt"
-	"file"		"_eleven/_customization/scripts/removescope.txt"
-	"file"		"_eleven/_customization/scripts/cart_glow_anim.txt"
-	//"file"		"_eleven/_customization/scripts/uber_type.txt"
-	//"file"		"_eleven/_customization/scripts/vida.txt"
-	//"file"		"_eleven/_customization/scripts/municion.txt"
-	"file"		"_eleven/_customization/scripts/crosshair_on_scoreboard.txt"
-	"file"		"_eleven/_customization/scripts/scoreboard_slide.txt"
+
+	"file"		"_eleven/scripts/magnum.txt"
+	"file"		"_eleven/scripts/hudanimations_magnum.txt"
+	"file"		"_eleven/scripts/hudanimations_extra.txt"
+	"file"		"_eleven/scripts/hudanimations_init.txt"
+
+	"file"		"_eleven/resource/ui_overrides/scripts/+nochatbg.txt"
+	"file"		"_eleven/resource/ui_overrides/scripts/+removescope.txt"
+	"file"		"_eleven/resource/ui_overrides/scripts/+scoreboardslidein.txt"
+	"file"		"_eleven/resource/ui_overrides/scripts/+crosshair_in_scoreboard.txt"
+	"file"		"_eleven/resource/ui_overrides/scripts/+cart_glow.txt"
+
 	"file"		"scripts/hudanimations_tf.txt"
 }
