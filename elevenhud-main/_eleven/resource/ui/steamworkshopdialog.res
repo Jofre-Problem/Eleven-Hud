@@ -6,7 +6,7 @@
 
 #base "../#jofre/nobar.res"		//always activated
 //#base "../#jofre/safe-mode.res"
-//#base "statsummary.res"
+#base "statsummary.res"
 "Resource/SteamWorkshopDialog.res"
 
 {

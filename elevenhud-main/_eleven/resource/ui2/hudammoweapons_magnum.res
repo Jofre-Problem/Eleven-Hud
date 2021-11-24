@@ -1,12 +1,5 @@
-#base "../../resolution/1366x768/ammo.res"
-#base "../../resolution/1920x1080/ammo.res"
-#base "../../resolution/1200x800/ammo.res"
-#base "../../resolution/1680x1050/ammo.res"
-#base "../../resolution/1280x1024/ammo.res"
-#base "../../resolution/960x720/ammo.res"
-#base "../../resolution/640x480/ammo.res"
+#base "../ui_overrides/!res_ammo.res"	//replace all "resolution" code
 
-#base "../defaults/hudammoweapons.res" //loads new default after any updates
 #base "../../overrides/circlesforstuff/file2.res"
 #base "../../overrides/outlinedammoclip/file.res"
 

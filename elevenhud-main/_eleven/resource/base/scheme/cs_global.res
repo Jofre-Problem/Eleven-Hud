@@ -63,7 +63,7 @@ Scheme
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor2			"Blank"
 		Label.TextDullColor				"131 121 104 255"
-		Label.TextColor					"W_ColorTexto1"
+		Label.TextColor					"200 200 200 255"
 		Label.DisabledFgColor1			"117 117 117 255"
 		
 		ListPanel.OutOfFocusSelectedTextColor	"245 245 245 120"
@@ -79,7 +79,7 @@ Scheme
 		MainMenu.TextColor			"40 34 30 255"
 		MainMenu.ArmedTextColor		"W_ColorIcons1"
 		MainMenu.Inset				"32"
-		Menu.TextColor			"W_ColorTexto1"
+		Menu.TextColor			"240 240 240 255"
 		Menu.BgColor			"W_ColorTheme2"
 		Menu.ArmedTextColor		"W_BorderArmedText"
 		Menu.ArmedBgColor		"W_BorderArmed"
@@ -126,9 +126,10 @@ Scheme
 
 		//R
 		RichText.TextColor				"210 207 200 255"
-		RichText.SelectedTextColor		"Black"
-		RichText.SelectedBgColor		"Orange"
-		RichText.BgColor				"0 36 86 255"
+		RichText.SelectedTextColor		"240 240 240 255"
+		RichText.SelectedBgColor		"W_ColorTheme2"
+		RichText.BgColor				"Blank"//"0 36 86 255"
+	
 		RadioButton.SelectedTextColor	"W_ColorIcons1"
 		RadioButton.TextColor			"W_ColorIconsArmed1"
 

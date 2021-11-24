@@ -24,7 +24,7 @@ Scheme
 		"W_ColorIcons1"	"245 245 245 255"
 		"W_ColorIcons2"	"220 220 220 255"
 		"W_ColorIcons1Blur"	"245 245 245 170"
-		"W_ColorTexto1" "119 100 192 255"
+		"W_ColorTexto1" "119 100 192 255"	//purple
 		"W_BorderArmedText"	"190 190 190 255"
 		"W_ColorIconsArmed1" "57 91 108 255"
 

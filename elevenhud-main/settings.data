@@ -4,6 +4,15 @@ Window();
 Banner("4plug/4plug_images/managers/thumbnailBanner.png", "auto", "topleft");
 Banner("4plug/4plug_images/managers/thumbnailBanner_v2.png", "auto", "topleft");
 
+[Name:Resolution, Default:Lower, FG:#7A5EF8, BG:#F4F4F5, Border:0]
+GlobalComboBox("Resolution", "Resolution")
+{
+	1920x1980
+	1366x768
+	1680x1050
+	Unavailable (Uses alternative)
+}
+
 [Name:Steam Summer Sale Border, Default:Lower, FG:#7A5EF8, BG:#33CCFF, Border:0]
 GlobalComboBox("Steam Summer Sale Border", "Steam Summer Sale Border")
 {
@@ -13,25 +22,17 @@ GlobalComboBox("Steam Summer Sale Border", "Steam Summer Sale Border")
 	Neon
 }
 
-[Name:CFG Advanced Scoreboard, Default:Lower, FG:#7A5EF8, BG:#F4F4F5, Border:0]
-GlobalComboBox("CFG Advanced Scoreboard", "CFG Advanced Scoreboard")
-{
-	Disabled
-	Enabled (Hurts FPS)
-}
-
-
 [Name:ADDON Transparent, Default:Lower, FG:#7A5EF8, BG:#F4F4F5, Border:0]
 GlobalComboBox("ADDON Transparent", "ADDON Transparent")
 {
-	Off
-	On
+	OFF
+	ON
 }
 
 [Name:EXPERIMENTAL Cart BG Glow, Default:Lower, FG:#008E2A, BG:#F4F4F5, Border:0]
 GlobalComboBox("EXPERIMENTAL Cart BG Glow", "EXPERIMENTAL Cart BG Glow")
 {
-	OFF (Default)
+	OFF
 	ON (Needs Transparent V.)
 }
 [Border:0, FG:#1C1B1C]
@@ -69,16 +70,6 @@ GlobalComboBox("EXPERIMENTAL Square Shadows", "EXPERIMENTAL Square Shadows")
 	ON
 }
 Banner("4plug/4plug_images/squares.png", "auto", "topleft");
-
-
-#if CFG Advanced Scoreboard == "Disabled"
-{
-Copy("4plug/4plug_overrides/cfg/scoreboard_def.cfg", "cfg/#customization/scoreboard.cfg");
-}
-#if CFG Advanced Scoreboard == "Enabled (Hurts FPS)"
-{
-Copy("4plug/4plug_overrides/cfg/scoreboard_advanced.cfg", "cfg/#customization/scoreboard.cfg");
-}
 
 #if EXPERIMENTAL Square Shadows == "OFF"
 {
@@ -132,13 +123,15 @@ Copy("4plug/4plug_overrides/magnumhud/chat_bg.txt",  "_eleven/resource/ui_overri
 
 
 
-#if EXPERIMENTAL Cart BG Glow == "OFF (Default)"
+#if EXPERIMENTAL Cart BG Glow == "OFF"
 {
 Copy("4plug/empty.txt", "_eleven/resource/ui_overrides/+cart_glow.txt");
+Copy("4plug/4plug_has_run.res", "_eleven/resource/ui_overrides/!4plug_run_sc.res");
 }
 #if EXPERIMENTAL Cart BG Glow == "ON (Needs Transparent V.)"
 {
 Copy("4plug/4plug_overrides/CartGlow/ON.txt", "_eleven/resource/ui_overrides/+cart_glow.txt");
+Copy("4plug/4plug_has_run.res", "_eleven/resource/ui_overrides/!4plug_run_sc.res");
 }
 
 
@@ -162,11 +155,11 @@ Copy("4plug/4plug_overrides/summersale/neon.res", "_eleven/#customization/resour
 
 
 
-#if ADDON Transparent == "On"
+#if ADDON Transparent == "ON"
 {
-Copy("4plug/4plug_overrides/HudLayout/transparent_on.res", "_eleven/resource/ui_overrides/-transparent.res");
+Copy("4plug/4plug_overrides/transparent_on.res", "_eleven/resource/ui_overrides/-transparent.res");
 }
-#if ADDON Transparent == "Off"
+#if ADDON Transparent == "OFF"
 {
 Copy("4plug/empty_res.txt", "_eleven/resource/ui_overrides/-transparent.res");
 }
@@ -181,4 +174,20 @@ Copy("4plug/4plug_overrides/ui/class-transparent.res", "_eleven/#customization/r
 #if ADDON Transparent Class Model == "Off"
 {
 Copy("4plug/4plug_overrides/ui/class-transparent-off.res", "_eleven/#customization/resource/ui/hudplayerclass - transparent.res");
+}
+
+#if Resolution == "1980x1080"
+{
+Copy("4plug/4plug_overrides/resolution/1920ammo.res", "_eleven/resource/ui_overrides/!res_ammo.res");
+Copy("4plug/4plug_overrides/resolution/1920health.res", "_eleven/resource/ui_overrides/!res_health.res");
+}
+#if Resolution == "1366x768"
+{
+Copy("4plug/4plug_overrides/resolution/1366ammo.res", "_eleven/resource/ui_overrides/!res_ammo.res");
+Copy("4plug/4plug_overrides/resolution/1366health.res", "_eleven/resource/ui_overrides/!res_health.res");
+}
+#if Resolution == "1680x1050"
+{
+Copy("4plug/4plug_overrides/resolution/1680ammo.res", "_eleven/resource/ui_overrides/!res_ammo.res");
+Copy("4plug/4plug_overrides/resolution/1680health.res", "_eleven/resource/ui_overrides/!res_health.res");
 }

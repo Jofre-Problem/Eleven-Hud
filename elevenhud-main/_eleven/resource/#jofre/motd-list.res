@@ -21,10 +21,10 @@
 			"ControlName"	"EditablePanel"
 			"fieldname"		"FriendsContainer"
 			"xpos"			"rs1+1"
-			"ypos"			"cs-0.5" //70 + 75
+			"ypos"			"rs1" //70 + 75
 			"zpos"			"20"
 			"wide"			"p0.22"
-			"tall"			"200"
+			"tall"			"100"
 			"visible"		"1"
 
 			"bgcolor_override"		"0 0 0 0"
@@ -37,7 +37,7 @@
 				"ypos"			"0"
 				"zpos"			"500"
 				"wide"			"f0"
-				"tall"			"200"
+				"tall"			"100"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
@@ -99,24 +99,6 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_TitleLabel"
 			"xpos"			"r0"
-		}
-		
-		"MOTD_Label"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"MOTD_Label"
-			"font"			"InstructionalText"
-			"labelText"		"%motddate%"
-			"textAlignment"	"west"
-				"xpos"			"10"
-				"ypos"			"7"
-			"wide"			"0"
-			"tall"			"10"
-			//"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			//"enabled"		"1"
-			"fgcolor_override"		"W_ColorTexto1"
 		}
 		
 		"MOTD_TitleImageBg"

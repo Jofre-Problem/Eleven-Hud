@@ -5,6 +5,7 @@
 	#base "../ui2/_motd_spray.res"
 	#base "../ui2/_motd_sourcemod.res"
 	#base "../ui2/_motd_boxes.res"
+	#base "../ui_overrides/!4plug_run_sc.res"
 	#base "../../home/servers.res"
 //	#base "../../#customization/resource/ui/summersale_border.res"
 //	#base "../#jofre/downbar.res"
@@ -290,7 +291,7 @@
 		sound_released			"sound_menu/button2.wav"
 		
 		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"236 71 233 255"
+		armedFgColor_override		"157 83 33 255"
 		defaultBgColor_override		"29 35 48 255"
 		armedBgColor_override		"29 35 48 255"
 		paintBackground			1
@@ -309,45 +310,13 @@
 			"enabled"		"0"
 		}	
 	}
-
-	"Achievements"		// open achievements window
-	{
-		ControlName				CExButton
-		FieldName				"Achievements"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.043
-		
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-		
-		command				"OpenAchievementsDialog"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-	
-		paintBackground			0
-
-		pin_to_sibling			"TF2Settings"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		"navUp"			""
-		"navLeft"		""
-		"navRight"		""
-		"border_default"	"NoBorder"
-		
-		"image_drawcolor"	"Blank"		
-		"SubImage"
+		"GeneralStoreButton"
 		{
 			"wide"			"0"
 			"tall"			"0"
 			"visible"		"0"
 			"enabled"		"0"
 		}		
-	}
 		"TF2SettingsButton"
 		{
 			"wide"			"0"
@@ -370,434 +339,6 @@
 			"enabled"		"0"
 		}	
 	
-	"Achi1"
-	{
-		ControlName				CExLabel
-		FieldName				"Achi1"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.043
-		mouseinputenabled 		0
-		labelText				"Ú"
-		font					"NewIcons17"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"232 87 84 255"	
-
-		pin_to_sibling			"Achievements"
-
-	}
-	"Achi2"
-	{
-		ControlName				CExLabel
-		FieldName				"Achi2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-		mouseinputenabled 		0
-		labelText				"Û"
-		font					"NewIcons17"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		fgcolor_override		"219 149 55 255"
-		paintBackground			0
-			
-
-		pin_to_sibling			"Achi1"
-	}		
-	"TF2Settings"		// open advanced options
-	{
-		ControlName				CExButton
-		FieldName				"TF2Settings"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.043
-
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-		command				"opentf2options"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-		paintBackground			0
-		
-		pin_to_sibling 			"GeneralStoreButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-
-		"navUp"			""
-		"navLeft"		""
-		"navRight"		""
-		"border_default"	"NoBorder"
-		
-		"image_drawcolor"	"Blank"		
-		"SubImage"
-		{
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
-		}			
-	}
-	"Opt1"
-	{
-		ControlName				CExLabel
-		FieldName				"Opt1"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.043
-	mouseinputenabled 		0
-		labelText				"ô"
-		font					"NewIcons12"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		mouseinputenabled 		0	
-		paintBackground			0
-		fgcolor_override		"65 170 247 255"	
-		pin_to_sibling 			"TF2Settings"
-	}
-	"Opt2"
-	{
-		ControlName				CExLabel
-		FieldName				"Opt2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-	mouseinputenabled 		0
-		labelText				"õ"
-		font					"NewIcons12"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"101 168 196 255"	
-		pin_to_sibling 			"Opt1"
-	}
-	"Opt3"
-	{
-		ControlName				CExLabel
-		FieldName				"Opt3"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-	mouseinputenabled 		0
-		labelText				"ö"
-		font					"NewIcons12"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"150 170 210 255"	
-		pin_to_sibling 			"Opt1"
-	}		
-	"GeneralStoreButton"				// open Mann Co. Store
-	{
-		ControlName				CExButton
-		FieldName				"GeneralStoreButton"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.043
-		"pinCorner"		"0"
-		"textinsetx"	"0"
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-		
-	
-		command					"engine open_store"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-	
-		paintBackground			0
-		
-		pin_to_sibling 			"OpenContracker"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-	}
-	"Store1"
-	{
-		ControlName				CExLabel
-		FieldName				"Store1"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.043
-
-		labelText				"ÿ"
-		font					"NewIcons15"
-		textAlignment			center
-		mouseinputenabled 		0
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"192 59 56 255"	
-		pin_to_sibling 			"GeneralStoreButton"	}
-	"Store2"
-	{
-		ControlName				CExLabel
-		FieldName				"Store2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-	mouseinputenabled 		0
-		labelText				"þ"
-		font					"NewIcons15"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"255 237 135 255"	
-		pin_to_sibling 			"Store1"
-	}
-
-	"IconsBar"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"IconsBar"
-		xPos					cs-0.5
-		yPos					r0//cs-0.5+100
-		zPos					1003
-		wide					210
-		tall					"p0.043"	//p0.0525 //p0.05 = 1mm...
-		bgcolor_override				"0 0 0 0"//"W_ColorTheme1"
-		mouseInputEnabled			0			// mouse input passes though to panels below
-		"PaintBackgroundType"	"0"
-	}	
-	"OpenContracker"			// open contracker
-	{
-		ControlName				CExButton
-		FieldName				"OpenContracker"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.043
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-	
-		
-		command				"questlog"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-//		tooltipText			"hi"
-	
-		paintBackground			0
-		"pin_to_sibling"		"IconsBar"
-	}
-
-	"TestQuest"
-	{
-		ControlName				CExLabel
-		FieldName				"TestQuest"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.043
-		mouseinputenabled 		0
-		labelText				"ü"
-		font					"NewIcons17"
-		textAlignment			center
-		paintBackground			0
-		fgcolor_override		"196 171 55 255"
-		"pin_to_sibling"		"OpenContracker"
-	}	
-	"TestQuest2"
-	{
-		ControlName				CExLabel
-		FieldName				"TestQuest2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-		mouseinputenabled 		0
-		labelText				"û"
-		font					"NewIcons17"
-		textAlignment			center
-		paintBackground			0
-		"pin_to_sibling"		"TestQuest"
-		fgcolor_override		"201 122 35 255"
-	}	
-
-	"OpenDemo"		// open achievements window
-	{
-		ControlName				CExButton
-		FieldName				"OpenDemo"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.043
-
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-		
-		command				"engine demoui"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-	
-		paintBackground			0
-
-		pin_to_sibling			"Achievements"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-	}
-	"DemoTest"
-	{
-		ControlName				CExLabel
-		FieldName				"DemoTest"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.043
-	mouseinputenabled 		0
-
-		labelText				"q"
-		font					"NewIcons12"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		"fgcolor_override"		"255 237 135 255"
-
-		pin_to_sibling			"OpenDemo"
-	}	
-	"DemoNewIcons25"
-	{
-		ControlName				CExLabel
-		FieldName				"DemoNewIcons25"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-	mouseinputenabled 		0
-
-		labelText				"r"
-		font					"NewIcons12"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		"fgcolor_override"		"255 228 87 255"
-
-		pin_to_sibling			"DemoTest"
-	}	
-	"OpenMinmode"		// open achievements window
-	{
-		ControlName				CExButton
-		FieldName				"OpenMinmode"
-		xPos					0
-		yPos					0
-		zPos					4001
-		wide					35
-		tall					p0.043
-
-		labelText				""
-		font					"Blank"
-		textAlignment			center
-		
-		command				"engine toggle cl_hud_minmode"
-
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		paintBackground			0
-
-		pin_to_sibling			"OpenDemo"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
-	}
-
-	"Minmode1"
-	{
-		ControlName				CExLabel
-		FieldName				"Minmode1"
-		xPos					0
-		yPos					-2
-		zPos					4000
-		wide					35
-		tall					p0.043
-		mouseinputenabled 		0
-		labelText				"Ò"
-		font					"NewIcons15"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		
-		paintBackground			0
-		fgcolor_override		"12 165 223 255"	
-		pin_to_sibling			"OpenMinmode"
-	}
-	"Minmode2"
-	{
-		ControlName				CExLabel
-		FieldName				"Minmode2"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					35
-		tall					p0.043
-		mouseinputenabled 		0
-		labelText				"Õ"
-		font					"NewIcons15"
-		textAlignment			center
-
-		enabled					1
-		visible					1
-		fgcolor_override		"WhiteSolid"
-		paintBackground			0
-			
-		pin_to_sibling			"Minmode1"
-	}
-
 	"Notifications_ShowButtonPanel"	// notification alert
 	{
 		ControlName				EditablePanel
@@ -1255,7 +796,7 @@
 		"zpos"				2900
 		"wide"			"p0.05"
 		"tall"			"18"
-			fillColor				"78 196 247 255"		
+			fillColor				"122 162 247 255"		
 	}	
 
 
@@ -1272,7 +813,7 @@
 			"wide"			"20"
 			"tall"			"18"
 			
-			"fgcolor"		"78 196 247 255"
+			"fgcolor"		"122 162 247 255"
 "pin_to_sibling"	"polybar1bg_V2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
@@ -1290,7 +831,7 @@
 			"wide"			"19"
 			"tall"			"18"
 			
-			"fgcolor"		"100 4 177 255"
+			"fgcolor"		"173 142 230 255"
 "pin_to_sibling"	"polybar1slash_V2"
 		}
 	"RankPanel"

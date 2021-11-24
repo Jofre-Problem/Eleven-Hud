@@ -2,15 +2,15 @@
 {
 	"HudPlayerHealth"
 	{
-		"HealthBonusPosAdj"	"53"
+		"HealthBonusPosAdj"	"51"
 	}
 	"PlayerStatusHealthValueLowester"
 	{
-		"xpos"			"-310"//-326
+		"xpos"			"-326"//-326
 	}
 	"PlayerStatusHealthValueLowest"
 	{
-		"wide"			"149"//148
+		"wide"			"148"//148
 	}
 	"PlayerStatusHealthValueLower"
 	{
@@ -26,7 +26,7 @@
 	{
 		"xpos"			"-110"//-110
 		"ypos"			"0"//0
-		"wide"			"149"//148
+		"wide"			"148"//148
 		"tall"			"37"//37
 	}
 	"PlayerStatusHealthValueLower2"
@@ -40,6 +40,36 @@
 		"xpos"			"-110"//-110
 		"ypos"			"0"//0
 		"wide"			"150"//150
-		"tall"			"36"//36
+		"tall"			"37"//36
+	}
+	
+	
+	"PlayerStatusHealthValue"
+	{
+		"xpos"			"-2421"
+	}
+	"PlayerStatusHealthValueS"
+	{
+		"xpos"			"-2421"
+	}
+	"PlayerStatusHealthValueOutline"
+	{
+		"xpos"			"-2421"
+	}
+	"PlayerStatusHealthValueLudicriousOverhealBG"
+	{
+		"xpos"			"-1411"
+	}
+	"PlayerStatusHealthValueLudicriousOverhealBG2"
+	{
+		"xpos"			"-1524"
+	}
+	"PlayerStatusHealthValueLudicriousOverhealIcon"
+	{
+		"xpos"			"-1524"
+	}
+	"PlayerStatusHealthValueLudicriousOverhealLoads"
+	{
+		"xpos"			"-1203"
 	}
 }

@@ -7,7 +7,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"rs1-8"
 		"zpos"			"-3"
-		"wide"			"72"
+		"wide"			"84"
 		"tall"			"10"
 		//"alpha"			"200"
 		"bgcolor_override"		"155 104 186 255"//"W_ColorTheme1"
@@ -17,9 +17,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenter"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Õ"
 			font					"NewIcons11"
 			textAlignment			center
 			command				"OpenLoadSingleplayerCommentaryDialog"
@@ -40,9 +40,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterRight1"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
 			command				"engine bug"
@@ -63,9 +63,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterRight2"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
 			command				OpenLoadGameDialog
@@ -86,9 +86,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterRight3"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
 			command			"engine fogui"
@@ -109,9 +109,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterLeft1"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
 			command				OpenChangeGameDialog
@@ -132,9 +132,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterLeft2"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
 			command				OpenBonusMapsDialog
@@ -155,9 +155,9 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterLeft3"
 			"zpos"										"20"
-			"wide"										"10"
+			"wide"										"12"
 			"tall"										"10"
-			labelText				"o"
+			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
 			command				OpenBenchmarkDialog

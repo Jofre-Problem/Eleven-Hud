@@ -188,7 +188,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
+			armedFgColor_override		"A_ColorTheme1"
 		"paintbackground""0"
 		"image_drawcolor""Tanlight"
 		"image_armedcolor""Tanlight"
@@ -227,7 +227,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
+			armedFgColor_override		"A_ColorTheme1"
 			"pin_to_sibling" "StatusIcon"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -267,7 +267,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
+			armedFgColor_override		"A_ColorTheme1"
 		"paintbackground""0"
 		"image_drawcolor""Tanlight"
 		"image_armedcolor""Tanlight"
@@ -306,7 +306,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
+			armedFgColor_override		"A_ColorTheme1"
 			"pin_to_sibling" "ReloadIcon"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -972,7 +972,7 @@
 			"fgcolor"			"W_ColorIcons1"
 			
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_BorderArmed"
+			armedFgColor_override		"A_ColorTheme1"
 
 			"SubImage"
 			{

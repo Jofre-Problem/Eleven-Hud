@@ -1,4 +1,4 @@
-"ammo"
+"ammo.res"
 {
 	"AmmoEverywhereDudeDoubleLow"
 	{

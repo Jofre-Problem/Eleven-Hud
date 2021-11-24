@@ -8,11 +8,11 @@ hudanimations_manifest
 	"file"		"_eleven/scripts/hudanimations_extra.txt"
 	"file"		"_eleven/scripts/hudanimations_init.txt"
 
-	"file"		"_eleven/resource/ui_overrides/scripts/+nochatbg.txt"
-	"file"		"_eleven/resource/ui_overrides/scripts/+removescope.txt"
-	"file"		"_eleven/resource/ui_overrides/scripts/+scoreboardslidein.txt"
-	"file"		"_eleven/resource/ui_overrides/scripts/+crosshair_in_scoreboard.txt"
-	"file"		"_eleven/resource/ui_overrides/scripts/+cart_glow.txt"
+	"file"		"_eleven/resource/ui_overrides/+nochatbg.txt"
+	"file"		"_eleven/resource/ui_overrides/+removescope.txt"
+	"file"		"_eleven/resource/ui_overrides/+scoreboardslidein.txt"
+	"file"		"_eleven/resource/ui_overrides/+crosshair_in_scoreboard.txt"
+	"file"		"_eleven/resource/ui_overrides/+cart_glow.txt"
 
 	"file"		"scripts/hudanimations_tf.txt"
 }

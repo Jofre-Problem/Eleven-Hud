@@ -1,10 +1,4 @@
-#base "../../resolution/1366x768/health.res"	//-
-#base "../../resolution/1920x1080/health.res"
-#base "../../resolution/1200x800/health.res"
-#base "../../resolution/1680x1050/health.res"
-#base "../../resolution/1280x1024/health.res"
-#base "../../resolution/960x720/health.res"		//-
-#base "../../resolution/640x480/health.res"		//-
+#base "../ui_overrides/!res_health.res"	//replace all "resolution" code
 
 #base "../../overrides/teamcolor_always_red/health.res"
 #base "../../overrides/teamcolor_always_blu/health.res"
@@ -13,9 +7,8 @@
 #base "teamcolor/health.res"
 
 //fallback
-#base "../../resolution/_DISABLED/1366x768/health.res"
+#base "hp_fallback.res"
 
-#base "../defaults/hudplayerhealth.res" //loads new default after any updates
 #base "../../overrides/circlesforstuff/file.res"
 #base "../../overrides/outlinedhealthnumber/file.res"
 #base "healthshadow.res"
