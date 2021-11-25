@@ -298,40 +298,7 @@
 		"font"			"HighHealth"
 		"fgcolor"		"110 255 25 255"
 	}
-//	"PlayerStatusHealthValueLowester2"
-//	{
-//		"ControlName"	"CExLabel"
-//		"fieldName"		"PlayerStatusHealthValueLowester2"
-//		"xpos"			"-20"
-//		"ypos"			"10"
-//		"zpos"			"5"
-//		"wide"			"148"
-//		"tall"			"10"
-//		"visible"		"1"
-//		//"enabled"		"1"
-//		"labelText"		"#healthlow"
-//		"textAlignment"	"west"	
-//		"font"			"1HealthFont"
-//		"fgcolor"		"255 0 0 255"
-//		"alpha"			"0" //for the kunai
-//	}
-//	"PlayerStatusHealthValueLowester3"
-//	{
-//		"ControlName"	"CExLabel"
-//		"fieldName"		"PlayerStatusHealthValueLowester3"
-//		"xpos"			"-20"
-//		"ypos"			"10"
-//		"zpos"			"5"
-//		"wide"			"148"
-//		"tall"			"10"
-//		"visible"		"1"
-//		//"enabled"		"1"
-//		"labelText"		"#healthlow"
-//		"textAlignment"	"west"	
-//		"font"			"1HealthFont"
-//		"fgcolor"		"255 0 0 0"
-//		"alpha"			"0" //for the kunai
-//	}
+
 	"PlayerStatusHealthValueLowester"
 	{
 		"ControlName"	"CExLabel"
@@ -349,21 +316,6 @@
 		"fgcolor"		"10 255 0 200"
 		"alpha" 		"0"
 		"auto_wide_tocontents" "1"
-	
-//		"ControlName"	"CExLabel"
-//		"fieldName"		"PlayerStatusHealthValueLowester"
-//		"xpos"			"-20"
-//		"ypos"			"-5"
-//		"zpos"			"5"
-//		"wide"			"148"
-//		"tall"			"40"
-//		"visible"		"1"
-//		//"enabled"		"1"
-//		"labelText"		"#healthlow"
-//		"textAlignment"	"west"	
-//		"font"			"1HealthFont"
-//		"fgcolor"		"255 0 0 255"
-//		"alpha"			"0" //for the kunai
 	}
 	"PlayerStatusHealthValueLowestImage3"
 	{

@@ -1,5 +1,7 @@
-// contains all the useless / not-important stuff
-//#base "!event_promo.res"
+	#base "_motd_polyv2.res"
+	#base "_motd_spray.res"
+	#base "_motd_sourcemod.res"
+	#base "_motd_boxes.res"
 "_jofrehud/resource/motd-list.res"
 {
 	"MOTD_Panel"

@@ -5,13 +5,13 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SafeMode"
 		"xpos"			"0"
-		"ypos"			"rs1-p0.043"
-		"zpos"			"1038"
+		"ypos"			"0"
+		"zpos"			"900"
 		"wide"			"f0"
-		"tall"			"38"
+		"tall"			"f0"
 		"visible"		"1"
 		//"enabled"		"1"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"0 0 0 180"
 	
 		"Amity"
 		{

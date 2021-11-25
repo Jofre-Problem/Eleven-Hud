@@ -77,7 +77,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"TimepanelInfo"
+		"font"			"Noto16"
 	}			
 	"WaitingForPlayersBG"
 	{
@@ -108,19 +108,17 @@
 		"fgcolor"		"255 25 50 255"
 		"visible"		"0"
 		//"enabled"		"1"
-		"labelText"		"F"
 		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"JarCrosses-AA:1-OL:0-blur:0-size:24"
+		"font"			"Noto24"
 	}			
 	"OvertimeBG"
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"OvertimeBG"
-		"xpos"			"216"	[$WIN32]
-		"xpos"			"11"	[$X360]
+		"xpos"			"216"
 		"ypos"			"31"
 		//"ypos_hidef"	"-100"	//off-screen
 		//"ypos_lodef"	"-100"	//off-screen
@@ -149,7 +147,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"TimepanelInfo"
+		"font"			"Noto16"
 	}			
 	"SuddenDeathBG"
 	{
@@ -185,7 +183,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"TimepanelInfo"
+		"font"			"Noto16"
 	}	
 	"SetupBG"
 	{

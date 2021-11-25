@@ -56,6 +56,7 @@
 
 		"MapImage"
 		{
+			"wide"			"0"
 			"xpos"			"-9999"	
 		}
 		"ContributedLabel"
@@ -207,7 +208,7 @@
 		"ypos"			"0"
 		"zpos"			"3000"
 		"wide"			"20"
-		"tall"			"18"
+		"tall"			"17"
 		"fgcolor_override" "W_ColorIcons1"
 	}			
 	"MapLabel"

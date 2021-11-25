@@ -49,15 +49,6 @@ Scheme
 				"blur" "1"
 			}
 		}
-		"HealthAndAmmoShadow"
-		{
-			"1"
-			{
-				"name" "Open Sans Shadow"
-				"tall" "38"
-				"antialias"	"1"
-			}
-		}
 		"HealthAndAmmoShadow1"
 		{
 			"1"
@@ -74,26 +65,6 @@ Scheme
 				"tall" "38"
 				"antialias"	"1"
 				"blur" "1"
-			}
-		}
-		"HealthAndAmmoShadow2"
-		{
-			"1"
-			{
-				"name" "Open Sans Shadow"
-				"tall" "38"
-				"antialias"	"1"
-				"blur" "2"
-			}
-		}
-		"HealthAndAmmoShadow3"
-		{
-			"1"
-			{
-				"name" "Open Sans Shadow"
-				"tall" "38"
-				"antialias"	"1"
-				"blur" "3"
 			}
 		}
 		"UberCheckmark"
@@ -164,22 +135,6 @@ Scheme
 				"antialias"	"0"
 			}
 		}
-		"1HealthFont"
-		{
-			"1"
-			{
-				"name" "Open Sans 1Health"
-				"tall" "89"
-				"antialias"	"0"
-				"yres" "1024 1199"
-			}
-			"2"
-			{
-				"name" "Open Sans 1Health"
-				"tall" "51"
-				"antialias"	"0"
-			}
-		}
 		"1HealthPusherFont"
 		{
 			"1"
@@ -218,15 +173,6 @@ Scheme
 			{
 				"name" "Open Sans LowAmmo"
 				"tall" "51"
-				"antialias"	"0"
-			}
-		}
-		"NoneInClipWarning"
-		{
-			"1"
-			{
-				"name" "LowAmmoWarning Zero"
-				"tall" "99"
 				"antialias"	"0"
 			}
 		}
@@ -354,6 +300,15 @@ Scheme
 				"antialias"	"0"
 			}
 		}
+		"ViewerNumber"
+		{
+			"1"
+			{
+				"name" "Open Sans Semibold Noletters"
+				"tall" "14"
+				"antialias"	"1"
+			}
+		}		
 	}
 	CustomFontFiles
 	{

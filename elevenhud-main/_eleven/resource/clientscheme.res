@@ -1057,11 +1057,7 @@ Scheme
 			"font" "_eleven/font/optimized/ProductSans-Regular.ttf"
 			"name" "Product Sans"
 		}
-		"93"
-		{
-			"font" "_eleven/font/fantasquesansmono-bold.otf"
-			"name" "FantasqueSansMono-Bold"
-		}		
+	
 		"94"
 		{
 			"font" "_eleven/font/fantasquesansmono-regular.otf"
