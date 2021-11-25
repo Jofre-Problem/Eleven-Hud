@@ -91,7 +91,7 @@
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
-			command			"OpenMatchmakingBasePanel"//"engine fogui"
+			command			"engine fogui"
 			"actionsignallevel"	"2"
 		
 			"sound_depressed"							"sound_menu/button.wav"

@@ -6,7 +6,6 @@
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"c-255"
 		"ypos"				"16"
-		"ypos"				"24"
 		"zpos"				"1"
 		"wide"				"310"
 		"tall"				"150"
@@ -33,7 +32,7 @@
 			"tall"			"31"
 			"visible"		"1"
 			//"enabled"		"1"
-			"textAlignment"		"east"
+			"textAlignment"		"center"
 		//	"labelText"		"0:00"
 		}
 	}
