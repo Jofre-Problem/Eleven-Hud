@@ -4,5 +4,4 @@
 	"Button1"
 	{
 		"tabPosition"		"4"
-	}
-}
+	}}

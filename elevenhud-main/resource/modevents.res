@@ -1,2 +1,2 @@
-#base "+experimental/gameevents.res"
+#base "+experimental/modevents.res"
 #base "../_jofrehud/_tf2exp/null.res"

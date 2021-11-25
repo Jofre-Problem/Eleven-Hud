@@ -267,8 +267,8 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"MaxPlayerFilter"
-		"xpos"		"160"
-		"ypos"		"210"
+		"xpos"		"159"//"160"
+		"ypos"		"318"//"210"
 		"wide"		"64"
 		"tall"		"24"
 		//"autoResize"		"0"
