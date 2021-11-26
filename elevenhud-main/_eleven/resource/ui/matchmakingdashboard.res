@@ -335,6 +335,11 @@
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
+		"Gradient"
+		{
+			"tall"		"0"
+		
+		}
 
 
 

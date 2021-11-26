@@ -1,6 +1,6 @@
 	#base "_motd_polyv2.res"
-	#base "_motd_spray.res"
-	#base "_motd_sourcemod.res"
+//	#base "_motd_spray.res"
+//	#base "_motd_sourcemod.res"
 	#base "_motd_boxes.res"
 "_jofrehud/resource/motd-list.res"
 {
@@ -23,10 +23,10 @@
 			"ControlName"	"EditablePanel"
 			"fieldname"		"FriendsContainer"
 			"xpos"			"rs1+1"
-			"ypos"			"rs1" //70 + 75
+			"ypos"			"80" //70 + 75
 			"zpos"			"20"
 			"wide"			"p0.22"
-			"tall"			"100"
+			"tall"			"0"
 			"visible"		"1"
 
 			"bgcolor_override"		"0 0 0 0"

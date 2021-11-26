@@ -5,10 +5,11 @@
 	#base "cs_windows.res"
 //dlc
 	#base "../../ui_overrides/resource/scheme/dlc/2.res"
-	#base "ui2/noto_scheme.res"
-	#base "ui2/magnum_scheme.res"
-	#base "ui2/cs_font.res"
-	#base "ui2/cs_font_weight.res"
+	#base "ui2/scheme/backpack.res"
+	#base "ui2/scheme/noto_scheme.res"
+	#base "ui2/scheme/magnum_scheme.res"
+	#base "ui2/scheme/cs_font.res"
+	#base "ui2/scheme/cs_font_weight.res"
 	#base "../!sc/clientscheme.res"
 	#base "clientscheme_unused.res"
 Scheme
@@ -484,7 +485,17 @@ Scheme
 				"antialias" 	"0"
 				"yres"			"0 2000"
 			}
-		}		
+		}
+		"Segoe8"
+		{
+			"1"
+			{
+				"name"		"FantasqueSansMono-Regular"
+				"tall"		"8"
+				"wide"		"100"
+				"antialias" 	"1"
+			}
+		}					
 		"Segoe9"
 		{
 			"1"
@@ -881,43 +892,6 @@ Scheme
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}		
-		EconItemBorder
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			"color"					"Black"
-			
-			"image"					"replay/thumbnails/panels/material_generic"
-			"src_corner_height"		"32"
-			"src_corner_width"		"32"
-			"draw_corner_width"		"8"
-			"draw_corner_height" 	"8"
-		}
-		LoadoutItemMouseOverBorder
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			"color"					"Black"
-			
-			"image"					"replay/thumbnails/panels/material_generic"
-			"src_corner_height"		"32"
-			"src_corner_width"		"32"
-			"draw_corner_width"		"8"
-			"draw_corner_height" 	"8"
-		}
-		
-		LoadoutItemPopupBorder
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			"color"					"64 64 64 100"
-			
-			"image"					"replay/thumbnails/panels/material_generic"
-			"src_corner_height"		"32"
-			"src_corner_width"		"32"
-			"draw_corner_width"		"8"
-			"draw_corner_height" 	"8"
-		}
 		
 		OutlinedGreyBox
 		{

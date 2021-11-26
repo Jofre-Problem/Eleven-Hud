@@ -5,12 +5,12 @@
 
 	"Box_Panel"	{		"ControlName"		"EditablePanel"		"fieldName"		"Box_Panel"
 		"xpos"			"cs-0.5"
-		"ypos"			"rs1-8"
+		"ypos"			"rs1"
 		"zpos"			"-3"
 		"wide"			"84"
-		"tall"			"10"
+		"tall"			"18"
 		//"alpha"			"200"
-		"bgcolor_override"		"155 104 186 255"//"W_ColorTheme1"
+		"bgcolor_override"		"155 104 186 0"//"W_ColorTheme1"
 		"PaintBackgroundType"	"2"
 	}
 	"BoxCenter"	{
@@ -18,7 +18,7 @@
 			"fieldName"		"BoxCenter"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Õ"
 			font					"NewIcons11"
 			textAlignment			center
@@ -41,7 +41,7 @@
 			"fieldName"		"BoxCenterRight1"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -64,7 +64,7 @@
 			"fieldName"		"BoxCenterRight2"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -87,7 +87,7 @@
 			"fieldName"		"BoxCenterRight3"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -110,7 +110,7 @@
 			"fieldName"		"BoxCenterLeft1"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -133,7 +133,7 @@
 			"fieldName"		"BoxCenterLeft2"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -156,7 +156,7 @@
 			"fieldName"		"BoxCenterLeft3"
 			"zpos"										"20"
 			"wide"										"12"
-			"tall"										"10"
+			"tall"										"18"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center

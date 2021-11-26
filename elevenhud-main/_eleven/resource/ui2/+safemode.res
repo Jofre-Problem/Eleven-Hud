@@ -1,3 +1,5 @@
+	#base "_motd_spray.res"
+	#base "_motd_sourcemod.res"
 "Resource/#jofre/safe-mode.res"
 {
 	"SafeMode"
@@ -11,32 +13,20 @@
 		"tall"			"f0"
 		"visible"		"1"
 		//"enabled"		"1"
-		"bgcolor_override"	"0 0 0 180"
-	
-		"Amity"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"Amity"
-			"xpos"		"90"
-			"ypos"		"120"
-			"wide"		"70"
-			"tall"		"o1"
-			"scaleimage"	"1"
-			"image"		"replay/thumbnails/amity_d"	
-			"border"	"Rice1"		
-		}	
-		"Luz"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"Luz"
-			"xpos"		"rs1-150"
-			"ypos"		"120"
-			"wide"		"70"
-			"tall"		"o1"
-			"scaleimage"	"1"
-			"image"		"replay/thumbnails/luz_d"	
-			"border"	"Rice1"				
-		}	
+		"bgcolor_override"	"0 0 0 1"
+		"bye"	{			"ControlName"	"CExImageButton""fieldName"		"bye"
+			"xpos"										"0"
+			"ypos"										"0"
+			"zpos"										"-60"
+			"wide"										"f0"
+			"tall"										"f0"
+			"labelText"									""
+			"actionsignallevel"	"2"
+			"command"			"engine cl_mainmenu_safemode 0"
+			"defaultFgColor_override"					"blank"
+			"armedFgColor_override" 					"blank"
+			"depressedFgColor_override" 				"blank"		
+		}
 		"Background"		//Only not removed cuz save settings button
 		{
 			"ControlName"	"EditablePanel"

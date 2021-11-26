@@ -1,16 +1,41 @@
 "_jofrehud/resource/motd-list.res"{
 	"MOTD_Panel"
 	{	
+		"last"		{			"ControlName"		"CExLabel"		"fieldName"	
+			"last"
+			"font"			"Segoe8"
+			"labelText"		"TF2 update:"
+			"textAlignment"		"center"
+			"xpos" 			"rs1-5"
+			"ypos"			"rs1"
+			"zpos"			"11"
+			"wide"			"70"
+			"tall"			"25"
+			
+			"fgcolor"		"white"
+}			
 		"MOTD_Label"
 		{
-			"font"			"Segoe9"
-			"textAlignment"	"west"
-			"xpos"			"4"
-			"ypos"			"rs1-20"
-			"wide"			"300"
-			"tall"			"10"
+			"font"			"ViewerNumber2"
+			"xpos"			"rs1-5"
+			"ypos"			"rs1"
+			"wide"			"70"
+			"textAlignment"	"center"
+			"textinsety"	"7"
+			"zpos""10"
+			"tall"			"18"
 			"fgcolor"		"W_ColorIcons1"
+			"bgcolor_override" "108 138 208 255"
 		}		
+		"back"						{			ControlName				ImagePanel			FieldName				
+		"back"
+		"xpos"			"0"
+		"ypos"			"rs1"
+		"wide"			"f0"
+		"tall"			"18"
+			fillColor				"7 29 67 255"
+	}			
+
 		"polybar1bg"						{			ControlName				ImagePanel			FieldName				
 		"polybar1bg"
 		"xpos"			"60"

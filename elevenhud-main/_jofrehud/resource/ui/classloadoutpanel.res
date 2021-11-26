@@ -2,7 +2,7 @@
 #base "base/filesv2/loadout_preset_panel/main2.res"
 #base "base/filesv2/topline/main.res"
 #base "base/filesv2/topline/content1.res"
-#base "base/filesv1/itemrename/mouseoveritem.res"
+//#base "base/filesv1/itemrename/mouseoveritem.res"
 
 #base "base/filesv2/caratlabel/main.res"
 #base "base/filesv2/caratlabel/wide20.res"

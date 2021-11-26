@@ -308,6 +308,15 @@ Scheme
 				"tall" "14"
 				"antialias"	"1"
 			}
+		}
+		"ViewerNumber2"
+		{
+			"1"
+			{
+				"name" "Open Sans Semibold Noletters"
+				"tall" "9"
+				"antialias"	"1"
+			}
 		}		
 	}
 	CustomFontFiles
