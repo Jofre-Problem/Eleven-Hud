@@ -4,7 +4,7 @@
 Scheme
 {
 	BaseSettings	{
-		"FrameTitleBar.Font"		"UiBold"	}
+		"FrameTitleBar.Font"		"Blank"	}
 
    		Borders
 		{ 

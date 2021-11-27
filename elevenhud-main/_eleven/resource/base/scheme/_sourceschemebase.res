@@ -45,15 +45,15 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		"UiBold"
+		"Blank"
 		{
 			"1"
 			{
 				"name"		"Blank"
-				"tall"		"1"
-				"yres"		"0 2000"
+				"tall"		"12"	//the tall determines the position the buttons of frame will be
+				// 12 is the def
 			}
-		}		
+		}				
 		"DefaultSmallDropShadow"
 		{
 			"1"
