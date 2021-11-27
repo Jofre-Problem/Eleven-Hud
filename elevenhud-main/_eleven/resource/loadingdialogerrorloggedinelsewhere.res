@@ -1,8 +1,8 @@
-#base "#bases/loading-cancel.res"
-#base "#bases/1bannerad.res"
-#base "#bases/1progress.res"
-#base "#bases/1timere.res"
-#base "#bases/1progress2.res"
+#base "base/loading-cancel.res"
+#base "base/1bannerad.res"
+#base "base/1progress.res"
+#base "base/1timere.res"
+#base "base/1progress2.res"
 "Resource/LoadingDialogErrorLoggedInElsewhere.res"
 {
 	"LoadingDialog"

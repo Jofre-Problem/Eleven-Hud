@@ -1,4 +1,4 @@
-#base "../../../../#bases/reloadscheme_Res"
+#base "../../../../base/reloadscheme_Res"
 "Resource/UI/StoreHome_Winter2.res"
 {
 	"StorePage"

@@ -33,7 +33,7 @@
 //#base "../#uni_base/filesv1/top_bottom_horiz_left/main.res"
 //#base "../#uni_base/filesv1/top_bottom_horiz_left/main2.res"
 //#base "../#uni_base/filesv1/top_bottom_horiz_left/main3.res"
-//#base "#bases/1sysmenu.res"
+//#base "base/1sysmenu.res"
 #base "../#uni_base/filesv1/divider2/main.res"
 #base "../#uni_base/filesv1/divider2/tallis2.res"
 #base "../#uni_base/filesv1/scalelabel/main.res"

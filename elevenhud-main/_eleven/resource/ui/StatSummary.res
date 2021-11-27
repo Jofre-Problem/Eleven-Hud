@@ -221,7 +221,7 @@
 		"zpos"				"-90"
 		"wide"				"f0"
 		"tall"				"40"
-		"labelText"			"TESTING"
+	//	"labelText"			"TESTING"
 		"AllCaps"			"1"
 		"fgcolor_override"	"W_ColorIcons1"
 	}

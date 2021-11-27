@@ -1,4 +1,4 @@
-#base "../../../../#bases/reload_scheme.res"
+#base "../../../../base/reload_scheme.res"
 "Resource/UI/StorePage_GCTrading.res"
 {
 	"StorePage"

@@ -1,4 +1,4 @@
-#base "../../../../#bases/reloadscheme.res"
+#base "../../../../base/reloadscheme.res"
 #base "../../../base/filesv1/itemrename/mouseoveritem.res"
 "Resource/UI/StoreHome_Winter2.res"
 {

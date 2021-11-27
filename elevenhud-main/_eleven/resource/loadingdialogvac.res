@@ -1,7 +1,7 @@
-#base "#bases/loading-cancel.res"
-#base "#bases/loadingvac.res"
-#base "#bases/1progress.res"
-#base "#bases/1timere.res"
+#base "base/loading-cancel.res"
+#base "base/loadingvac.res"
+#base "base/1progress.res"
+#base "base/1timere.res"
 "Resource/LoadingDialog.res"
 {
 	"InfoLabel"

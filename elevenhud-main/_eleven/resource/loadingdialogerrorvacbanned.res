@@ -1,5 +1,5 @@
-#base "#bases/loadingvac.res"
-#base "#bases/loading-cancel.res"
+#base "base/loadingvac.res"
+#base "base/loading-cancel.res"
 "Resource/LoadingDialogErrorVACBanned.res"
 {
 }

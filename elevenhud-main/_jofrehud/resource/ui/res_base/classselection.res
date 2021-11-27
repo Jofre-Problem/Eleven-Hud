@@ -1,4 +1,4 @@
-#base "../../#bases/1sysmenu.res"
+#base "../../base/1sysmenu.res"
 #base "../base/1shadedbar.res"
 #base "../base/filesv2/shadedbar/image.res"
 #base "../base/1menubg.res"

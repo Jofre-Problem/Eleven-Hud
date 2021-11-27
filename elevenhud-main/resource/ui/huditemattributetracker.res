@@ -1,4 +1,4 @@
-	//#base	"../../_stream/resource/ui/huditemattributetracker.res"
+	#base	"../../_custom/resource/ui/huditemattributetracker.res"
 	#base	"../../#users/dane/resource/ui/huditemattributetracker.res"
 	#base	"../../_eleven/resource/ui/huditemattributetracker.res"
 	#base	"../../_jofrehud/resource/ui/huditemattributetracker.res"

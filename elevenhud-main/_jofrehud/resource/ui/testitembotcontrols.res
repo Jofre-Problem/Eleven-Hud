@@ -1,4 +1,4 @@
-#base "../#bases/reload_scheme.res"
+#base "../base/reload_scheme.res"
 #base "base/filesv2/testitembotcontrols/main.res"
 #base "../../#uni_base/filesv1/okbutton/ctrl/cex.res"
 #base "../../#uni_base/filesv1/okbutton/main.res"

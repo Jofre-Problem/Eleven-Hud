@@ -1,4 +1,4 @@
-#base "../#bases/1sysmenu.res"
+#base "../base/1sysmenu.res"
 #base "../../#uni_Base/filesv3/ok/main.res"
 #base "../../#uni_Base/filesv3/ok/ctri/btn.res"
 #base "../../#uni_Base/filesv3/ok/ctri/auto0.res"

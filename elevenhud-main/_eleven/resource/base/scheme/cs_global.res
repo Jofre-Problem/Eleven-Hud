@@ -23,9 +23,9 @@ Scheme
 		CheckButton.HighlightFgColor	"W_ColorIcons1"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
-		CheckButton.Check				"W_ColorTheme1"
+		CheckButton.Check				"W_ColorIcons1"
 		CheckButton.DisabledBgColor	    "Blank"
-		CheckButton.BgColor				"W_ColorIconsArmed1"
+		CheckButton.BgColor				"W_ColorTheme1"
 		CheckButton.Border1  			"Blank"
 		CheckButton.Border2  			"Blank"
 

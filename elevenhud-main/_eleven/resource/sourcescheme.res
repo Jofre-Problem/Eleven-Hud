@@ -129,7 +129,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"				"Product Sans"
+				"name"				"Product Jofre"
 		//		"tall"				"15"		
 				"antialias"			"1"
 			}
@@ -260,5 +260,10 @@ Scheme
 			"font" "_eleven/font/CallingCode-Regular.otf"
 			"name" "Calling Code"
 		}      
+		"101"
+		{
+			"font" "_eleven/font/ProductJofre.otf"
+			"name" "Product Jofre"
+		}  		
 	}	
 }	

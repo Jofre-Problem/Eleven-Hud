@@ -1,8 +1,8 @@
-#base "#bases/loading-cancel.res"
-#base "#bases/1bannerad.res"
-#base "#bases/1sysmenu.res"
-#base "#bases/1progress.res"
-#base "#bases/1loadinglabel.res"
+#base "base/loading-cancel.res"
+#base "base/1bannerad.res"
+#base "base/1sysmenu.res"
+#base "base/1progress.res"
+#base "base/1loadinglabel.res"
 "Resource/LoadingDialog.res"
 {
 	"InfoLabel"

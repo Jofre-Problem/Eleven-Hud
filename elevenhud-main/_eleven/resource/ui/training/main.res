@@ -1,4 +1,4 @@
-#base "../../#bases/reload_scheme.res"
+#base "../../base/reload_scheme.res"
 #base "../../#jofre/w_icons.res"
 #base "../../#jofre/w_op-panel.res"
 //#base "../../#jofre/teamcolored_blur.res"

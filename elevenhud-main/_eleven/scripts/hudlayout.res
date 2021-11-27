@@ -28,16 +28,6 @@
 		"MinimumHeight" "64"
 		"MaximumHeight" "64"
 		"MinimumTime" "2"
-
-		// CS Damage Indicator vars
-		"DmgColorLeft" "255 0 0 0"
-		"DmgColorRight" "255 0 0 0"
-		
-		"dmg_xpos" "30"
-		"dmg_ypos" "100"
-		"dmg_wide" "36"
-		"dmg_tall1" "240"
-		"dmg_tall2" "200"
 	}
 	HudCloseCaption
 	{
@@ -392,10 +382,8 @@
 		"tall"	"480"
 		
 		"blue_active_xpos"			"4"
-		"blue_active_xpos_minmode"	"4"
 	
 		"red_active_xpos"			"52"
-		"red_active_xpos_minmode"	"52"
 	}
 	
 	"HudUpgradePanel"
@@ -479,7 +467,7 @@
 		"tall"					"f0"
 	}
 
-	HudArenaClassLayout [$WIN32]
+	HudArenaClassLayout
 	{
 		"ypos"					"0"
 		"wide"					"f0"
@@ -513,8 +501,6 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"0"
-		"ypos_minmode"			"0"
-		//"ypos_lodef"			"0"
 		"wide"					"f0"
 		"tall"					"480"
 	}
@@ -605,7 +591,7 @@
 		"wide"					"f0"
 		"tall"					"f0"
 	}	
-	CriticalPanel [$WIN32]
+	CriticalPanel 
 	{
 		"fieldName"				"CriticalPanel"		
 		"visible"				"1"
@@ -616,7 +602,7 @@
 		"tall"					"25"
 	}
 	
-	HudArenaClassLayout [$WIN32]
+	HudArenaClassLayout
 	{
 		"fieldName"				"HudArenaClassLayout"		
 		"visible"				"1"

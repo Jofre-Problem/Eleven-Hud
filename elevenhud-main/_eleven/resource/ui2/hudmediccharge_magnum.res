@@ -10,19 +10,7 @@
 {	
 	"Background"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"Background"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image"			"../hud/medic_charge_blue_bg"
-		"scaleImage"	"1"	
-		"teambg_2"		"../hud/medic_charge_red_bg"
-		"teambg_3"		"../hud/medic_charge_blue_bg"				
+		"wide"			"0"			
 	}
 	"TeamColoredAmmoTextBG"
 	{

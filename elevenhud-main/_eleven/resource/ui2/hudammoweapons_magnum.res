@@ -9,9 +9,6 @@
 
 #base "../ui2/teamcolor/ammo.res"
 
-//fallback
-#base "../../resolution/_DISABLED/1366x768/ammo.res"
-
 //props to anyone who understands this mess
 
 "Resource/UI/HudAmmoWeapons.res"

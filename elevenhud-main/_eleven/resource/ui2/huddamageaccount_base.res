@@ -1,4 +1,4 @@
-#base "../#beta/spacer.res"
+#base "../spacer.res"
 #base "..\..\overrides\floatingdamagenumbers\file.res"
 #base "..\ui2\floatingdamagefont.res"
 
