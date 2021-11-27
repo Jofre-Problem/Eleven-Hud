@@ -8,7 +8,7 @@ Scheme
 		Border.Dark						"Blank"
 		Border.Selection				"Blank"
 		FrameTitleBar.BgColor			"Blank"
-FrameTitleBar.Font			"UiBold"
+		FrameTitleBar.Font				"UiBold"
 //FrameSystemButton.Icon			"replay/thumbnails/misc/paint_gif"
 }
 	Fonts
@@ -50,7 +50,7 @@ FrameTitleBar.Font			"UiBold"
 			"1"
 			{
 				"name"		"Blank"
-				"tall"		"0"
+				"tall"		"1"
 				"yres"		"0 2000"
 			}
 		}		
@@ -195,7 +195,7 @@ FrameTitleBar.Font			"UiBold"
 	}	
 	CustomFontFiles
 	{
-		"101"
+		"104"
 		{
 			"font" "_eleven/font/Blank.otf"
 			"name" "Blank"

@@ -3,6 +3,9 @@
 // code from flarepunch hud
 Scheme
 {
+	BaseSettings	{
+		"FrameTitleBar.Font"		"UiBold"	}
+
    		Borders
 		{ 
 		Rice3
@@ -250,17 +253,17 @@ Scheme
 	}	
 	CustomFontFiles
 	{
-  		"97"
+  		"57"
 		{
 			"font" "_eleven/font/JofreIconsMaster.otf"
 			"name" "JofreIconsRe"
 		}	      
-		"98"
+		"58"
 		{
 			"font" "_eleven/font/CallingCode-Regular.otf"
 			"name" "Calling Code"
 		}      
-		"101"
+		"61"
 		{
 			"font" "_eleven/font/ProductJofre.otf"
 			"name" "Product Jofre"
