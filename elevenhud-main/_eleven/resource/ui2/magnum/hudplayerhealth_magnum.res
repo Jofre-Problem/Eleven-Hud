@@ -13,23 +13,56 @@
 #base "../../overrides/outlinedhealthnumber/file.res"
 #base "healthshadow.res"
 
-
-"Resource/UI/HudPlayerHealth.res"{	
-
+//props to anyone who understands this mess
+// I somewhat did!
+// warning
+// if you try to add a new element for the 1st time
+// it will crash
+"Resource/UI/HudPlayerHealth.res"
+{	
+	// player health data
 	"HudPlayerHealth"
 	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudPlayerHealth"
 		"xpos"			"c-230"		"ypos"			"325"	
 //		"wide"			"124"		"tall"			"80" //36
 		"xpos"	"0" "ypos" "0"
 		"wide" "f0" "tall" "f0"
+		"visible"		"1"
+		//"enabled"		"1"	
 //		"HealthBonusPosAdj"	"73"//51
 		"HealthDeathWarning"	"1.0"
 		"HealthDeathWarningColor"	"255 255 255 255"
-
-		"HealthBonusPosAdj"	"70"//+74"
 	}	
-
-	"HPAnchor"	// For spacer.res
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"scaleImage"	"0"	
+	}
+	"PlayerStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImageBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_bg"
+		"scaleImage"	"0"	
+	}	
+	"HPAnchor"
 	{	
 		"xpos"					"0"		
 		"ypos"					"40"
@@ -37,22 +70,12 @@
 		"tall"					"1"
 		"ControlName"			"EditablePanel"
 		"fieldName"				"HPAnchor"
+
+		"visible"		"1"
+		"bgcolor_override"	"0 0 0 200"
+		"zpos"			"-10"		
 	}	
-	"PlayerStatusHealthBonusImage"	//ypos based on anchor ypos, cant pin
-	{
-		"xpos"			"49"
-		"ypos"			"49"	//-49 def value
-		"zpos"			"3"
-		"wide"			"34"
-		"tall"			"1"
-		"image"			"replay/thumbnails/hp/cover"
-
-		"pin_to_sibling"	"HPAnchor"	
-	}
-
-	// stuff that I can understamd
-
-	"TeamColoredHealthTextBG"	//self explain...
+	"TeamColoredHealthTextBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamColoredHealthTextBG"
@@ -69,180 +92,19 @@
 
 		"pin_to_sibling"	"HPAnchor"
 	}
-	"TeamBGHPDown"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"TeamBGHPDown"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"200"
-		"wide"			"140"
-		"tall"			"90"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image" 		"replay/thumbnails/hp/REFRACTnormal"
-		"scaleimage"	"1"
-		"pin_to_sibling"	"TeamColoredHealthTextBG"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}		
-	"TeamBGHPUp"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"TeamBGHPUp"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"200"
-		"wide"			"140"
-		"tall"			"90"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image" 		"replay/thumbnails/hp/REFRACTnormal"
-		"scaleimage"	"1"
-		"pin_to_sibling"	"TeamColoredHealthTextBG"
-		pin_corner_to_sibling		PIN_BOTTOMLEFT
-		pin_to_sibling_corner		PIN_TOPLEFT
-	}	
-
-	"HealthDivider"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"HealthDivider"
-		"xpos"			"-34"
-		"ypos"			"0"
-		"zpos"			"202"
-		"wide"			"5"
-		"tall"			"36"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image" 		"replay/thumbnails/hp/REFRACTnormal"
-		"scaleimage"	"1"
-		"pin_to_sibling"	"HPAnchor"
-	}
-
 	"BarShadow"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BarShadow"
 		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"125"
-		"zpos"			"201"
+		"ypos"			"34"
+		"wide"			"128"
 		"tall"			"2"
 		"visible"		"1"
 		//"enabled"		"1"
 		"fillcolor"		"0 0 0 100"
-		"pin_to_sibling"	"TeamColoredHealthTextBG"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-	}
-
-	"PlayerStatusHealthValue"
-	{
-		"xpos"			"c-467+2460"//"-2421+c-230"//"c-230-2421"
-		//HELP
-		"ypos"			"4"
-		"zpos"			"6"
-		"wide"			"5000"
-		"tall"			"40"
-		"labelText"		"#healthpadded"
-		"textAlignment"	"center"	
-		"font"			"HealthAndAmmo"
-		"fgcolor"		"35 35 35 255"
 		"pin_to_sibling"	"HPAnchor"
 	}
-	"PlayerStatusHealthValueS"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueS"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"7"
-		"wide"			"5000"
-		"tall"			"40"
-		"visible"		"1"
-		//"enabled"		"1"
-		"labelText"		"#healthpadded"
-		"textAlignment"	"center"	
-		"font"			"HealthAndAmmoShadow1"
-		"fgcolor"		"0 0 0 185"
-		"pin_to_sibling"	"PlayerStatusHealthValue"
-	}	
-	//healthshadow was here u kno
-	"HPCoverFix"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"HPCoverFix"
-		"xpos"			"-125"
-		"ypos"			"0"
-		"zpos"			"200"
-		"wide"			"20"
-		"tall"			"36"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image" 		"replay/thumbnails/hp/REFRACTnormal"
-		"scaleimage"	"1"
-		"pin_to_sibling"	"HPAnchor"
-	}	
-	"Healthcrossicon"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"healthcrossicon"
-		"xpos"			"-2"
-		"ypos"			"-2"
-		"zpos"			"300"
-		"wide"			"30"
-		"tall"			"30"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image"			"replay/thumbnails/hp/healthcrossicon"
-		"scaleimage"	"1"
-		"pin_to_sibling"	"HPAnchor"
-		
-	}
-	"Healthcrossicon2"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"healthcrossicon2"
-		"xpos"			"2"
-		"ypos"			"2"	"zpos"			"300"
-		"zpos"			"5"
-		"wide"			"30"
-		"tall"			"30"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image"			"replay/thumbnails/hp/healthcrossicon"
-		"scaleimage"	"1"
-		"alpha"			"1"
-		"pin_to_sibling"	"Healthcrossicon"
-	}
-	"HealthcrossiconOverheal"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"healthcrossiconOverheal"
-		"xpos"			"2"
-		"ypos"			"2"
-		"zpos"			"400"
-		"wide"			"30"
-		"tall"			"30"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image"			"replay/thumbnails/hp/healthcrossicon"
-		"scaleimage"	"1"
-		"alpha"			"0"
-		"pin_to_sibling"	"Healthcrossicon"
-	}
-
-
-
-
-
-
-
-
-
-
-
 	"OverhealHealthTextBG3"
 	{
 		"ControlName"		"ImagePanel"
@@ -276,7 +138,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamColoredHealthTextBG2"
-		"xpos"			"-35"
+		"xpos"			"35"
 		"ypos"			"0"
 		"zpos"			"4"
 		"wide"			"100"
@@ -304,9 +166,98 @@
 		"fillcolor"		"110 255 25 255"
 		"alpha" "0"
 	}
-
-
-
+	"Healthcrossicon"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"healthcrossicon"
+		"xpos"			"2"
+		"ypos"			"2"
+		"zpos"			"2"
+		"wide"			"30"
+		"tall"			"30"
+		"visible"		"1"
+		//"enabled"		"1"
+		"image"			"replay/thumbnails/hp/healthcrossicon"
+		"scaleimage"	"1"
+	}
+	"Healthcrossicon2"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"healthcrossicon2"
+		"xpos"			"2"
+		"ypos"			"2"
+		"zpos"			"5"
+		"wide"			"30"
+		"tall"			"30"
+		"visible"		"1"
+		//"enabled"		"1"
+		"image"			"replay/thumbnails/hp/healthcrossicon"
+		"scaleimage"	"1"
+		"alpha"			"1"
+	}
+	"HealthcrossiconOverheal"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"healthcrossiconOverheal"
+		"xpos"			"2"
+		"ypos"			"2"
+		"zpos"			"100"
+		"wide"			"30"
+		"tall"			"30"
+		"visible"		"1"
+		//"enabled"		"1"
+		"image"			"replay/thumbnails/hp/healthcrossicon"
+		"scaleimage"	"1"
+		"alpha"			"0"
+	}
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"PlayerStatusHealthBonusImage"
+		"xpos"			"0"
+		"ypos"			"-49"
+		"zpos"			"3"
+		"wide"			"100"
+		"tall"			"50"
+		"visible"		"0"
+		//"enabled"		"1"
+		"image"			"replay/thumbnails/hp/cover"
+		"scaleImage"	"1"	
+	}
+	"PlayerStatusHealthValue"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValue"
+		"xpos"			"c-467+2460"//"-2421+c-230"//"c-230-2421"
+		//HELP
+		"ypos"			"0"
+		"zpos"			"6"
+		"wide"			"5000"
+		"tall"			"40"
+		"visible"		"1"
+		//"enabled"		"1"
+		"labelText"		"#healthpadded"
+		"textAlignment"	"center"	
+		"font"			"HealthAndAmmo"
+		"fgcolor"		"35 35 35 255"
+		"pin_to_sibling"	"HPAnchor"
+	}
+	//healthshadow was here u kno
+	"HPCoverFix"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"HPCoverFix"
+		"xpos"			"-125"
+		"ypos"			"0"
+		"zpos"			"200"
+		"wide"			"20"
+		"tall"			"36"
+		"visible"		"1"
+		//"enabled"		"1"
+		"image" 		"replay/thumbnails/hp/REFRACTnormal"
+		"scaleimage"	"1"
+		"pin_to_sibling"	"HPAnchor"
+	}	
 	
 	"PlayerStatusHealthValueLudicriousOverhealBG"
 	{
@@ -526,7 +477,21 @@
 		"image" 		"replay/thumbnails/hp/overlay_shadow"
 		"scaleimage"	"1"
 	}
-
+	"HealthDivider"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"HealthDivider"
+		"xpos"			"-34"
+		"ypos"			"0"
+		"zpos"			"200"
+		"wide"			"5"
+		"tall"			"36"
+		"visible"		"1"
+		//"enabled"		"1"
+		"image" 		"replay/thumbnails/hp/REFRACTnormal"
+		"scaleimage"	"1"
+		"pin_to_sibling"	"HPAnchor"
+	}
 	"HealthDivider2"
 	{
 		"ControlName"		"ImagePanel"
@@ -1139,38 +1104,4 @@
 		"pin_corner_to_sibling" "1"
 		"pin_to_sibling_corner" "1"
 	}
-
-
-
-
-
-
-
-	"PlayerStatusHealthImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"0"	
-	}
-	"PlayerStatusHealthImageBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/health_bg"
-		"scaleImage"	"0"	
-	}	
 }

@@ -1,101 +1,32 @@
-#base "hudinspectpanel.res"
-#base "../../ui2/gradient1.res"
 "Resource/UI/Spectator.res"
 {
-	"Spectator"
-	{
-		"ControlName"		"Frame"
-		"fieldName"		"Spectator"
-		"tall"			"480"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		//"enabled"		"1"
-		"tabPosition"		"0"
-	}
-	"specgui"
-	{
-	}
 "topbar"
 {
-"ControlName""Panel"
-"fieldName""TopBar"
-"xpos""0"
 "ypos""r0"
-"ypos_minmode"	"r0"
-"tall""0"
-"wide""f0"
-"visible""0"
-"enabled""0"
 }
 "BottomBar"
 {
-"ControlName""Frame"
-"fieldName""BottomBar"
-"xpos""0"
 "ypos""r0"
-"ypos_minmode"	"r0"
-"tall""0"
-"visible""0"
-"enabled""0"
 }
 	"bottombarblank"
 	{
-		"ypos"			"r0"	[$WIN32]
-		"ypos"			"r0"	[$X360]		
-		"ypos_minmode"	"r0"
-		"tall"			"0"	[$WIN32]		// this needs to match the size of BottomBar
-		"tall_minmode"	"0"		
-		"tall"			"0"	[$X360]
+		"ypos"			"r0"
+		"tall"			"0"
 	}
 	"ReinforcementsLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"rs1"
-		"ypos"			"0"
+		"xpos"			"cs-0.5"
+		"ypos"			"40"
 		"zpos"		"10"
-		"wide"			"p0.1"
-		"tall"			"8"
+		"wide"			"f0"
+		"tall"			"25"
 		"textAlignment"		"center"
-		"font"			"Code7"
-		"fgcolor_override"		"186 104 200 255"
-		"bgcolor_override"		"38 48 53 0"
+		"font"			"ViewerNumber"
 	}
-		"12slah"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"12slah"
-			"font"			"NewIcons18"
-			"labelText"		"?"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0+p0.0005"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"18"
-			"wide"			"10"
-			"tall"			"10"
-			
-			"fgcolor"		"38 48 53 255"
-"pin_to_sibling"	"ReinforcementsLabel"
-					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
-		}	
 
-			"bgg"						{			ControlName				ImagePanel			FieldName				
-			"bgg"
-		"xpos"			"rs1"
-		"ypos"			"0"
-		"wide"			"p0.1"
-		"tall"			"8"
-			fillColor				"38 48 53 255"					
-	}
-	"Gradient"		
-	{
-		"xpos"			"rs1"
-		"ypos"			"8"
-		"wide"			"p0.1"
-	//	"tall"			"8"			
-	}
+
 
 	"BuyBackLabel"
 	{
@@ -105,11 +36,6 @@
 		"ypos"			"0"
 		"wide"			"400"
 		"tall"			"f0"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		//"enabled"		"1"
-		"labelText"		""
 		"textAlignment"		"center"
 		"font"			"HudFontSmall"
 		"wrap"			"1"
@@ -121,34 +47,9 @@
 	}
 	"ClassOrTeamLabel"
 	{
-		"xpos"			"rs1"
-		"ypos"			"rs1"
-		"zpos"		"10"
-		"wide"			"p0.1"
-		"tall"			"8"
-		"textAlignment"		"center"
-		"font"			"Code7"
-		"fgcolor_override"		"186 104 200 255"
-		"bgcolor_override"		"38 48 53 255"
+		"tall"			"0"
 	}
-		"12slah2"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"12slah2"
-			"font"			"NewIcons18"
-			"labelText"		"ñ"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0+p0.0005"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"18"
-			"wide"			"10"
-			"tall"			"10"
-			
-			"fgcolor"		"38 48 53 255"
-"pin_to_sibling"	"ClassOrTeamLabel"
-					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
-		}		
+
 "SwitchCamModeKeyLabel"
 {
 "wide"			"0"
@@ -176,6 +77,5 @@
 	"TipLabel"
 	{
 		"visible"		"0"
-		"visible_minmode"		"0"
 	}
 }

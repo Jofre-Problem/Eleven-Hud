@@ -33,7 +33,7 @@
 	{
 		"xpos"			"-335"//-285
 		"ypos"			"2"//0
-		"wide"			"1001"//1000
+		"wide"			"140"//1000
 	}
 	"PlayerStatusHealthValueLow2"
 	{

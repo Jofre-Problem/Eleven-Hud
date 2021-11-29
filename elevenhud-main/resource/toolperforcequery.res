@@ -1,8 +1,1 @@
-"lang" 
-{ 
-	"Language" "English" 
-	
-	"Tokens" 
-	{ 
-}
-}
+#base	"../_jofrehud/_tf2exp/null.res"

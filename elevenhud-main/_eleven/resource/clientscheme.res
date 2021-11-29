@@ -277,38 +277,38 @@ Scheme
 		"Default"
 		{
 			"1"
-			{	"name"		"Open Sans"
+			{	"name"		"Open Sans Bold"
 				"tall"		"10"
 				"antialias"	"1"
 				"weight"	"300"
 			}
 			"2"
-			{"name"		"Open Sans"
+			{"name"		"Open Sans Bold"
 				"tall"		"11"	"antialias"	"1"
 				"weight"	"300"
 			}
 			"3"
-			{"name"		"Open Sans"
+			{"name"		"Open Sans Bold"
 				"tall"		"12" "antialias"	"1"
 				"weight"	"300"
 			}
 			"4"
-			{"name"		"Open Sans"
+			{"name"		"Open Sans Bold"
 				"tall"		"18" "antialias"	"1"
 				"weight"	"300"
 			}
 			"5"
-			{"name"		"Open Sans"
+			{"name"		"Open Sans Bold"
 				"tall"		"22" "antialias"	"1"
 				"weight"	"300"
 			}
 			"6"
-			{"name"		"Open Sans"
+			{"name"		"Open Sans Bold"
 				"tall"		"10" "antialias"	"1"
 				"weight"	"300"
 			}
 			"7"
-			{"name"		"Open Sans"
+			{"name"		"Open Sans Bold"
 				"tall"		"10" "antialias"	"1"
 				"weight"	"300"
 			}
@@ -428,8 +428,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Trebuchet MS" [!$OSX]
-				"name"		"Helvetica" [$OSX]
+				"name"		"Open Sans Bold"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"

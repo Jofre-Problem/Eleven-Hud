@@ -1,4 +1,5 @@
 #base "../resource/ui_overrides/-transparent.res"
+#base "../spacer.res"
 "Resource\HudLayout.res"
 {
 	HudControlPointIcons
@@ -62,13 +63,13 @@
 		"tall"	 "p0.6"
 
 		"MaxDeathNotices" "8" // 1 KF
-		"IconScale"		"0.1"
-		"LineHeight"	"12" // 3 KF
+		"IconScale"		"0.07"
+		"LineHeight"	"14" // 3 KF
 		"LineSpacing"	"0" // 4 KF
 		"CornerRadius"	"0" // 2 KF
 	//	"RightJustify"	"0"	// If 1, draw notices from the right
 		
-		"TextFont"		"Noto10"
+		"TextFont"		"NotoBold14"
 		
 		"TeamBlue"		"13 117 190 255"
 		"TeamRed"		"190 45 57 255"
@@ -231,7 +232,7 @@
 		"xpos"		"c-126"
 		"ypos"		"275"
 		"wide"	 	"252"
-		"tall"	 	"50"
+		"tall"	 	"58"
 		"priority"	"40"
 		"priority_lodef"	"5"
 	}
