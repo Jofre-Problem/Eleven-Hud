@@ -1,5 +1,5 @@
 #base "../resource/ui_overrides/-transparent.res"
-#base "../spacer.res"
+//#base "../spacer.res"
 "Resource\HudLayout.res"
 {
 	HudControlPointIcons
