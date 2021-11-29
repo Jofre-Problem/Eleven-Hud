@@ -30,7 +30,7 @@
 		"stats_width"		"30"
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
-		"bgcolor_override"	"0 0 0 180"
+		"bgcolor_override"	"0 0 0 200"
 	}	
 	"BlueScoreBG"
 	{
@@ -316,9 +316,9 @@
 		//"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"15"
+		"linespacing"	"18"
 		"textcolor"		"red"
-		"linegap"		"0"
+		"linegap"		"1"
 		//"show_columns"	"1"
  		if_mvm
  		{
@@ -340,9 +340,9 @@
 		//"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"15"
+		"linespacing"	"18"
 		"paintbackground"	"1"
-		"linegap"		"0"	
+		"linegap"		"1"	
 		//"show_columns"	"1"
 
 		if_mvm

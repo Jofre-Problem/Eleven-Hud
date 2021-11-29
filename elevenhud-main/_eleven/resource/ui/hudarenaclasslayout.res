@@ -2,27 +2,9 @@
 {
 	"background"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"background"
-		"xpos"			"c-100"
-		"ypos"			"130"
-		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"100"
-		//"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		//"enabled"		"1"
-		"image"			"../hud/color_panel_blu"
-		"scaleImage"	"1"	
-		"teambg_2"		"replay/thumbnails/hp/REFRACTblurRed"
-		"teambg_3"		"replay/thumbnails/hp/REFRACTblurBlu"
-			
-		"src_corner_height"		"23"			// pixels inside the image
-		"src_corner_width"		"23"
-				
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+
+		"wide"			"0"
+
 	}
 	
 	"localPlayerBG"
@@ -49,7 +31,21 @@
 		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"5"	
 	}
-	
+	"Background3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Background3"
+		"xpos"		0
+		"ypos"		"rs1-60"
+		"zpos"		"0"
+		"wide"		"f0"
+		"tall"		"40"
+		"tabPosition"		"0"
+		"paintbackgroundType"	"0"
+		"bgcolor_override"	"TanDarker"
+		"proportionalToParent"	"1"
+	//	"border"		"OutlinedGreyBox"		
+	}			
 	"title"
 	{
 		"ControlName"	"CExLabel"

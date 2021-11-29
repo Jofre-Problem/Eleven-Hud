@@ -172,7 +172,6 @@
 			"fieldName"		"MOTD_NextButton"
 			"xpos"			"r0"
 		}
-	
 
 
 	} // Background

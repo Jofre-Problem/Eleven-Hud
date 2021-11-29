@@ -202,7 +202,7 @@ Scheme
 		}		
 		"102"
 		{
-			"font" "_eleven/font/optimized/ProductSans-Regular.ttf"
+			"font" "_eleven/font/Product Sans.ttf"
 			"name" "Product Sans"
 		}		
 		"103"

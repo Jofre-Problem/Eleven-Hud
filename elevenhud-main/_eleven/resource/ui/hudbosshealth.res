@@ -26,7 +26,7 @@
 		"ypos"			"15"
 		"zpos"			"0"
 		"wide"			"170"
-		"tall"			"20"
+		"tall"			"12"
 		"visible"		"1"
 		//"enabled"		"1"
 		"scaleImage"	"1"
@@ -41,7 +41,7 @@
 		"ypos"			"16"
 		"zpos"			"4"
 		"wide"			"168"
-		"tall"			"18"
+		"tall"			"10"
 		"visible"			"1"
 		"enabled"			"1"
 		

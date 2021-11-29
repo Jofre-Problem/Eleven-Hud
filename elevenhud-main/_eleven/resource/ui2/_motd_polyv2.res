@@ -23,7 +23,7 @@
 			"textAlignment"	"center"
 			"textinsety"	"7"
 			"zpos""10"
-			"tall"			"18"
+			"tall"			"16"
 			"fgcolor"		"W_ColorIcons1"
 			"bgcolor_override" "108 138 208 255"
 		}		
@@ -32,7 +32,7 @@
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"wide"			"f0"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"7 29 67 255"
 	}			
 
@@ -41,7 +41,7 @@
 		"xpos"			"60"
 		"ypos"			"rs1"
 		"wide"			"p0.085"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"224 175 104 255"
 	}			
 		"polybar1slash"		{			"ControlName"		"CExLabel"			"fieldName"		"polybar1slash"
@@ -52,7 +52,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"16"
 			
 			"fgcolor"		"224 175 104 255"
 "pin_to_sibling"	"polybar1bg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
@@ -66,7 +66,7 @@
 		yPos					rs1
 		zPos					1050
 			"wide"			"17"
-			"tall"			"18"
+			"tall"			"16"
 			"labelText"		"}"
 			"textAlignment"		"center"
 		font					"NewIcons12"
@@ -90,7 +90,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 			"font"			"NewIcons12"
 			"labelText"		"Í"
 		textAlignment			center
@@ -117,7 +117,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"19"
-		"tall"			"18"
+		"tall"			"16"
 		labelText				"["
 		font					"NewIcons12"
 		textAlignment			center
@@ -143,7 +143,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 		labelText				"_"
 		font					"NewIcons12"
 		textAlignment			center
@@ -196,7 +196,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"16"
-		"tall"			"18"
+		"tall"			"16"
 		labelText				")"
 		font					"NewIcons11"
 		textAlignment			center
@@ -221,7 +221,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"16"
-		"tall"			"18"
+		"tall"			"16"
 		labelText				"`"
 		font					"NewIcons11"
 		textAlignment			center
@@ -246,7 +246,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"16"
-		"tall"			"18"
+		"tall"			"16"
 		labelText				"$"
 		font					"NewIcons11"
 		textAlignment			center
@@ -271,7 +271,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"16"
-		"tall"			"18"
+		"tall"			"16"
 		labelText				"^"
 		font					"NewIcons11"
 		textAlignment			center
@@ -296,7 +296,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"p0.122"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"68 157 171 255"
 	"pin_to_sibling"	"polybar1bg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 						
@@ -309,7 +309,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"16"
 			
 			"fgcolor"		"68 157 171 255"
 "pin_to_sibling"	"polybar2bg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
@@ -322,7 +322,7 @@
 		yPos					0
 		zPos					1050
 			"wide"			"17"
-			"tall"			"18"
+			"tall"			"16"
 			"labelText"		"û"
 			"textAlignment"		"center"
 		font					"NewIcons12"
@@ -346,7 +346,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 			"font"			"NewIcons12"
 			"labelText"		"q"
 		textAlignment			center
@@ -372,7 +372,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 			"font"			"NewIcons12"
 			"labelText"		"Ò"
 		textAlignment			center
@@ -398,7 +398,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 			"font"			"NewIcons12"
 			"labelText"		"Ú"
 		textAlignment			center
@@ -424,7 +424,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 			"font"			"NewIcons12"
 			"labelText"		"ô"
 		textAlignment			center
@@ -451,7 +451,7 @@
 		yPos					0
 		zPos					1050
 		"wide"			"17"
-		"tall"			"18"
+		"tall"			"16"
 			"font"			"NewIcons12"
 			"labelText"		"þ"
 		textAlignment			center
@@ -476,7 +476,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"p0.102"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"122 162 247 255"
 	"pin_to_sibling"	"polybar2bg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 						
@@ -490,7 +490,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"16"
 			
 			"fgcolor"		"122 162 247 255"
 "pin_to_sibling"	"polybar3bg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"

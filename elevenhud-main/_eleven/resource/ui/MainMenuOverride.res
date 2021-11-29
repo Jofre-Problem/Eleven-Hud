@@ -685,7 +685,7 @@
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					16-p0.001//p0.042
+		tall					14-p0.001//p0.042
 			"labelText"		"3"
 			"font"			"Segoe9"
 			"textAlignment"	"center"
@@ -709,7 +709,7 @@
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					16//p0.042
+		tall					14//p0.042
 			"labelText"		"2"
 			"font"			"Segoe9"
 			"textAlignment"	"center"
@@ -732,7 +732,7 @@
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					19//p0.043
+		tall					17//p0.043
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -785,7 +785,7 @@
 		"ypos"			"rs1"
 		"zpos"				2900
 		"wide"			"p0.05"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"122 162 247 255"		
 	}	
 
@@ -801,7 +801,7 @@
 			"ypos"			"0"
 			"zpos"			"2901"
 			"wide"			"20"
-			"tall"			"18"
+			"tall"			"16"
 			
 			"fgcolor"		"122 162 247 255"
 "pin_to_sibling"	"polybar1bg_V2"
@@ -819,9 +819,9 @@
 			"ypos"			"0"
 			"zpos"			"2900"
 			"wide"			"19"
-			"tall"			"18"
+			"tall"			"16"
 			
-			"fgcolor"		"173 142 230 255"
+			"fgcolor"		"139 194 196 255"
 "pin_to_sibling"	"polybar1slash_V2"
 		}
 	"RankPanel"

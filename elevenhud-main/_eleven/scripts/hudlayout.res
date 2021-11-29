@@ -2,6 +2,7 @@
 //#base "../spacer.res"
 "Resource\HudLayout.res"
 {
+
 	HudControlPointIcons
 	{
 		"fieldName"				"HudControlPointIcons"
@@ -69,14 +70,15 @@
 		"CornerRadius"	"0" // 2 KF
 	//	"RightJustify"	"0"	// If 1, draw notices from the right
 		
-		"TextFont"		"NotoBold14"
+		"TextFont"		"Default"
 		
 		"TeamBlue"		"13 117 190 255"
 		"TeamRed"		"190 45 57 255"
-		"LocalPlayerColor"	"HUDBlack"
+		"IconColor"     		"255 255 255 255"
+	//	"LocalPlayerColor"  	"12 12 12 255"
 
-		"BaseBackgroundColor"	"22 22 22 255"
-		"LocalBackgroundColor"	"255 255 255 214"//"G_Killfeed_Local"	
+		"BaseBackgroundColor"	"0 0 0 215"
+		"LocalBackgroundColor"	"245 245 245 200"
 	}
 //	"Spacer"
 //	{
@@ -178,12 +180,10 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
-		"xpos_minbad"			"61"
-		"ypos"					"r152"
-		"ypos_minbad"			"r134"
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"rs1"
+		"ypos"					"rs1"
+		"wide"					"20"
+		"tall"  				"15"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"

@@ -277,42 +277,14 @@ Scheme
 		"Default"
 		{
 			"1"
-			{	"name"		"Open Sans Bold"
-				"tall"		"10"
+			{
+				"name"		"product sans"
+				"tall"		"8"
+				"weight"	"0"
 				"antialias"	"1"
-				"weight"	"300"
 			}
-			"2"
-			{"name"		"Open Sans Bold"
-				"tall"		"11"	"antialias"	"1"
-				"weight"	"300"
-			}
-			"3"
-			{"name"		"Open Sans Bold"
-				"tall"		"12" "antialias"	"1"
-				"weight"	"300"
-			}
-			"4"
-			{"name"		"Open Sans Bold"
-				"tall"		"18" "antialias"	"1"
-				"weight"	"300"
-			}
-			"5"
-			{"name"		"Open Sans Bold"
-				"tall"		"22" "antialias"	"1"
-				"weight"	"300"
-			}
-			"6"
-			{"name"		"Open Sans Bold"
-				"tall"		"10" "antialias"	"1"
-				"weight"	"300"
-			}
-			"7"
-			{"name"		"Open Sans Bold"
-				"tall"		"10" "antialias"	"1"
-				"weight"	"300"
-			}
-		}	
+			
+		}
 		"Regular7"
 		{
 			"1"
@@ -428,9 +400,9 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Open Sans Bold"
-				"tall"		"18"
-				"weight"	"900"
+				"name"		"product sans" 
+				"tall"		"13"
+				"weight"	"250"
 				"antialias" "1"
 				"additive"	"1"
 			}
@@ -1027,7 +999,7 @@ Scheme
 	{
 		"91"
 		{
-			"font" "_eleven/font/optimized/ProductSans-Regular.ttf"
+			"font" "_eleven/font/Product Sans.ttf"
 			"name" "Product Sans"
 		}
 	

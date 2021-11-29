@@ -6,7 +6,7 @@
 		"ypos"			"0"
 		"zpos"				3000
 		"wide"			"p0.01"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"29 35 48 255"		
 	}	
 
@@ -22,7 +22,7 @@
 			"ypos"			"0"
 			"zpos"			"1001"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"16"
 			
 			"fgcolor"		"29 35 48 255"
 "pin_to_sibling"	"polybar1bg"
@@ -35,7 +35,7 @@
 		"ypos"			"0"	
 		"zpos"			"1001"
 		"wide"			"p0.132"
-		"tall"			"18"
+		"tall"			"16"
 			fillColor				"255 108 107 255"		
 	"pin_to_sibling"	"polybar1bg"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -53,7 +53,7 @@
 			"xpos" 			"0"					//"c-60"//			"180"
 			"ypos"			"0"	"zpos"			"1001"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"16"
 			
 			"fgcolor"		"255 108 107 255"
 "pin_to_sibling"	"polybarbg2"

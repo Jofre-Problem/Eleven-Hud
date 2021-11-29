@@ -17,5 +17,5 @@ sv_unlockedchapters 99
 
 exec "hud_cfg/all_4plug_cfgs_garm3n.cfg"
 
-wait 80 ;opentf2options
+//wait 80 ;opentf2options
 exec _MagnumHUD/main

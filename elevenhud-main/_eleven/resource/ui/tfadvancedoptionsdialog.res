@@ -122,7 +122,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Lista"
 		"xpos"		"0"
-		"ypos"		"25"
+		"ypos"		"18"
 		"zpos"		"200"
 		"wide"		"f0-15"
 		"tall"		"50"
@@ -193,7 +193,7 @@
 	"PanelListPanel"
 	{
 		"xpos"		"cs-0.5"
-		"ypos"		"80"
+		"ypos"		"70"
 		"zpos"		"20"
 		"wide"		"480"
 		"tall"		"370"
