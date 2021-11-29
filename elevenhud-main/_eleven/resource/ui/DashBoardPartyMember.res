@@ -29,7 +29,7 @@
 		mouseinputenabled			0
 		
 		labelText				"ë"
-		font					"NewIcons18"
+		font					"NewIcons20"
 		textAlignment			center
 
 		fgcolor_override			"W_ColorIcons1"

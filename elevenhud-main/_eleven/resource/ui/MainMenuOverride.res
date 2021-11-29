@@ -258,10 +258,50 @@
 	}	
 	"WorkshopButton"
 	{
-		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
-	}		
+		"ControlName"	"CExImageButton"
+		"fieldName"		"WorkshopButton"
+		"xpos"			"c-63+273"
+		"ypos"			"437"
+		"zpos"			"400"
+		"wide"			"30"
+		"tall"			"25"
+		
+		//"pinCorner"			"3"
+		//"visible"		"1"
+		
+		
+		"labeltext"		""
+		"font"			"HudFontSmall"
+		"textAlignment"	"center"
+		////"dulltext"		"0"
+		//"brighttext"	"0"
+		//"Default"		"1"
+		"Command"		"engine OpenSteamWorkshopDialog"
+
+		//"navUp"			"VRModeButton"
+		//"navLeft"		"AchievementsButton"
+		//"navRight"		"CoachPlayersButton"
+
+		//"sound_depressed"	"UI/buttonclick.wav"
+		//"sound_released"	"UI/buttonclickrelease.wav"
+		"border_default"	"MainMenuSubButtonBorder"
+		
+		"image_drawcolor"	"235 226 202 255"
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"9"
+			"ypos"			"6"
+			"zpos"			"1"
+			"wide"			"15"
+			"tall"			"15"
+			//"visible"		"1"
+			
+			"image"			"replay/thumbnails/tf2_logo_animated"
+			"scaleImage"	"1"
+		}				
+	}	
 		
 	"Workshop"		// open advanced options
 	{
@@ -685,7 +725,7 @@
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					14-p0.001//p0.042
+		tall					16-p0.001//p0.042
 			"labelText"		"3"
 			"font"			"Segoe9"
 			"textAlignment"	"center"
@@ -709,7 +749,7 @@
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					14//p0.042
+		tall					16//p0.042
 			"labelText"		"2"
 			"font"			"Segoe9"
 			"textAlignment"	"center"
@@ -732,7 +772,7 @@
 		"ypos"			"rs1"
 		"zpos"			"3000"
 		wide					13
-		tall					17//p0.043
+		tall					19//p0.043
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -785,7 +825,7 @@
 		"ypos"			"rs1"
 		"zpos"				2900
 		"wide"			"p0.05"
-		"tall"			"16"
+		"tall"			"18"
 			fillColor				"122 162 247 255"		
 	}	
 
@@ -801,7 +841,7 @@
 			"ypos"			"0"
 			"zpos"			"2901"
 			"wide"			"20"
-			"tall"			"16"
+			"tall"			"18"
 			
 			"fgcolor"		"122 162 247 255"
 "pin_to_sibling"	"polybar1bg_V2"
@@ -819,7 +859,7 @@
 			"ypos"			"0"
 			"zpos"			"2900"
 			"wide"			"19"
-			"tall"			"16"
+			"tall"			"18"
 			
 			"fgcolor"		"139 194 196 255"
 "pin_to_sibling"	"polybar1slash_V2"

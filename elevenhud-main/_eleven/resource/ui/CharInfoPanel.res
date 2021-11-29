@@ -13,7 +13,7 @@
 		"ypos"			"0"
 		"zpos"		"1000"
 		"wide"			"p0.136"
-		"tall"			"16"
+		"tall"			"18"
 			fillColor				"129 129 169 255"
 		
 	}	
@@ -26,7 +26,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"30"
-			"tall"			"16"
+			"tall"			"18"
 			"zpos"		"2000"
 			"fgcolor"		"129 129 169 255"
 "pin_to_sibling"	"polyleft1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
