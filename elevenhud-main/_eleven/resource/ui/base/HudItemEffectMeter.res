@@ -1,5 +1,5 @@
 #base "HudItemEffectMeter_bg.res"
-#base "../../spacer.res"
+#base "../../../spacer.res"
 "Resource/UI/HudItemEffectMeter.res"
 {
 	HudItemEffectMeter

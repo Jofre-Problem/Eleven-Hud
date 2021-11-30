@@ -89,7 +89,8 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"cs-0.5"
+		"xpos"				"c-255"
+		"ypos"				"16"
 		"ypos"				"24"
 		"zpos"				"1"
 		"wide"				"310"
@@ -110,14 +111,14 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"Noto24"
 			"fgcolor"		"236 240 241 255"
-			"xpos"			"cs-0.5"
+			"xpos"			"242"
 			"ypos"			"-6"
 			"zpos"			"3"
 			"wide"			"45"
 			"tall"			"31"
 			"visible"		"1"
-			//"enabled"		"1"
-			"textAlignment"		"center"
+			"enabled"		"1"
+			"textAlignment"		"east"
 		//	"labelText"		"0:00"
 		}
 	}
@@ -232,14 +233,14 @@
 			"visible"		"0"
 			"wide"			"25"
 			"tall"			"50"
-			"zpos"			"1"
 
-			"color_portrait_bg_red"				"119 62 61 205"
-			"color_portrait_bg_blue"			"62 81 101 205"
-			"color_portrait_bg_red_dead"		"31 16 14 237"
-			"color_portrait_bg_blue_dead"		"20 24 26 237"
-			"color_bar_health_high"				"125 200 213 225" //22 169 15 225
-			"color_bar_health_med"				"246 222 141 225" //192 179 2 225
+				"border"	"noborder"
+			"color_portrait_bg_red"	"0 0 0 165"
+			"color_portrait_bg_blue"	"0 0 0 165"
+			"color_portrait_bg_red_dead"	"0 0 0 165"
+			"color_portrait_bg_blue_dead"	"0 0 0 165"
+			"color_bar_health_high"				"215 215 215 250"
+			"color_bar_health_med"			"191 183 58 255"
 			"color_bar_health_low"				"203 89 77 245" //198 47 42 245
 			"percentage_health_med"				"0.6"
 			"percentage_health_low"				"0.3"
@@ -285,7 +286,7 @@
 				"xpos"			"0"
 				"ypos"			"2"
 				"zpos"			"2"
-				"wide"			"40"
+				"wide"			"0"
 				"tall"			"14"
 				"visible"		"1"
 				//"enabled"		"1"
@@ -311,12 +312,13 @@
 				"brighttext"	"0"
 				"bgcolor_override"		"80 80 80 0"
 				"proportionaltoparent"	"1"
+				"border"	"SteamWorkshopBorder"
 			}
 			"overhealbar"
 			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
-				"font"					"Default"																		
+				"font"					"Default"															"border"	"SteamWorkshopBorder"			
 				"xpos"					"0"
 				"ypos"					"2"
 				"zpos"					"6"

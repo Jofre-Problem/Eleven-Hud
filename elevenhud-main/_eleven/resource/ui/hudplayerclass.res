@@ -74,7 +74,7 @@
 		"xpos"			"7"			
 		"ypos"			"rs1-5"	
 		"zpos"			"-101"		
-		"wide"			"90"
+		"wide"			"0"
 	//	"tall"			"o1"
 		//"visible"		"1"
 		
@@ -89,7 +89,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"0"
-	//	"ypos"			"rs1"
+		"ypos"			"rs1"
 		"zpos"			"-100"		
 		"wide"			"100"
 		"tall"			"200"

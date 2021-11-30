@@ -258,51 +258,10 @@
 	}	
 	"WorkshopButton"
 	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"WorkshopButton"
-		"xpos"			"c-63+273"
-		"ypos"			"437"
-		"zpos"			"400"
-		"wide"			"30"
-		"tall"			"25"
-		
-		//"pinCorner"			"3"
-		//"visible"		"1"
-		
-		
-		"labeltext"		""
-		"font"			"HudFontSmall"
-		"textAlignment"	"center"
-		////"dulltext"		"0"
-		//"brighttext"	"0"
-		//"Default"		"1"
-		"Command"		"engine OpenSteamWorkshopDialog"
-
-		//"navUp"			"VRModeButton"
-		//"navLeft"		"AchievementsButton"
-		//"navRight"		"CoachPlayersButton"
-
-		//"sound_depressed"	"UI/buttonclick.wav"
-		//"sound_released"	"UI/buttonclickrelease.wav"
-		"border_default"	"MainMenuSubButtonBorder"
-		
-		"image_drawcolor"	"235 226 202 255"
-		"SubImage"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"SubImage"
-			"xpos"			"9"
-			"ypos"			"6"
-			"zpos"			"1"
-			"wide"			"15"
-			"tall"			"15"
-			//"visible"		"1"
-			
-			"image"			"replay/thumbnails/tf2_logo_animated"
-			"scaleImage"	"1"
-		}				
-	}	
-		
+		"wide"			"0"
+		"tall"			"0"
+		"alpha"			"0"
+	}			
 	"Workshop"		// open advanced options
 	{
 		ControlName				CExButton

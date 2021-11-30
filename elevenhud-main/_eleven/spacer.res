@@ -1,27 +1,16 @@
 "Resource/customization/spacer.res"
 {	
-	"Spacer"
+"Spacer"
 	{	
 		"ypos"					"c85"
-		"wide"					f0
-		"tall"					"6"
+		"wide"					"380"
+		"tall"					"60"
 		"ControlName"			"EditablePanel"
 		"fieldName"				"Spacer"
-		"xpos"					"cs-0.5"
-		"visible"		"1"
-		"bgcolor_override"	"0 0 0 200"
+		"xpos"					"cs-0.5-4"
+		"visible"		"0"
+		"bgcolor_override"	"Blank"
 		"zpos"			"-10"		
 	}
-	"AmmoRef"
-	{	
-		"ypos"					"c70"
-		"wide"				85
-		"tall"					"6"
-		"ControlName"			"EditablePanel"
-		"fieldName"				"AmmoRef"
-		"xpos"					"c100"
-		"visible"		"1"
-		"bgcolor_override"	"0 0 0 255"
-		"zpos"			"-10"		
-	}	
+}
 }
