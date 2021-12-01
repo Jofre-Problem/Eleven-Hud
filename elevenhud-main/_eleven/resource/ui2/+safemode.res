@@ -1,5 +1,7 @@
-	#base "_motd_spray.res"
-	#base "_motd_sourcemod.res"
+//	#base "_motd_spray.res"
+//	#base "_motd_sourcemod.res"
+	#base "_safemode.res"
+	#base "_safemode1.res"
 "Resource/#jofre/safe-mode.res"
 {
 	"SafeMode"
@@ -19,14 +21,15 @@
 			"ypos"										"0"
 			"zpos"										"-60"
 			"wide"										"f0"
-			"tall"										"f0"
+			"tall"										"0"
 			"labelText"									""
 			"actionsignallevel"	"2"
 			"command"			"engine cl_mainmenu_safemode 0"
 			"defaultFgColor_override"					"blank"
 			"armedFgColor_override" 					"blank"
 			"depressedFgColor_override" 				"blank"		
-		}
+		}	
+				
 		"Background"		//Only not removed cuz save settings button
 		{
 			"ControlName"	"EditablePanel"

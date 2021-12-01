@@ -32,7 +32,7 @@
 		font					"NewIcons20"
 		textAlignment			center
 
-		fgcolor_override			"W_ColorIcons1"
+		fgcolor_override			"W_ColorTheme1"
 		paintbackground			0
 	}
 

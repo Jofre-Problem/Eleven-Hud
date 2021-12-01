@@ -1,5 +1,5 @@
 //#base "../#jofre/partymembers.res"
-#base "../../_customization/resource/ui/summersale_border.res"
+#base "../ui_overrides/ui/summersale_border.res"
 #base "base/1shadedbar.res"
 #base "../ui2/gradient1.res"
 "Resource/UI/Scoreboard.res"

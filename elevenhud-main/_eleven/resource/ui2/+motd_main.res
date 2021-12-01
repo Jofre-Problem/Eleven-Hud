@@ -1,4 +1,5 @@
 	#base "_motd_polyv2.res"
+	#base "_motd_main2.res"
 //	#base "_motd_spray.res"
 //	#base "_motd_sourcemod.res"
 	#base "_motd_boxes.res"

@@ -5,7 +5,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BGPanel"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"r84+p0.0025"
 		"zpos"										"1"
 		"wide"										"f0"
 		"tall"										"f0"
@@ -13,7 +13,8 @@
 		"proportionaltoparent"						"1"
 		"painbackground"							"1"
 		"painbackgroundtype"						"0"
-		"bgcolor_override"							"64 64 64 255"
+		"bgcolor_override"							"0 0 0 232"
+		"border"			"noborder"
 	}
 	
 	"ReturnButton"

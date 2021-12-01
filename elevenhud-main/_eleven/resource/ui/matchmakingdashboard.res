@@ -87,7 +87,7 @@
 			"bgg3"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"p0.04"
+		"wide"			"p0.08"
 		"tall"			"18"
 			fillColor				"152 190 101 255"			"pin_to_sibling"	"bgg2"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
@@ -119,7 +119,7 @@
 			"bgg4"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"p0.04"
+		"wide"			"p0.08"
 		"tall"			"18"
 			fillColor				"236 189 123 255"			"pin_to_sibling"	"bgg3"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"StatusIcon"
-		"xpos""rs1-130"
+		"xpos""rs1-170"
 		"ypos""0"
 		"zpos""5001"
 		"wide""20"
@@ -200,6 +200,41 @@
 		"tall""0"
 		}
 	}
+	"StatusLabel"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"StatusLabel"
+		"xpos""0"
+		"ypos""0"
+		"zpos""5001"
+		"wide""40"
+		"tall""18"
+		"visible""1"
+		"enabled""1"
+		"font""NotoBold12"
+		"textAlignment""west"
+		"command""engine showconsole; status"
+		"proportionaltoparent""1"
+		"labeltext""Status"
+		"mouseinputenabled""1"
+		"keyboardinputenabled""0"
+		"actionsignallevel""2"
+		"RoundedCorners""0"
+
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
+
+		"defaultBgColor_override""Blank"
+
+			defaultFgColor_override		"W_ColorIcons1"
+			armedFgColor_override		"A_ColorTheme1"
+			"pin_to_sibling" "StatusIcon"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		"paintbackground""0"
+		"image_drawcolor""Tanlight"
+		"image_armedcolor""Tanlight"
+	}	
 
 
 
@@ -211,7 +246,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ReloadIcon"
-		"xpos""rs1-165"
+		"xpos""rs1-238"
 		"ypos""0"
 		"zpos""5001"
 		"wide""20"
@@ -244,6 +279,41 @@
 		"tall""0"
 		}
 	}
+	"ReloadLabel"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"ReloadLabel"
+		"xpos""0"
+		"ypos""0"
+		"zpos""5001"
+		"wide""40"
+		"tall""18"
+		"visible""1"
+		"enabled""1"
+		"font""NotoBold12"
+		"textAlignment""west"
+		"command""engine hud_reloadscheme"
+		"proportionaltoparent""1"
+		"labeltext""Reload"
+		"mouseinputenabled""1"
+		"keyboardinputenabled""0"
+		"actionsignallevel""2"
+		"RoundedCorners""0"
+
+				"sound_depressed"	"sound_menu/button.wav"
+				"sound_released"	"sound_menu/button2.wav"
+
+		"defaultBgColor_override""Blank"
+
+			defaultFgColor_override		"W_ColorIcons1"
+			armedFgColor_override		"A_ColorTheme1"
+			"pin_to_sibling" "ReloadIcon"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		"paintbackground""0"
+		"image_drawcolor""Tanlight"
+		"image_armedcolor""Tanlight"
+	}	
 
 
 
@@ -369,7 +439,7 @@
 			"xpos"					"28"
 			"ypos"					"0"
 			"wide"					"20"
-			"tall"					"18"
+			"tall"					"o1"
 		//	"pin_to_sibling" "PartySlot0"		"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		}
 		"PartySlot2"
@@ -377,7 +447,7 @@
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"20"
-			"tall"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -387,7 +457,7 @@
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"20"
-			"tall"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -397,7 +467,7 @@
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"20"
-			"tall"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -407,7 +477,7 @@
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"20"
-			"tall"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot4"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -745,7 +815,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"p0.045"
-			"tall"			"18+p0.005"
+			"tall"			"17+p0.005"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"

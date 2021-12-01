@@ -15,7 +15,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"99990"
+		"xpos"			"9999"
 		"ypos"			"0"
 		"wide"			"0"
 		"tall"			"0"
@@ -33,21 +33,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"0 0 0 0"
-		
-		"BackgroundColor"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"			"BackgroundColor"
-			"xpos"				"-5"
-			"ypos"				"cs-0.5+50"
-			"zpos"				"0"
-			"wide"				"f-10"
-			"tall"				"50"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"	"W_ColorIcons1"
-			"border"		"Rice2"
-		}
+
 	
 		"Background"
 		{
@@ -252,9 +238,9 @@
 	}
 	"StatData"
 	{
-		"ypos"				"60"
+		"ypos"				"0"
 	//	"tall"				"458"
-		"wide"				"0"
+	//	"wide"				"0"
 	
 		"AveragesBG"
 		{
