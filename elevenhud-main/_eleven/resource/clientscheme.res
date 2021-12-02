@@ -3,6 +3,7 @@
 	#base "../_customization/resource/font.res"
 	#base "../_customization/resource/scheme_4plug1.res"
 	#base "cs_windows.res"
+	#base ".polybar/themes.res"
 //dlc
 	#base "../../ui_overrides/resource/scheme/dlc/2.res"
 	#base "ui2/scheme/backpack.res"
@@ -623,7 +624,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "A_ColorTheme3"
+					"color" "PolybarTheme9"
 					"offset" "0 1"
 				}
 			}
@@ -632,7 +633,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "A_ColorTheme3"
+					"color" "PolybarTheme9"
 					"offset" "1 0"
 				}
 			}
@@ -641,7 +642,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "A_ColorTheme3"
+					"color" "PolybarTheme9"
 					"offset" "0 0"
 				}
 			}
@@ -650,7 +651,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "A_ColorTheme3"
+					"color" "PolybarTheme9"
 					"offset" "0 0"
 				}
 			}

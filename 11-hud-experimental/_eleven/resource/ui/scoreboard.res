@@ -1,7 +1,7 @@
 //#base "../#jofre/partymembers.res"
 #base "../ui_overrides/ui/summersale_border.res"
 #base "base/1shadedbar.res"
-#base "../ui2/gradient1.res"
+#base "../ui3/gradient1.res"
 "Resource/UI/Scoreboard.res"
 {	
 	"scores"

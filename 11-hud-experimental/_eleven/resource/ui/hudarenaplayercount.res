@@ -1,4 +1,4 @@
-#base "../ui2/gradient1.res"
+#base "../ui3/gradient1.res"
 "Resource/UI/HudArenaPlayerCount.res"
 {	
 

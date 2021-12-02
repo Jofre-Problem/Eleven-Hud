@@ -785,7 +785,7 @@
 		"zpos"				2900
 		"wide"			"p0.05"
 		"tall"			"18"
-			fillColor				"122 162 247 255"		
+			fillColor				"PolybarTheme7"		
 	}	
 
 
@@ -802,7 +802,7 @@
 			"wide"			"20"
 			"tall"			"18"
 			
-			"fgcolor"		"122 162 247 255"
+			"fgcolor"		"PolybarTheme7"
 "pin_to_sibling"	"polybar1bg_V2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
@@ -820,7 +820,7 @@
 			"wide"			"19"
 			"tall"			"18"
 			
-			"fgcolor"		"139 194 196 255"
+			"fgcolor"		"PolybarTheme8"
 "pin_to_sibling"	"polybar1slash_V2"
 		}
 	"RankPanel"

@@ -7,7 +7,7 @@
 #base "../../overrides/teamcolor_always_blu/ammo.res"
 #base "../../overrides/teamcolor_always_white/ammo.res"
 
-#base "../ui2/teamcolor/ammo.res"
+#base "../ui3/teamcolor/ammo.res"
 
 //props to anyone who understands this mess
 

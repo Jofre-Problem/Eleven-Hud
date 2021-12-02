@@ -205,12 +205,12 @@
 		"image"														"..\hud\cart_track"
 	}
 	
-	"cart_track_extender"
-	{
-		"ControlName"												"ImagePanel"
-		"ypos"														"r-6969"
-		"image"														"..\hud\cart_track_extender"
-	}
+//	"cart_track_extender"
+//	{
+//		"ControlName"												"ImagePanel"
+//		"ypos"														"r-6969"
+//		"image"														"..\hud\cart_track_extender"
+//	}
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Control Points - Base

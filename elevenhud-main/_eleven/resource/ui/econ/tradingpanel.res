@@ -1,4 +1,3 @@
-#base "../../base/reload_scheme.res"
 "Resource/UI/TradingPanel.res"
 {
 	"trading_panel"
@@ -8,7 +7,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
-		"tall"			"480"
+		"tall"			"f0"
 		"visible"		"1"
 		//"autoResize"	"0"
 		"pinCorner"		"0"

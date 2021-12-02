@@ -5,6 +5,7 @@
 			ControlName				ImagePanel
 			FieldName				"ImprovisedBG"
 			xPos					0
+			zpos			"-10"
 			yPos					0
 			wide					f0
 			tall					f0

@@ -8,7 +8,7 @@
 		yPos					0
 		zPos					0
 		wide					"p0.235"	//"p0.233"
-		tall					p0.954
+		tall					f0
 		"bgcolor_override"		"W_ColorTheme1"
 		"PaintBackgroundType"	"0"//"2"	
 		"border"		"B_Theme1"
@@ -21,7 +21,7 @@
 		yPos					0
 		zPos					0
 		wide					"1"	//"p0.233"
-		tall					p0.953
+		tall					f0
 		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"0"//"2"
 		pin_to_sibling			"WindowLeftBar"
@@ -36,7 +36,7 @@
 		yPos					0
 		zPos					-100
 		wide					p0.767		//p1 - p0.233 = p0.767?
-		tall					p0.953
+		tall					f0
 		fillColor				"Blank"
 		pin_to_sibling			"WindowLeftBar"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"

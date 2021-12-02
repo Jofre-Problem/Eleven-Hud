@@ -33,7 +33,7 @@
 		"ypos"			"rs1"
 		"wide"			"f0"
 		"tall"			"18"
-			fillColor				"7 29 67 255"
+			fillColor				"PolybarTheme10"//"7 29 67 255"
 	}			
 
 		"polybar1bg"						{			ControlName				ImagePanel			FieldName				

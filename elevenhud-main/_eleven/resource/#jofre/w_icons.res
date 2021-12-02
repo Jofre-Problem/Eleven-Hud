@@ -5,7 +5,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"CancelButton2"
 		"xpos"										"5"
-		"ypos"										"5"
+		"ypos"									"18+5"
 		"zpos"										"3000"
 		"wide"										"25"
 		"tall"										"o1"

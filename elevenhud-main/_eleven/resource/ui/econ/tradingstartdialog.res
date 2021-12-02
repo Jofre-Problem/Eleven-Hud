@@ -1,6 +1,6 @@
 #base "../../#jofre/w_op-panel.res"
 #base "../../#jofre/w_icons.res"
-#base "../../#jofre/charbg.res"
+#base "../../ui2/testgradient.res"
 #base "../../#jofre/home.res"
 "Resource/UI/TradingStartDialog.res"
 {
@@ -66,7 +66,6 @@
 			}
 		}
 	}
-	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -75,7 +74,7 @@
 		"labelText"		"#TF_TradeStartDialog_Title"
 		"textAlignment"								"west"
 		"xpos"										"40"
-		"ypos"										"5"
+		"ypos"										"18+5"
 		"zpos"										"2000"
 		"wide"										"p0.233"
 		"tall"										"25"
@@ -143,9 +142,9 @@
 		"paintbackgroundtype"	"0"
 		"paintborder"		"1"
 		
-		"defaultFgColor_override" "W_ColorIcons1"
-		"armedFgColor_override" "W_ColorIconsArmed1"
-		"depressedFgColor_override" "W_ColorIcons1"
+	"defaultFgColor_override" "A_ColorTheme3"
+		"armedFgColor_override" "W_ColorIcons1"
+		"depressedFgColor_override" "A_ColorTheme3"
 		
 		"defaultBgColor_override" "Blank"
 		"armedBgColor_override" "Blank"
@@ -182,10 +181,10 @@
 		"paintbackground"	"1"
 		"paintbackgroundtype"	"0"
 		"paintborder"		"1"
+	"defaultFgColor_override" "A_ColorTheme3"
+		"armedFgColor_override" "W_ColorIcons1"
+		"depressedFgColor_override" "A_ColorTheme3"
 		
-		"defaultFgColor_override" "W_ColorIcons1"
-		"armedFgColor_override" "W_ColorIconsArmed1"
-		"depressedFgColor_override" "W_ColorIcons1"
 		
 		"defaultBgColor_override" "Blank"
 		"armedBgColor_override" "Blank"
@@ -264,10 +263,10 @@
 			"paintbackground"	"1"
 			"paintbackgroundtype"	"0"
 			"paintborder"		"1"
-			
-			"defaultFgColor_override" "W_ColorTheme1"
-			"armedFgColor_override" "W_ColorIconsArmed1"
-			"depressedFgColor_override" "W_CerrarArmed"
+	"defaultFgColor_override" "A_ColorTheme3"
+		"armedFgColor_override" "W_ColorTheme1"
+		"depressedFgColor_override" "A_ColorTheme3"
+		
 			
 			"defaultBgColor_override" "Blank"
 			"armedBgColor_override" "Blank"
@@ -316,10 +315,9 @@
 			"paintbackground"	"1"
 			"paintbackgroundtype"	"0"
 			"paintborder"		"1"
-			
-			"defaultFgColor_override" "W_ColorIcons1"
-			"armedFgColor_override" "W_ColorIconsArmed1"
-			"depressedFgColor_override" "W_ColorIcons1"
+	"defaultFgColor_override" "A_ColorTheme3"
+		"armedFgColor_override" "W_ColorTheme1"
+		"depressedFgColor_override" "A_ColorTheme3"
 			
 			"defaultBgColor_override" "0 0 255 0"
 			"armedBgColor_override" "Blank"
@@ -368,10 +366,9 @@
 			"paintbackground"	"1"
 			"paintbackgroundtype"	"0"
 			"paintborder"		"1"
-			
-			"defaultFgColor_override" "W_ColorTheme1"
-			"armedFgColor_override" "W_ColorIconsArmed1"
-			"depressedFgColor_override" "W_CerrarArmed"
+	"defaultFgColor_override" "A_ColorTheme3"
+		"armedFgColor_override" "W_ColorTheme1"
+		"depressedFgColor_override" "A_ColorTheme3"
 			
 			"defaultBgColor_override" "Blank"
 			"armedBgColor_override" "Blank"

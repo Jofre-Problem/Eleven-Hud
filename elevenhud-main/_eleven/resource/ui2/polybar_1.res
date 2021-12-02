@@ -7,7 +7,7 @@
 		"zpos"				3000
 		"wide"			"p0.01"
 		"tall"			"18"
-			fillColor				"29 35 48 255"		
+			fillColor				"PolybarTheme1"		
 	}	
 
 
@@ -24,7 +24,7 @@
 			"wide"			"30"
 			"tall"			"18"
 			
-			"fgcolor"		"29 35 48 255"
+			"fgcolor"		"PolybarTheme1"
 "pin_to_sibling"	"polybar1bg"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
@@ -36,7 +36,7 @@
 		"zpos"			"1001"
 		"wide"			"p0.132"
 		"tall"			"18"
-			fillColor				"255 108 107 255"		
+			fillColor				"PolybarTheme2"		
 	"pin_to_sibling"	"polybar1bg"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
@@ -55,7 +55,7 @@
 			"wide"			"30"
 			"tall"			"18"
 			
-			"fgcolor"		"255 108 107 255"
+			"fgcolor"		"PolybarTheme2"
 "pin_to_sibling"	"polybarbg2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}	

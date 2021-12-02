@@ -144,29 +144,6 @@
 		}
 	}
 
-	"SimpleControlPointTemplate"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"SimpleControlPointTemplate"
-		"xpos"			"32"
-		"ypos"			"60"
-		"zpos"			"1"
-		"wide"			"12"
-		"tall"			"12"
-		//"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		//"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		""
-		"image"			"replay/thumbnails/obj/pointNeutral"
-		"scaleImage"	"1"
-
-		"if_multiple_trains"
-		{
-		}
-	}
-
 	"EscortItemPanel"
 	{
 		"ControlName"	"EditablePanel"

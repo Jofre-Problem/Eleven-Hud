@@ -1,6 +1,6 @@
 #base "../#hp/blurred-screen.res"
-#base "../ui2/l4d2_transition.res"
-#base "../ui2/tank.res"
+#base "../ui3/l4d2_transition.res"
+#base "../ui3/tank.res"
 "Resource/UI/MapInfoMenu.res"
 {
 	"mapinfo"

@@ -5,10 +5,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BGPanel"
 		"xpos"										"0"
-		"ypos"										"r84+p0.0025"
+		"ypos"										"r85"
 		"zpos"										"1"
 		"wide"										"f0"
-		"tall"										"f0"
+		"tall"										"86"	//f0 was just dumb
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"painbackground"							"1"

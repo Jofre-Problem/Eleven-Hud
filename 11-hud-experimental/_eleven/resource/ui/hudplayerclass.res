@@ -1,4 +1,4 @@
-//#base "../ui2/blue-light.res"
+//#base "../ui3/blue-light.res"
 "Resource/UI/HudPlayerClass.res"
 {
 	"HudPlayerClass"

@@ -1,1 +1,0 @@
-#base "../ui2/hudammoweapons_magnum.res"
