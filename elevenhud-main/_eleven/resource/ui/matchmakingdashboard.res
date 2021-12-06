@@ -42,7 +42,7 @@
 			"bgg1"
 		"xpos"			"rs1"
 		"ypos"			"0"
-		"wide"			"p0.1"
+		"wide"			"p0.09"
 		"tall"			"18"
 			fillColor				"PolybarTheme6"					
 	}	

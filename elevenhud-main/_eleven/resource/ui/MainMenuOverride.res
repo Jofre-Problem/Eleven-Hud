@@ -1,5 +1,6 @@
 	#base "../ui2/preload.res"
 	#base "../ui2/+motd_main.res"
+	#base "../ui2/_motd_toonhud.res"
 	#base "../ui2/+safemode.res"
 	#base "../ui_overrides/!4plug_run_sc.res"
 	#base "../../home/servers.res"
@@ -29,10 +30,6 @@
 	"TFLogoImage"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"replay/thumbnails/null"
 	}	
 
 //	"NotificationNoYet"

@@ -76,7 +76,7 @@
 		"IconColor"     		"255 255 255 255"
 	//	"LocalPlayerColor"  	"12 12 12 255"
 
-		"BaseBackgroundColor"	"0 0 0 215"
+		"BaseBackgroundColor"	"0 0 0 245"
 		"LocalBackgroundColor"	"245 245 245 200"
 	}
 //	"Spacer"
@@ -420,43 +420,33 @@
 	}
 	HudVoiceStatus
 	{
-		"fieldName"				"HudVoiceStatus"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"r177"
-		"ypos"					"-45"
-		"ypos_minmode"			"-55"
-		"zpos"					"100"
-		"wide"					"175"
-		"tall"					"400"
+		"fieldName" 		"HudVoiceStatus"
+		"visible" 			"1"
+		"enabled" 			"1"
+		"xpos" 				"r145"
+		"ypos" 				"30"
+		"wide" 				"145"
+		"tall" 				"400"
+		"item_wide"			"119"
+		"show_avatar"		"1"
+		"avatar_xpos"		"108"
+		"avatar_tall"		"17"
+		"show_dead_icon"	"1"
+		"dead_xpos"			"1"
+		"dead_ypos"			"0"
+		"dead_wide"			"16"
+		"dead_tall"			"16"
+		"show_voice_icon"	"1"
+		"icon_ypos"			"0"
+		"icon_xpos"			"15"
+		"icon_tall"			"16"
+		"icon_wide"			"16"
+		"text_xpos"			"33"
+		"text_xpos_minmode"	"9999"
 
-		"item_wide"				"170"
-		"item_tall"				"16"
-		
+	
 		"fade_in_time"			"0.06"
-		"fade_in_time_minmode"		"0.03"
 		"fade_out_time"			"0.5"
-		"fade_out_time_minmode"	"0.2"		
-		
-		"show_avatar"			"1"
-		"avatar_xpos"			"34"
-		"avatar_ypos"			"2"
-		"avatar_wide"			"12"
-		"avatar_tall"			"12"
-		
-		"show_dead_icon"		"1"
-		"dead_xpos"				"1"
-		"dead_ypos"				"0"
-		"dead_wide"				"16"
-		"dead_tall"				"16"
-		
-		"show_voice_icon"		"1"
-		"icon_ypos"				"0"
-		"icon_xpos"				"15"
-		"icon_tall"				"16"
-		"icon_wide"				"16"
-		
-		"text_xpos"				"58"
 	}
 	HudInspectPanel
 	{

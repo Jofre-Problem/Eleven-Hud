@@ -30,7 +30,7 @@
 		"visible"		"1"
 		//"enabled"		"1"
 		"scaleImage"	"1"
-		"fillcolor"		"32 32 32 255"
+		"fillcolor"		"32 32 32 246"
 	}
 	
 	"HealthBarPanel"
