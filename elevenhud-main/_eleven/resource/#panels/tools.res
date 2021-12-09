@@ -253,8 +253,6 @@
 		"ypos"		"262"
 		"wide"		"72"
 		"tall"		"24"
-		
-		"commnad"		"engine echo hi"
 		//"visible"		"1"
 		"textAlignment"	"center"
 		"tabPosition"		"0"
@@ -370,7 +368,7 @@
 		"zpos"		"111"
 		"wide"		"20"
 		"tall"		"25"
-		"textinsetx"	"-2"
+		
 		"labelText"		"Ë"
 		"textAlignment"		"center"
 		"fgcolor_override"		"W_ColorIcons1"

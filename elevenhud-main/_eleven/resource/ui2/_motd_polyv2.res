@@ -1,4 +1,4 @@
-"_jofrehud/resource/motd-list.res"{
+"_opd/resource/motd-list.res"{
 	"MOTD_Panel"
 	{	
 		"last"		{			"ControlName"		"CExLabel"		"fieldName"	

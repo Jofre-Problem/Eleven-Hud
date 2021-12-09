@@ -8,14 +8,14 @@
 		"xpos"					"rs1-6"//"rs1-p0.0965"
 		"ypos"					"0"
 		"zpos"					"6000"
-		"wide"					"250"
+		"wide"					"240"
 		"tall"					"200"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"1"
 		"mouseinputenabled"		"1"
 		"border"				"NoBorder"
 
-		log_font_small			"HudFontSmall"
+		log_font_small			"CustomPrimero"
 		log_font_medium			"HudFontMediumSmallSecondary"
 		log_font_large			"HudFontMediumSecondary"
 

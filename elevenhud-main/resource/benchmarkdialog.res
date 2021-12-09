@@ -1,2 +1,2 @@
-#base	"../_eleven/resource/benchmarkdialog.res"
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/benchmarkdialog.res"
+#base "../_tf2hud/resource/resource/benchmarkdialog.res"

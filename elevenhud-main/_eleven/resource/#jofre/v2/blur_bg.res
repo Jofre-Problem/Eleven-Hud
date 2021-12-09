@@ -1,5 +1,5 @@
 #base "../1ccvar.res"
-"_jofrehud/resource/#jofre/blur_bg.res"
+"_opd/resource/#jofre/blur_bg.res"
 {
 		"NetGraph Slider"
 		{

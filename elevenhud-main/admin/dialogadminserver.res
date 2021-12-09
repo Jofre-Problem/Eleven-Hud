@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"s
+#base "../_opd/admin/dialogadminserver.res"
+#base "../_tf2hud/root/admin/dialogadminserver.res"

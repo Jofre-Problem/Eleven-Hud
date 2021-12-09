@@ -69,7 +69,7 @@ Scheme
 				"name"			"Product Sans"
 				"tall"			"9"
 				"yres"			"480 599"
-				"dropshadow"	"0"
+				"dropshadow"	"1"
 				"antialias"		"1"
 			}
 
@@ -78,7 +78,7 @@ Scheme
 				"name"			"Product Sans"
 				"tall"			"11"
 				"yres"			"600 767"
-				"dropshadow"	"0"
+				"dropshadow"	"1"
 				"antialias"		"1"
 			}
 
@@ -87,7 +87,7 @@ Scheme
 				"name"			"Product Sans"
 				"tall"			"13"
 				"yres"			"768 1023"
-				"dropshadow"	"0"
+				"dropshadow"	"1"
 				"antialias"		"1"
 			}
 
@@ -96,7 +96,7 @@ Scheme
 				"name"			"Product Sans"
 				"tall"			"15"
 				"yres"			"1024 1199"
-				"dropshadow"	"0"
+				"dropshadow"	"1"
 				"antialias"		"1"
 			}
 
@@ -105,7 +105,7 @@ Scheme
 				"name"			"Product Sans"
 				"tall"			"17"
 				"yres"			"1200 10000"
-				"dropshadow"	"0"
+				"dropshadow"	"1"
 				"antialias"		"1"
 			}
 		}		

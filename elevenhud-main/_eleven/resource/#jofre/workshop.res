@@ -1,4 +1,4 @@
-"_jofrehud/resource/#jofre/workshop.res"
+"_opd/resource/#jofre/workshop.res"
 {
 	"ClickAway1"
 	{

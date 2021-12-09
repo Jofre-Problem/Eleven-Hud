@@ -1,4 +1,4 @@
-"_jofrehud/resource/#jofre/home.res"
+"_opd/resource/#jofre/home.res"
 {
 	"MOTD_Panel"
 	{		

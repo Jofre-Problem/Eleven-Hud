@@ -1,5 +1,5 @@
 #base "SurveyPanel_Base.res"
 	#base	"../../_eleven/resource/ui/surveypanel_casualinquiry.res"
-	#base	"../../_jofrehud/resource/ui/surveypanel_casualinquiry.res"
-	#base	"../../_jofrehud/_tf2fix/resource/ui/surveypanel_casualinquiry.res"
+	#base	"../../_opd/resource/ui/surveypanel_casualinquiry.res"
+	#base	"../../_opd/_tf2fix/resource/ui/surveypanel_casualinquiry.res"
 //	#base	"../../_tf2hud/resource/ui/surveypanel_casualinquiry.res"

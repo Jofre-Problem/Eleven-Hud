@@ -5,7 +5,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"				3000
-		"wide"			"p0.01"
+		"wide"			"10"
 		"tall"			"18"
 			fillColor				"PolybarTheme1"		
 	}	
@@ -34,7 +34,7 @@
 		"xpos"			"0"
 		"ypos"			"0"	
 		"zpos"			"1001"
-		"wide"			"p0.132"
+		"wide"			"p0.129"
 		"tall"			"18"
 			fillColor				"PolybarTheme2"		
 	"pin_to_sibling"	"polybar1bg"

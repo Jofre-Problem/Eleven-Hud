@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/vprofpanel.res"
+#base "../_tf2hud/resource/resource/vprofpanel.res"

@@ -1,2 +1,2 @@
-#base "+experimental/modevents.res"
-#base "../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/modevents.res"
+#base "../_tf2hud/resource/modevents.res"

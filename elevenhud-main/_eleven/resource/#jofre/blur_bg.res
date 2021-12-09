@@ -1,4 +1,4 @@
-"_jofrehud/resource/#jofre/charbg.res"
+"_opd/resource/#jofre/charbg.res"
 {
 	"BlurMainBG"
 	{

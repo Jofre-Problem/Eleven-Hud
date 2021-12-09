@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/friends/dialoghelpingame.res"
+#base "../_tf2hud/root/friends/dialoghelpingame.res"

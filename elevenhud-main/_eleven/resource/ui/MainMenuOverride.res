@@ -673,62 +673,16 @@
 		wide				0
 		tall				0
 	}
-	"Workspace3"		// open achievements window
-	{
-		ControlName				CExButton
-		FieldName				"Workspace3"
-		"xpos"			"40-p.001"
-		"ypos"			"rs1"
-		"zpos"			"3000"
-		wide					13
-		tall					16-p0.001//p0.042
-			"labelText"		"3"
-			"font"			"Segoe9"
-			"textAlignment"	"center"
-		
-		command				"engine showstatsdlg"
-		defaultFgColor_override		"64 83 102 255"
-		armedFgColor_override		"W_ColorIcons1"
-		
-		"depressedFgColor_override" "W_ColorIcons1"
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-	
-		paintBackground			0
-	}		
-	"SafeMode2"		// open achievements window
-	{
-		ControlName				CExButton
-		FieldName				"SafeMode2"
-		"xpos"			"24-p0.001"
-		"ypos"			"rs1"
-		"zpos"			"3000"
-		wide					13
-		tall					16//p0.042
-			"labelText"		"2"
-			"font"			"Segoe9"
-			"textAlignment"	"center"
-		
-		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
-		defaultFgColor_override		"64 83 102 255"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-	
-		paintBackground			0
-	}	
+
 	"MOTD_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"8-p0.001"
+		"xpos"			"5"
 		"ypos"			"rs1"
 		"zpos"			"3000"
-		wide					13
-		tall					19//p0.043
+		wide					15
+		tall					18//p0.043
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -741,15 +695,15 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
-		wide					13
-		tall					p0.043
+		wide					15
+		tall					18
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		"1"
-			"font"			"Segoe9"
+			"labelText"		"u"
+			"font"			"NewIcons11"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -774,15 +728,65 @@
 				"image"			"replay/thumbnails/null"
 			}			
 		}
-	}	
+	}
+	"SafeMode2"		// open achievements window
+	{
+		ControlName				CExButton
+		FieldName				"SafeMode2"
+		"xpos"			"0"
+		"ypos"			"0-p0.001"
+		"zpos"			"3000"
+		wide					15
+		tall					18//p0.042
+			"labelText"		"u"
+			"font"			"NewIcons11"
+			"textAlignment"	"center"
+		
+		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"MOTD_ShowButtonPanel"
+		paintBackground			0
+	}		
+	"Workspace3"		// open achievements window
+	{
+		ControlName				CExButton
+		FieldName				"Workspace3"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"3000"
+		wide					15
+		tall					18//p0.042
+			"labelText"		"u"
+			"font"			"NewIcons11"
+			"textAlignment"	"center"
+		
+		command				"engine showstatsdlg"
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		
+		"depressedFgColor_override" "W_ColorIcons1"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"SafeMode2"		
+	
+		paintBackground			0
+	}				
 			"polybar1bg_V2"						{			ControlName				ImagePanel			FieldName				
 			"polybar1bg_V2"
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"zpos"				2900
-		"wide"			"p0.05"
+		"wide"			"p0.045"
 		"tall"			"18"
-			fillColor				"PolybarTheme7"		
+			fillColor				"187 154 247 255"		
 	}	
 
 
@@ -799,7 +803,7 @@
 			"wide"			"20"
 			"tall"			"18"
 			
-			"fgcolor"		"PolybarTheme7"
+			"fgcolor"		"187 154 247 255"
 "pin_to_sibling"	"polybar1bg_V2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
@@ -811,13 +815,13 @@
 			"font"			"NewIcons20"
 			"labelText"		"È"
 			"textAlignment"		"west"
-			"xpos" 			"-8"					//"c-60"//			"180"
+			"xpos" 			"-5"					//"c-60"//			"180"
 			"ypos"			"0"
 			"zpos"			"2900"
 			"wide"			"19"
 			"tall"			"18"
 			
-			"fgcolor"		"PolybarTheme8"
+			"fgcolor"		"122 162 247 255"
 "pin_to_sibling"	"polybar1slash_V2"
 		}
 	"RankPanel"

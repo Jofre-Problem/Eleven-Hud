@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/baseactionzoomdialog.res"
+#base "../_tf2hud/resource/resource/baseactionzoomdialog.res"

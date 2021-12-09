@@ -30,7 +30,8 @@
 		"visible"		"1"
 		//"enabled"		"1"
 		"scaleImage"	"1"
-		"fillcolor"		"32 32 32 246"
+		"fillcolor"		"32 32 32 0"
+		"border"	"SteamWorkshopBorder"
 	}
 	
 	"HealthBarPanel"
@@ -59,7 +60,7 @@
 			"visible"		"1"
 			//"enabled"		"1"
 			"tabPosition"	"0"
-			"image"			"../hud/halloween_bar"
+"image""replay/thumbnails/hp/cover"
 			"scaleImage"	"1"					
 		}
 	}				

@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/sfm_setprogressiverefinementdialog.res"
+#base "../_tf2hud/resource/resource/sfm_setprogressiverefinementdialog.res"

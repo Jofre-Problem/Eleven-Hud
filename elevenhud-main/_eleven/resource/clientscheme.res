@@ -1,7 +1,6 @@
-	#base "../_customization/resource/fonts_name.res"
-	#base "../_customization/resource/fonts_blur.res"
-	#base "../_customization/resource/font.res"
-	#base "../_customization/resource/scheme_4plug1.res"
+
+	#base "../font.res"
+
 	#base "cs_windows.res"
 	#base ".polybar/themes.res"
 //dlc
@@ -17,7 +16,21 @@ Scheme
 {
 	BaseSettings
 	{
-
+		Econ.Dialog.BgColor									"Blank"
+		Econ.Button.BgColor									"blank"
+		Econ.Button.FgColor									"TanLight"
+		Econ.Button.ArmedBgColor							"blank"
+		Econ.Button.ArmedFgColor							"TanLight"
+		Econ.Button.DepressedBgColor						"blank"
+		Econ.Button.DepressedFgColor						"Black"
+		
+		Econ.Button.PresetDefaultColorFg					"TanLight"
+		Econ.Button.PresetArmedColorFg						"TanLight"
+		Econ.Button.PresetDepressedColorFg					"TanLight"
+		
+		Econ.Button.PresetDefaultColorBg					"blank"
+		Econ.Button.PresetArmedColorBg						"blank"
+		Econ.Button.PresetDepressedColorBg					"blank"
 		TextEntry.TextColor			"193 175 75 255"
 		TextEntry.BgColor			"W_ColorTheme2"
 		TextEntry.DisabledTextColor	"W_ColorIcons1"
@@ -41,14 +54,14 @@ Scheme
 		ReplayBrowser.BgColor					"W_ColorTheme1"		
 		Replay.RenderDialog.BgColor							"W_ColorTheme1"
 
-		Button.TextColor				"TanLight"
-		Button.BgColor					"0 0 0 0"
-		Button.ArmedTextColor			"255 255 255 255"
-		Button.ArmedBgColor				"62 80 180 255"
-		Button.SelectedTextColor		"255 255 255 255"
-		Button.SelectedBgColor			"62 80 180 255"
-		Button.DepressedTextColor		"255 255 255 255"
-		Button.DepressedBgColor			"62 80 180 255"
+		Button.TextColor								"245 245 245 60"
+		Button.BgColor									"0 0 0 165"
+		Button.ArmedTextColor							"45 245 245 235"
+		Button.ArmedBgColor								"255 255 255 16"
+		Button.SelectedTextColor						"45 245 245 235"
+		Button.SelectedBgColor							"255 255 255 16"
+		Button.DepressedTextColor						"245 245 245 180"
+		Button.DepressedBgColor							"255 255 255 16"
 
 //		Button.BgColor					"W_ColorTheme1"
 	///	Button.ArmedTextColor			"W_ColorTheme3"
@@ -571,9 +584,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans"
+				"name"		"TF2 Build"
 				"tall"		"18"
-				"tall_hidef"	"18"
 				"weight"	"500"
 				"Antialias" "1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -583,7 +595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"20"
 				"tall_hidef"	"20"
 				"Antialias" "1"
@@ -594,9 +606,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans"
+				"name"		"TF2 Build"
 				"tall"		"50"
-				"tall_hidef"	"50"
 				"weight"	"500"
 				"Antialias" "1"
 				"italic"	"1"
@@ -605,7 +616,64 @@ Scheme
 		}		
 	}
 	Borders
-	{	
+	{		
+		Econ.Button.Border.Default		
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}	
+		ButtonBorder
+		{
+			"inset" 			"0 0 0 0"
+			"backgroundtype"	"0"
+		}
+
+		// this is the border used for default buttons (the button that gets pressed when you hit enter)
+		ButtonKeyFocusBorder
+		{
+			"inset" 			"0 0 0 0"
+			"backgroundtype"	"0"
+		}
+
+		ButtonDepressedBorder
+		{
+			"inset" 			"0 0 0 0"
+			"backgroundtype"	"0"
+		}		
 		RiceRainbow
 		{
 			"bordertype"			"scalable_image"

@@ -50,7 +50,7 @@ Scheme
 	//	FrameSystemButton.Icon			""
 	//	FrameSystemButton.DisabledIcon	""
 		FrameTitleBar.DisabledBgColor	"Blank"
-		Frame.BgColor					"27 27 27 201" //lolololololl
+		Frame.BgColor					"27 27 27 250" //lolololololl
 		Frame.OutOfFocusBgColor			"W_ColorLinea1"
 		FrameGrip.Color1				"W_ColorIcons1"
 		FrameGrip.Color2				"W_BorderArmedText"

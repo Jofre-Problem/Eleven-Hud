@@ -1,4 +1,4 @@
-"_jofrehud/resource/motd-code.res"
+"_opd/resource/motd-code.res"
 {	"SafeMode"	{
 
 

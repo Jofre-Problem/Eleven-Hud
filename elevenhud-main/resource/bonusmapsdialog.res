@@ -1,2 +1,2 @@
-#base	"../_eleven/resource/bonusmapsdialog.res"
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/bonusmapsdialog.res"
+#base "../_tf2hud/resource/resource/bonusmapsdialog.res"

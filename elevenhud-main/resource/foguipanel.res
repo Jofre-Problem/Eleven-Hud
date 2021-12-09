@@ -1,2 +1,2 @@
-#base	"../_eleven/resource/foguipanel.res"
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/foguipanel.res"
+#base "../_tf2hud/resource/resource/foguipanel.res"

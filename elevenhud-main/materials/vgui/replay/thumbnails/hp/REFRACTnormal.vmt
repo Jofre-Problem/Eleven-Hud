@@ -7,4 +7,8 @@
 
 	"$scale" "[1 1]"
 	"$normalmap" "vgui/replay/thumbnails/hp/REFRACTnormal"
+	<dx90
+	{
+		 	"$basetexture" "vgui\replay\thumbnails\null"
+	}
 }

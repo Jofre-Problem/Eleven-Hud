@@ -1,2 +1,2 @@
-#base	"../_eleven/resource/buguipanel.res"
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/buguipanel.res"
+#base "../_tf2hud/resource/resource/buguipanel.res"

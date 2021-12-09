@@ -1,5 +1,5 @@
 #base "../ui2/testgradient.res"
-#base "../ui2/tank.res"
+#base "../ui3/tank.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
 		"testg"
@@ -9,15 +9,34 @@
 	"xpos""0"
 	"ypos""18"
 	}
-		"ClassLabel"
-		{
-			"ypos"		"c-60"
-			"xpos"		"cs-0.5"
-			"zpos"		"4000"
-			textAlignment	"center"
-			"wide"					0
-			//"tall"					0
-		}			
+	"ClassLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ClassLabel"
+		"font"			"Future18"
+		"labelText"		"#ClassBeingEquipped"
+		//"textAlignment"	"west"
+		"xpos"			"115"
+		"ypos"			"90"
+		"zpos"			"1000"
+		"wide"			"240"
+		"tall"			"25"
+	}	
+	"ClassLabelS"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ClassLabelS"
+		"font"			"Future18"
+		"labelText"		"#ClassBeingEquipped"
+		//"textAlignment"	"west"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"999"
+		"wide"			"241"
+		"tall"			"26"
+		"fgcolor_override"	"Black"
+		"pin_to_sibling"	"ClassLabel"
+	}					
 	"tank"
 	{
 	"zpos""-1"
@@ -36,9 +55,9 @@
 		paintbackground				0
 		
 		"item_xpos_offcenter_a"	"-315"//"-420"
-		"item_xpos_offcenter_b"	"175"//"280"
+		"item_xpos_offcenter_b"	"-210"//"280"
 		"item_ydelta"	"76"
-		"item_mod_wide"	"40"
+		"item_mod_wide"	"20"
 		
 		"item_backpack_offcenter_x"		"0"
 		"item_backpack_xdelta"			"0"
@@ -60,7 +79,7 @@
 			"ControlName"	"CItemModelPanel"
 			"xpos"			"c-70"
 			"ypos"			"270"
-			"wide"			"140"
+			"wide"			"100"
 			"tall"			"70"
 			"visible"		"0"
 			"bgcolor"		"NotoBlack"
@@ -96,15 +115,15 @@
 		"itemoptionpanels_kv"
 		{
 			"ControlName"	"CExButton"
-			"xpos"			"0"
-			"ypos"			"0"
+			"xpos"			"2"
+			"ypos"			"2"
 			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
+			"wide"			"12"
+			"tall"			"12"
 			"autoResize"	"0"
-			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"	"0"
+        	"bgcolor_override"				"24 24 24 255"
+        	"defaultbgcolor_override"		"24 24 24 255"
+        	"armedbgcolor_override"			"24 24 24 255"
 			"labelText"		"+"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
@@ -138,11 +157,11 @@
 			"force_pos"	"1"
 
 			"angles_x" "0"
-			"angles_y" "170"
+			"angles_y" "150"
 			"angles_z" "0"
-			"origin_x" "220"
-			"origin_y" "0"
-			"origin_z" "-58"
+			"origin_x" "190"
+			"origin_y" "-40"
+			"origin_z" "-50"	//lower mas arriba
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
@@ -193,10 +212,10 @@
 	{
 		ControlName					CExButton
 		fieldName					"CharacterLoadoutButton"
-		xpos							rs1-45		// align with preset C
-		ypos							50
+		xpos							cs-0.5-15		// align with preset C
+		ypos							105
 		zpos							2
-		wide							25
+		wide							30
 		tall							22
 		visible						1
 		enabled						1
@@ -210,22 +229,21 @@
 		sound_depressed			"UI/buttonclick.wav"
 		sound_released				"UI/buttonclickrelease.wav"
 		
-		defaultFgColor_override 	"W_ColorIcons1"
-		armedFgColor_override 		"W_ColorTheme2"
+		defaultFgColor_override 	"W_ColorTheme2"
+		armedFgColor_override 		"W_BorderArmed"
 		
-		paintbackground				1
-		defaultBgColor_override 	"W_ColorTheme1"
-		armedBgColor_override 		"W_BorderArmed"
+		paintbackground				0
+
 	}
 
 	"TauntLoadoutButton"
 	{
 		ControlName					CExButton
 		fieldName					"TauntLoadoutButton"
-		xpos							rs1-12		// align with preset C
-		ypos							50
+		xpos							0		// align with preset C
+		ypos							0
 		zpos							2
-		wide							25
+		wide							30
 		tall							22
 		visible						1
 		enabled						1
@@ -236,35 +254,21 @@
 		
 		Command						"tauntloadout"
 				
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released				"UI/buttonclickrelease.wav"
+		defaultFgColor_override 	"W_ColorTheme2"
+		armedFgColor_override 		"W_BorderArmed"
 		
-		defaultFgColor_override 	"W_ColorIcons1"
-		armedFgColor_override 		"W_ColorTheme2"
-		
-		paintbackground				1
-		defaultBgColor_override 	"W_ColorTheme1"
-		armedBgColor_override 		"W_BorderArmed"
+		paintbackground				0
+
+		"pin_to_sibling"	"CharacterLoadoutButton"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
 	}
-	"RedBluePanel"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"		"RedBluePanel"
-		"xpos"			"rs1-5"
-		"ypos"			"50"
-		"zpos"			"0"
-		"wide"			"p0.085"
-		"tall"			"25"
-		"tabPosition"	"1"	
-		"bgcolor_override"		"W_ColorTheme1"
-		"PaintBackgroundType"	"2"
-	}	
 	"RedTeamButton"
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"RedTeamButton"
-		"xpos"				"rs1-180"
-		"ypos"				"cs-6.9"
+		xpos							rs1-30		// align with preset C
+		ypos							60
 		"zpos"				"30"
 		"wide"				"20"
 		"tall"				"20"
@@ -282,8 +286,6 @@
 		"defaultFgColor_override" 	"red"
 		"armedFgColor_override"		"255 0 0 150"
 		"depressedFgColor_override" "255 0 0 150"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
 		"keyboardinputenabled"	"0"
 		"paintbackground"		"0"
 		"paintbackgroundtype"	"0"
@@ -294,8 +296,8 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"BlueTeamButton"
-		"xpos"				"rs1-160"
-		"ypos"				"cs-6.9"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"30"
 		"wide"				"20"
 		"tall"				"20"
@@ -313,13 +315,14 @@
 		"defaultFgColor_override" 	"blue"
 		"armedFgColor_override"		"0 0 255 150"
 		"depressedFgColor_override" "0 0 255 150"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
 		"keyboardinputenabled"	"0"
 		"paintbackground"		"0"
 		"paintbackgroundtype"	"0"
 		"defaultBgColor_Override"	"0 0 0 0"
-		"paintborder"		"0"		
+		"paintborder"		"0"	
+		"pin_to_sibling"	"RedTeamButton"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 	}	
 	"ItemOptionsPanel"
 	{

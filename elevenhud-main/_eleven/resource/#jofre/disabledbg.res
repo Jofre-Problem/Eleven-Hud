@@ -1,5 +1,5 @@
 
-"_jofrehud/resource/#jofre/disabledbg.res"
+"_opd/resource/#jofre/disabledbg.res"
 {
 		"disabledfill"				// 
 		{

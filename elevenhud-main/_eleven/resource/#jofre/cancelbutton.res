@@ -1,4 +1,4 @@
-"_jofrehud/resource/#jofre/cancelbutton.res"
+"_opd/resource/#jofre/cancelbutton.res"
 {
 	"CancelContinue" 
 	{

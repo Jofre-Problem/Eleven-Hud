@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/friends/subpanelfindbuddyresults.res"
+#base "../_opd/_tf2fix/platform/friends/subpanelfindbuddyresults.res"

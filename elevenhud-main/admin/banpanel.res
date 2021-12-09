@@ -1,1 +1,2 @@
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/admin/banpanel.res"
+#base "../_tf2hud/root/admin/banpanel.res"

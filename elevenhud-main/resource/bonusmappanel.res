@@ -1,2 +1,2 @@
-#base	"../_eleven/resource/bonusmappanel.res"
-#base	"../_jofrehud/_tf2exp/null.res"
+#base "../_opd/resource/bonusmappanel.res"
+#base "../_tf2hud/resource/resource/bonusmappanel.res"

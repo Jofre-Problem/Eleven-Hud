@@ -1,5 +1,5 @@
-	#base	"../../_custom/resource/ui/matchmakingdashboardeventmatch.res"
+	#base	"../../custom/resource/ui/matchmakingdashboardeventmatch.res"
 	#base	"../../_eleven/resource/ui/matchmakingdashboardeventmatch.res"
-	#base	"../../_jofrehud/resource/ui/matchmakingdashboardeventmatch.res"
-	#base	"../../_jofrehud/_tf2fix/resource/ui/matchmakingdashboardeventmatch.res"
+	#base	"../../_opd/resource/ui/matchmakingdashboardeventmatch.res"
+	#base	"../../_opd/_tf2fix/resource/ui/matchmakingdashboardeventmatch.res"
 //	#base	"../../_tf2hud/resource/ui/matchmakingdashboardeventmatch.res"

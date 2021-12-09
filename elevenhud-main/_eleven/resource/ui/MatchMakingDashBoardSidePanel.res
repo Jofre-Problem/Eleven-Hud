@@ -5,7 +5,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BGPanel"
 		"xpos"										"0"
-		"ypos"										"r85"
+		"ypos"										"r84+p0.0025"	//16:9 thing
 		"zpos"										"1"
 		"wide"										"f0"
 		"tall"										"86"	//f0 was just dumb

@@ -1,4 +1,4 @@
-"_jofrehud/resource/#jofre/1wide.res"
+"_opd/resource/#jofre/1wide.res"
 {
 	"2ndPanel"
 	{

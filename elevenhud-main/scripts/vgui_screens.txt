@@ -1,1 +1,1 @@
-#base	"../_jofrehud/scripts/vgui_screens.txt"
+#base	"../_opd/scripts/vgui_screens.txt"

@@ -31,7 +31,23 @@
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
 		"bgcolor_override"	"0 0 0 200"
-	}	
+	}
+	"classmodelpanelBG"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"classmodelpanelBG"
+		"xpos"			"0"			
+		"ypos"			"r19"	
+		"zpos"			"11"		
+		"wide"			"f0"
+		"tall"			"1"
+		//"visible"		"1"
+		
+		"scaleImage"	"1"
+		"image"				"replay/thumbnails/noto_red"	
+		"teambg_2"			"replay/thumbnails/noto_red"
+		"teambg_3"			"replay/thumbnails/noto_blue"
+	}			
 	"BlueScoreBG"
 	{
 		"wide"			"0"
@@ -298,8 +314,8 @@
 
 	"VerticalLine"
 	{
-		"visible"		"0"
-		"enabled"		"0"
+	//	"visible"		"0"
+	//	"enabled"		"0"
 	}	
 
 	"RedPlayerList"
@@ -389,7 +405,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"0"
-		"ypos"			"r308"
+		"ypos"			"r318"
 		"zpos"			"2"		
 		"wide"			"340"
 		"tall"			"300"
@@ -567,7 +583,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"POLY_1_S"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
@@ -614,7 +630,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"PlayerNameBG2"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"//"%kills%"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
@@ -669,7 +685,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"POLY_2_SLASH"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"//"%kills%"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
@@ -747,7 +763,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"POLY_3_SLASH"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"//"%kills%"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
@@ -822,7 +838,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"POLY_4_SLASH"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"//"%kills%"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
@@ -868,10 +884,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"HorizontalLine"
-		"xpos"			"115"
-		"ypos"			"397"
+		"xpos"			"0"
+		"ypos"			"r18"
 		"zpos"			"3"
-		"wide"			"0"
+		"wide"			"f0"
 		"tall"			"0"
 		"visible"		"0"
 		"tabPosition"	"0"	
@@ -1120,7 +1136,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScore"
-		"font"			"NotoBold28"
+		"font"			"CustomQuinto"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"c-105"
@@ -1139,7 +1155,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScore"
-		"font"			"NotoBold28"
+		"font"			"CustomQuinto"
 		"textAlignment"		"west"
 		"xpos"			"c5"
 		"ypos"			"90" 
@@ -1164,73 +1180,7 @@
 		"tall""o1"
 		"party_slot"	"0"
 	}		
-	"PartySlot1"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot1"
-		"xpos""rs1"
-		"ypos""rs1-11"
-		"zpos""1100"
-		"wide""24"
-		"tall""o1"
-		"party_slot"	"1"
-	}	
-	"PartySlot2"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot2"
-		"xpos""0"
-		"ypos""0"
-		"zpos""1100"
-		"wide""24"
-		"tall""o1"
-		"party_slot"	"2"
-		"pin_to_sibling"	"PartySlot1"			
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFTT"			
-	}
-	"PartySlot3"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot3"
-		"xpos""0"
-		"ypos""0"
-		"zpos""1100"
-		"wide""24"
-		"tall""o1"
-		"party_slot"	"3"
-		"pin_to_sibling"	"PartySlot2"			
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFTT"			
-	}	
-	"PartySlot4"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot4"
-		"xpos""0"
-		"ypos""0"
-		"zpos""1100"
-		"wide""24"
-		"tall""o1"
-		"party_slot"	"4"
-		"pin_to_sibling"	"PartySlot3"			
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFTT"			
-	}		
-	"PartySlot5"
-	{
-		"ControlName""CDashboardPartyMember"
-		"fieldName""PartySlot5"
-		"xpos""0"
-		"ypos""0"
-		"zpos""1100"
-		"wide""24"
-		"tall""o1"
-		"party_slot"	"5"
-		"pin_to_sibling"	"PartySlot4"			
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFTT"			
-	}				
+		
 	"LocalPlayerStatsPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -1248,7 +1198,7 @@
 		"ControlName"		"CircularProgressBar"
 		"fieldName"		"TriUberTID2"
 		"xpos"			"-2"
-		"ypos"			"rs1-8-3"
+		"ypos"			"rs1-18-3"
 		"zpos"			"10"
 		"wide"			"26"
 		"tall"			"o1"
@@ -1270,18 +1220,18 @@
 			"ypos"			"rs1"
 			"zpos"			"20"
 			"wide"			"f0"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor"		"186 104 200 255"
 		}				
 		"KILLSASSISTSDEATHS"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KILLSASSISTSDEATHS"
-			"font"			"NotoBold30"
+			"font"			"CustomQuinto"
 			"labelText"		"#scoreboard_K_A_D_list"//"%kills%"
 			"textAlignment"		"center"
 			"xpos" 			"0"					//"c-60"//			"180"
-			"ypos"			"rs1-8"
+			"ypos"			"rs1-18"
 			"zpos"			"3"
 			"wide"			"f0"
 			"tall"			"30"
@@ -1361,23 +1311,23 @@
 			"ypos"			"rs1"
 			"zpos"			"5"
 			"wide"			"8"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 		}												
 		"Destrucion_New"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Destrucion_New"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"labelText"		"%destruction%"
 			"textAlignment"		"center"
 			"xpos"			"8"
 			"ypos"			"rs1"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 }			
 									
 		"Destruction"		{				"visible"	"0"		}					
@@ -1390,9 +1340,9 @@
 			"textAlignment"		"center"
 			"labelText"	"4"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"Destrucion_New"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"Capturs"
@@ -1401,13 +1351,13 @@
 			"fieldName"		"Capturs"
 			"labelText"		"%captures%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"Captuas"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"DefenssLabel"
@@ -1418,9 +1368,9 @@
 			"textAlignment"		"center"
 			"labelText"	"5"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"Capturs"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"Defs"
@@ -1429,13 +1379,13 @@
 			"fieldName"		"Defs"
 			"labelText"		"%defenses%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"DefenssLabel"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}													
 		"DefensesLabel"
@@ -1453,9 +1403,9 @@
 			"textAlignment"		"center"
 			"labelText"	"6"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"Defs"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"DomN"
@@ -1464,13 +1414,13 @@
 			"fieldName"		"DomN"
 			"labelText"		"%dominations%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"Domsl"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 		"Revl"
@@ -1481,9 +1431,9 @@
 			"textAlignment"		"center"
 			"labelText"	"7"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"DomN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"RevN"
@@ -1492,13 +1442,13 @@
 			"fieldName"		"RevN"
 			"labelText"		"%Revenge%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"Revl"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}											
 		"RevengeLabel"
@@ -1533,9 +1483,9 @@
 			"textAlignment"		"center"
 			"labelText"	"8"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"RevN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"HealN"
@@ -1544,13 +1494,13 @@
 			"fieldName"		"HealN"
 			"labelText"		"%healing%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"Heall"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}								
 		"InvulnLabel"
@@ -1565,9 +1515,9 @@
 			"textAlignment"		"center"
 			"labelText"	"9"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"HealN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"InvN"
@@ -1576,13 +1526,13 @@
 			"fieldName"		"InvN"
 			"labelText"		"%invulns%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"Invl"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 	"KillsBG"				// background for the left side buttons
@@ -1593,7 +1543,7 @@
 		yPos					0
 		"zpos"			"0"
 		"wide"			"p0.14"
-		"tall"			"8"
+		"tall"			"18"
 		bgcolor_override				"20 20 20 255"
 "pin_to_sibling"	"InvN"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
@@ -1601,29 +1551,29 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KillsBG_S"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
 			"ypos"			"0"
 			"zpos"			"20"
-			"wide"			"10"
-			"tall"			"10"
-			"fgcolor"		"58 68 73 255"
+			"wide"			"20"
+			"tall"			"18"
+			"fgcolor"		"39 39 39 255"
 "pin_to_sibling"	"InvN"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"KillsBG_S2"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KillsBG_S2"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
 			"ypos"			"0"
 			"zpos"			"20"
-			"wide"			"10"
-			"tall"			"10"
+			"wide"			"20"
+			"tall"			"18"
 			"fgcolor"		"20 20 20 255"
 "pin_to_sibling"	"KillsBG"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
@@ -1635,8 +1585,8 @@
 		yPos					0
 		"zpos"			"0"
 		"wide"			"10"
-		"tall"			"8"
-		bgcolor_override				"58 68 73 255"
+		"tall"			"18"
+		bgcolor_override				"39 39 39 255"
 "pin_to_sibling"	"KillsBG"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}			
 		"AsisL"
@@ -1647,9 +1597,9 @@
 			"textAlignment"		"center"
 			"labelText"	"1"
 			"wide"			"9"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"AssisBG"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"AsisN"
@@ -1658,13 +1608,13 @@
 			"fieldName"		"AsisN"
 			"labelText"		"%assists%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"AsisL"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 		"Tell"
@@ -1675,9 +1625,9 @@
 			"textAlignment"		"center"
 			"labelText"	":"
 			"wide"			"8"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"AsisN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"TelN"
@@ -1686,13 +1636,13 @@
 			"fieldName"		"TelN"
 			"labelText"		"%teleports%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"Tell"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}													
 		"TeleportsLabel"
@@ -1707,9 +1657,9 @@
 			"textAlignment"		"center"
 			"labelText"	";"
 			"wide"			"8"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"TelN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"HeadN"
@@ -1718,13 +1668,13 @@
 			"fieldName"		"HeadN"
 			"labelText"		"%headshots%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"HeadL"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}							
 		"HeadshotsLabel"
@@ -1755,9 +1705,9 @@
 			"textAlignment"		"center"
 			"labelText"	"A"
 			"wide"			"8"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"HeadN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"BackN"
@@ -1766,13 +1716,13 @@
 			"fieldName"		"BackN"
 			"labelText"		"%backstabs%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"BackL"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}								
 		"BackstabsLabel"
@@ -1799,9 +1749,9 @@
 			"textAlignment"		"center"
 			"labelText"	"C"
 			"wide"			"8"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"BackN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"SupN"
@@ -1810,13 +1760,13 @@
 			"fieldName"		"SupN"
 			"labelText"		"%support%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.05"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"SupL"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}			
 		"BonL"
@@ -1827,9 +1777,9 @@
 			"textAlignment"		"center"
 			"labelText"	"B"
 			"wide"			"8"
-			"tall"			"8"
+			"tall"			"18"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"
+			"bgcolor_override"		"39 39 39 255"
 "pin_to_sibling"	"SupN"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"BonN"
@@ -1838,35 +1788,35 @@
 			"fieldName"		"BonN"
 			"labelText"		"%bonus%"
 			"fgcolor_override"	"185 194 68 255"
-			"bgcolor_override"		"58 68 73 255"			
-			"font"			"Regular7"
+			"bgcolor_override"		"39 39 39 255"			
+			"font"			"CustomPrimero"
 			"textAlignment"		"center"
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"p0.045"
-			"tall"			"8"
+			"tall"			"18"
 "pin_to_sibling"	"BonL"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 		"Slash_3"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Slash_3"
-			"font"			"NewIcons18"
+			"font"			"NewIcons57"
 			"labelText"		"/"
 			"textAlignment"		"west"
 			"xpos" 			"0-p0.001"					//"c-60"//			"180"
 			"ypos"			"0"
 			"zpos"			"20"
-			"wide"			"10"
-			"tall"			"10"
-			"fgcolor"		"58 68 73 255"
+			"wide"			"20"
+			"tall"			"18"
+			"fgcolor"		"39 39 39 255"
 "pin_to_sibling"	"BonN"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}	
 
 			"color1"						{			ControlName				ImagePanel			FieldName				"color1"
 			xPos					0
 			yPos					0
-			wide					18			tall					8
+			wide					18			tall					18
 			fillColor				"197 15 30 255"	
 "pin_to_sibling"	"BonN"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 	
@@ -1875,14 +1825,14 @@
 			"color3"						{			ControlName				ImagePanel			FieldName				"color3"
 			xPos					0
 			yPos					0
-			wide					12			tall			8
+			wide					12			tall			18
 			fillColor				"19 161 13 255"					
 			pin_to_sibling			"color1"					"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 
 			"color4"						{			ControlName				ImagePanel			FieldName				"color4"
 			xPos					0
 			yPos					0
-			wide					12			tall					8
+			wide					12			tall					18
 			fillColor				"192 156 0 255"					
 			pin_to_sibling			"color3"					"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 
@@ -1890,7 +1840,7 @@
 			"color5"						{			ControlName				ImagePanel			FieldName				"color5"
 			xPos					0
 			yPos					0
-			wide					12			tall					8
+			wide					12			tall					18
 			fillColor				"0 55 218 255"					
 			pin_to_sibling			"color4"					"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 
@@ -1898,7 +1848,7 @@
 			"color6"
 			xPos					0
 			yPos					0
-			wide					12			tall					8
+			wide					12			tall					18
 			fillColor				"135 23 151 255"					
 			pin_to_sibling			"color5"					"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 

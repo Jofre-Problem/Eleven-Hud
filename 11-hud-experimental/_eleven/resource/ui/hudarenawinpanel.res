@@ -46,7 +46,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"NotoBold26"
+			"font"			"CustomSeptimo"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"south-west"
 			"xpos"			"c-145"
@@ -99,7 +99,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"NotoBold26"
+			"font"			"CustomSeptimo"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"south-east"
 			"xpos"			"c45"

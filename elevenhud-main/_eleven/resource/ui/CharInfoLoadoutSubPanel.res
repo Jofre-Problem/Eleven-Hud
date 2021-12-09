@@ -4,13 +4,16 @@
 #base "../ui2/polybar_1.res"
 //#base "../#jofre/blur_bg.res"
 //#base "../#jofre/charbg.res"
-#base "../ui2/tank.res"
+#base "../ui3/tank.res"
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 //#base "../../#customization/resource/ui/summersale_border.res"
 "Resource/UI/CharInfoLoadoutSu0bPanel.res"
 {
-	// can't change pos, width, height
+	"BackButton"			// straight to main menu
+	{
+		Command				"back"
+	}	
 	"CharInfoLoadoutSubPanel"
 	{
 		ControlName				Frame

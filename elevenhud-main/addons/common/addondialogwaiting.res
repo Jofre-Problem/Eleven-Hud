@@ -1,1 +1,2 @@
-#base	"../../_jofrehud/_tf2exp/null.res"
+#base "../../_opd/addons/common/addondialogwaiting.res"
+#base "../../_tf2hud/root/addons/common/addondialogwaiting.res"

@@ -3,7 +3,7 @@
 //	#base "_motd_spray.res"
 //	#base "_motd_sourcemod.res"
 	#base "_motd_boxes.res"
-"_jofrehud/resource/motd-list.res"
+"_opd/resource/motd-list.res"
 {
 	"MOTD_Panel"
 	{	

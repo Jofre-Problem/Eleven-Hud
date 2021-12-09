@@ -1,4 +1,4 @@
-"_jofrehud/resource/#jofre/downbar.res"
+"_opd/resource/#jofre/downbar.res"
 {
 
 	
