@@ -1,6 +1,6 @@
 "_opd/resource/motd-list.res"{
-	"MOTD_Panel"
-	{	
+			"MainMenuOverride"
+	{	}	"MOTD_Panel"	{	
 		"last"		{			"ControlName"		"CExLabel"		"fieldName"	
 			"last"
 			"font"			"Segoe8"

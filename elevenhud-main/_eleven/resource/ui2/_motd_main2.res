@@ -1,5 +1,7 @@
 "_opd/resource/motd-code.res"
-{	"MOTD_Panel"	{
+{"MainMenuOverride"
+	{	}
+		"MOTD_Panel"	{
 
 
 		"BoxDemo"						{			ControlName				ImagePanel			FieldName				

@@ -1,6 +1,6 @@
 "_opd/resource/motd-list.res"{
-	"MOTD_Panel"
-	{	
+			"MainMenuOverride"
+	{	}	"MOTD_Panel"	{	
 		"polybar1bg"						{			ControlName				ImagePanel			FieldName				
 		"polybar1bg"
 		"xpos"			"60"

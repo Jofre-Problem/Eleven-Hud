@@ -18,7 +18,7 @@
 		//"textAlignment"	"west"
 		"xpos"			"115"
 		"ypos"			"90"
-		"zpos"			"1000"
+		"zpos"			"10"
 		"wide"			"240"
 		"tall"			"25"
 	}	
@@ -31,7 +31,7 @@
 		//"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"999"
+		"zpos"			"9"
 		"wide"			"241"
 		"tall"			"26"
 		"fgcolor_override"	"Black"

@@ -22,7 +22,7 @@ Scheme
 		"W_ColorTheme3"	"16 11 16 255"
 		"W_ColorLinea1"		"27 27 27 170"//170
 		"W_ColorIcons1"	"245 245 245 255"
-		"W_ColorIcons2"	"220 220 220 255"
+		"W_ColorIcons2"	"220 238 255 255"
 		"W_ColorIcons1Blur"	"245 245 245 170"
 		"W_ColorTexto1" "119 100 192 255"	//purple
 		"W_BorderArmedText"	"190 190 190 255"

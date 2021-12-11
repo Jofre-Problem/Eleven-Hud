@@ -8,7 +8,7 @@
 		yPos					0
 		zPos					1051
 		wide					20
-		tall					18
+		tall					13
 		"pinCorner"		"0"
 		labelText				"ï"
 		font					"NewIcons12"
@@ -32,7 +32,7 @@
 		yPos					0
 		zPos					1050
 		wide					20
-		tall					18
+		tall					13
 		
 		labelText				"î"
 		font					"NewIcons12"

@@ -16,6 +16,22 @@
 		"visible"		"1"
 		//"enabled"		"1"
 		"bgcolor_override"	"0 0 0 1"
+
+
+		"background2"
+		{
+		"ControlName""ImagePanel"
+		"fieldName""background2"
+		"xpos""0"
+		"ypos""0"
+		"zpos""-10"
+		"wide""f0"
+		"tall""f0"
+		"image""../console/background_gravelpit_widescreen"
+		"visible""1"
+		"enabled""1"
+		"scaleimage""1"
+		}			
 		"bye"	{			"ControlName"	"CExImageButton""fieldName"		"bye"
 			"xpos"										"0"
 			"ypos"										"0"

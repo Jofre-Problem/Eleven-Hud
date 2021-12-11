@@ -10,7 +10,20 @@
 	//	"tall"			"458"
 		"visible"		"1"
 	}
-
+		"background2"
+		{
+		"ControlName""ImagePanel"
+		"fieldName""background2"
+		"xpos""0"
+		"ypos""0"
+		"zpos""-10"
+		"wide""f0"
+		"tall""f0"
+		"image""../console/background_mvm_widescreen"
+		"visible""1"
+		"enabled""1"
+		"scaleimage""1"
+		}		
 	"MainBackground"
 	{
 		"ControlName"		"ImagePanel"

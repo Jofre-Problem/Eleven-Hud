@@ -3,10 +3,10 @@
 			"polybar1bg"						{			ControlName				ImagePanel			FieldName				
 			"polybar1bg"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"1"
 		"zpos"				3000
 		"wide"			"10"
-		"tall"			"18"
+		"tall"			"13"
 			fillColor				"PolybarTheme1"		
 	}	
 
@@ -22,7 +22,7 @@
 			"ypos"			"0"
 			"zpos"			"1001"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"13"
 			
 			"fgcolor"		"PolybarTheme1"
 "pin_to_sibling"	"polybar1bg"
@@ -34,8 +34,8 @@
 		"xpos"			"0"
 		"ypos"			"0"	
 		"zpos"			"1001"
-		"wide"			"p0.129"
-		"tall"			"18"
+		"wide"			"112"//"p0.131"
+		"tall"			"13"
 			fillColor				"PolybarTheme2"		
 	"pin_to_sibling"	"polybar1bg"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -53,7 +53,7 @@
 			"xpos" 			"0"					//"c-60"//			"180"
 			"ypos"			"0"	"zpos"			"1001"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"13"
 			
 			"fgcolor"		"PolybarTheme2"
 "pin_to_sibling"	"polybarbg2"

@@ -1,6 +1,7 @@
 	#base "../ui2/preload.res"
-	#base "../ui2/+motd_main.res"
-	#base "../ui2/_motd_toonhud.res"
+	#base "../ui2/+motd_main_only.res"
+//	#base "../ui2/_motd_toonhud.res"
+	#base "../ui2/motd_fallback.res"
 	#base "../ui2/+safemode.res"
 	#base "../ui_overrides/!4plug_run_sc.res"
 	#base "../../home/servers.res"
@@ -267,10 +268,10 @@
 		yPos					0
 		zPos					4000
 		wide					20
-		tall					16
+		tall					13
 		labelText				"ø"
 		textAlignment			center
-		font			"NewIcons17"
+		font			"NewIcons12"
 		command				"engine workshop"
 
 		sound_depressed			"sound_menu/button.wav"
@@ -678,32 +679,32 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"5"
-		"ypos"			"rs1"
 		"zpos"			"3000"
+			"xpos"			"0"
+			"ypos"			"0"		
 		wide					15
-		tall					18//p0.043
+		tall					13//p0.043
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		//"enabled"		"1"
-
+			"pin_to_sibling"	"SafeMode2"
+		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"
 		"MOTD_ShowButtonPanel_SB"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_ShowButtonPanel_SB"
-			"xpos"			"0"
-			"ypos"			"0"
 			"zpos"			"1"
 		wide					15
-		tall					18
+		tall					13
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"u"
-			"font"			"NewIcons11"
+			"font"			"NewIcons9"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -715,7 +716,6 @@
 		"depressedFgColor_override" "W_ColorIcons1"
 			"actionsignallevel" "2"
 			"Command"		"motd_show"
-
 			"sound_depressed"	"sound_menu/button.wav"
 			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground" "0"
@@ -733,13 +733,13 @@
 	{
 		ControlName				CExButton
 		FieldName				"SafeMode2"
-		"xpos"			"0"
-		"ypos"			"0-p0.001"
+		"xpos"			"cs-0.5"
+		"ypos"			"1"
 		"zpos"			"3000"
 		wide					15
-		tall					18//p0.042
+		tall					13//p0.042
 			"labelText"		"u"
-			"font"			"NewIcons11"
+			"font"			"NewIcons9"
 			"textAlignment"	"center"
 		
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
@@ -748,9 +748,6 @@
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
-		"pin_to_sibling"	"MOTD_ShowButtonPanel"
 		paintBackground			0
 	}		
 	"Workspace3"		// open achievements window
@@ -761,9 +758,9 @@
 		"ypos"			"0"
 		"zpos"			"3000"
 		wide					15
-		tall					18//p0.042
+		tall					13//p0.042
 			"labelText"		"u"
-			"font"			"NewIcons11"
+			"font"			"NewIcons9"
 			"textAlignment"	"center"
 		
 		command				"engine showstatsdlg"
@@ -781,12 +778,12 @@
 	}				
 			"polybar1bg_V2"						{			ControlName				ImagePanel			FieldName				
 			"polybar1bg_V2"
-		"xpos"			"0"
-		"ypos"			"rs1"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
 		"zpos"				2900
-		"wide"			"p0.045"
+		"wide"			"39"
 		"tall"			"18"
-			fillColor				"187 154 247 255"		
+			fillColor				"187 154 247 0"		
 	}	
 
 
@@ -803,7 +800,7 @@
 			"wide"			"20"
 			"tall"			"18"
 			
-			"fgcolor"		"187 154 247 255"
+			"fgcolor"		"187 154 247 0"
 "pin_to_sibling"	"polybar1bg_V2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
@@ -821,7 +818,7 @@
 			"wide"			"19"
 			"tall"			"18"
 			
-			"fgcolor"		"122 162 247 255"
+			"fgcolor"		"122 162 247 0"
 "pin_to_sibling"	"polybar1slash_V2"
 		}
 	"RankPanel"

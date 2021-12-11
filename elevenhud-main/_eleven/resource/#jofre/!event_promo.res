@@ -1,7 +1,7 @@
 "_opd/resource/#jofre/home.res"
 {
-	"MOTD_Panel"
-	{		
+			"MainMenuOverride"
+	{	}	"MOTD_Panel"	{		
 	"EventPromo"
 	{
 		"ControlName"	"EditablePanel"

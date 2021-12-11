@@ -13,7 +13,7 @@
 		"ypos"			"0"
 		"zpos"		"1000"
 		"wide"			"p0.155"
-		"tall"			"18"
+		"tall"			"13"
 			fillColor				"129 129 169 255"
 		
 	}	
@@ -26,20 +26,20 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"30"
-			"tall"			"18"
+			"tall"			"13"
 			"zpos"		"2000"
 			"fgcolor"		"129 129 169 255"
 "pin_to_sibling"	"polyleft1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 	}	
 		"icon1"		{			"ControlName"		"CExLabel"		"fieldName"	
 			"icon1"
-			"font"			"NewIcons15"
+			"font"			"NewIcons9"
 			"labelText"		"Ë"
 			"textAlignment"		"west"
 			"xpos" 			"145"
 			"ypos"			"0"
 			"wide"			"18"
-			"tall"			"18"
+			"tall"			"13"
 			"zpos"		"2000"
 			"fgcolor"		"W_ColorIcons1"
 }						
@@ -48,7 +48,7 @@
 		"ControlName"		"CCvarSlider"
 		"fieldName"		"Slider"
 		"xpos"		"170"
-		"ypos"		"4" //18
+		"ypos"		"0" //18
 		"wide"		"70"
 		"tall"		"12"
 		"zpos"		"4000"
