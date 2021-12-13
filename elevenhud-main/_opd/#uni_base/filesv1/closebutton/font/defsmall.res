@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"font"		"defaultSmall"
-	}	
-}	
+"CloseButton"
+{
+"font""defaultSmall"
+}
+}

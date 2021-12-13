@@ -1,3 +1,4 @@
+#base "../ui2/mm_topbar.res"
 #base "../ui2/polybar_1.res"
 "Resource/UI/MatchMakingDashboard.res"
 {
@@ -18,6 +19,45 @@
 		"resize_time"		"0.2"
 	}
 
+			"polybar0bg"						{			ControlName				ImagePanel			FieldName				
+			"polybar0bg"
+		"xpos"			"rs1"
+		"ypos"			"0"
+		"zpos"				2
+		"wide"			"25"
+		"tall"			"13"
+			fillColor				"PolybarTheme1"		
+	}	
+
+
+		"polybar0slash"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"polybar0slash"
+			"font"			"NewIcons20"
+			"labelText"		"ù"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"3"
+			"wide"			"10"
+			"tall"			"13"
+			
+			"fgcolor"		"PolybarTheme1"
+"pin_to_sibling"	"polybar0bg"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		}
+
+			"bgg1"						{			ControlName				ImagePanel			FieldName				
+			"bgg1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"30"//70
+		"tall"			"13"
+			fillColor				"PolybarTheme6"		"pin_to_sibling"	"polybar0bg"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"				
+	}	
 
 		"slash1"
 		{
@@ -38,14 +78,6 @@
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
 		}	
 
-			"bgg1"						{			ControlName				ImagePanel			FieldName				
-			"bgg1"
-		"xpos"			"rs1"
-		"ypos"			"0"
-		"wide"			"70"
-		"tall"			"13"
-			fillColor				"PolybarTheme6"					
-	}	
 
 
 
@@ -53,7 +85,7 @@
 			"bgg2"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"35"
+		"wide"			"30"
 		"tall"			"13"
 			fillColor				"PolybarTheme5"			"pin_to_sibling"	"bgg1"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
@@ -87,7 +119,7 @@
 			"bgg3"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"60"
+		"wide"			"30"
 		"tall"			"13"
 			fillColor				"PolybarTheme4"			"pin_to_sibling"	"bgg2"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
@@ -119,7 +151,7 @@
 			"bgg4"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"65"
+		"wide"			"30"
 		"tall"			"13"
 			fillColor				"PolybarTheme3"			"pin_to_sibling"	"bgg3"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
@@ -167,10 +199,10 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"StatusIcon"
-		"xpos""rs1-150"
+		"xpos""0"
 		"ypos""0"
 		"zpos""5001"
-		"wide""16"
+		"wide""30"
 		"tall""13"
 		"font""NewIcons12"
 		"textAlignment""west"
@@ -181,7 +213,7 @@
 		"keyboardinputenabled""0"
 		"actionsignallevel""2"
 		"RoundedCorners""0"
-
+		"pin_to_sibling"		"bgg3"
 				"sound_depressed"	"sound_menu/button.wav"
 				"sound_released"	"sound_menu/button2.wav"
 
@@ -191,43 +223,6 @@
 			armedFgColor_override		"A_ColorTheme1"
 		"paintbackground""0"
 	}
-	"StatusLabel"
-	{
-		"ControlName"		"CExImageButton"
-		"fieldName"			"StatusLabel"
-		"xpos""0"
-		"ypos""0"
-		"zpos""5001"
-		"wide""35"
-		"tall""13"
-		"visible""1"
-		"enabled""1"
-		"font""CustomPrimero"
-		"textAlignment""west"
-		"command""engine showconsole;exec cc_cfg/clear3; status;exec cc_cfg/clear3; tv_status;exec cc_cfg/clear3; version"
-		"proportionaltoparent""1"
-		"labeltext""Status"
-		"mouseinputenabled""1"
-		"keyboardinputenabled""0"
-		"actionsignallevel""2"
-		"RoundedCorners""0"
-
-				"sound_depressed"	"sound_menu/button.wav"
-				"sound_released"	"sound_menu/button2.wav"
-
-		"defaultBgColor_override""Blank"
-
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"A_ColorTheme1"
-			"pin_to_sibling" "StatusIcon"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		"paintbackground""0"
-		"image_drawcolor""Tanlight"
-		"image_armedcolor""Tanlight"
-	}	
-
-
 
 
 
@@ -237,10 +232,10 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ReloadIcon"
-		"xpos""rs1-215"
+		"xpos""0"
 		"ypos""0"
 		"zpos""5001"
-		"wide""16"
+		"wide""30"
 		"tall""13"
 		"font""NewIcons12"
 		"textAlignment""west"
@@ -251,7 +246,7 @@
 		"keyboardinputenabled""0"
 		"actionsignallevel""2"
 		"RoundedCorners""0"
-
+		"pin_to_sibling"		"bgg4"
 				"sound_depressed"	"sound_menu/button.wav"
 				"sound_released"	"sound_menu/button2.wav"
 
@@ -261,62 +256,10 @@
 			armedFgColor_override		"A_ColorTheme1"
 		"paintbackground""0"
 	}
-	"ReloadLabel"
-	{
-		"ControlName"		"CExImageButton"
-		"fieldName"			"ReloadLabel"
-		"xpos""0"
-		"ypos""0"
-		"zpos""5001"
-		"wide""40"
-		"tall""13"
-		"visible""1"
-		"enabled""1"
-		"font""CustomPrimero"
-		"textAlignment""west"
-		"command""engine hud_reloadscheme"
-		"proportionaltoparent""1"
-		"labeltext""Reload"
-		"mouseinputenabled""1"
-		"keyboardinputenabled""0"
-		"actionsignallevel""2"
-		"RoundedCorners""0"
-
-				"sound_depressed"	"sound_menu/button.wav"
-				"sound_released"	"sound_menu/button2.wav"
-
-		"defaultBgColor_override""Blank"
-
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"A_ColorTheme1"
-			"pin_to_sibling" "ReloadIcon"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		"paintbackground""0"
-		"image_drawcolor""Tanlight"
-		"image_armedcolor""Tanlight"
-	}	
 
 
 
 
-			"full"						{			ControlName				ImagePanel			FieldName				
-			"full"
-		"xpos"			"rs1"
-		"zpos"			"-10"
-		"wide"			"f0"
-		"tall"			"13"
-			fillColor				"tandarker"					
-	}	
-
-			"full2"						{			ControlName				ImagePanel			FieldName				
-			"full2"
-		"ypos"			"13"
-		"zpos"			"9999"
-		"wide"			"f0"
-		"tall"			"1"
-			fillColor				"0 0 0 255"					
-	}
 	"TopBar"
 	{
 		"ControlName"	"EditablePanel"
@@ -383,10 +326,10 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"rs1-80"//95
+			"xpos"			"rs1-60"//95
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"25"
+			"wide"			"30"
 			"tall"			"13"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
@@ -810,7 +753,7 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"36"
+			"wide"			"30"
 			"tall"			"13"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
@@ -841,25 +784,9 @@
 			"defaultFgColor_override" "W_ColorIcons1"
 			"armedFgColor_override" "W_CerrarArmed"
 			"depressedFgColor_override" "W_ColorTexto1"
-
-			"image_drawcolor"	"Tanlight"
-			"image_armedcolor"	"Tanlight"
-
 			"SubImage"
 			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"cs-0.5"
-				"ypos"			"rs1-5"
-				"zpos"			"1"
-				"wide"			"0"
 				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
-				"image"			"glyph_quit"
-				"drawcolor_override" "Tanlight"
 			}
 		}
 
@@ -870,14 +797,14 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"p0.045"
-			"tall"			"18"
+			"wide"			"30"
+			"tall"			"13"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"NewIcons18"
+			"font"			"NewIcons12"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -904,33 +831,16 @@
 			"armedFgColor_override" "W_CerrarArmed"
 			"depressedFgColor_override" "W_ColorTexto1"
 
-			"image_drawcolor"	"Tanlight"
-			"image_armedcolor"	"Tanlight"
+
 
 			"SubImage"
 			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"6"
-				"ypos"			"rs1-5"
-				"zpos"			"1"
-				"wide"			"0"
 				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
-				"image"			"glyph_disconnect"
-				"drawcolor_override" "Tanlight"
 			}
 		}
 
 		"ResumeButton"
 		{
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"100"
-			"wide"			"0"
 			"tall"			"0"
 		}
 
@@ -938,10 +848,10 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton"
-			"xpos"			"rs1-35"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"35"
+			"wide"			"20"
 			"tall"			"14"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
@@ -949,7 +859,7 @@
 			//"enabled"		"1"
 			"tabPosition"	"0"
 			font					"NewIcons9"
-			textAlignment			center
+			textAlignment			west
 			labeltext				"Z"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -972,24 +882,9 @@
 
 			"fgcolor"			"W_ColorIcons1"
 			
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"A_ColorTheme1"
-
 			"SubImage"
 			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"6"
-				"ypos"			"10"
-				"zpos"			"1"
-				"wide"			"0"
 				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
-				"image"			"glyph_multiplayer"
-				"drawcolor_override" "Tanlight"
 			}
 		}
 	}

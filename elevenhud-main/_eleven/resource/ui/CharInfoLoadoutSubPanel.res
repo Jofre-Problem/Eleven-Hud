@@ -4,7 +4,7 @@
 #base "../ui2/polybar_1.res"
 //#base "../#jofre/blur_bg.res"
 //#base "../#jofre/charbg.res"
-#base "../ui3/tank.res"
+#base "../ui2/tank.res"
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 //#base "../../#customization/resource/ui/summersale_border.res"
@@ -47,8 +47,8 @@
 		textinsety				-2		// tune icon position
 
 		Command				"loadout scout"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"vo/scout_go01.mp3"
 		
@@ -68,8 +68,8 @@
 		ypos					0
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -97,8 +97,8 @@
 		ypos					0
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -127,8 +127,8 @@
 		ypos					0
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -159,8 +159,8 @@
 		"ypos"							"60+55"
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -192,8 +192,8 @@
 		textAlignment			center
 		
 		Command				"loadout engineer"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"	
@@ -216,8 +216,8 @@
 		ypos					0
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"	
@@ -248,8 +248,8 @@
 		ypos					0
 		"wide"							"54"
 		"tall"							"100"
-					"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+					"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -279,8 +279,8 @@
 		ypos					0
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -325,8 +325,8 @@
 		sound_released			"sound_menu/button2.wav"
 			
 		paintbackground			0
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -343,8 +343,8 @@
 		"ypos"							"0"
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"	
@@ -374,8 +374,8 @@
 		"ypos"							"250+55"
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"		
@@ -400,8 +400,8 @@
 		"ypos"							"0"
 		"wide"							"54"
 		"tall"							"100"
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"				
@@ -439,8 +439,8 @@
 				
 
 		paintbackground			0
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 
 			defaultFgColor_override		"W_ColorTheme1"
 		armedFgColor_override		"W_ColorTheme2Blur"
@@ -460,7 +460,7 @@
 		"ypos"							"0"
 		"wide"							"f0"
 		"tall"							"f0"
-		"zpos"							"500"
+		"zpos"							"5000"
 		"visible"						"0"
 	}
 
@@ -601,10 +601,6 @@
 		labelText				"&0"
 		Command				"backpack"
 	}
-
-	// #endregion
-	
-	// #region DISABLED 
 
 	"scout"
 	{

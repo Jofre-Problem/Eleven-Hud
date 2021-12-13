@@ -51,7 +51,7 @@
 		////"enabled"		"0"
 		
 		//"paintbackground"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"SendButton"
 	{

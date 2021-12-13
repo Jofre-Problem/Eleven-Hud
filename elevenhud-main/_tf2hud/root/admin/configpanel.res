@@ -108,7 +108,7 @@
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"GraphsButton"
 	{
@@ -144,7 +144,7 @@
 		//////"tabPosition"		"5"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"LogsButton"
 	{

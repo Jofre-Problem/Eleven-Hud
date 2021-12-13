@@ -65,7 +65,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}

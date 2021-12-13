@@ -1,5 +1,5 @@
 #base "../ui2/testgradient.res"
-#base "../ui3/tank.res"
+#base "../ui2/tank.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
 		"testg"
@@ -16,11 +16,11 @@
 		"font"			"Future18"
 		"labelText"		"#ClassBeingEquipped"
 		//"textAlignment"	"west"
-		"xpos"			"115"
-		"ypos"			"90"
+		"xpos"			"25"
+		"ypos"			"20"
 		"zpos"			"10"
 		"wide"			"240"
-		"tall"			"25"
+		"tall"			"20"
 	}	
 	"ClassLabelS"
 	{
@@ -32,8 +32,8 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"9"
-		"wide"			"241"
-		"tall"			"26"
+		"wide"			"242"
+		"tall"			"21"
 		"fgcolor_override"	"Black"
 		"pin_to_sibling"	"ClassLabel"
 	}					
@@ -54,9 +54,9 @@
 
 		paintbackground				0
 		
-		"item_xpos_offcenter_a"	"-315"//"-420"
-		"item_xpos_offcenter_b"	"-210"//"280"
-		"item_ydelta"	"76"
+		"item_xpos_offcenter_a"	"-405"//"-420"
+		"item_xpos_offcenter_b"	"-335"//"280"
+		"item_ydelta"	"40"
 		"item_mod_wide"	"20"
 		
 		"item_backpack_offcenter_x"		"0"
@@ -64,7 +64,7 @@
 
 
 
-		"item_ypos"		"120"	//loadout btn position bruh
+		"item_ypos"		"45"	//loadout btn position bruh
 	//	"item_backpack_ydelta"			"-90"
 
 
@@ -79,12 +79,12 @@
 			"ControlName"	"CItemModelPanel"
 			"xpos"			"c-70"
 			"ypos"			"270"
-			"wide"			"100"
-			"tall"			"70"
+			"wide"			"70"
+			"tall"			"40"
 			"visible"		"0"
-			"bgcolor"		"NotoBlack"
-			"bgcolor_override"		"NotoBlack"
-			"noitem_textcolor"		"NotoWhite"
+			"bgcolor"		"32 32 32 255"
+			"bgcolor_override"		"32 32 32 255"
+			"noitem_textcolor"		"220 220 220 255"
 			"PaintBackgroundType"	"0"
 			"PaintBackground"	"0"
 			"paintborder"	"1"
@@ -92,8 +92,8 @@
 			
 			"model_center_x"	"1"
 			"model_ypos"		"5"			
-			"model_tall"		"55"
-			"model_wide"		"82"
+			"model_tall"		"30"
+			"model_wide"		"50"
 			"text_ypos"			"254"
 			"text_center"		"1"
 			"name_only"			"1"
@@ -200,29 +200,23 @@
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"paintbackground"	"0"
 	}
 
 	"CharacterLoadoutButton"
 	{
 		ControlName					CExButton
 		fieldName					"CharacterLoadoutButton"
-		xpos							cs-0.5-15		// align with preset C
-		ypos							105
+		xpos							cs-0.5-30		// align with preset C
+		ypos							70
 		zpos							2
-		wide							30
+		wide							50
 		tall							22
 		visible						1
 		enabled						1
 
-		labeltext					"="
-		font							"NewIcons18"
-		textAlignment				center
+		labeltext					"ITEMS"
+		font							"Future12"
+		textAlignment				east
 
 		Command						"characterloadout"
 		
@@ -240,17 +234,17 @@
 	{
 		ControlName					CExButton
 		fieldName					"TauntLoadoutButton"
-		xpos							0		// align with preset C
+		xpos							5
 		ypos							0
 		zpos							2
-		wide							30
+		wide							50
 		tall							22
 		visible						1
 		enabled						1
 		
-		labelText					"`"
-		font							"NewIcons18"
-		textAlignment				center
+		labelText					"TAUNTS"
+		font							"Future12"
+		textAlignment				west
 		
 		Command						"tauntloadout"
 				
@@ -267,20 +261,14 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"RedTeamButton"
-		xpos							rs1-30		// align with preset C
-		ypos							60
-		"zpos"				"30"
+		xpos							cs-0.5		// align with preset C
+		ypos							0
+		"zpos"				"5000"
 		"wide"				"20"
-		"tall"				"20"
-		"autoResize"		"1"
-		"pinCorner"			"2"
-		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
+		"tall"				"13"
 		"labelText"			"O"
 		"textAlignment"		"center"
-		"scaleImage"		"1"
-		"font"				"NewIcons18"
+		"font"				"NewIcons12"
 		"command"			"sv_cheats 1; r_skin 0"
 		"fgcolor"					"red"
 		"defaultFgColor_override" 	"red"
@@ -298,18 +286,13 @@
 		"fieldName"			"BlueTeamButton"
 		"xpos"				"0"
 		"ypos"				"0"
-		"zpos"				"30"
+		"zpos"				"4000"
 		"wide"				"20"
-		"tall"				"20"
-		"autoResize"		"1"
-		"pinCorner"			"2"
-		"visible"			"1"
-		"enabled"			"1"
+		"tall"				"13"
 		"tabPosition"		"0"
 		"labelText"			"O"
 		"textAlignment"		"center"
-		"scaleImage"		"1"
-		"font"				"NewIcons18"
+		"font"				"NewIcons12"
 		"command"			"sv_cheats 1; r_skin 1"
 		"fgcolor"					"blue"
 		"defaultFgColor_override" 	"blue"

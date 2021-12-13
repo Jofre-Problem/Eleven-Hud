@@ -32,7 +32,7 @@
 			wide					74
 			tall					10
 			labelText				"#Valve_Spray_Logo"
-			font					"Noto8"
+			font					"CustomPrimero"
 			textAlignment			center
 			"pin_to_sibling"	"PANEL_Spray"
 		}		
@@ -86,7 +86,7 @@
 			wide					74
 			tall					20
 			labelText				"#TF_delete_temp_files"
-			font					"Noto8"
+			font					"CustomPrimero"
 			"centerwrap"	"1"
 			textAlignment			center
 			"pin_to_sibling"	"Label1Spray"

@@ -162,7 +162,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"actionstart"
@@ -180,7 +180,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"ActionStartType"
@@ -197,8 +197,8 @@
 		
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"ZoomFOV"
@@ -216,7 +216,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"ZoomOut"
@@ -234,7 +234,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"ZoomIn"
@@ -252,7 +252,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"ZoomHold"
@@ -270,7 +270,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"ZoomSpline"

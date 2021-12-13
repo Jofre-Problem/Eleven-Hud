@@ -149,7 +149,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothEndFrame"
@@ -167,7 +167,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothPreviewOriginal"
@@ -637,7 +637,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothSaveKey"
@@ -676,7 +676,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 	}
 	"DemoSmoothGoto"

@@ -275,7 +275,7 @@
 		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -313,7 +313,7 @@
 		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -374,7 +374,7 @@
 		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}

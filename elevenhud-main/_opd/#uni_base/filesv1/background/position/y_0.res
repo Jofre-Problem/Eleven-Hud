@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Background"
-	{
-	//	"ypos"	"0"
-	}
+"Background"
+{
+//"ypos""0"
+}
 }

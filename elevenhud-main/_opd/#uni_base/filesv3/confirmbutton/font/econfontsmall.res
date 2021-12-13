@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		"font"		"EconFontSmall"
-	}	
-}	
+"ConfirmButton"
+{
+"font""EconFontSmall"
+}
+}

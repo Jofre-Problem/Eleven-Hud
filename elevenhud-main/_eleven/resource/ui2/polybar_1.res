@@ -3,7 +3,7 @@
 			"polybar1bg"						{			ControlName				ImagePanel			FieldName				
 			"polybar1bg"
 		"xpos"			"0"
-		"ypos"			"1"
+		"ypos"			"0"
 		"zpos"				3000
 		"wide"			"10"
 		"tall"			"13"
@@ -34,7 +34,7 @@
 		"xpos"			"0"
 		"ypos"			"0"	
 		"zpos"			"1001"
-		"wide"			"112"//"p0.131"
+		"wide"			"108"//"p0.131"
 		"tall"			"13"
 			fillColor				"PolybarTheme2"		
 	"pin_to_sibling"	"polybar1bg"

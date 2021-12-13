@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"InfoLabel"
-	{
-		"labelText"		"#GameUI_ParseBaseline"
-	}	
-}	
+"InfoLabel"
+{
+"labelText""#GameUI_ParseBaseline"
+}
+}

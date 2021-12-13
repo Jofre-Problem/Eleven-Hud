@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"Cancel"
-	{
-		"textAlignment"		"center"
-	}
+"Cancel"
+{
+"textAlignment""center"
+}
 }

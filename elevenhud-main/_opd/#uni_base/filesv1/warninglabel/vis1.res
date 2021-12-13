@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
-{	
-	"WarningLabel"
-	{
-		"visible"		"1"
-	}
+{
+"WarningLabel"
+{
+"visible""1"
+}
 }

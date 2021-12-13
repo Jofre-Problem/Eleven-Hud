@@ -1,7 +1,7 @@
 "Resource/label_vac.res"
 {
-	"LoadingDialog"
-	{
-		"settitlebarvisible"		"1"
-	}
-}	
+"LoadingDialog"
+{
+"settitlebarvisible""1"
+}
+}

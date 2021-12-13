@@ -40,7 +40,7 @@
 		//////"tabPosition"		"1"
 		//"textHidden"		"1"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"ServerNameLabel"
 	{

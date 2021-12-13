@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"CancelButton"
-	{
-		"textAlignment"		"west"
-	}
+"CancelButton"
+{
+"textAlignment""west"
+}
 }

@@ -1,10 +1,10 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"SubImage"
-		{
-			"ypos"			"0"			
-		}				
-	}	
-}	
+"CloseButton"
+{
+"SubImage"
+{
+"ypos""0"
+}
+}
+}

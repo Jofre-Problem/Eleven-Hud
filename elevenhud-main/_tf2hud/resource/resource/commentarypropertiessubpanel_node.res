@@ -30,7 +30,7 @@
 		//"tabPosition"		"1"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -70,8 +70,8 @@
 		"enabled"		"0"
 		//"tabPosition"		"2"
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -112,7 +112,7 @@
 		//"tabPosition"		"3"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -132,7 +132,7 @@
 		//"tabPosition"		"4"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -191,8 +191,8 @@
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -211,8 +211,8 @@
 		"enabled"		"0"
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -252,7 +252,7 @@
 		////test1//"tabPosition"		"11"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -272,7 +272,7 @@
 		//"tabPosition"		"12"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -543,7 +543,7 @@
 		//"tabPosition"		"5"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}
@@ -619,7 +619,7 @@
 		//"tabPosition"		"6"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}
@@ -638,7 +638,7 @@
 		//"tabPosition"		"7"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}
@@ -676,7 +676,7 @@
 		//"tabPosition"		"8"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}
@@ -695,7 +695,7 @@
 		//"tabPosition"		"9"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}
@@ -714,7 +714,7 @@
 		//"tabPosition"		"10"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}

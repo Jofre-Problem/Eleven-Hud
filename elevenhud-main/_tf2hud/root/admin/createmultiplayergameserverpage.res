@@ -29,8 +29,8 @@
 		
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"NetworkCombo"
@@ -47,8 +47,8 @@
 		
 		//////"tabPosition"		"4"
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"NumPlayers"
@@ -65,8 +65,8 @@
 		
 		//////"tabPosition"		"5"
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"MODCombo"
@@ -83,8 +83,8 @@
 		
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"StartButton"
@@ -163,7 +163,7 @@
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"ServerNameLabel"
@@ -276,7 +276,7 @@
 		//////"tabPosition"		"7"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"rconpassword_label"
@@ -332,7 +332,7 @@
 		//////"tabPosition"		"6"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 		//"NumericInputOnly"		"1"
 	}
 }

@@ -1,7 +1,7 @@
 "friends/AddFriendResultSubPanel.res"
 {
-	"NameLabel"
-	{
-		"tall"		"20"
-	}
+"NameLabel"
+{
+"tall""20"
+}
 }

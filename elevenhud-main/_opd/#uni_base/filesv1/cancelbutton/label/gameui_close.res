@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"CancelButton"
-	{
-		"labelText"		"#GameUI_Close"
-	}
+"CancelButton"
+{
+"labelText""#GameUI_Close"
+}
 }

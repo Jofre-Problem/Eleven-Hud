@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"font"		"HudFontSmall"
-	}	
-}	
+"OKButton"
+{
+"font""HudFontSmall"
+}
+}

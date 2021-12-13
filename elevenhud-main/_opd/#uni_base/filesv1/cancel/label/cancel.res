@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"Cancel"
-	{
-		"labelText"		"#GameUI_Cancel"
-	}
+"Cancel"
+{
+"labelText""#GameUI_Cancel"
+}
 }

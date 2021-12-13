@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Button1"
-	{
-		"textAlignment"		"west"
-	}
+"Button1"
+{
+"textAlignment""west"
+}
 }

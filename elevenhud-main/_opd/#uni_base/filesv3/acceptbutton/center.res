@@ -1,11 +1,11 @@
 "friends/AddFriendResultSubPanel.res"
 {
-	"AcceptButton"
-	{
-		"textAlignment"	"center"
-	}
-	"DeclineButton"
-	{
-		"textAlignment"	"center"
-	}	
+"AcceptButton"
+{
+"textAlignment""center"
+}
+"DeclineButton"
+{
+"textAlignment""center"
+}
 }

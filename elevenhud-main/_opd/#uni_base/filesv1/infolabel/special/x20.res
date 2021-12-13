@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"InfoLabel"
-	{
-		"xpos"		"20"
-	}	
-}	
+"InfoLabel"
+{
+"xpos""20"
+}
+}

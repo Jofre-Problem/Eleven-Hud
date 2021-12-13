@@ -109,7 +109,7 @@
 			"defaultBgColor_override"	"46 43 42 255"
 			"paintbackground"	"0"
 			"activeborder_override"	"OutlinedGreyBox"
-			"normalborder_override" "OutlinedDullGreyBox"
+			"normalborder_override" "B_CIcons1"
 		}
 	}
 	

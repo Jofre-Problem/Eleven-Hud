@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CancelButton"
-	{
-		"font"		"defaultSmall"
-	}	
-}	
+"CancelButton"
+{
+"font""defaultSmall"
+}
+}

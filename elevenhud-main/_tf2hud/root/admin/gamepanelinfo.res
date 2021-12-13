@@ -119,8 +119,8 @@
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"ServerIPText"
@@ -137,8 +137,8 @@
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"PlayersText"
@@ -155,8 +155,8 @@
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"UptimeText"
@@ -173,8 +173,8 @@
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 }

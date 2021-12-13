@@ -31,7 +31,7 @@
 		
 		
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 	}
 }

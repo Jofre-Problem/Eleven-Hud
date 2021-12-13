@@ -1,10 +1,10 @@
 //#base "../#jofre/motd-list.res"
 //#base "../#jofre/motd-code.res"
 //#base "../#jofre/training maps.txt"
-#base "../#jofre/workshop.res"
+//#base "../#jofre/workshop.res"
 //#base "matchmakingpingpanel.res"
 
-#base "../#jofre/nobar.res"		//always activated
+//#base "../#jofre/nobar.res"		//always activated
 //#base "../#jofre/safe-mode.res"
 #base "statsummary.res"
 "Resource/SteamWorkshopDialog.res"

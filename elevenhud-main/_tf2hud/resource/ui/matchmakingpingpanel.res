@@ -83,7 +83,7 @@
 		"font"			"HudFontSmallest"
 		"keyboardinputenabled"	"0"
 
-		"editable"		"0"
+		//"editable"		"0"
 		"bgcolor_override"	"0 0 0 255"
 		"fgcolor_override"	"TanLight"
 		"disabledFgColor_override" "TanLight"

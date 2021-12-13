@@ -30,7 +30,7 @@
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"mp_fraglimitlabel"
@@ -62,7 +62,7 @@
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 
@@ -96,7 +96,7 @@
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"mp_friendlyfire"
@@ -169,7 +169,7 @@
 		//////"tabPosition"		"6"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"sv_maxratelabel"
@@ -201,7 +201,7 @@
 		//////"tabPosition"		"7"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"sv_voiceenable"

@@ -276,7 +276,7 @@
 		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -407,8 +407,8 @@
 		
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -665,8 +665,8 @@
 		"labelText"		"Triage"
 		//"tabPosition"		"3"
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -684,8 +684,8 @@
 		
 		//"tabPosition"		"4"
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -703,8 +703,8 @@
 		
 		//"tabPosition"		"5"
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -722,8 +722,8 @@
 		
 		//"tabPosition"		"6"
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -741,8 +741,8 @@
 		
 		//"tabPosition"		"7"
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}
@@ -761,8 +761,8 @@
 		//"editable"		"1"
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"
 	}

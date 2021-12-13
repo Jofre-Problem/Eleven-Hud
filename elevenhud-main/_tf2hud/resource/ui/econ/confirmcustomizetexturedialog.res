@@ -357,7 +357,7 @@
 					"zpos"		"-1"
 					"wide"		"140"
 					"tall"		"15"
-					"editable"		"0"
+					//"editable"		"0"
 					"font"			"HudFontSmall"
 
 					//"fgcolor_override"	"TanLight"
@@ -467,7 +467,7 @@
 					"zpos"		"-1"
 					"wide"		"140"
 					"tall"		"15"
-					"editable"		"0"
+					//"editable"		"0"
 					"font"			"HudFontSmall"
 					"visible"	"0"
 
@@ -597,7 +597,7 @@
 						"zpos"		"-1"
 						"wide"		"140"
 						"tall"		"15"
-						"editable"		"0"
+						//"editable"		"0"
 						"font"			"HudFontSmall"
 
 						//"fgcolor_override"	"TanLight"

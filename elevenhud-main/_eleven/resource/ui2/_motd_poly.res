@@ -126,7 +126,6 @@
 			"wide"			"60"
 			"tall"			"18"
 		labelText				"Servers"
-		font					"Noto12"
 			textAlignment			west
 		
 			command				"OpenServerBrowser"
@@ -165,7 +164,6 @@
 		"wide"			"40"
 		"tall"			"18"
 		labelText				"Settings"
-		font					"Noto12"
 		textAlignment			west
 		
 			command				"OpenOptionsDialog"
@@ -208,7 +206,6 @@
 		"wide"			"40"
 		"tall"			"18"
 		labelText				"Loadout"
-		font					"Noto12"
 		textAlignment			west
 		textinsety		"1+p0.08"
 			command				"engine open_charinfo; hideconsole"

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"mapinfo"
-	{
-		"fieldName"		"mapinfo"
-	}
-}	
+"mapinfo"
+{
+"fieldName""mapinfo"
+}
+}

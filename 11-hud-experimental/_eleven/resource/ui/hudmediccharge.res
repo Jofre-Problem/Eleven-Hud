@@ -1,1 +1,0 @@
-#base "../ui3/hudmediccharge_magnum.res"

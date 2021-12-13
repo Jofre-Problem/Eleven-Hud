@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"InfoLabel"
-	{
-		"wide"		"64"
-	}	
-}	
+"InfoLabel"
+{
+"wide""64"
+}
+}

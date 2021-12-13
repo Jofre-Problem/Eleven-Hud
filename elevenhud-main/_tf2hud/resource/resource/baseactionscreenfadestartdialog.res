@@ -131,7 +131,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"actionstart"
 	{
@@ -148,7 +148,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"ActionStartType"
 	{
@@ -164,8 +164,8 @@
 		
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 	}
 	"ScreenFadeDuration"
 	{
@@ -182,7 +182,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"ScreenFadeHoldTime"
 	{
@@ -199,7 +199,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"ScreenFadeFFADE_IN"
 	{
@@ -311,7 +311,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"Label1"
 	{

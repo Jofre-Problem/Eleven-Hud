@@ -37,7 +37,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"20"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 	}
 
@@ -51,7 +51,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"20"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 	}
 
@@ -65,7 +65,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 	}
 
@@ -78,7 +78,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 
 		//"fgcolor_override"	"TanLight"
@@ -100,7 +100,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 	}
 
@@ -113,7 +113,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 
 		//"fgcolor_override"	"TanLight"
@@ -135,7 +135,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 	}
 
@@ -148,7 +148,7 @@
 		"zpos"		"-1"
 		"wide"		"170"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"			"HudFontSmall"
 
 		//"fgcolor_override"	"TanLight"
@@ -303,7 +303,7 @@
 		"zpos"		"-1"
 		"wide"		"140"
 		"tall"		"15"
-		"editable"		"0"
+		//"editable"		"0"
 		"font"		"HudFontSmall"
 	}
 

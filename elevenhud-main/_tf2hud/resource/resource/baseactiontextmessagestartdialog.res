@@ -131,7 +131,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"actionstart"
 	{
@@ -148,7 +148,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"ActionStartType"
 	{
@@ -164,8 +164,8 @@
 		
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 	}
 	"TextMessageFadeInTime"
 	{
@@ -182,7 +182,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageFadeOutTime"
 	{
@@ -199,7 +199,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageHoldTime"
 	{
@@ -216,7 +216,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageFXTime"
 	{
@@ -233,7 +233,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageText"
 	{
@@ -250,7 +250,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageFont"
 	{
@@ -267,7 +267,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageX"
 	{
@@ -284,7 +284,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageY"
 	{
@@ -301,7 +301,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageColor1"
 	{
@@ -318,7 +318,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageColor2"
 	{
@@ -335,7 +335,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"TextMessageEffect"
 	{
@@ -351,8 +351,8 @@
 		
 		
 		//"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 	}
 	"Label1"
 	{

@@ -51,7 +51,7 @@
 		"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
-		"font"					"Noto10"
+		"font"					"CustomPrimero"
 		"mouseinputenabled"		"0"
 		"fgcolor_override"		"W_ColorIcons1"	
 	}

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label6"
-	{
-		"visible"		"0"
-	}	
-}	
+"Label6"
+{
+"visible""0"
+}
+}

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label5"
-	{
-		"textAlignment"		"center"
-	}	
-}	
+"Label5"
+{
+"textAlignment""center"
+}
+}

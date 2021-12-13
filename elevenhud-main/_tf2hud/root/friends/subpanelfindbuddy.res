@@ -15,7 +15,7 @@
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"FirstNameEdit"
 	{
@@ -32,7 +32,7 @@
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"LastNameEdit"
 	{
@@ -49,7 +49,7 @@
 		//////"tabPosition"		"4"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"EmailEdit"
 	{
@@ -66,7 +66,7 @@
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"LastNameText"
 	{

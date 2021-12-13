@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"ConfirmDialog"
-	{
-		"xpos"			"c-162"
-	}
+"ConfirmDialog"
+{
+"xpos""c-162"
+}
 }

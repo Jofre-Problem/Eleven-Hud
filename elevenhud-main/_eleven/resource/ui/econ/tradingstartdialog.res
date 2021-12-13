@@ -16,7 +16,7 @@
 		"bgcolor_override"		"Blank"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	""
-		"border"				"GrayDialogBorder"
+		"border"				"B_BArmed"
 		"paintborder"			"0"
 		
 		"button_kv"

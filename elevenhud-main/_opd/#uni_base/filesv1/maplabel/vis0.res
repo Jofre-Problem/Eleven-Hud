@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapLabel"
-	{
-		"visible"		"0"
-	}	
-}	
+"MapLabel"
+{
+"visible""0"
+}
+}

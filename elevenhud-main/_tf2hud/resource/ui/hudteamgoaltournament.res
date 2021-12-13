@@ -95,7 +95,7 @@
 			"labeltext"		""
 			//"textAlignment"		"west"
 			"font"			"HudFontSmallest"
-			"maxchars"		"-1"
+			//"maxchars"		"-1"
 		}
 
 		"HudStopWatchObjectiveShadedBar"
@@ -132,7 +132,7 @@
 			"labeltext"		""
 			//"textAlignment"		"west"
 			"font"			"HudFontSmallest"
-			"maxchars"		"-1"
+			//"maxchars"		"-1"
 		}
 	}	
 

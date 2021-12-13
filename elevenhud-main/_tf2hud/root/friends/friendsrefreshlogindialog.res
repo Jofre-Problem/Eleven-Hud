@@ -48,7 +48,7 @@
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"PasswordEdit"
@@ -66,7 +66,7 @@
 		//////"tabPosition"		"1"
 		//"textHidden"		"1"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 		////"NumericInputOnly"		"0"
 	}
 	"LoginButton"

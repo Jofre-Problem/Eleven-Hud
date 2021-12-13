@@ -7,15 +7,36 @@
 
 "Resource/UI/CharInfoPanel.res"
 {
+			"panel"		{	ControlName		EditablePanel		FieldName
+		"panel"
+		"xpos"			"122"
+		"ypos"			"0"
+		"zpos"		"3999"
+		"wide"			"170"
+		"tall"			"13"
+		"slash1"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash1"
+			"font"			"NewIcons20"
+			"labelText"		"È"
+			"textAlignment"		"west"
+			"xpos" 			"-5"
+			"ypos"			"0"	"zpos"			"4001"
+			"wide"			"30"
+			"tall"			"13"
+			
+			"fgcolor"		"PolybarTheme2"	
+		}	
 		"polyleft1"		{	ControlName		ImagePanel		FieldName
 		"polyleft1"
-		"xpos"			"100"
+		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"		"1000"
-		"wide"			"p0.155"
+		"zpos"		"3999"
+		"wide"			"110"
 		"tall"			"13"
 			fillColor				"129 129 169 255"
-		
+		"pin_to_sibling"	"slash1"
 	}	
 		"polybar4slash"		{			"ControlName"		"CExLabel"		"fieldName"	
 			"polybar4slash"
@@ -24,33 +45,36 @@
 			"textAlignment"		"west"
 			"xpos" 			"0"
 			"ypos"			"0"
-			"zpos"			"1"
+			"zpos"			"4000"
 			"wide"			"30"
 			"tall"			"13"
 			"zpos"		"2000"
 			"fgcolor"		"129 129 169 255"
 "pin_to_sibling"	"polyleft1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+	}			
 	}	
+
 		"icon1"		{			"ControlName"		"CExLabel"		"fieldName"	
 			"icon1"
-			"font"			"NewIcons9"
+			"font"			"NewIcons12"
 			"labelText"		"Ë"
 			"textAlignment"		"west"
-			"xpos" 			"145"
+			"xpos" 			"142"
 			"ypos"			"0"
+			"zpos"		"4000"
 			"wide"			"18"
+			"textInsetY"	1
 			"tall"			"13"
-			"zpos"		"2000"
 			"fgcolor"		"W_ColorIcons1"
 }						
 	"Slider"
 	{
 		"ControlName"		"CCvarSlider"
 		"fieldName"		"Slider"
-		"xpos"		"170"
-		"ypos"		"0" //18
+		"xpos"		"165"
+		"ypos"		"2" //18
 		"wide"		"70"
-		"tall"		"12"
+		"tall"		"10"
 		"zpos"		"4000"
 		"leftText"		""
 		"rightText"		""
@@ -159,72 +183,6 @@
 		alpha					0
 	}
 
-	// #endregion
-
-	// #region DISABLED 
-
-	"frame_caption"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_topGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_bottomGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_leftGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_rightGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_tlGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_trGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-
-	"frame_blGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
-	
-	"frame_brGrip"
-	{
-		fieldName		"frame_caption"
-		xpos			9999
-		visible		0
-	}
 	"BackSC"			// straight to main menu
 	{
 		ControlName				CExButton

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		"ypos"		"185"
-	}	
-}	
+"ConfirmButton"
+{
+"ypos""185"
+}
+}

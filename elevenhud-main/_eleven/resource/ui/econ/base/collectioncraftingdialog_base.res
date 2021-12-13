@@ -213,7 +213,7 @@
 			"paintbackgroundtype"	"1"
 			"proportionaltoparent"	"1"
 
-			"border"				"GrayDialogBorder"
+			"border"				"B_BArmed"
 		}
 	}
 

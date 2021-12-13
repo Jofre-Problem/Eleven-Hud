@@ -12,23 +12,37 @@
 		ControlName			CExButton
 		fieldName			"CloseShortcut"
 		wide				0
-		labelText			"&E"
+		labelText			"&Q"
 		Command			"close"
-	}			
+	}	
+	"icon"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"icon"
+		"font"			"NewIcons12"
+		"labelText"		"ô"
+		"textAlignment"		"center"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"3000"
+		"wide"			"20"
+		"tall"			"13"
+		"fgcolor_override" "W_ColorIcons1"
+	}					
 	"CancelButton2"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton2"
 		"xpos"			"0"
-		"ypos"			"80"
+		"ypos"			"rs1"
 		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"15"
+		"wide"			"p0.5"
+		"tall"			"13"
 		
 		//"pinCorner"			"3"
 		//"visible"		"1"
-		
-		
+		"defaultBgColor_override"	"Tandarker"
+		"paintbackground"	"1"
 		"labelText"		"n"
 		"font"			"NewIcons12"
 		"textAlignment"	"center"
@@ -43,11 +57,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"OkButton2"
-		"xpos"			"0"
-		"ypos"			"cs-0.5"
+		"xpos"			"rs1"
+		"ypos"			"rs1"
 		"zpos"			"1"
-		"wide"			"25"
-		"tall"			"25"
+		"wide"			"p0.5"
+		"tall"			"13"
 		
 		//"pinCorner"			"3"
 		//"visible"		"1"
@@ -62,6 +76,7 @@
 		"Command"		"Ok"
 		"sound_depressed"	"sound_menu/button.wav"
 		"sound_released"	"sound_menu/button2.wav"
+		"defaultBgColor_override"	"Tandarker"
 	}	
 	"TFAdvancedOptionsDialog"
 	{
@@ -79,7 +94,7 @@
 		"settitlebarvisible"						""
 		"PaintBackgroundType"						"0"
 		"paintbackground"							"1"
-		"bgcolor_override"							"blank"
+		"bgcolor_override"							"0 0 0 150"
 		"border"									"noborder"
 		
 		"control_w"									"500"
@@ -87,47 +102,17 @@
 		"slider_w"									"500"
 		"slider_h"									"25"
 	}
-	"Background2"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Background2"
-		"xpos"		"cs-0.5"
-		"ypos"		"0"
-		"zpos"		"0"
-		"wide"		"p0.6"
-		"tall"		"f0"
-		"tabPosition"		"0"
-		"paintbackgroundType"	"0"
-		"bgcolor_override"	"TanDarker"
-		"proportionalToParent"	"1"
-	//	"border"		"Rice1"		
-	}	
-	"Background3"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Background3"
-		"xpos"		0
-		"ypos"		"0"
-		"zpos"		"0"
-		"wide"		"f0"
-		"tall"		"70"
-		"tabPosition"		"0"
-		"paintbackgroundType"	"0"
-		"bgcolor_override"	"TanDarker"
-		"proportionalToParent"	"1"
-	//	"border"		"OutlinedGreyBox"		
-	}		
 	"Lista"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Lista"
 		"xpos"		"0"
-		"ypos"		"18"
+		"ypos"		"13"
 		"zpos"		"200"
 		"wide"		"f0-15"
 		"tall"		"50"
 		"paintbackgroundType"	"0"
-		"bgcolor_override"	"64 64 64 255"
+		"bgcolor_override"	"64 64 64 0"
 		"proportionalToParent"	"1"	
 		"PartySlot0"
 		{
@@ -142,67 +127,21 @@
 			"mouseinputenabled"			"1"
 			"keyboardinputenabled"		"0"
 			"party_slot"				"0"
-		}		
-		"AmmoNoClip"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"AmmoNoClip"
-			"font"			"Future30"
-			"fgcolor"		"255 127 0 255"
-			"xpos"			"52"
-			"ypos"			"0"
-			"zpos"			"3"
-			"wide"			"f0"
-			"tall"			"50"
-			"textAlignment"	"west"	
-			"labelText"		"Welcome Back!"	
-		}				
-			"Luz"
-			{
-			"ControlName""ImagePanel"
-			"fieldName""Luz"
-			"xpos""r60"
-			"ypos""4"
-			"zpos""7"
-			"wide""45"
-			"tall""o1"
-			"visible""1"
-			"enabled""1"
-			"scaleImage""1"
-			"image""replay/thumbnails/l4d2/l4d_spinner"
-			"fgcolor""TanDark"
-			}			
-	}	
-	"TopBarShadow"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"TopBarShadow"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"f0"
-		"tall"			"10"
-		"visible"		"1"
-		//"enabled"		"1"
-		"scaleImage"	"1"
-		"image"			"replay/thumbnails/bottom_shadow"
-		pin_to_sibling			"Lista"
-		pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
+		}	
 	}
 	"PanelListPanel"
 	{
 		"xpos"		"cs-0.5"
-		"ypos"		"70"
+		"ypos"		"20"
 		"zpos"		"20"
 		"wide"		"480"
-		"tall"		"370"
+		"tall"		"390"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"0 0 0 160"
 	}
 	
 	"TooltipPanel"

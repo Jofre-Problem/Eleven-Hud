@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapNameLabel"
-	{
-		"textAlignment"	"center"
-	}	
-}	
+"MapNameLabel"
+{
+"textAlignment""center"
+}
+}

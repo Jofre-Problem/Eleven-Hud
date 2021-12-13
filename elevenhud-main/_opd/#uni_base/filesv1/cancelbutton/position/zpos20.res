@@ -1,7 +1,7 @@
 "Resource/label_vac.res"
 {
-	"CancelButton"
-	{
-		"zpos"		"20"
-	}
-}	
+"CancelButton"
+{
+"zpos""20"
+}
+}

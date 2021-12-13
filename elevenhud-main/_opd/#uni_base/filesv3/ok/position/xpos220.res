@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Ok"
-	{
-		"xpos"			"220"
-	}	
-}	
+"Ok"
+{
+"xpos""220"
+}
+}

@@ -71,7 +71,7 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"paintbackground"				"0"
-		"border"						"OutlinedDullGreyBox"
+		"border"						"B_CIcons1"
 	}
 	
 	"ArmoryLabel"
@@ -122,7 +122,7 @@
 		"tall"							"20"
 		"visible"						"1"
 		"enabled"						"1"
-		"border"						"GrayDialogBorder"
+		"border"						"B_BArmed"
 		
 		"pin_to_sibling" 				"FilterComboBox"
 	}
@@ -228,8 +228,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override"		"White"
 		
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 		
 		"pin_to_sibling" 				"ItemsBG"
 		"pin_corner_to_sibling" 		"PIN_CENTER_LEFT"
@@ -301,7 +301,7 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"paintbackground"				"0"
-		"border"						"GrayDialogBorder"
+		"border"						"B_BArmed"
 		
 		"pin_to_sibling" 				"ItemsBG"
 		"pin_corner_to_sibling" 		"PIN_TOPLEFT"
@@ -432,8 +432,8 @@
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 		
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 		
 		"defaultFgColor_override" 		"White"
 		"armedFgColor_override" 		"White"
@@ -469,8 +469,8 @@
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 		
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 		
 		"defaultFgColor_override" 		"White"
 		"armedFgColor_override" 		"White"
@@ -508,8 +508,8 @@
 		"sound_depressed"				"UI/buttonclick.wav"
 		"sound_released"				"UI/buttonclickrelease.wav"
 		
-				"border_default"				"OutlinedDullGreyBox"
-		"border_armed"					"GrayDialogBorder"
+				"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"
 		
 		"defaultFgColor_override" 		"White"
 		"armedFgColor_override" 		"White"

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"selected"		"1"
-	}	
-}	
+"OKButton"
+{
+"selected""1"
+}
+}

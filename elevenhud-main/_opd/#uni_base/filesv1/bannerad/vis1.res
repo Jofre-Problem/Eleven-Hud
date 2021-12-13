@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"BannerAd"
-	{
-		"visible"		"1"
-	}
-}	
+"BannerAd"
+{
+"visible""1"
+}
+}

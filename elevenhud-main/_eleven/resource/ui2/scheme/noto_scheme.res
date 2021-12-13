@@ -728,16 +728,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		"NotoBoldNum38"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold Numbers"
-				"tall"		"36"
-				"additive"  "0"
-				"antialias"	"1"
-			}
-		}
+
 		"NotoBold40"
 		{
 			"1"

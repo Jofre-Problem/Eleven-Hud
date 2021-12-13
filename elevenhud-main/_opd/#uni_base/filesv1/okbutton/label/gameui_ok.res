@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"labelText"		"#GameUI_Ok"
-	}	
-}	
+"OKButton"
+{
+"labelText""#GameUI_Ok"
+}
+}

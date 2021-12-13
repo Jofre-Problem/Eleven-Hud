@@ -1,7 +1,7 @@
 "Resource/CommentaryItem.res"
 {
-	"DeleteButton"
-	{
-		//"pinCorner"		"0"
-	}
-}	
+"DeleteButton"
+{
+//"pinCorner""0"
+}
+}

@@ -1,7 +1,7 @@
 "Resource/obj_dispenser.res"
 {
-	"Image"
-	{
-		"visible"		"1"
-	}	
-}	
+"Image"
+{
+"visible""1"
+}
+}

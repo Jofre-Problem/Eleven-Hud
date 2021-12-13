@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"StartButton"
-	{
-		"wide"		"75"
-	}	
-}	
+"StartButton"
+{
+"wide""75"
+}
+}

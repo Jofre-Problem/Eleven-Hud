@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label6"
-	{
-		//"pinCorner"		"0"
-	}	
-}	
+"Label6"
+{
+//"pinCorner""0"
+}
+}

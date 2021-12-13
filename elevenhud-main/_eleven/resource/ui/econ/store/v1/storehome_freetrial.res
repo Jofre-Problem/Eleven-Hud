@@ -290,7 +290,7 @@
 		"wide"			"325"
 		"tall"			"260"
 		"visible"		"0"
-		"border"		"GrayDialogBorder"
+		"border"		"B_BArmed"
 		
 		"TitleBG"
 		{

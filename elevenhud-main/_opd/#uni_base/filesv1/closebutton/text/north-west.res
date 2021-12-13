@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"textAlignment"		"north-west"
-	}	
-}	
+"CloseButton"
+{
+"textAlignment""north-west"
+}
+}

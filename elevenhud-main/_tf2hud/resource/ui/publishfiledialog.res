@@ -304,7 +304,7 @@
 		//"tabPosition"		"1"
 		"labelText"			"#TF_PublishFile_NoFileSelected"
 		//"textHidden"		"0"
-		"editable"		"0"
+		//"editable"		"0"
 		"maxchars"		"256"
 		//"NumericInputOnly"		"0"
 		//"unicode"		"0"

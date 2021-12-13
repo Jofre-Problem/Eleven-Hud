@@ -43,8 +43,8 @@
 		////"enabled"		"0"
 		
 		////"textHidden"		"0"
-		////"editable"		"0"
-		////"maxchars"		"-1"
+		//////"editable"		"0"
+		//////"maxchars"		"-1"
 	}
 	"TextEntry"
 	{
@@ -61,7 +61,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 		//"unicode"		"1"
 	}
 	"SendBtn"

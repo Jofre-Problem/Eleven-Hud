@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"MapLabel"
-	{
-		//"autoResize"		"0"
-	}	
-}	
+"MapLabel"
+{
+//"autoResize""0"
+}
+}

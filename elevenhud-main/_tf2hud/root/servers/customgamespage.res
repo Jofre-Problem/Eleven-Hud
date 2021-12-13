@@ -189,8 +189,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -209,8 +209,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -230,7 +230,7 @@
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -250,7 +250,7 @@
 		"paintbackground"		"1"
 		"textHidden"		"0"
 		"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -269,8 +269,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -289,8 +289,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -441,8 +441,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -508,8 +508,8 @@
 		"tabPosition"		"0"
 		"paintbackground"		"1"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -535,7 +535,7 @@
 		"tabPosition"		"0"
 		"textHidden"		"0"
 		"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}
@@ -555,8 +555,8 @@
 		//"enabled"		"1"
 		"tabPosition"		"0"
 		"textHidden"		"0"
-		"editable"		"0"
-		"maxchars"		"-1"
+		//"editable"		"0"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"0"
 		"unicode"		"0"
 	}

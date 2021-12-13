@@ -43,7 +43,7 @@
 		"visible"		"0"
 		
 		
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"label"
 	{

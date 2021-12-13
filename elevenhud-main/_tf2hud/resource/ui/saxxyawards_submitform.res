@@ -80,7 +80,7 @@
 		////"dulltext"		"0"
 		//"brighttext"	"0"
 		//"tabPosition"	"10"
-		"editable"		"0"
+		//"editable"		"0"
 		"fgcolor_override"		"0 0 0 255"
 		"bgcolor_override"		"202 190 164 255"
 		"Font"			"HudFontSmallest"

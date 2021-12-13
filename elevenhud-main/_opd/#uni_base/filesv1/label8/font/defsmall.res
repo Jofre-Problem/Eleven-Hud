@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label8"
-	{
-		"font"		"defaultSmall"
-	}	
-}	
+"Label8"
+{
+"font""defaultSmall"
+}
+}

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"mapinfo"
-	{
-		//"tabposition"	"0"
-	}
-}	
+"mapinfo"
+{
+//"tabposition""0"
+}
+}

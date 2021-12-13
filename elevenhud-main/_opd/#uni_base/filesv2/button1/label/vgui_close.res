@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Button1"
-	{
-		"labelText"		"#vgui_close"
-	}
+"Button1"
+{
+"labelText""#vgui_close"
+}
 }

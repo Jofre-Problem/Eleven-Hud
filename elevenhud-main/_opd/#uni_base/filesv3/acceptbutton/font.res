@@ -1,11 +1,11 @@
 "friends/AddFriendResultSubPanel.res"
 {
-	"AcceptButton"
-	{
-		"font"			"HudFontSmallest"
-	}
-	"DeclineButton"
-	{
-		"font"			"HudFontSmallest"
-	}
+"AcceptButton"
+{
+"font""HudFontSmallest"
+}
+"DeclineButton"
+{
+"font""HudFontSmallest"
+}
 }

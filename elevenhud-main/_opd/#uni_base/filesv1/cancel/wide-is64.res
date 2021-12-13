@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"Cancel"
-	{
-		"wide"		"64"
-	}
+"Cancel"
+{
+"wide""64"
+}
 }

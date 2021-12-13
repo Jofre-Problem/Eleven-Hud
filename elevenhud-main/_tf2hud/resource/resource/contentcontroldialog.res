@@ -97,7 +97,7 @@
 		//"tabPosition"		"1"
 		"textHidden"		"1"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"Password2"
 	{
@@ -114,7 +114,7 @@
 		//"tabPosition"		"2"
 		"textHidden"		"1"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"Ok"
 	{

@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"labelText"		"#CraftNameConfirm"
-	}	
-}	
+"OKButton"
+{
+"labelText""#CraftNameConfirm"
+}
+}

@@ -15,27 +15,22 @@
 		"tall"			"f0"
 		"border"	"noborder"
 
-		"polybar1bg"						{			ControlName				ImagePanel			FieldName				
+		"polybar1bg"			{			ControlName				ImagePanel			FieldName				
 		"polybar1bg"
 		"xpos"			"0"
 		"ypos"			"rs1"
-		"wide"			"p0.2"
-		"tall"			"18"
-			fillColor				"224 175 104 255"
-	}			
-		"polybar1slash"		{			"ControlName"		"CExLabel"			"fieldName"		"polybar1slash"
-			"font"			"NewIcons20"
-			"labelText"		"È"
-			"textAlignment"		"west"
-			"xpos" 			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"30"
-			"tall"			"18"
-			
-			"fgcolor"		"224 175 104 255"
-"pin_to_sibling"	"polybar1bg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
-	}				
+		"wide"			"f0"
+		"tall"			"13"
+			fillColor				"tandarker"
+		}	
+			"full2"						{			ControlName				ImagePanel			FieldName				
+			"full2"
+		"ypos"			"r13"
+		"zpos"			"9999"
+		"wide"			"f0"
+		"tall"			"1"
+			fillColor				"0 0 0 255"
+	}					
 		"BoxDemo"						{			ControlName				ImagePanel			FieldName				
 		"BoxDemo"
 		"xpos"			"cs-0.5"
@@ -70,48 +65,6 @@
 			
 			"paintbackground"							"0"
 			"pin_to_sibling"	"BoxDemo"		
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_ColorTheme1"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
-		}
-
-		"BoxConsole"						{			ControlName				ImagePanel			FieldName				
-		"BoxConsole"
-		"xpos"			"10"
-		"ypos"			"0"
-		"wide"			"70"
-		"tall"			"30"
-			fillColor				"80 161 79 255"
-					"pin_to_sibling"	"BoxDemo"
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
-	}	
-		"BoxConsole2"						{			ControlName				ImagePanel			FieldName				
-		"BoxConsole2"
-		"wide"			"70"
-		"tall"			"5"
-			"pin_to_sibling"	"BoxConsole"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_BOTTOMLEFT"			
-			fillColor				"64 64 64 255"
-	}
-	"ConsoleU"	{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"ConsoleU"
-			"zpos"										"20"
-			"wide"										"70"
-			"tall"										"30"
-			labelText				"Console"
-			font					"CustomSegundo"
-			textAlignment			center
-			command				"engine con_enable 1; toggleconsole"
-			"actionsignallevel"	"2"
-		
-			"sound_depressed"							"sound_menu/button.wav"
-			"sound_released"							"sound_menu/button2.wav"
-			
-			"paintbackground"							"0"
-			"pin_to_sibling"	"BoxConsole"		
 			"defaultFgColor_override"					"W_ColorIcons1"
 			"armedFgColor_override" 					"W_ColorTheme1"
 			"depressedFgColor_override" 				"W_ColorIcons1"			
@@ -167,7 +120,7 @@
 		"ypos"				"rs1-5"
 		"zpos"				"1"
 		"wide"				"140"
-		"tall"				"30"
+		"tall"				"0"//"30"
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"../logo/new_tf2_logo"
@@ -226,6 +179,7 @@
 		"ControlName"	"CExImageButton"
 			"fieldName"		"UQuest"
 			"xpos"	"5"
+			"ypos"	"30"
 			"zpos"										"20"
 			"wide"										"35"
 			"tall"										"30"
@@ -239,8 +193,6 @@
 			"sound_released"							"sound_menu/button2.wav"
 			"border_default"	"Rice2"
 			"paintbackground"							"1"
-			"pin_to_sibling"	"Bar2"				"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
 			"defaultFgColor_override"					"W_ColorIcons1"
 			"armedFgColor_override" 					"TanDarker"
 			"depressedFgColor_override" 				"W_ColorIcons1"			
@@ -277,11 +229,11 @@
 	"BoxCenter"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenter"
-					"xpos"			"110"
+					"xpos"			"cs-0.5"
 		"ypos"			"rs1"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Õ"
 			font					"NewIcons11"
 			textAlignment			center
@@ -292,19 +244,17 @@
 			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
-			"pin_to_sibling"	"Box_Panel"
-			"pin_to_sibling_corner"	"PIN_CENTER_TOP"
-			"pin_corner_to_sibling"	"PIN_CENTER_TOP"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}
 	"BoxCenterRight1"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterRight1"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -318,16 +268,16 @@
 			"pin_to_sibling"	"BoxCenter"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}
 	"BoxCenterRight2"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterRight2"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -341,16 +291,16 @@
 			"pin_to_sibling"	"BoxCenterRight1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}
 	"BoxCenterRight3"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterRight3"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -364,16 +314,16 @@
 			"pin_to_sibling"	"BoxCenterRight2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}				
 	"BoxCenterLeft1"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterLeft1"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -387,16 +337,16 @@
 			"pin_to_sibling"	"BoxCenter"
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}	
 	"BoxCenterLeft2"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterLeft2"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -410,16 +360,16 @@
 			"pin_to_sibling"	"BoxCenterLeft1"
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}
 	"BoxCenterLeft3"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenterLeft3"
 			"zpos"										"20"
 			"wide"										"15"
-			"tall"										"18"
+			"tall"										"13"
 			labelText				"Ô"
 			font					"NewIcons11"
 			textAlignment			center
@@ -433,82 +383,27 @@
 			"pin_to_sibling"	"BoxCenterLeft2"
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_BorderArmed"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		defaultFgColor_override		"64 83 102 255"
+		armedFgColor_override		"W_ColorIcons1"
+		"depressedFgColor_override" "W_ColorIcons1"		
 		}		
-		"labbb"
+		"MOTD_Label"
 		{			"ControlName"	"cexLabel"
-			"fieldname"		"labbb"
+			"fieldname"		"MOTD_Label"
 			"font"			"SpectatorKeys"
 			"xpos"			"rs1-5"
-			"ypos"			"rs1"
+			"ypos"			"rs1-2"
 			"wide"			"100"
 			"textAlignment"	"center"
 			"textinsety"	"0"
 			"zpos""10"
 			"labelText"	"%motddate%"
-			"tall"			"8"
+			"tall"			"10"
+			"auto_wide_tocontents"	"1"
 			"fgcolor"		"W_ColorIcons1"
-			"bgcolor_override" "22 22 22 255"
+			"bgcolor_override" "PolybarTheme2"
 		}	
-		"FriendsContainer"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldname"		"FriendsContainer"
-			"xpos"			"rs1+1"
-			"ypos"			"80" //70 + 75
-			"zpos"			"20"
-			"wide"			"p0.22"
-			"tall"			"0"
-			"visible"		"1"
-
-			"bgcolor_override"		"0 0 0 0"
-
-			"SteamFriendsList"
-			{
-				"ControlName"	"CSteamFriendsListPanel"
-				"fieldname"		"SteamFriendsList"
-				"xpos"			"rs1"
-				"ypos"			"0"
-				"zpos"			"500"
-				"wide"			"f0"
-				"tall"			"100"
-				"visible"		"1"
-				"proportionaltoparent"	"1"
-
-				"columns_count"	"1"
-				"inset_x"		"0"
-				"inset_y"		"5"
-				"row_gap"		"5"
-				"column_gap"	"10"
-				"restrict_width"	"0"
-
-				"friendpanel_kv"
-				{
-					"wide"		"p0.22"
-					"tall"		"20"
-				}
-
-				"ScrollBar"
-				{
-					"ControlName"	"ScrollBar"
-					"FieldName"		"ScrollBar"
-					"xpos"			"rs1"
-					"ypos"			"0"
-					"tall"			"f0"
-					"wide"			"3-p0.004" // This gets slammed from client schme.  GG.
-					"zpos"			"1000"
-					"nobuttons"		"1"
-					"proportionaltoparent"	"1"
-
-					"Slider"
-					{
-						"fgcolor_override"	"255 255 255 255"
-					}
-				}
-			}
-		}		
+		
 		"MOTD_HeaderContainer"
 		{
 			"ControlName"	"EditablePanel"

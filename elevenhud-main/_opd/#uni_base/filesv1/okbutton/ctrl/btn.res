@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"OKButton"
-	{
-		"ControlName"		"Button"
-	}	
-}	
+"OKButton"
+{
+"ControlName""Button"
+}
+}

@@ -1,7 +1,7 @@
 "Resource/label_vac.res"
 {
-	"CancelButton"
-	{
-		"wide"		"260"
-	}
-}	
+"CancelButton"
+{
+"wide""260"
+}
+}

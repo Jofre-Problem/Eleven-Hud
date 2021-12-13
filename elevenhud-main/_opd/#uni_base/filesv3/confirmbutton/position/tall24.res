@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		"tall"		"24"
-	}	
-}	
+"ConfirmButton"
+{
+"tall""24"
+}
+}

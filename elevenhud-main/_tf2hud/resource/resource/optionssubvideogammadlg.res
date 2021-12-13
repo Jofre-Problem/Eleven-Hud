@@ -66,7 +66,7 @@
 		//"tabPosition"		"2"
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"NumericInputOnly"		"1"
 		//"unicode"		"0"
 	}

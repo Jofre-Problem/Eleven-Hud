@@ -156,7 +156,7 @@
 		"tall"			"24"
 		
 		////"visible"		"1"
-		"editable"		"0"
+		//"editable"		"0"
 	}
 	
 	"ProgressBackground" // dark box around progress bar and 'achievements earned' label

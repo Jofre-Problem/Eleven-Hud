@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Ok"
-	{
-		"tabPosition"		"0"
-	}	
-}	
+"Ok"
+{
+"tabPosition""0"
+}
+}

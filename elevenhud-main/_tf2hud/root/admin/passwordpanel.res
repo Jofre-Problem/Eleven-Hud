@@ -15,7 +15,7 @@
 		//////"tabPosition"		"1"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"Label1"
 	{
@@ -49,7 +49,7 @@
 		//////"tabPosition"		"2"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"Label2"
 	{
@@ -83,7 +83,7 @@
 		//////"tabPosition"		"3"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"Label3"
 	{
@@ -134,7 +134,7 @@
 		//////"tabPosition"		"4"
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 	"RemovePlayerPasswordCheck"
 	{

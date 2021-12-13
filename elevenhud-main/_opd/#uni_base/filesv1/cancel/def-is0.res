@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"Cancel"
-	{
-		"Default"		"0"
-	}
+"Cancel"
+{
+"Default""0"
+}
 }

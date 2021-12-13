@@ -1,7 +1,7 @@
 "Resource/CommentaryItem.res"
 {
-	"classimage"
-	{
-		"visible"	"1"
-	}
-}	
+"classimage"
+{
+"visible""1"
+}
+}

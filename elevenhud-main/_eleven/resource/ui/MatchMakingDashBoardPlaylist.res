@@ -28,7 +28,7 @@
 		"textAlignment"								"center"
 		"wrap"										"0"
 		"centerwrap"								"0"
-		"font"										"Noto48"
+		"font"										"CustomOctavo"
 		"fgcolor_override"							"White"
 		"alpha"										"10"
 		"AllCaps"									"1"

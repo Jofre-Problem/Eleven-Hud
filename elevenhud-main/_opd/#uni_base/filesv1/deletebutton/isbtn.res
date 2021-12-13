@@ -1,7 +1,7 @@
 "Resource/CommentaryItem.res"
 {
-	"DeleteButton"
-	{
-		"ControlName"		"Button"
-	}
-}	
+"DeleteButton"
+{
+"ControlName""Button"
+}
+}

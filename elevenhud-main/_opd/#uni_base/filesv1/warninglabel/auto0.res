@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
-{	
-	"WarningLabel"
-	{
-		//"autoResize"		"0"
-	}
+{
+"WarningLabel"
+{
+//"autoResize""0"
+}
 }

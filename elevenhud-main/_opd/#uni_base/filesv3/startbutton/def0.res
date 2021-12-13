@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"StartButton"
-	{
-		"default"		"0"
-	}	
-}	
+"StartButton"
+{
+"default""0"
+}
+}

@@ -38,9 +38,7 @@
 //	}	
 	"Background"
 	{
-		"ControlName"	"ScalableImagePanel"
-		"fieldName"		"Background"
-		"xpos"			"9999"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"f0"
@@ -194,71 +192,39 @@
 		}
 	}
 
-	"RankModelPanel"			// contains rank medal model; can't click it because CycleRankTypeButton is on 
+	"RankModelPanel"
 	{
-		ControlName				CPvPRankPanel
-		FieldName				"RankModelPanel"
-		xPos					0
 		yPos					-90
-		zPos					1090
-		wide					50				// needs top be bigger to not cut off spark particles
-		tall					o1
-
-		matchgroup				MatchGroup_Casual_12v12		// MatchGroup_Ladder_6v6 ?
-		show_progress			0					// check out!
-		// => resource\ui\PvPRankPanel.res
 	}
 
-	"CycleRankTypeButton"		// toggle between casual/comp medal (RankModelPanel) and stats (RankPanel)
+	"CycleRankTypeButton"
 	{
-		ControlName				CExButton
-		FieldName				"CycleRankTypeButton"
-		xPos					0
-		yPos					0
-		zpos					0
 		wide					0
-		tall					0
-		alpha					0
-
-		command				"open_rank_type_menu"
-		actionsignallevel			1
 	}
 	"RankTooltipPanel"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}
 
 	"CallVoteButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}
 	"MutePlayersButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}
 	"RequestCoachButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}	
 	"ReportPlayerButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}	
 	"WorkshopButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"alpha"			"0"
 	}			
 	"Workshop"		// open advanced options
 	{
@@ -300,30 +266,18 @@
 		"GeneralStoreButton"
 		{
 			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
 		}		
 		"TF2SettingsButton"
 		{
 			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
 		}			
 		"AchievementsButton"
 		{
 			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
 		}		
 		"SettingsButton"
 		{
 			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
 		}	
 	
 	"Notifications_ShowButtonPanel"	// notification alert
@@ -569,37 +523,22 @@
 	"NoGCImage"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
 	}	
 	"RankBorder"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
 	}
 	"WatchStreamButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
 	}
 	"VRBGPanel"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
 	}	
 	"VRModeButton"
 	{
 		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
 	}
 	"FriendsContainer"	
 	{
@@ -823,22 +762,6 @@
 		}
 	"RankPanel"
 	{
-		ControlName				CPvPRankPanel
-			xpos					0
-			ypos					0
 			wide					0	//f0
-			tall					f0
-			visible	"1"
-				matchgroup				MatchGroup_Casual_12v12		// check out!
-				show_model				1					// check out!
-				show_type				1
 	}	
-		
-	"StreamListPanel"		//this doesnt exist. however
-	{
-		wide							0
-		tall							0
-		visible							0
-	}	
-	// Background	
 }

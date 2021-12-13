@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label9"
-	{
-		"tabPosition"		"0"
-	}	
-}	
+"Label9"
+{
+"tabPosition""0"
+}
+}

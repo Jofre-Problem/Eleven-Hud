@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Background"
-	{
-		"wide"	"250"
-	}
+"Background"
+{
+"wide""250"
+}
 }

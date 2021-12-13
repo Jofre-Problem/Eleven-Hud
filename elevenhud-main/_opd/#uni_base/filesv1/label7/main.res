@@ -1,8 +1,8 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"Label7"
-	{
-		"fieldName"		"Label7"
-		"ControlName"	"Label"
-	}		
-}	
+"Label7"
+{
+"fieldName""Label7"
+"ControlName""Label"
+}
+}

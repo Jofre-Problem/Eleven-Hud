@@ -212,7 +212,7 @@
 			//"visible"		"1"
 			
 			
-			"maxchars"		"-1"
+			//"maxchars"		"-1"
 			"text"			""
 			"wrap"			"1"
 			"textAlignment"		"north-west"

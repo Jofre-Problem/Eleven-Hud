@@ -150,7 +150,7 @@
 		//"brighttext"	"0"
 		//"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
-		"editable"		"0"
+		//"editable"		"0"
 	}
 
 	"PlayVoice"
@@ -251,7 +251,7 @@
 		//"brighttext"	"0"
 		//"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
-		"editable"		"0"
+		//"editable"		"0"
 	}
 
 	"CodecLabel"
@@ -293,7 +293,7 @@
 		//"brighttext"	"0"
 		//"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
-		"editable"		"0"
+		//"editable"		"0"
 	}
 
 	"MotionBlurLabel"

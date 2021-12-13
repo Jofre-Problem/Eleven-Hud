@@ -31,7 +31,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 
@@ -65,7 +65,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"mp_fraglimitlabel"
@@ -98,7 +98,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 
@@ -133,7 +133,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"mp_friendlyfire"
@@ -207,7 +207,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"sv_maxratelabel"
@@ -240,7 +240,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 	"sv_voiceenable"
@@ -289,7 +289,7 @@
 		
 		////"textHidden"		"0"
 		//////"editable"		"1"
-		////"maxchars"		"-1"
+		//////"maxchars"		"-1"
 	}
 
 

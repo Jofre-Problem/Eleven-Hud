@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"LoadingDialog"
-	{
-		"ControlName"		"CLoadingDialog"
-	}
-}	
+"LoadingDialog"
+{
+"ControlName""CLoadingDialog"
+}
+}

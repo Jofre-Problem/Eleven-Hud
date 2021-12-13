@@ -107,7 +107,7 @@
 		
 		//"textHidden"		"0"
 		//"editable"		"1"
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 	}
 	"Primary Color Slider"
 	{

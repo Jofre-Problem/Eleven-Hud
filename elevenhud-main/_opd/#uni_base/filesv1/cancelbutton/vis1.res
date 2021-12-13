@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"CancelButton"
-	{
-		"visible"		"1"
-	}
+"CancelButton"
+{
+"visible""1"
+}
 }

@@ -1,7 +1,7 @@
 "Resource/baseaction_sys.res"
-{	
-	"WarningLabel"
-	{
-		//"pinCorner"		"0"
-	}
+{
+"WarningLabel"
+{
+//"pinCorner""0"
+}
 }

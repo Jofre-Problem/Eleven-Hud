@@ -28,7 +28,7 @@
 		
 		"wrap"			"1"
 		
-		"maxchars"		"-1"
+		//"maxchars"		"-1"
 		"textAlignment"		"north-west"
 	}
 	"option1"

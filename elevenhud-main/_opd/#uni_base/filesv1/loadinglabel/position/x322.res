@@ -1,7 +1,7 @@
 "Resource/label_vac.res"
 {
-	"LoadingDialog"
-	{
-		"xpos"		"332"
-	}
-}	
+"LoadingDialog"
+{
+"xpos""332"
+}
+}

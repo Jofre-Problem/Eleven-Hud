@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"ConfirmButton"
-	{
-		"command"		"close"
-	}
+"ConfirmButton"
+{
+"command""close"
+}
 }

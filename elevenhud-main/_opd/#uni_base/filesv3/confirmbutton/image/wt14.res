@@ -1,11 +1,11 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"ConfirmButton"
-	{
-		"SubImage"
-		{
-		"wide"			"14"
-		"tall"			"14"	
-		}				
-	}	
-}	
+"ConfirmButton"
+{
+"SubImage"
+{
+"wide""14"
+"tall""14"
+}
+}
+}

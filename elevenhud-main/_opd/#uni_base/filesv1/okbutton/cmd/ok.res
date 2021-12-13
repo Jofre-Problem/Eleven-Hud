@@ -1,7 +1,7 @@
 "Resource/PlayerListDialog.res"
 {
-	"OKButton"
-	{
-		"command"		"OK"
-	}
+"OKButton"
+{
+"command""OK"
+}
 }

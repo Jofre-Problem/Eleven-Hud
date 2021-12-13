@@ -1,8 +1,8 @@
 //takes priority
 "servers/InternetGamesPage.res"
 {
-	"Background"
-	{
-		"PaintBackgroundType"	"2"
-	}
+"Background"
+{
+"PaintBackgroundType""2"
+}
 }

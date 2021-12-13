@@ -3,15 +3,9 @@
 {
 	"MMDashboard"
 	{
-		"fieldName"				"MMDashboard"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"0"
-		"ypos"					"0"
 		"zpos"					"1003"
 		"wide"					"f0"
 		"tall"					"35"
-		"keyboardinputenabled"	"0"
 
 		"collapsed_height"	"0"
 		"expanded_height"	"35"

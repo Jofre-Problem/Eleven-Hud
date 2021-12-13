@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"visible"		"0"
-	}	
-}	
+"CloseButton"
+{
+"visible""0"
+}
+}

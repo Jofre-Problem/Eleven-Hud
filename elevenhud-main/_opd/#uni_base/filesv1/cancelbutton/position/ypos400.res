@@ -1,7 +1,7 @@
 "Resource/label_vac.res"
 {
-	"CancelButton"
-	{
-		"ypos"		"400"
-	}
-}	
+"CancelButton"
+{
+"ypos""400"
+}
+}

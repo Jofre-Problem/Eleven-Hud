@@ -6,11 +6,11 @@
 //dlc
 	#base "../../ui_overrides/resource/scheme/dlc/2.res"
 	#base "ui2/scheme/backpack.res"
-	#base "ui2/scheme/noto_scheme.res"
-	#base "ui2/scheme/magnum_scheme.res"
-	#base "ui2/scheme/cs_font.res"
-	#base "ui2/scheme/cs_font_weight.res"
+//	#base "ui2/scheme/noto_scheme.res"
+//	#base "ui2/scheme/cs_font.res"
+//	#base "ui2/scheme/cs_font_weight.res"
 	#base "../!sc/clientscheme.res"
+	#base "clientscheme2.res"
 	#base "clientscheme_unused.res"
 Scheme
 {
@@ -292,7 +292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+			//	"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias"	"1"
@@ -309,6 +309,16 @@ Scheme
 				"antialias" 	"1"
 			}
 		}  
+		"Regular12"
+		{
+			"1"
+			{
+				"name"		"Iosevka Term SS14"
+				"tall"		"10"
+				"wide"		"300"
+				"antialias" 	"1"
+			}
+		}  		
 		"Regular14"
 		{
 			"1"
@@ -414,7 +424,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"product sans" 
+			//	"name"		"product sans" 
 				"tall"		"13"
 				"weight"	"250"
 				"antialias" "1"
@@ -561,25 +571,7 @@ Scheme
 				"wide"		"300"
 			}
 		}	
-		"DamagetextShadow"
-		{
-			"1"
-			{
-				"name" "Open Sans Nodash"
-				"tall" "26"
-				"antialias"	"1"
-				"blur" "2"
-			}
-		}
-		"Damagetext"
-		{
-			"1"
-			{
-				"name" "Open Sans Nodash"
-				"tall" "26"
-				"antialias"	"1"
-			}
-		}
+
 		"CloseCaption_Normal"
 		{
 			"1"
@@ -610,7 +602,7 @@ Scheme
 				"tall"		"50"
 				"weight"	"500"
 				"Antialias" "1"
-				"italic"	"1"
+				"italic"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}		
@@ -673,17 +665,6 @@ Scheme
 		{
 			"inset" 			"0 0 0 0"
 			"backgroundtype"	"0"
-		}		
-		RiceRainbow
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"0"
-			
-			"image"					"replay/thumbnails/misc/winui1"
-			"src_corner_height"		"24"				// pixels inside the image
-			"src_corner_width"		"24"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
 		}		
 		Rice1
 		{
@@ -932,21 +913,8 @@ Scheme
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}		
-		
-		OutlinedGreyBox
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			"color" "W_ColorTheme1"   //
-			"offset" "0 0"
-			
-			"image"					"replay/thumbnails/panels/material_generic"
-			"src_corner_height"		"24"				// pixels inside the image
-			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"
-		}				
-		OutlinedDullGreyBox
+				
+		B_CIcons1
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -958,8 +926,8 @@ Scheme
 			"src_corner_width"		"24"
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"11"
-		}			
-		GrayDialogBorder
+		}						
+		B_BArmed
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -972,7 +940,6 @@ Scheme
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"11"
 		}	
-
 		
 
 
@@ -1066,11 +1033,11 @@ Scheme
 
 	CustomFontFiles
 	{
-		"91"
-		{
-			"font" "_eleven/font/Product Sans.ttf"
-			"name" "Product Sans"
-		}
+	//	"91"
+	//	{
+	//		"font" "_eleven/font/Product Sans.ttf"
+	//		"name" "Product Sans"
+	//	}
 	
 		"94"
 		{

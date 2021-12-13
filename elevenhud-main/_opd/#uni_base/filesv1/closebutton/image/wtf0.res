@@ -1,11 +1,11 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"SubImage"
-		{
-			"wide"			"f0"
-			"tall"			"f0"	
-		}				
-	}	
-}	
+"CloseButton"
+{
+"SubImage"
+{
+"wide""f0"
+"tall""f0"
+}
+}
+}

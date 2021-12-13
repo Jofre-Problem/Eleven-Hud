@@ -1,7 +1,7 @@
 "resource/BaseActionCDTrackStartDialog.res"
 {
-	"CloseButton"
-	{
-		"fieldName"		"CloseButton"
-	}		
-}	
+"CloseButton"
+{
+"fieldName""CloseButton"
+}
+}
