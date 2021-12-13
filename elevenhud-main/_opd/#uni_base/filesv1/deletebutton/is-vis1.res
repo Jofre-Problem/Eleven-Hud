@@ -3,5 +3,4 @@
 "DeleteButton"
 {
 "visible""1"
-}
-}
+}}

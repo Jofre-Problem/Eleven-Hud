@@ -3,5 +3,4 @@
 "MapLabel"
 {
 "ControlName""CExLabel"
-}
-}
+}}

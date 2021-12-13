@@ -3,5 +3,4 @@
 "RightSideBG"
 {
 "xpos""c-140"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "OKButton"
 {
 "labelText""#IT_OK"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "MapLabel"
 {
 "textAlignment""east"
-}
-}
+}}

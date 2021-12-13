@@ -3,5 +3,4 @@
 "Label2"
 {
 //"autoResize""0"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "Cancel"
 {
 "labelText""#GameUI_Cancel"
-}
-}
+}}

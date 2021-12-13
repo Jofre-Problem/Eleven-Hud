@@ -4,5 +4,4 @@
 "ConfirmDialog"
 {
 "ypos""140"
-}
-}
+}}

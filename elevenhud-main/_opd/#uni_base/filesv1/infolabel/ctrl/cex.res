@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "ControlName""CExLabel"
-}
-}
+}}

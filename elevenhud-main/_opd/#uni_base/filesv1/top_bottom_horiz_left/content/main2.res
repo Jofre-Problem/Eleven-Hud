@@ -7,7 +7,7 @@
 "wide""14"
 "tall""16"
 "labelText""94"
-}
+}}
 "topVertLeft"
 {
 "xpos""90"
@@ -15,7 +15,7 @@
 "wide""7"
 "tall""16"
 "labelText""2"
-}
+}}
 "bottomHorizRight"
 {
 "xpos""439"
@@ -23,7 +23,7 @@
 "wide""7"
 "tall""16"
 "labelText""2"
-}
+}}
 "bottomVertRight"
 {
 "xpos""484"
@@ -31,5 +31,4 @@
 "wide""7"
 "tall""16"
 "labelText""2"
-}
-}
+}}

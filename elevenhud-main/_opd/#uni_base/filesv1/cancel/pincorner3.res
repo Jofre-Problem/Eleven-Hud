@@ -3,5 +3,4 @@
 "Cancel"
 {
 "pinCorner""3"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "labelText""#vgui_ok"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "tabPosition""0"
-}
-}
+}}

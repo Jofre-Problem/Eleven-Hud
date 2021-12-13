@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 "wide""220"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "textAlignment""center"
-}
-}
+}}

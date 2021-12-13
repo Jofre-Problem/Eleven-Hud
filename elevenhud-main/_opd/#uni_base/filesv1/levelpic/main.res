@@ -8,7 +8,7 @@
 //"pinCorner""0"
 "visible""1"
 ////"enabled""1"
-}
+}}
 "LevelPic"
 {
 "ControlName""ImagePanel"
@@ -17,5 +17,4 @@
 //"pinCorner""0"
 "visible""1"
 ////"enabled""1"
-}
-}
+}}

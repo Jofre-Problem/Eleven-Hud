@@ -3,5 +3,4 @@
 "Label12"
 {
 //"pinCorner""0"
-}
-}
+}}

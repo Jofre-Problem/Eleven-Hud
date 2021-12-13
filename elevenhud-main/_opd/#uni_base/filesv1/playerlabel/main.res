@@ -3,5 +3,4 @@
 "PlayerLabel"
 {
 "fieldName""PlayerLabel"
-}
-}
+}}

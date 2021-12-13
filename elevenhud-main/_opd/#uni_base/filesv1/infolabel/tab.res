@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "tabPosition""0"
-}
-}
+}}

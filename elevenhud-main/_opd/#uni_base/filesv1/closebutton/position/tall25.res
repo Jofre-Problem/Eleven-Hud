@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "tall""25"
-}
-}
+}}

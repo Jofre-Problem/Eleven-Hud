@@ -3,5 +3,4 @@
 "OKButton"
 {
 "labelText""#vgui_ok"
-}
-}
+}}

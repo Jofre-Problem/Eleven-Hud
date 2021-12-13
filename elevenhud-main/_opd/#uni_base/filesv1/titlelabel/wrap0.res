@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 "wrap""0"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "dulltext""1"
-}
-}
+}}

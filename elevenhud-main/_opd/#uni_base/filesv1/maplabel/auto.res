@@ -3,5 +3,4 @@
 "MapLabel"
 {
 //"autoResize""0"
-}
-}
+}}

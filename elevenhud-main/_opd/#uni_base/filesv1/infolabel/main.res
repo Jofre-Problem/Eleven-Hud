@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "fieldName""InfoLabel"
-}
-}
+}}

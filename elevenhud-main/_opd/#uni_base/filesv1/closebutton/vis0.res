@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "visible""0"
-}
-}
+}}

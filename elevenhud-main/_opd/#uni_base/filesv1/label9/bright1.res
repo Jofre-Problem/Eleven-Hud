@@ -3,5 +3,4 @@
 "Label9"
 {
 "brighttext""1"
-}
-}
+}}

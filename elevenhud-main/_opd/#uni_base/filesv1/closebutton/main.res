@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "fieldName""CloseButton"
-}
-}
+}}

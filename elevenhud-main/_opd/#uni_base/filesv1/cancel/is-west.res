@@ -3,5 +3,4 @@
 "Cancel"
 {
 "textAlignment""west"
-}
-}
+}}

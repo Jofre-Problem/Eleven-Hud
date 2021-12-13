@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 //"autoResize""0"
-}
-}
+}}

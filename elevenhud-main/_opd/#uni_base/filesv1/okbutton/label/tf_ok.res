@@ -3,5 +3,4 @@
 "OKButton"
 {
 "labelText""#TF_OK"
-}
-}
+}}

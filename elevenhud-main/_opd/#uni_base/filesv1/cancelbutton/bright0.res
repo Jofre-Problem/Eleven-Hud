@@ -4,5 +4,4 @@
 "CancelButton"
 {
 //"brighttext""0"
-}
-}
+}}

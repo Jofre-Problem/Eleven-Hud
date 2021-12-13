@@ -4,5 +4,4 @@
 "CancelButton"
 {
 "visible""1"
-}
-}
+}}

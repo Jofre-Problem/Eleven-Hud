@@ -7,5 +7,4 @@
 //"ypos""0"
 //"enabled""1"
 "paintbackground""1"
-}
-}
+}}

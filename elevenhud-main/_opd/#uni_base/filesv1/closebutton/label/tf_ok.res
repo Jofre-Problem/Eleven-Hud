@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "labelText""#TF_OK"
-}
-}
+}}

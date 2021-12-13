@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "wide""75"
-}
-}
+}}

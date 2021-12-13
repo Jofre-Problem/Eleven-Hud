@@ -3,5 +3,4 @@
 "Label1"
 {
 "textAlignment""west"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "ControlName""Button"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "CancelButton"
 {
 "wide""260"
-}
-}
+}}

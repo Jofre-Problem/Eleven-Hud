@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 "fieldName""TitleLabel"
-}
-}
+}}

@@ -12,5 +12,4 @@
 //"tabposition""0"
 "textAlignment""west"
 "brighttext""0"
-}
-}
+}}

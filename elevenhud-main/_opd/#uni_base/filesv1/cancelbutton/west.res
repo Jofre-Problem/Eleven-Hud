@@ -4,5 +4,4 @@
 "CancelButton"
 {
 "textAlignment""west"
-}
-}
+}}

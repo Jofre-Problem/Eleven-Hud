@@ -4,5 +4,4 @@
 "Button1"
 {
 //"brighttext""0"
-}
-}
+}}

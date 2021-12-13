@@ -3,5 +3,4 @@
 "CancelButton"
 {
 "zpos""20"
-}
-}
+}}

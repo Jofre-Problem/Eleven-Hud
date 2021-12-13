@@ -4,5 +4,4 @@
 "CancelButton"
 {
 //"autoResize""0"
-}
-}
+}}

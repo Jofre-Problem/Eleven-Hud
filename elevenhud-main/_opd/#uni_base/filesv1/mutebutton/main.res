@@ -15,5 +15,4 @@
 //"brighttext""0"
 "Command""Mute"
 "Default""1"
-}
-}
+}}

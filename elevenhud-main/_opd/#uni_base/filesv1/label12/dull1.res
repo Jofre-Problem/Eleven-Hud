@@ -3,5 +3,4 @@
 "Label12"
 {
 "dulltext""1"
-}
-}
+}}

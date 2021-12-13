@@ -3,5 +3,4 @@
 "CloseButton"
 {
 //"autoResize""0"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "LoadingDialog"
 {
 "xpos""332"
-}
-}
+}}

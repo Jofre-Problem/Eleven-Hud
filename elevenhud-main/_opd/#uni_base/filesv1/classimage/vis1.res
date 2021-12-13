@@ -3,5 +3,4 @@
 "classimage"
 {
 "visible""1"
-}
-}
+}}

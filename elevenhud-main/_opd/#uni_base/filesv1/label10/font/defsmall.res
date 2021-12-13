@@ -3,5 +3,4 @@
 "Label10"
 {
 "font""defaultSmall"
-}
-}
+}}

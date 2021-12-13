@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "labelText""#GameUI_Ok"
-}
-}
+}}

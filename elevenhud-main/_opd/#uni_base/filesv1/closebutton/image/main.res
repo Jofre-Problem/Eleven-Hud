@@ -21,6 +21,5 @@
 "image""close_button"
 "scaleImage""1"
 "proportionaltoparent""1"
-}
-}
+}}
 }

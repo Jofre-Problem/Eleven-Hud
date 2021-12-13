@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "zpos""1"
-}
-}
+}}

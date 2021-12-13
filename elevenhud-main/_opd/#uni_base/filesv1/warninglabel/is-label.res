@@ -3,5 +3,4 @@
 "WarningLabel"
 {
 "controlname""Label"
-}
-}
+}}

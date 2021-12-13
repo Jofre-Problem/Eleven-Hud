@@ -4,5 +4,4 @@
 "ConfirmDialog"
 {
 "wide""400"
-}
-}
+}}

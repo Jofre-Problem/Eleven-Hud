@@ -14,7 +14,7 @@
 //"dulltext""0"
 //"brighttext""0"
 "Default""0"
-}
+}}
 "Maximize"
 {
 "ControlName""Button"
@@ -29,5 +29,4 @@
 //"dulltext""0"
 //"brighttext""0"
 "Default""0"
-}
-}
+}}

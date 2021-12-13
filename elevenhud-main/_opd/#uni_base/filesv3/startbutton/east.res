@@ -3,5 +3,4 @@
 "StartButton"
 {
 "textAlignment""east"
-}
-}
+}}

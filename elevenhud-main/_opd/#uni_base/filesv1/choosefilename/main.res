@@ -21,5 +21,4 @@
 "command""ChooseFile"
 "Default""0"
 "selected""0"
-}
-}
+}}

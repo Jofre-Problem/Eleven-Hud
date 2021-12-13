@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "labelText""#TF_OK"
-}
-}
+}}

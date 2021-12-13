@@ -3,5 +3,4 @@
 "MapLabel"
 {
 //"pinCorner""0"
-}
-}
+}}

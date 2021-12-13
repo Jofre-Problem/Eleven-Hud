@@ -3,5 +3,4 @@
 "BannerAd"
 {
 "visible""1"
-}
-}
+}}

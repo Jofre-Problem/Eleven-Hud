@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 //"pinCorner""0"
-}
-}
+}}

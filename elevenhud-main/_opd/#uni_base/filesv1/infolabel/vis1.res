@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "visible""1"
-}
-}
+}}

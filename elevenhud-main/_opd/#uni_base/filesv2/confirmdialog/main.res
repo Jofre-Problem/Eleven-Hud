@@ -12,5 +12,4 @@
 "tabPosition""0"
 "settitlebarvisible""0"
 "PaintBackgroundType""0"
-}
-}
+}}

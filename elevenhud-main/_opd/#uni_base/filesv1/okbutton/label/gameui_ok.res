@@ -3,5 +3,4 @@
 "OKButton"
 {
 "labelText""#GameUI_Ok"
-}
-}
+}}

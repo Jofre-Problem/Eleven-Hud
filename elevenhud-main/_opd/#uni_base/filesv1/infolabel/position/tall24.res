@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "tall""24"
-}
-}
+}}

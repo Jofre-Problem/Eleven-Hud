@@ -3,5 +3,4 @@
 "OKButton"
 {
 "textAlignment""east"
-}
-}
+}}

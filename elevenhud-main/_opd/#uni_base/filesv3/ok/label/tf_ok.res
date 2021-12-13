@@ -3,5 +3,4 @@
 "Ok"
 {
 "labelText""#TF_OK"
-}
-}
+}}

@@ -4,5 +4,4 @@
 "Button1"
 {
 "labelText""#GameUI_OK"
-}
-}
+}}

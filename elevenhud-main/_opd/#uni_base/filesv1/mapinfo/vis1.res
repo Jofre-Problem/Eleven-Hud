@@ -3,5 +3,4 @@
 "mapinfo"
 {
 "visible""1"
-}
-}
+}}

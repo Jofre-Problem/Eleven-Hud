@@ -3,5 +3,4 @@
 "LoadingDialog"
 {
 "settitlebarvisible""1"
-}
-}
+}}

@@ -4,5 +4,4 @@
 "CancelButton"
 {
 "labelText""#vgui_Cancel"
-}
-}
+}}

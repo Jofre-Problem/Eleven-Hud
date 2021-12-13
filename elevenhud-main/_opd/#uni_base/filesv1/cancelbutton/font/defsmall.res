@@ -3,5 +3,4 @@
 "CancelButton"
 {
 "font""defaultSmall"
-}
-}
+}}

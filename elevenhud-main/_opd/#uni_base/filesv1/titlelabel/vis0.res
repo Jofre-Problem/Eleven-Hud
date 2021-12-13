@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 "visible""0"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "MapLabel"
 {
 "labeltext""%maplabel%"
-}
-}
+}}

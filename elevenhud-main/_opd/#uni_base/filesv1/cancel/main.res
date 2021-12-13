@@ -12,5 +12,4 @@
 //"brighttext""0"
 "wrap""0"
 "selected""0"
-}
-}
+}}

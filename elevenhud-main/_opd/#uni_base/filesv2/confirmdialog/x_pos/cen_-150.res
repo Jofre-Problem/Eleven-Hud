@@ -4,5 +4,4 @@
 "ConfirmDialog"
 {
 "xpos""c-150"
-}
-}
+}}

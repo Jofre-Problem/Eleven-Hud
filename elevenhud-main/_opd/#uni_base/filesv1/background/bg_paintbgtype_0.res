@@ -4,5 +4,4 @@
 "Background"
 {
 "PaintBackgroundType""0"
-}
-}
+}}

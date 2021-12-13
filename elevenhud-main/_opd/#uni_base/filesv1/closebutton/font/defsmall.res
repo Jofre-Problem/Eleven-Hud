@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "font""defaultSmall"
-}
-}
+}}

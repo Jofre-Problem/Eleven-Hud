@@ -3,5 +3,4 @@
 "CancelButton"
 {
 "default""1"
-}
-}
+}}

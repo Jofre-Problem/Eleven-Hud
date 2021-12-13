@@ -4,5 +4,4 @@
 {
 "ControlName""ImagePanel"
 "scaleImage""1"
-}
-}
+}}

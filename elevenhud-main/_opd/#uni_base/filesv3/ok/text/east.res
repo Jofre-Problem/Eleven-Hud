@@ -3,5 +3,4 @@
 "Ok"
 {
 "textAlignment""east"
-}
-}
+}}

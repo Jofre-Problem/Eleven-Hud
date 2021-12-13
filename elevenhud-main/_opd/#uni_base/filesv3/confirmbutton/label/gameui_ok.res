@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "labelText""#GameUI_Ok"
-}
-}
+}}

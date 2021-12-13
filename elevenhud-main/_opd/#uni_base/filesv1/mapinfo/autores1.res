@@ -3,5 +3,4 @@
 "mapinfo"
 {
 "autoResize""1"
-}
-}
+}}

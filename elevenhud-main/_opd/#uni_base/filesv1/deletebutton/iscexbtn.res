@@ -3,5 +3,4 @@
 "DeleteButton"
 {
 "ControlName""CExButton"
-}
-}
+}}

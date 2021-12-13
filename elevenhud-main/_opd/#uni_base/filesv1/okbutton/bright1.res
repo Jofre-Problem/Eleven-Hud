@@ -3,5 +3,4 @@
 "OKButton"
 {
 "brighttext""1"
-}
-}
+}}

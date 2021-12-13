@@ -4,5 +4,4 @@
 "Background"
 {
 "image""../HUD/tournament_panel_brown"
-}
-}
+}}

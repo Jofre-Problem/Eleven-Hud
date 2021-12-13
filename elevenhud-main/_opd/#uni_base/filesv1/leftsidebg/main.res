@@ -11,6 +11,6 @@
 ////"enabled""1"
 "image""../hud/objectives_flagpanel_bg_left"
 "scaleImage""1"
-}
+}}
 
 }

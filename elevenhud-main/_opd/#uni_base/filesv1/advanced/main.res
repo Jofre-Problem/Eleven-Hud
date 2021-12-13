@@ -15,5 +15,4 @@
 //"brighttext""0"
 "Command""Advanced"
 "Default""0"
-}
-}
+}}

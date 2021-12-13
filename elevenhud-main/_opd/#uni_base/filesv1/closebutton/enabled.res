@@ -3,5 +3,4 @@
 "CloseButton"
 {
 ////"enabled""1"
-}
-}
+}}

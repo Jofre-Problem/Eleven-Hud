@@ -3,5 +3,4 @@
 "LoadingDialog"
 {
 "ypos""249"
-}
-}
+}}

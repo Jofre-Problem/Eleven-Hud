@@ -7,5 +7,4 @@
 "armedFgColor_override""Econ.Button.ArmedFgColor"
 "depressedBgColor_override""Econ.Button.DepressedBgColor"
 "depressedFgColor_override""Econ.Button.DepressedFgColor"
-}
-}
+}}

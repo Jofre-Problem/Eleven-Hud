@@ -4,5 +4,4 @@
 "Background"
 {
 "wide""f0"
-}
-}
+}}

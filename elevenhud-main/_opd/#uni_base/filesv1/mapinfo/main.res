@@ -3,5 +3,4 @@
 "mapinfo"
 {
 "fieldName""mapinfo"
-}
-}
+}}

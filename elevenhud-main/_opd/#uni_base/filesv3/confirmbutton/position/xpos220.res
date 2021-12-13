@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "xpos""220"
-}
-}
+}}

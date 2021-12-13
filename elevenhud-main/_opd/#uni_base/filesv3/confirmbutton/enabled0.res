@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "enabled""0"
-}
-}
+}}

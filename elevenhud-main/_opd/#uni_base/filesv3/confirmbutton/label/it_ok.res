@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "labelText""#IT_OK"
-}
-}
+}}

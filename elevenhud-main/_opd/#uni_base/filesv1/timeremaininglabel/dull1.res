@@ -3,5 +3,4 @@
 "TimeRemainingLabel"
 {
 "dulltext""1"
-}
-}
+}}

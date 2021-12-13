@@ -3,9 +3,8 @@
 "AcceptButton"
 {
 "textAlignment""center"
-}
+}}
 "DeclineButton"
 {
 "textAlignment""center"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "ClassImage"
 {
 "FieldName""ClassImage"
-}
-}
+}}

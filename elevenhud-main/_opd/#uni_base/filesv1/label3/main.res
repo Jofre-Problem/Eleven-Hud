@@ -4,5 +4,4 @@
 {
 "fieldName""Label3"
 "ControlName""Label"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "visible""1"
-}
-}
+}}

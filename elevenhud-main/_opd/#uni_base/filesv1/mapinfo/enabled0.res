@@ -3,5 +3,4 @@
 "mapinfo"
 {
 "enabled""0"
-}
-}
+}}

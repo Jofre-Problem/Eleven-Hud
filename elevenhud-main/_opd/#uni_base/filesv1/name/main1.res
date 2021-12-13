@@ -6,5 +6,4 @@
 "textHidden""0"
 "editable""1"
 "NumericInputOnly""0"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "MapLabel"
 {
 "visible""0"
-}
-}
+}}

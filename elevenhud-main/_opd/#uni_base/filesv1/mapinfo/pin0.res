@@ -3,5 +3,4 @@
 "mapinfo"
 {
 //"pinCorner""0"
-}
-}
+}}

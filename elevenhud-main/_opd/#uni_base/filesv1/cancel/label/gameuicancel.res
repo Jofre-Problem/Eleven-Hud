@@ -3,5 +3,4 @@
 "Cancel"
 {
 "labeltext""Cancel"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 "autoresize""1"
-}
-}
+}}

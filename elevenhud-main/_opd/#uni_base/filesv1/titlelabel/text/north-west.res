@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 "textAlignment""north-west"
-}
-}
+}}

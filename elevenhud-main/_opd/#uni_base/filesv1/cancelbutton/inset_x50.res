@@ -4,5 +4,4 @@
 "CancelButton"
 {
 "textinsetx""50"
-}
-}
+}}

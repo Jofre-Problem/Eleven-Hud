@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "dulltext""1"
-}
-}
+}}

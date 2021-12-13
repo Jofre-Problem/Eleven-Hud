@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "wide""64"
-}
-}
+}}

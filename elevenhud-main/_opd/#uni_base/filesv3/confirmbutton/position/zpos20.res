@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "zpos""20"
-}
-}
+}}

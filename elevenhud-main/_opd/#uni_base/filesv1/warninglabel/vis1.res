@@ -3,5 +3,4 @@
 "WarningLabel"
 {
 "visible""1"
-}
-}
+}}

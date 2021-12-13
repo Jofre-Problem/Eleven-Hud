@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "wrap""0"
-}
-}
+}}

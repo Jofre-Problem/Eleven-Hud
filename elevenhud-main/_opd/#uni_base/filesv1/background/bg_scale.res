@@ -4,5 +4,4 @@
 "Background"
 {
 "scaleImage""1"
-}
-}
+}}

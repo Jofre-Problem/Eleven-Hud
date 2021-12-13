@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "default""1"
-}
-}
+}}

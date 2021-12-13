@@ -3,5 +3,4 @@
 "TitleLabel"
 {
 //"brighttext""0"
-}
-}
+}}

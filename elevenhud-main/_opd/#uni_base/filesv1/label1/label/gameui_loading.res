@@ -3,5 +3,4 @@
 "Label1"
 {
 "labelText""#GameUI_LoadingDialog_ContentHosting"
-}
-}
+}}

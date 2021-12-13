@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "selected""1"
-}
-}
+}}

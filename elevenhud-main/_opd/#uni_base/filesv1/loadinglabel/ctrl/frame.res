@@ -3,5 +3,4 @@
 "LoadingDialog"
 {
 "ControlName""Frame"
-}
-}
+}}

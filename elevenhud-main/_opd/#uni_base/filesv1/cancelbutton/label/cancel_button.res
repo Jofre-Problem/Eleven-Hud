@@ -4,5 +4,4 @@
 "CancelButton"
 {
 "labelText""#Cancel_Button"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "TimeRemainingLabel"
 {
 "visible""0"
-}
-}
+}}

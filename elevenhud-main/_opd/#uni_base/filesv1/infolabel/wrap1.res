@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "wrap""1"
-}
-}
+}}

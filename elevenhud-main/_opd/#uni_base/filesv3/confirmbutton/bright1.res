@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "brighttext""1"
-}
-}
+}}

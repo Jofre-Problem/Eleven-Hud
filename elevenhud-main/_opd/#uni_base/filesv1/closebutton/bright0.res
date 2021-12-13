@@ -3,5 +3,4 @@
 "CloseButton"
 {
 //"brighttext""0"
-}
-}
+}}

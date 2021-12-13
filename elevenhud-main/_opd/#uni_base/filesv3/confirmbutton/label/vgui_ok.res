@@ -3,5 +3,4 @@
 "ConfirmButton"
 {
 "labelText""#vgui_ok"
-}
-}
+}}

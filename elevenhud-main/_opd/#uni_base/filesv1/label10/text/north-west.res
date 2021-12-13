@@ -3,5 +3,4 @@
 "Label10"
 {
 "textAlignment""north-west"
-}
-}
+}}

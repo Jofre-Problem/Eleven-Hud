@@ -4,5 +4,4 @@
 "Background"
 {
 "ControlName""ScalableImagePanel"
-}
-}
+}}

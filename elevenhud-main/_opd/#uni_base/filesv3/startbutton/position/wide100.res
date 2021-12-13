@@ -3,5 +3,4 @@
 "StartButton"
 {
 "wide""100"
-}
-}
+}}

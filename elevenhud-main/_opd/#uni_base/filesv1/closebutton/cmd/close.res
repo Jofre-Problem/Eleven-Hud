@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "command""close"
-}
-}
+}}

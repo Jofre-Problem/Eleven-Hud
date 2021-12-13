@@ -3,5 +3,4 @@
 "classimage"
 {
 "enabled""1"
-}
-}
+}}

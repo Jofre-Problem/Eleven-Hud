@@ -3,5 +3,4 @@
 "LoadingDialog"
 {
 "ControlName""CLoadingDialog"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "ControlName""Button"
-}
-}
+}}

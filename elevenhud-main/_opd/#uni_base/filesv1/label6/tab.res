@@ -3,5 +3,4 @@
 "Label6"
 {
 "tabPosition""0"
-}
-}
+}}

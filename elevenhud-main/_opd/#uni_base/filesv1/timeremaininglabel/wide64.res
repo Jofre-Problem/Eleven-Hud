@@ -3,5 +3,4 @@
 "TimeRemainingLabel"
 {
 "wide""64"
-}
-}
+}}

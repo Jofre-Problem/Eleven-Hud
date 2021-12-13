@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 ////"enabled""1"
-}
-}
+}}

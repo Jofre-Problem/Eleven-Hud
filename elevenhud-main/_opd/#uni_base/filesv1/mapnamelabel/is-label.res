@@ -3,5 +3,4 @@
 "MapNameLabel"
 {
 "ControlName""Label"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "labelText""#IT_OK"
-}
-}
+}}

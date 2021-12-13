@@ -6,5 +6,4 @@
 "fieldName""Image"
 ////"enabled""1"
 "scaleImage""1"
-}
-}
+}}

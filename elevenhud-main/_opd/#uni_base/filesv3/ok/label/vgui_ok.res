@@ -3,5 +3,4 @@
 "Ok"
 {
 "labelText""#vgui_ok"
-}
-}
+}}

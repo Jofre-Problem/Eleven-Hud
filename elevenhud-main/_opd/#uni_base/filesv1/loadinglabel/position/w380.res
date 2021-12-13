@@ -3,5 +3,4 @@
 "LoadingDialog"
 {
 "wide""380"
-}
-}
+}}

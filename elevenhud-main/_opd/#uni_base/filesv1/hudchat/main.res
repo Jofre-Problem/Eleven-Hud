@@ -10,5 +10,4 @@
 "ypos""275"
 "tall" "120"
 "PaintBackgroundType""2"
-}
-}
+}}

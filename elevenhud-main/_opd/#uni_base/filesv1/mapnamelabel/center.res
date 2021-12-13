@@ -3,5 +3,4 @@
 "MapNameLabel"
 {
 "textAlignment""center"
-}
-}
+}}

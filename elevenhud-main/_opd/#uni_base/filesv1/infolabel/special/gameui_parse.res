@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "labelText""#GameUI_ParseBaseline"
-}
-}
+}}

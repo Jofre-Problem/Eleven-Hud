@@ -3,5 +3,4 @@
 "MapLabel"
 {
 "tabposition""0"
-}
-}
+}}

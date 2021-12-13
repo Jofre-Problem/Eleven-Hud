@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 //"autoResize""0"
-}
-}
+}}

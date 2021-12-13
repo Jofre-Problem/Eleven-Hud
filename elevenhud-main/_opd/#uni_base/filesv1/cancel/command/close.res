@@ -3,5 +3,4 @@
 "Cancel"
 {
 "command""close"
-}
-}
+}}

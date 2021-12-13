@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 "ypos""34"
-}
-}
+}}

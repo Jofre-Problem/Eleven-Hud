@@ -20,5 +20,4 @@
 "Default""0"
 "selected""0"
 "command""Save"
-}
-}
+}}

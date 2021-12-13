@@ -3,5 +3,4 @@
 "CloseButton"
 {
 "selected""1"
-}
-}
+}}

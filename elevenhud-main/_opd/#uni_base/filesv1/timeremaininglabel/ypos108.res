@@ -3,5 +3,4 @@
 "TimeRemainingLabel"
 {
 "ypos""108"
-}
-}
+}}

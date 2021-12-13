@@ -3,5 +3,4 @@
 "WarningLabel"
 {
 //"pinCorner""0"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "CancelButton"
 {
 "xpos""50"
-}
-}
+}}

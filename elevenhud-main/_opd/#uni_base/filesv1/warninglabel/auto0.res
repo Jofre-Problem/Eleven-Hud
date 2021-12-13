@@ -3,5 +3,4 @@
 "WarningLabel"
 {
 //"autoResize""0"
-}
-}
+}}

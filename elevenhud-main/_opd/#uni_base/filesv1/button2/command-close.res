@@ -3,5 +3,4 @@
 "Button2"
 {
 "Command""Close"
-}
-}
+}}

@@ -3,5 +3,4 @@
 "NameLabel"
 {
 "labelText""%name%"
-}
-}
+}}

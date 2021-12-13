@@ -3,5 +3,4 @@
 "TimeRemainingLabel"
 {
 "xpos""20"
-}
-}
+}}

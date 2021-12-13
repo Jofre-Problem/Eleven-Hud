@@ -19,5 +19,4 @@
 "Command""Layoff"
 "Default""0"
 "selected""0"
-}
-}
+}}

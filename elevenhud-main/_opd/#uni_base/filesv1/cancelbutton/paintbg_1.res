@@ -4,5 +4,4 @@
 "CancelButton"
 {
 "paintbackground""1"
-}
-}
+}}

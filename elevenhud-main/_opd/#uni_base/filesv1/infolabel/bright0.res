@@ -3,5 +3,4 @@
 "InfoLabel"
 {
 //"brighttext""0"
-}
-}
+}}

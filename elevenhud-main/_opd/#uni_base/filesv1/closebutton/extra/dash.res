@@ -15,5 +15,4 @@
 "defaultBgColor_override""Blank"
 
 "armedFgColor_override""Orange"
-}
-}
+}}
