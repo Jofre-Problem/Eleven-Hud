@@ -4,10 +4,10 @@
 {
 "ControlName""CAddFriendResultSubPanel"
 "fieldName""AddFriendResultSubPanel"
-//////"xpos""10"
-//////"ypos""30"
-//"wide""460"
-//"tall""289"
+"xpos""10"
+"ypos""30"
+"wide""460"
+"tall""289"
 
 
 ////////"visible""1"
@@ -20,16 +20,16 @@
 {
 "ControlName""Label"
 "fieldName""InfoLabel"
-//////"xpos""24"
-//////"ypos""32"
-//"wide""384"
-//"tall""60"
+"xpos""24"
+"ypos""32"
+"wide""384"
+"tall""60"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Friends_SearchingForFriend"
+"labelText""#Friends_SearchingForFriend"
 ////"textAlignment""north-west"
 //////"dulltext""1"
 //////////"brighttext""0"

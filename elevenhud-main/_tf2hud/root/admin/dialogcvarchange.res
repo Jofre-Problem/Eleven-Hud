@@ -4,10 +4,10 @@
 {
 "ControlName""Frame"
 "fieldName""DialogCvarChange"
-//////"xpos""451"
-//////"ypos""381"
-//"wide""320"
-//"tall""180"
+"xpos""451"
+"ypos""381"
+"wide""320"
+"tall""180"
 
 
 ////////"visible""1"
@@ -19,16 +19,16 @@
 {
 "ControlName""Label"
 "fieldName""InfoLabel"
-//////"xpos""28"
-//////"ypos""39"
-//"wide""268"
-//"tall""32"
+"xpos""28"
+"ypos""39"
+"wide""268"
+"tall""32"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Ban_Change_Time"
+"labelText""#Ban_Change_Time"
 //////////"textAlignment""west"
 //////"dulltext""1"
 //////////"brighttext""0"
@@ -37,16 +37,16 @@
 {
 "ControlName""Label"
 "fieldName""CvarLabel"
-//////"xpos""72"
-//////"ypos""72"
-//"wide""220"
-//"tall""24"
+"xpos""72"
+"ypos""72"
+"wide""220"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""12.13.14.15"
+"labelText""12.13.14.15"
 //////////"textAlignment""west"
 //////"dulltext""1"
 //////////"brighttext""0"
@@ -55,10 +55,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""CvarEntry"
-//////"xpos""74"
-//////"ypos""102"
-//"wide""200"
-//"tall""24"
+"xpos""74"
+"ypos""102"
+"wide""200"
+"tall""24"
 
 
 ////////"visible""1"
@@ -73,16 +73,16 @@
 {
 "ControlName""Button"
 "fieldName""OkayButton"
-//////"xpos""136"
-//////"ypos""140"
-//"wide""64"
-//"tall""24"
+"xpos""136"
+"ypos""140"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""#Okay_Button"
+"labelText""#Okay_Button"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -93,16 +93,16 @@
 {
 "ControlName""Label"
 "fieldName""CvarNameLabel"
-//////"xpos""4"
-//////"ypos""72"
-//"wide""64"
-//"tall""24"
+"xpos""4"
+"ypos""72"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Cvar_Dialog_Name"
+"labelText""#Cvar_Dialog_Name"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -111,16 +111,16 @@
 {
 "ControlName""Label"
 "fieldName""PasswordLabel"
-//////"xpos""4"
-//////"ypos""100"
-//"wide""64"
-//"tall""24"
+"xpos""4"
+"ypos""100"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Cvar_Dialog_Value"
+"labelText""#Cvar_Dialog_Value"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -129,16 +129,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""208"
-//////"ypos""140"
-//"wide""64"
-//"tall""24"
+"xpos""208"
+"ypos""140"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""#Cancel_Button"
+"labelText""#Cancel_Button"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

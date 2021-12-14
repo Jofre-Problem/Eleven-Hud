@@ -4,10 +4,10 @@
 {
 "ControlName""CPerforceFileListFrame"
 "fieldName""PerforceFileList"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""580"
-//"tall""380"
+"xpos""147"
+"ypos""128"
+"wide""580"
+"tall""380"
 
 
 ////////"visible""1"
@@ -25,7 +25,7 @@
 //////"autoResize""3"
 
 
-//////"ypos""6"
+"ypos""6"
 
 //"UnpinnedCornerOffsetY" "-30"
 
@@ -37,8 +37,8 @@
 "fieldName""Browser"
 
 
-//"wide""568"
-//"tall""316"
+"wide""568"
+"tall""316"
 //////"autoResize""3"
 
 
@@ -57,15 +57,15 @@
 "fieldName""DescriptionLabel"
 
 
-//"wide""65"
-//"tall""24"
+"wide""65"
+"tall""24"
 //////"autoResize""1"
 
 
 ////////"visible""1"
 
 
-//////"labelText""Enter Description:"
+"labelText""Enter Description:"
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -76,9 +76,9 @@
 "ControlName""TextEntry"
 "fieldName""Description"
 
-//////"ypos""26"
-//"wide""75"
-//"tall""24"
+"ypos""26"
+"wide""75"
+"tall""24"
 //////"autoResize""3"
 
 
@@ -89,7 +89,7 @@
 
 //////"editable""1"
 //////"tabPosition""1"
-//////"labelText"""
+"labelText"""
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -101,16 +101,16 @@
 {
 "ControlName""Button"
 "fieldName""YesButton"
-//////"xpos""6"
-//////"ypos""350"
-//"wide""122"
-//"tall""24"
+"xpos""6"
+"ypos""350"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Yes"
+"labelText""Yes"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -121,16 +121,16 @@
 {
 "ControlName""Button"
 "fieldName""NoButton"
-//////"xpos""140"
-//////"ypos""350"
-//"wide""122"
-//"tall""24"
+"xpos""140"
+"ypos""350"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""No"
+"labelText""No"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"

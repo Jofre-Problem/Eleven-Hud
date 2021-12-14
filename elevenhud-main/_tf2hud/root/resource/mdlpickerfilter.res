@@ -4,10 +4,10 @@
 {
 "ControlName""PropertyPage"
 "fieldName""FilterPage"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""640"
-//"tall""480"
+"xpos""147"
+"ypos""128"
+"wide""640"
+"tall""480"
 
 
 ////////"visible""1"
@@ -18,10 +18,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""MDLBrowser"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""212"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""212"
 //////"autoResize""3"
 
 ////"UnpinnedCornerOffsetX" "-6"
@@ -35,10 +35,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""FilterList"
-//////"xpos""70"
-//////"ypos""210"
-//"wide""256"
-//"tall""24"
+"xpos""70"
+"ypos""210"
+"wide""256"
+"tall""24"
 //////"autoResize""1"
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "6"

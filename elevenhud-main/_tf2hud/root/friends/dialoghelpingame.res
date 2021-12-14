@@ -4,10 +4,10 @@
 {
 "ControlName""Frame"
 "fieldName""HelpDialog"
-//////"xpos""154"
-//////"ypos""206"
-//"wide""484"
-//"tall""240"
+"xpos""154"
+"ypos""206"
+"wide""484"
+"tall""240"
 ////////"visible""1"
 
 
@@ -16,10 +16,10 @@
 {
 "ControlName""Label"
 "fieldName""InfoText"
-//////"xpos""18"
-//////"ypos""36"
-//"wide""450"
-//"tall""136"
+"xpos""18"
+"ypos""36"
+"wide""450"
+"tall""136"
 ////////"visible""1"
 
 
@@ -29,14 +29,14 @@
 {
 "ControlName""Button"
 "fieldName""CloseButton"
-//////"xpos""384"
-//////"ypos""188"
-//"wide""64"
-//"tall""24"
+"xpos""384"
+"ypos""188"
+"wide""64"
+"tall""24"
 ////////"visible""1"
 
 //////"tabPosition""1"
-//////"labelText""#TrackerUI_Close"
+"labelText""#TrackerUI_Close"
 ////"textAlignment""center"
 ////"Command""Close"
 ////"Default""0"
@@ -45,14 +45,14 @@
 {
 "ControlName""CheckButton"
 "fieldName""NeverShowButton"
-//////"xpos""172"
-//////"ypos""186"
-//"wide""194"
-//"tall""24"
+"xpos""172"
+"ypos""186"
+"wide""194"
+"tall""24"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""#TrackerUI_NeverShowThisDialogAgain"
+"labelText""#TrackerUI_NeverShowThisDialogAgain"
 ////"textAlignment""center"
 ////"Default""0"
 }

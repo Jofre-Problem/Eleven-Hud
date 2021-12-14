@@ -4,10 +4,10 @@
 {
 "ControlName""CDmePresetGroupEditorFrame"
 "fieldName""DmePresetGroupEditorFrame"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""480"
-//"tall""380"
+"xpos""147"
+"ypos""128"
+"wide""480"
+"tall""380"
 
 
 ////////"visible""1"
@@ -20,16 +20,16 @@
 {
 "ControlName""Button"
 "fieldName""OkButton"
-//////"xpos""6"
-//////"ypos""350"
-//"wide""122"
-//"tall""24"
+"xpos""6"
+"ypos""350"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Ok"
+"labelText""Ok"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -41,9 +41,9 @@
 "ControlName""CDmePresetGroupEditorPanel"
 "fieldName""DmePresetGroupEditorPanel"
 
-//////"ypos""28"
-//"wide""480"
-//"tall""320"
+"ypos""28"
+"wide""480"
+"tall""320"
 ////////"autoResize""3"
 
 //"PinnedCornerOffsetX" "6"

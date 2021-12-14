@@ -3,10 +3,10 @@
 "ColorPanel1"
 {
 "ControlName""Panel"
-//////"xpos""90"
-//////"ypos""25"
-//"wide""35"
-//"tall""35"
+"xpos""90"
+"ypos""25"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -18,10 +18,10 @@
 "ColorPanel2"
 {
 "ControlName""Panel"
-//////"xpos""135"
-//////"ypos""25"
-//"wide""35"
-//"tall""35"
+"xpos""135"
+"ypos""25"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -33,10 +33,10 @@
 "ColorPanel3"
 {
 "ControlName""Panel"
-//////"xpos""180"
-//////"ypos""25"
-//"wide""35"
-//"tall""35"
+"xpos""180"
+"ypos""25"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -47,10 +47,10 @@
 "ColorPanel4"
 {
 "ControlName""Panel"
-//////"xpos""225"
-//////"ypos""25"
-//"wide""35"
-//"tall""35"
+"xpos""225"
+"ypos""25"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -61,10 +61,10 @@
 "ColorPanel5"
 {
 "ControlName""Panel"
-//////"xpos""270"
-//////"ypos""25"
-//"wide""35"
-//"tall""35"
+"xpos""270"
+"ypos""25"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -75,10 +75,10 @@
 "ColorPanel6"
 {
 "ControlName""Panel"
-//////"xpos""90"
-//////"ypos""70"
-//"wide""35"
-//"tall""35"
+"xpos""90"
+"ypos""70"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -89,10 +89,10 @@
 "ColorPanel7"
 {
 "ControlName""Panel"
-//////"xpos""135"
-//////"ypos""70"
-//"wide""35"
-//"tall""35"
+"xpos""135"
+"ypos""70"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -103,10 +103,10 @@
 "ColorPanel8"
 {
 "ControlName""Panel"
-//////"xpos""180"
-//////"ypos""70"
-//"wide""35"
-//"tall""35"
+"xpos""180"
+"ypos""70"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -117,10 +117,10 @@
 "ColorPanel9"
 {
 "ControlName""Panel"
-//////"xpos""225"
-//////"ypos""70"
-//"wide""35"
-//"tall""35"
+"xpos""225"
+"ypos""70"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -131,10 +131,10 @@
 "ColorPanel10"
 {
 "ControlName""Panel"
-//////"xpos""270"
-//////"ypos""70"
-//"wide""35"
-//"tall""35"
+"xpos""270"
+"ypos""70"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -145,10 +145,10 @@
 "ColorPanel11"
 {
 "ControlName""Panel"
-//////"xpos""90"
-//////"ypos""115"
-//"wide""35"
-//"tall""35"
+"xpos""90"
+"ypos""115"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"
@@ -159,10 +159,10 @@
 "ColorPanel12"
 {
 "ControlName""Panel"
-//////"xpos""135"
-//////"ypos""115"
-//"wide""35"
-//"tall""35"
+"xpos""135"
+"ypos""115"
+"wide""35"
+"tall""35"
 
 
 ////////"visible""1"

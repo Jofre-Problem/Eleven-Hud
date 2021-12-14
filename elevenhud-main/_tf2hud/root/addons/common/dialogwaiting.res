@@ -4,10 +4,10 @@
 {
 "ControlName""CDialogWaiting"
 "fieldName""DialogWaiting"
-//////"xpos""519"
-//////"ypos""306"
-//"wide""400"
-//"tall""140"
+"xpos""519"
+"ypos""306"
+"wide""400"
+"tall""140"
 
 
 //////////"visible""1"
@@ -18,16 +18,16 @@
 {
 "ControlName""Label"
 "fieldName""TextLabel"
-//////"xpos""35"
-//////"ypos""40"
-//"wide""350"
-//"tall""40"
+"xpos""35"
+"ypos""40"
+"wide""350"
+"tall""40"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Setting up YYY Game with XXX"
+"labelText""Setting up YYY Game with XXX"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -36,16 +36,16 @@
 {
 "ControlName""Button"
 "fieldName""AbortBtn"
-//////"xpos""320"
-//////"ypos""100"
-//"wide""60"
-//"tall""24"
+"xpos""320"
+"ypos""100"
+"wide""60"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Abort"
+"labelText""Abort"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

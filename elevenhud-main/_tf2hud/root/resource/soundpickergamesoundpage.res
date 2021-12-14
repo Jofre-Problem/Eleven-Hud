@@ -4,10 +4,10 @@
 {
 "ControlName""PropertyPage"
 "fieldName""GameSoundPage"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 
 
 ////////"visible""1"
@@ -18,10 +18,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""GameSoundsList"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""212"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""212"
 //////"autoResize""3"
 
 ////"UnpinnedCornerOffsetX" "-6"
@@ -35,10 +35,10 @@
 {
 "ControlName""Label"
 "fieldName""FilterLabel"
-//////"xpos""6"
-//////"ypos""210"
-//"wide""65"
-//"tall""24"
+"xpos""6"
+"ypos""210"
+"wide""65"
+"tall""24"
 
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "6"
@@ -46,7 +46,7 @@
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Filter"
+"labelText""Filter"
 //////"textAlignment""east"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -56,10 +56,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""GameSoundFilter"
-//////"xpos""70"
-//////"ypos""210"
-//"wide""256"
-//"tall""24"
+"xpos""70"
+"ypos""210"
+"wide""256"
+"tall""24"
 //////"autoResize""1"
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "75"

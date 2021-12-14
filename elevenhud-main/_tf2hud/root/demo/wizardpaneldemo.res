@@ -4,10 +4,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""UserNameEdit"
-//////"xpos""30"
-//////"ypos""130"
-//"wide""240"
-//"tall""24"//changed to 24 from 20
+"xpos""30"
+"ypos""130"
+"wide""240"
+"tall""24"//changed to 24 from 20
 
 
 ////////"visible""1"
@@ -21,10 +21,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""FirstNameEdit"
-//////"xpos""30"
-//////"ypos""180"
-//"wide""240"
-//"tall""20"
+"xpos""30"
+"ypos""180"
+"wide""240"
+"tall""20"
 
 
 ////////"visible""1"
@@ -38,10 +38,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""LastNameEdit"
-//////"xpos""30"
-//////"ypos""230"
-//"wide""240"
-//"tall""20"
+"xpos""30"
+"ypos""230"
+"wide""240"
+"tall""20"
 
 
 ////////"visible""1"
@@ -55,10 +55,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""EmailEdit"
-//////"xpos""30"
-//////"ypos""80"
-//"wide""310"
-//"tall""20"
+"xpos""30"
+"ypos""80"
+"wide""310"
+"tall""20"
 
 
 ////////"visible""1"
@@ -72,16 +72,16 @@
 {
 "ControlName""Label"
 "fieldName""LastNameText"
-//////"xpos""30"
-//////"ypos""160"
-//"wide""64"
-//"tall""20"
+"xpos""30"
+"ypos""160"
+"wide""64"
+"tall""20"
 
 
 ////////"visible""1"
 
 
-//////"labelText""First Name"
+"labelText""First Name"
 ////////"textAlignment""west"
 //"associate""FirstNameEdit"
 ////////////"dulltext""0"
@@ -91,16 +91,16 @@
 {
 "ControlName""Label"
 "fieldName""FirstNameText"
-//////"xpos""30"
-//////"ypos""110"
-//"wide""64"
-//"tall""20"
+"xpos""30"
+"ypos""110"
+"wide""64"
+"tall""20"
 
 
 ////////"visible""1"
 
 
-//////"labelText""User Name"
+"labelText""User Name"
 ////////"textAlignment""west"
 //"associate""UserNameEdit"
 ////////////"dulltext""0"
@@ -110,16 +110,16 @@
 {
 "ControlName""Label"
 "fieldName""UserNameText"
-//////"xpos""30"
-//////"ypos""210"
-//"wide""64"
-//"tall""20"
+"xpos""30"
+"ypos""210"
+"wide""64"
+"tall""20"
 
 
 ////////"visible""1"
 
 
-//////"labelText""Last Name"
+"labelText""Last Name"
 ////////"textAlignment""west"
 //"associate""LastNameEdit"
 ////////////"dulltext""0"
@@ -129,16 +129,16 @@
 {
 "ControlName""Label"
 "fieldName""Unnamed dialog1"
-//////"xpos""30"
-//////"ypos""54"
-//"wide""84"
-//"tall""24"
+"xpos""30"
+"ypos""54"
+"wide""84"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""eMail Address"
+"labelText""eMail Address"
 ////////"textAlignment""west"
 //"associate""EmailEdit"
 ////////////"dulltext""0"
@@ -148,16 +148,16 @@
 {
 "ControlName""Label"
 "fieldName""Unnamed dialog2"
-//////"xpos""30"
-//////"ypos""10"
-//"wide""400"
-//"tall""48"
+"xpos""30"
+"ypos""10"
+"wide""400"
+"tall""48"
 
 
 ////////"visible""1"
 
 
-//////"labelText""Enter Information About Friend"
+"labelText""Enter Information About Friend"
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////////"brighttext""0"

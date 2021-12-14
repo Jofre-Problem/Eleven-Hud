@@ -4,10 +4,10 @@
 {
 "ControlName""Frame"
 "fieldName""DialogAuthRequest"
-//////"xpos""396"
-//////"ypos""234"
-//"wide""472"
-//"tall""204"
+"xpos""396"
+"ypos""234"
+"wide""472"
+"tall""204"
 
 
 ////////"visible""1"
@@ -19,16 +19,16 @@
 {
 "ControlName""Label"
 "fieldName""InfoText"
-//////"xpos""20"
-//////"ypos""84"
-//"wide""108"
-//"tall""24"
+"xpos""20"
+"ypos""84"
+"wide""108"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#TrackerUI_DoYouWantTo"
+"labelText""#TrackerUI_DoYouWantTo"
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////////"brighttext""0"
@@ -37,16 +37,16 @@
 {
 "ControlName""Label"
 "fieldName""NameLabel"
-//////"xpos""20"
-//////"ypos""32"
-//"wide""408"
-//"tall""48"
+"xpos""20"
+"ypos""32"
+"wide""408"
+"tall""48"
 
 
 ////////"visible""1"
 
 
-//////"labelText""test4 wishes to add you to his/her contact list.
+"labelText""test4 wishes to add you to his/her contact list.
 test4@testers.com"
 ////////"textAlignment""west"
 ////////////"dulltext""0"
@@ -56,16 +56,16 @@ test4@testers.com"
 {
 "ControlName""RadioButton"
 "fieldName""AcceptButton"
-//////"xpos""20"
-//////"ypos""108"
-//"wide""440"
-//"tall""24"
+"xpos""20"
+"ypos""108"
+"wide""440"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""1"
-//////"labelText""#TrackerUI_AllowPersonToSeeYou"
+"labelText""#TrackerUI_AllowPersonToSeeYou"
 ////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -77,16 +77,16 @@ test4@testers.com"
 {
 "ControlName""RadioButton"
 "fieldName""DeclineButton"
-//////"xpos""20"
-//////"ypos""130"
-//"wide""440"
-//"tall""24"
+"xpos""20"
+"ypos""130"
+"wide""440"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""1"
-//////"labelText""#TrackerUI_BlockThisPerson"
+"labelText""#TrackerUI_BlockThisPerson"
 ////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -98,16 +98,16 @@ test4@testers.com"
 {
 "ControlName""Button"
 "fieldName""OKButton"
-//////"xpos""294"
-//////"ypos""168"
-//"wide""72"
-//"tall""24"
+"xpos""294"
+"ypos""168"
+"wide""72"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""#TrackerUI_OK"
+"labelText""#TrackerUI_OK"
 ////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -118,16 +118,16 @@ test4@testers.com"
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""380"
-//////"ypos""167"
-//"wide""72"
-//"tall""24"
+"xpos""380"
+"ypos""167"
+"wide""72"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""#TrackerUI_Cancel"
+"labelText""#TrackerUI_Cancel"
 ////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

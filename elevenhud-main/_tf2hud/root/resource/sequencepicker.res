@@ -4,10 +4,10 @@
 {
 "ControlName""CSequencePicker"
 "fieldName""SequencePicker"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""268"
-//"tall""480"
+"xpos""147"
+"ypos""128"
+"wide""268"
+"tall""480"
 
 
 ////////"visible""1"
@@ -27,10 +27,10 @@
 {
 "ControlName""MDLPanel"
 "fieldName""MDLPreview"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 //////"autoResize""3"
 
 //"PinnedCornerOffsetX" "6"
@@ -49,10 +49,10 @@
 {
 "ControlName""PropertySheet"
 "fieldName""ViewsSheet"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 //////"autoResize""3"
 
 //"PinnedCornerOffsetX" "6"

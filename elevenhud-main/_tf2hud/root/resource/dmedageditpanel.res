@@ -9,7 +9,7 @@
 ////////"autoResize""3"
 
 
-//////"ypos""6"
+"ypos""6"
 
 
 
@@ -21,8 +21,8 @@
 "fieldName""EditorSheet"
 
 
-//"wide""463"
-//"tall""212"
+"wide""463"
+"tall""212"
 ////////"autoResize""3"
 
 
@@ -43,8 +43,8 @@
 "fieldName""DagRenderPanel"
 
 
-//"wide""463"
-//"tall""212"
+"wide""463"
+"tall""212"
 ////////"autoResize""3"
 
 

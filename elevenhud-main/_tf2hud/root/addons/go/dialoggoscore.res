@@ -4,10 +4,10 @@
 {
 "ControlName""CDialogGoScore"
 "fieldName""DialogGoScore"
-//////"xpos""519"
-//////"ypos""306"
-//"wide""400"
-//"tall""180"
+"xpos""519"
+"ypos""306"
+"wide""400"
+"tall""180"
 
 
 //////////"visible""1"
@@ -18,16 +18,16 @@
 {
 "ControlName""Label"
 "fieldName""TextLabel"
-//////"xpos""75"
-//////"ypos""25"
-//"wide""320"
-//"tall""40"
+"xpos""75"
+"ypos""25"
+"wide""320"
+"tall""40"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Setting up YYY Game with XXX"
+"labelText""Setting up YYY Game with XXX"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -36,16 +36,16 @@
 {
 "ControlName""Label"
 "fieldName""BlackTerritoryLabel"
-//////"xpos""35"
-//////"ypos""65"
-//"wide""150"
-//"tall""24"
+"xpos""35"
+"ypos""65"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Black Territory: 0"
+"labelText""Black Territory: 0"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -54,16 +54,16 @@
 {
 "ControlName""Label"
 "fieldName""BlackCapturedLabel"
-//////"xpos""35"
-//////"ypos""85"
-//"wide""150"
-//"tall""24"
+"xpos""35"
+"ypos""85"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Black Captured: 0"
+"labelText""Black Captured: 0"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -72,16 +72,16 @@
 {
 "ControlName""Label"
 "fieldName""BlackScoreLabel"
-//////"xpos""35"
-//////"ypos""105"
-//"wide""150"
-//"tall""24"
+"xpos""35"
+"ypos""105"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Black Score: 0"
+"labelText""Black Score: 0"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -90,16 +90,16 @@
 {
 "ControlName""Label"
 "fieldName""WhiteTerritoryLabel"
-//////"xpos""220"
-//////"ypos""65"
-//"wide""150"
-//"tall""24"
+"xpos""220"
+"ypos""65"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""White Territory: 0"
+"labelText""White Territory: 0"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -108,16 +108,16 @@
 {
 "ControlName""Label"
 "fieldName""WhiteCapturedLabel"
-//////"xpos""220"
-//////"ypos""85"
-//"wide""150"
-//"tall""24"
+"xpos""220"
+"ypos""85"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""White Captured: 0"
+"labelText""White Captured: 0"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -126,16 +126,16 @@
 {
 "ControlName""Label"
 "fieldName""WhiteScoreLabel"
-//////"xpos""220"
-//////"ypos""105"
-//"wide""150"
-//"tall""24"
+"xpos""220"
+"ypos""105"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""White Score: 0"
+"labelText""White Score: 0"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -144,16 +144,16 @@
 {
 "ControlName""Button"
 "fieldName""CloseWindowBtn"
-//////"xpos""40"
-//////"ypos""140"
-//"wide""150"
-//"tall""24"
+"xpos""40"
+"ypos""140"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Close Game Window"
+"labelText""Close Game Window"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -163,16 +163,16 @@
 {
 "ControlName""Button"
 "fieldName""LeaveWindowBtn"
-//////"xpos""210"
-//////"ypos""140"
-//"wide""150"
-//"tall""24"
+"xpos""210"
+"ypos""140"
+"wide""150"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Keep Game Window"
+"labelText""Keep Game Window"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

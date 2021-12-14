@@ -6,8 +6,8 @@
 "fieldName""AssetPickerFrame"
 
 
-//"wide""640"
-//"tall""480"
+"wide""640"
+"tall""480"
 
 
 ////////"visible""1"
@@ -20,16 +20,16 @@
 {
 "ControlName""Button"
 "fieldName""OpenButton"
-//////"xpos""10"
-//////"ypos""450"
-//"wide""130"
-//"tall""24"
+"xpos""10"
+"ypos""450"
+"wide""130"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Open"
+"labelText""Open"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -40,16 +40,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""160"
-//////"ypos""450"
-//"wide""130"
-//"tall""24"
+"xpos""160"
+"ypos""450"
+"wide""130"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""Cancel"
+"labelText""Cancel"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -61,9 +61,9 @@
 "ControlName""CMDLPicker"
 "fieldName""AssetPicker"
 
-//////"ypos""28"
-//"wide""640"
-//"tall""420"
+"ypos""28"
+"wide""640"
+"tall""420"
 //////"autoResize""3"
 
 ////////"visible""1"

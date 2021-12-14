@@ -4,10 +4,10 @@
 {
 "ControlName""CSoundPicker"
 "fieldName""AssetPicker"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""475"
-//"tall""380"
+"xpos""147"
+"ypos""128"
+"wide""475"
+"tall""380"
 
 
 ////////"visible""1"
@@ -20,10 +20,10 @@
 {
 "ControlName""PropertySheet"
 "fieldName""ViewsSheet"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""463"
-//"tall""212"
+"xpos""6"
+"ypos""6"
+"wide""463"
+"tall""212"
 //////"autoResize""3"
 
 //"PinnedCornerOffsetX" "6"

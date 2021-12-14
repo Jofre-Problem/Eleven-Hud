@@ -4,10 +4,10 @@
 {
 "ControlName""CMDLSequencePicker"
 "fieldName""MDLSequencePicker"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""640"
-//"tall""480"
+"xpos""147"
+"ypos""128"
+"wide""640"
+"tall""480"
 
 
 ////////"visible""1"
@@ -29,10 +29,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""FilterList"
-//////"xpos""11"
-//////"ypos""19"
-//"wide""292"
-//"tall""24"
+"xpos""11"
+"ypos""19"
+"wide""292"
+"tall""24"
 //////"autoResize""1"
 
 ////"UnpinnedCornerOffsetX" "-6"
@@ -49,10 +49,10 @@
 {
 "ControlName""CFileTreeView"
 "fieldName""FileTree"
-//////"xpos""11"
-//////"ypos""53"
-//"wide""292"
-//"tall""542"
+"xpos""11"
+"ypos""53"
+"wide""292"
+"tall""542"
 //////"autoResize""3"
 
 ////"UnpinnedCornerOffsetX" "-6"
@@ -84,10 +84,10 @@
 {
 "ControlName""MDLPanel"
 "fieldName""MDLPreview"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 //////"autoResize""3"
 
 ////"UnpinnedCornerOffsetX" "-6"
@@ -104,10 +104,10 @@
 {
 "ControlName""PropertySheet"
 "fieldName""ViewsSheet"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 //////"autoResize""3"
 
 ////"UnpinnedCornerOffsetX" "-6"

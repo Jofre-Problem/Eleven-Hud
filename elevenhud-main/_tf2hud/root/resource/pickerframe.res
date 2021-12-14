@@ -4,10 +4,10 @@
 {
 "ControlName""CPickerFrame"
 "fieldName""PickerFrame"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""268"
-//"tall""380"
+"xpos""147"
+"ypos""128"
+"wide""268"
+"tall""380"
 
 
 ////////"visible""1"
@@ -20,16 +20,16 @@
 {
 "ControlName""Button"
 "fieldName""OpenButton"
-//////"xpos""6"
-//////"ypos""350"
-//"wide""122"
-//"tall""24"
+"xpos""6"
+"ypos""350"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Open"
+"labelText""Open"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -40,16 +40,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""140"
-//////"ypos""350"
-//"wide""122"
-//"tall""24"
+"xpos""140"
+"ypos""350"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""Cancel"
+"labelText""Cancel"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -61,9 +61,9 @@
 "ControlName""CPicker"
 "fieldName""Picker"
 
-//////"ypos""28"
-//"wide""268"
-//"tall""320"
+"ypos""28"
+"wide""268"
+"tall""320"
 //////"autoResize""3"
 
 ////////"visible""1"

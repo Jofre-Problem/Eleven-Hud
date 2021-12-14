@@ -6,8 +6,8 @@
 "fieldName""DCCObjectList"
 
 
-//"wide""256"
-//"tall""212"
+"wide""256"
+"tall""212"
 //////"autoResize""3"
 
 
@@ -22,13 +22,13 @@
 "ControlName""Button"
 "fieldName""AddDCCObjectButton"
 
-//////"ypos""60"
-//"wide""60"
-//"tall""24"
+"ypos""60"
+"wide""60"
+"tall""24"
 
 ////////"pinCorner""2"
 //"PinnedCornerOffsetY" "-30"
-//////"labelText""#AssetBuilder_AddSource"
+"labelText""#AssetBuilder_AddSource"
 ////////"visible""1"
 
 //////"tabPosition""2"
@@ -38,15 +38,15 @@
 {
 "ControlName""Button"
 "fieldName""RemoveDCCObjectButton"
-//////"xpos""50"
-//////"ypos""60"
-//"wide""60"
-//"tall""24"
+"xpos""50"
+"ypos""60"
+"wide""60"
+"tall""24"
 
 ////////"pinCorner""3"
 //"PinnedCornerOffsetY" "-30"
 
-//////"labelText""#AssetBuilder_RemoveSource"
+"labelText""#AssetBuilder_RemoveSource"
 ////////"visible""1"
 
 //////"tabPosition""3"
@@ -57,9 +57,9 @@
 "ControlName""Button"
 "fieldName""DCCObjectBrowser"
 
-//////"ypos""60"
-//"wide""30"
-//"tall""24"
+"ypos""60"
+"wide""30"
+"tall""24"
 
 ////////"pinCorner""2"
 
@@ -72,10 +72,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""DCCObjectName"
-//////"xpos""40"
-//////"ypos""32"
-//"wide""390"
-//"tall""24"
+"xpos""40"
+"ypos""32"
+"wide""390"
+"tall""24"
 ////"UnpinnedCornerOffsetX" "-66"
 
 //////"autoResize""1"
@@ -94,15 +94,15 @@
 {
 "ControlName""Button"
 "fieldName""ApplyChangesButton"
-//////"xpos""50"
-//////"ypos""60"
-//"wide""60"
-//"tall""24"
+"xpos""50"
+"ypos""60"
+"wide""60"
+"tall""24"
 
 ////////"pinCorner""3"
 
 
-//////"labelText""#AssetBuilder_ApplyChanges"
+"labelText""#AssetBuilder_ApplyChanges"
 ////////"visible""1"
 
 //////"tabPosition""1"

@@ -4,10 +4,10 @@
 {
 "ControlName""PropertyPage"
 "fieldName""VertexAnimationPage"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 
 
 ////////"visible""1"
@@ -18,10 +18,10 @@
 {
 "ControlName""CDmeAnimationListPanel"
 "fieldName""VertexAnimationListPanel"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 ////////"autoResize""3"
 
 //"PinnedCornerOffsetX" "6"

@@ -4,10 +4,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""UserNameEdit"
-//////"xpos""30"
-//////"ypos""134"
-//"wide""240"
-//"tall""20"
+"xpos""30"
+"ypos""134"
+"wide""240"
+"tall""20"
 
 
 ////////"visible""1"
@@ -21,10 +21,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""FirstNameEdit"
-//////"xpos""30"
-//////"ypos""184"
-//"wide""240"
-//"tall""20"
+"xpos""30"
+"ypos""184"
+"wide""240"
+"tall""20"
 
 
 ////////"visible""1"
@@ -38,10 +38,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""LastNameEdit"
-//////"xpos""30"
-//////"ypos""234"
-//"wide""240"
-//"tall""20"
+"xpos""30"
+"ypos""234"
+"wide""240"
+"tall""20"
 
 
 ////////"visible""1"
@@ -55,10 +55,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""EmailEdit"
-//////"xpos""30"
-//////"ypos""84"
-//"wide""240"
-//"tall""20"
+"xpos""30"
+"ypos""84"
+"wide""240"
+"tall""20"
 
 
 ////////"visible""1"
@@ -72,16 +72,16 @@
 {
 "ControlName""Label"
 "fieldName""LastNameText"
-//////"xpos""30"
-//////"ypos""160"
-//"wide""240"
-//"tall""24"
+"xpos""30"
+"ypos""160"
+"wide""240"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#TrackerUI_FirstName"
+"labelText""#TrackerUI_FirstName"
 ////////"textAlignment""west"
 //"associate""FirstNameEdit"
 ////////////"dulltext""0"
@@ -91,16 +91,16 @@
 {
 "ControlName""Label"
 "fieldName""FirstNameText"
-//////"xpos""30"
-//////"ypos""110"
-//"wide""240"
-//"tall""24"
+"xpos""30"
+"ypos""110"
+"wide""240"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#TrackerUI_UserName"
+"labelText""#TrackerUI_UserName"
 ////////"textAlignment""west"
 //"associate""UserNameEdit"
 ////////////"dulltext""0"
@@ -110,16 +110,16 @@
 {
 "ControlName""Label"
 "fieldName""UserNameText"
-//////"xpos""30"
-//////"ypos""210"
-//"wide""240"
-//"tall""24"
+"xpos""30"
+"ypos""210"
+"wide""240"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#TrackerUI_LastName"
+"labelText""#TrackerUI_LastName"
 ////////"textAlignment""west"
 //"associate""LastNameEdit"
 ////////////"dulltext""0"
@@ -129,16 +129,16 @@
 {
 "ControlName""Label"
 "fieldName""Unnamed dialog1"
-//////"xpos""30"
-//////"ypos""60"
-//"wide""240"
-//"tall""24"
+"xpos""30"
+"ypos""60"
+"wide""240"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#TrackerUI_EMailAddress"
+"labelText""#TrackerUI_EMailAddress"
 ////////"textAlignment""west"
 //"associate""EmailEdit"
 ////////////"dulltext""0"
@@ -148,16 +148,16 @@
 {
 "ControlName""Label"
 "fieldName""Unnamed dialog2"
-//////"xpos""30"
-//////"ypos""22"
-//"wide""430"
-//"tall""40"
+"xpos""30"
+"ypos""22"
+"wide""430"
+"tall""40"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#TrackerUI_EnterInformationAboutFriend"
+"labelText""#TrackerUI_EnterInformationAboutFriend"
 ////"textAlignment""north-west"
 //////"dulltext""1"
 //////////"brighttext""0"

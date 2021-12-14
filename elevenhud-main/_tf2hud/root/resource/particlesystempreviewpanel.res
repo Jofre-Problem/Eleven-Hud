@@ -22,8 +22,8 @@
 "fieldName""ControlSheet"
 
 
-//"wide""463"
-//"tall""212"
+"wide""463"
+"tall""212"
 //////"autoResize""3"
 
 
@@ -44,8 +44,8 @@
 "fieldName""ParticlePreview"
 
 
-//"wide""463"
-//"tall""212"
+"wide""463"
+"tall""212"
 //////"autoResize""3"
 
 
@@ -61,10 +61,10 @@
 {
 "ControlName""Label"
 "fieldName""ParticleCountLabel"
-//////"xpos""12"
-//////"ypos""6"
-//"wide""165"
-//"tall""24"
+"xpos""12"
+"ypos""6"
+"wide""165"
+"tall""24"
 
 ////////"pinCorner""3"
 //"PinnedCornerOffsetX" "-6"
@@ -72,7 +72,7 @@
 ////////"visible""1"
 
 
-//////"labelText"""
+"labelText"""
 ////////"textAlignment""west"
 ////////////"dulltext""0"
 //////"brighttext""0"

@@ -4,10 +4,10 @@
 {
 "ControlName""CDialogColorChoice"
 "fieldName""DialogColorChoice"
-//////"xpos""519"
-//////"ypos""306"
-//"wide""400"
-//"tall""140"
+"xpos""519"
+"ypos""306"
+"wide""400"
+"tall""140"
 
 
 //////////"visible""1"
@@ -18,16 +18,16 @@
 {
 "ControlName""Label"
 "fieldName""TextLabel"
-//////"xpos""35"
-//////"ypos""30"
-//"wide""350"
-//"tall""40"
+"xpos""35"
+"ypos""30"
+"wide""350"
+"tall""40"
 
 
 //////////"visible""1"
 
 
-//////"labelText""main text"
+"labelText""main text"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -36,16 +36,16 @@
 {
 "ControlName""Button"
 "fieldName""ColorOneBtn"
-//////"xpos""50"
-//////"ypos""70"
-//"wide""128"
-//"tall""24"
+"xpos""50"
+"ypos""70"
+"wide""128"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Color One"
+"labelText""Color One"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -55,16 +55,16 @@
 {
 "ControlName""Button"
 "fieldName""ColorTwoBtn"
-//////"xpos""210"
-//////"ypos""70"
-//"wide""128"
-//"tall""24"
+"xpos""210"
+"ypos""70"
+"wide""128"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Color Two"
+"labelText""Color Two"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -74,16 +74,16 @@
 {
 "ControlName""Button"
 "fieldName""AbortBtn"
-//////"xpos""320"
-//////"ypos""110"
-//"wide""60"
-//"tall""24"
+"xpos""320"
+"ypos""110"
+"wide""60"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""Abort"
+"labelText""Abort"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

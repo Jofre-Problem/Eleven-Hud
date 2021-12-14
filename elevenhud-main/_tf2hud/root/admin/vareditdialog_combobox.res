@@ -4,10 +4,10 @@
 {
 "ControlName""Frame"
 "fieldName""VarEditDialog"
-//////"xpos""500"
-//////"ypos""376"
-//"wide""280"
-//"tall""180"
+"xpos""500"
+"ypos""376"
+"wide""280"
+"tall""180"
 
 
 ////////"visible""1"
@@ -19,16 +19,16 @@
 {
 "ControlName""Button"
 "fieldName""OKButton"
-//////"xpos""116"
-//////"ypos""144"
-//"wide""64"
-//"tall""24"
+"xpos""116"
+"ypos""144"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""OK"
+"labelText""OK"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -39,16 +39,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""200"
-//////"ypos""144"
-//"wide""64"
-//"tall""24"
+"xpos""200"
+"ypos""144"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""Cancel"
+"labelText""Cancel"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -60,9 +60,9 @@
 "ControlName""TextEntry"
 "fieldName""StringEdit"
 
-////////"ypos""0"
-//"wide""64"
-//"tall""24"
+//"ypos""0"
+"wide""64"
+"tall""24"
 
 
 ////"visible""0"
@@ -77,10 +77,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""ComboEdit"
-//////"xpos""20"
-//////"ypos""94"
-//"wide""240"
-//"tall""24"
+"xpos""20"
+"ypos""94"
+"wide""240"
+"tall""24"
 
 
 ////////"visible""1"
@@ -95,16 +95,16 @@
 {
 "ControlName""Label"
 "fieldName""Label1"
-//////"xpos""20"
-//////"ypos""44"
-//"wide""240"
-//"tall""48"
+"xpos""20"
+"ypos""44"
+"wide""240"
+"tall""48"
 
 
 ////////"visible""1"
 
 
-//////"labelText""Changes take effect when you press 'OK'."
+"labelText""Changes take effect when you press 'OK'."
 //////////"textAlignment""west"
 //////"dulltext""1"
 //////////"brighttext""0"

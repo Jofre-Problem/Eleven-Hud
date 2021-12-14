@@ -4,10 +4,10 @@
 {
 "ControlName""CAssetBuilder"
 "fieldName""AssetBuilder"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""268"
-//"tall""380"
+"xpos""147"
+"ypos""128"
+"wide""268"
+"tall""380"
 
 
 ////////"visible""1"
@@ -22,8 +22,8 @@
 "fieldName""InputOutputSheet"
 
 
-//"wide""463"
-//"tall""212"
+"wide""463"
+"tall""212"
 ////////"autoResize""3"
 
 
@@ -40,13 +40,13 @@
 "ControlName""Button"
 "fieldName""CompileButton"
 
-//////"ypos""60"
-//"wide""120"
-//"tall""24"
+"ypos""60"
+"wide""120"
+"tall""24"
 
 ////////"pinCorner""2"
 
-//////"labelText""#AssetBuilder_Compile"
+"labelText""#AssetBuilder_Compile"
 ////////"visible""1"
 
 //////"tabPosition""1"
@@ -57,14 +57,14 @@
 {
 "ControlName""Button"
 "fieldName""PublishButton"
-//////"xpos""124"
-//////"ypos""60"
-//"wide""120"
-//"tall""24"
+"xpos""124"
+"ypos""60"
+"wide""120"
+"tall""24"
 
 ////////"pinCorner""2"
 
-//////"labelText""#AssetBuilder_Publish"
+"labelText""#AssetBuilder_Publish"
 ////////"visible""1"
 
 //////"tabPosition""2"
@@ -75,15 +75,15 @@
 {
 "ControlName""CCompileStatusBar"
 "fieldName""CompileStatus"
-//////"xpos""248"
-//////"ypos""60"
-//"wide""120"
-//"tall""24"
+"xpos""248"
+"ypos""60"
+"wide""120"
+"tall""24"
 ////////"autoResize""1"
 ////////"pinCorner""2"
 //"UnpinnedCornerOffsetX" "-124"
 
-//////"labelText""#AssetBuilder_Publish"
+"labelText""#AssetBuilder_Publish"
 ////////"visible""1"
 
 //////"tabPosition""2"
@@ -94,15 +94,15 @@
 {
 "ControlName""Button"
 "fieldName""AbortCompileButton"
-//////"xpos""130"
-//////"ypos""60"
-//"wide""120"
-//"tall""24"
+"xpos""130"
+"ypos""60"
+"wide""120"
+"tall""24"
 
 ////////"pinCorner""3"
 
 
-//////"labelText""#AssetBuilder_AbortCompile"
+"labelText""#AssetBuilder_AbortCompile"
 ////////"visible""1"
 
 //////"tabPosition""2"

@@ -4,10 +4,10 @@
 {
 "ControlName""CDialogAddBan"
 "fieldName""DialogAddBan"
-//////"xpos""379"
-//////"ypos""531"
-//"wide""324"
-//"tall""286"
+"xpos""379"
+"ypos""531"
+"wide""324"
+"tall""286"
 
 
 ////////"visible""1"
@@ -19,10 +19,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""IDTextEntry"
-//////"xpos""22"
-//////"ypos""98"
-//"wide""200"
-//"tall""24"
+"xpos""22"
+"ypos""98"
+"wide""200"
+"tall""24"
 
 
 ////////"visible""1"
@@ -36,16 +36,16 @@
 {
 "ControlName""Button"
 "fieldName""OkayButton"
-//////"xpos""133"
-//////"ypos""246"
-//"wide""80"
-//"tall""24"
+"xpos""133"
+"ypos""246"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""6"
-//////"labelText""#Okay_Button"
+"labelText""#Okay_Button"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -56,16 +56,16 @@
 {
 "ControlName""RadioButton"
 "fieldName""PermBanRadio"
-//////"xpos""42"
-//////"ypos""166"
-//"wide""96"
-//"tall""24"
+"xpos""42"
+"ypos""166"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""#Add_Ban_Time_Permanent"
+"labelText""#Add_Ban_Time_Permanent"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -76,16 +76,16 @@
 {
 "ControlName""RadioButton"
 "fieldName""TempBanRadio"
-//////"xpos""42"
-//////"ypos""190"
-//"wide""102"
-//"tall""24"
+"xpos""42"
+"ypos""190"
+"wide""102"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""#Add_Ban_Time_Temporary"
+"labelText""#Add_Ban_Time_Temporary"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -96,10 +96,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""TimeTextEntry"
-//////"xpos""144"
-//////"ypos""192"
-//"wide""50"
-//"tall""24"
+"xpos""144"
+"ypos""192"
+"wide""50"
+"tall""24"
 
 
 ////////"visible""1"
@@ -113,10 +113,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""TimeCombo"
-//////"xpos""202"
-//////"ypos""192"
-//"wide""80"
-//"tall""24"
+"xpos""202"
+"ypos""192"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"
@@ -130,16 +130,16 @@
 {
 "ControlName""Label"
 "fieldName""IDLabel"
-//////"xpos""22"
-//////"ypos""78"
-//"wide""123"
-//"tall""16"
+"xpos""22"
+"ypos""78"
+"wide""123"
+"tall""16"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Add_Ban_ID_IP_Label"
+"labelText""#Add_Ban_ID_IP_Label"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -148,16 +148,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""226"
-//////"ypos""246"
-//"wide""80"
-//"tall""24"
+"xpos""226"
+"ypos""246"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""7"
-//////"labelText""#Cancel_Button"
+"labelText""#Cancel_Button"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -168,16 +168,16 @@
 {
 "ControlName""Label"
 "fieldName""Label1"
-//////"xpos""20"
-//////"ypos""40"
-//"wide""35"
-//"tall""16"
+"xpos""20"
+"ypos""40"
+"wide""35"
+"tall""16"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Add_Ban_Player"
+"labelText""#Add_Ban_Player"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -186,10 +186,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""PlayerTextEntry"
-//////"xpos""62"
-//////"ypos""38"
-//"wide""200"
-//"tall""24"
+"xpos""62"
+"ypos""38"
+"wide""200"
+"tall""24"
 
 
 ////////"visible""1"
@@ -203,16 +203,16 @@
 {
 "ControlName""Label"
 "fieldName""Label2"
-//////"xpos""24"
-//////"ypos""144"
-//"wide""77"
-//"tall""16"
+"xpos""24"
+"ypos""144"
+"wide""77"
+"tall""16"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Add_Ban_Duration_Label"
+"labelText""#Add_Ban_Duration_Label"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

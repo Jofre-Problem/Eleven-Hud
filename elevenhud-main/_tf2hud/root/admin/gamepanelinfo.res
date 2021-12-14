@@ -4,10 +4,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""RulesList"
-//////"xpos""12"
-//////"ypos""72"
-//"wide""496"
-//"tall""216"
+"xpos""12"
+"ypos""72"
+"wide""496"
+"tall""216"
 ////////"autoResize""3"
 
 ////////"visible""1"
@@ -18,16 +18,16 @@
 {
 "ControlName""Button"
 "fieldName""EditButton"
-//////"xpos""12"
-//////"ypos""298"
-//"wide""80"
-//"tall""24"
+"xpos""12"
+"ypos""298"
+"wide""80"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 ////"enabled""0"
 //////"tabPosition""2"
-//////"labelText""Edit..."
+"labelText""Edit..."
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -38,15 +38,15 @@
 "ControlName""Label"
 "fieldName""GameLabel"
 
-//////"ypos""12"
-//"wide""84"
-//"tall""24"
+"ypos""12"
+"wide""84"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Dialog_Game_Info_Game_Label"
+"labelText""#Dialog_Game_Info_Game_Label"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -56,15 +56,15 @@
 "ControlName""Label"
 "fieldName""ServerIPLabel"
 
-//////"ypos""40"
-//"wide""84"
-//"tall""24"
+"ypos""40"
+"wide""84"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Dialog_Game_Info_IP_Label"
+"labelText""#Dialog_Game_Info_IP_Label"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -73,16 +73,16 @@
 {
 "ControlName""Label"
 "fieldName""PlayersLabel"
-//////"xpos""330"
-//////"ypos""12"
-//"wide""84"
-//"tall""24"
+"xpos""330"
+"ypos""12"
+"wide""84"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Dialog_Game_Info_Players_Label"
+"labelText""#Dialog_Game_Info_Players_Label"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -91,16 +91,16 @@
 {
 "ControlName""Label"
 "fieldName""UptimeLabel"
-//////"xpos""330"
-//////"ypos""40"
-//"wide""84"
-//"tall""24"
+"xpos""330"
+"ypos""40"
+"wide""84"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""Uptime"
+"labelText""Uptime"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -109,10 +109,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""GameText"
-//////"xpos""92"
-//////"ypos""12"
-//"wide""164"
-//"tall""24"
+"xpos""92"
+"ypos""12"
+"wide""164"
+"tall""24"
 
 
 ////////"visible""1"
@@ -127,10 +127,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""ServerIPText"
-//////"xpos""92"
-//////"ypos""40"
-//"wide""164"
-//"tall""24"
+"xpos""92"
+"ypos""40"
+"wide""164"
+"tall""24"
 
 
 ////////"visible""1"
@@ -145,10 +145,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""PlayersText"
-//////"xpos""420"
-//////"ypos""12"
-//"wide""88"
-//"tall""24"
+"xpos""420"
+"ypos""12"
+"wide""88"
+"tall""24"
 
 
 ////////"visible""1"
@@ -163,10 +163,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""UptimeText"
-//////"xpos""420"
-//////"ypos""40"
-//"wide""88"
-//"tall""24"
+"xpos""420"
+"ypos""40"
+"wide""88"
+"tall""24"
 
 
 ////////"visible""1"

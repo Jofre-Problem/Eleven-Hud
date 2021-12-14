@@ -4,10 +4,10 @@
 {
 "ControlName""CMapCycleEditDialog"
 "fieldName""MapCycleEditDialog"
-//////"xpos""400"
-//////"ypos""266"
-//"wide""480"
-//"tall""400"
+"xpos""400"
+"ypos""266"
+"wide""480"
+"tall""400"
 
 
 ////////"visible""1"
@@ -19,10 +19,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""AvailableMapList"
-//////"xpos""36"
-//////"ypos""42"
-//"wide""184"
-//"tall""306"
+"xpos""36"
+"ypos""42"
+"wide""184"
+"tall""306"
 
 
 ////////"visible""1"
@@ -33,10 +33,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""MapCycleList"
-//////"xpos""262"
-//////"ypos""42"
-//"wide""184"
-//"tall""276"
+"xpos""262"
+"ypos""42"
+"wide""184"
+"tall""276"
 
 
 ////////"visible""1"
@@ -47,16 +47,16 @@
 {
 "ControlName""Button"
 "fieldName""RightButton"
-//////"xpos""230"
-//////"ypos""94"
-//"wide""24"
-//"tall""24"
+"xpos""230"
+"ypos""94"
+"wide""24"
+"tall""24"
 
 
 ////////"visible""1"
 ////"enabled""0"
 //////"tabPosition""3"
-//////"labelText""->"
+"labelText""->"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -67,16 +67,16 @@
 {
 "ControlName""Button"
 "fieldName""LeftButton"
-//////"xpos""230"
-//////"ypos""130"
-//"wide""24"
-//"tall""24"
+"xpos""230"
+"ypos""130"
+"wide""24"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""4"
-//////"labelText""<-"
+"labelText""<-"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -87,16 +87,16 @@
 {
 "ControlName""Button"
 "fieldName""UpButton"
-//////"xpos""262"
-//////"ypos""324"
-//"wide""80"
-//"tall""24"
+"xpos""262"
+"ypos""324"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""5"
-//////"labelText""Move up"
+"labelText""Move up"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -107,16 +107,16 @@
 {
 "ControlName""Button"
 "fieldName""DownButton"
-//////"xpos""346"
-//////"ypos""324"
-//"wide""80"
-//"tall""24"
+"xpos""346"
+"ypos""324"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""6"
-//////"labelText""Move down"
+"labelText""Move down"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -127,16 +127,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""382"
-//////"ypos""360"
-//"wide""64"
-//"tall""24"
+"xpos""382"
+"ypos""360"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""8"
-//////"labelText""Cancel"
+"labelText""Cancel"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -147,16 +147,16 @@
 {
 "ControlName""Button"
 "fieldName""OKButton"
-//////"xpos""306"
-//////"ypos""360"
-//"wide""64"
-//"tall""24"
+"xpos""306"
+"ypos""360"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""7"
-//////"labelText""OK"
+"labelText""OK"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

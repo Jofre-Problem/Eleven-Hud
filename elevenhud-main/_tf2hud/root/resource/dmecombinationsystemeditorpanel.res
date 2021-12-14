@@ -6,8 +6,8 @@
 "fieldName""EditorSheet"
 
 
-//"wide""463"
-//"tall""212"
+"wide""463"
+"tall""212"
 ////////"autoResize""3"
 
 

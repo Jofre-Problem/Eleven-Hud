@@ -4,10 +4,10 @@
 {
 "ControlName""Frame"
 "fieldName""DialogAddServer"
-//////"xpos""472"
-//////"ypos""426"
-//"wide""364"
-//"tall""240"
+"xpos""472"
+"ypos""426"
+"wide""364"
+"tall""240"
 
 
 ////////"visible""1"
@@ -18,9 +18,9 @@
 "ControlName""Menu"
 "fieldName""SysMenu"
 
-////////"ypos""0"
-//"wide""64"
-//"tall""24"
+//"ypos""0"
+"wide""64"
+"tall""24"
 
 
 ////"visible""0"
@@ -30,10 +30,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""ServerNameText"
-//////"xpos""28"
-//////"ypos""74"
-//"wide""200"
-//"tall""20"
+"xpos""28"
+"ypos""74"
+"wide""200"
+"tall""20"
 
 
 ////////"visible""1"
@@ -47,15 +47,15 @@
 {
 "ControlName""Label"
 "fieldName""infolabel"
-//////"xpos""28"
-//////"ypos""44"
-//"wide""340"
-//"tall""20"
+"xpos""28"
+"ypos""44"
+"wide""340"
+"tall""20"
 
 
 ////////"visible""1"
 
-//////"labelText""#Dialog_AddServer_IP"
+"labelText""#Dialog_AddServer_IP"
 //////"textAlignment""south-west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -64,15 +64,15 @@
 {
 "ControlName""Label"
 "fieldName""ExampleLabel"
-//////"xpos""28"
-//////"ypos""98"
-//"wide""340"
-//"tall""80"
+"xpos""28"
+"ypos""98"
+"wide""340"
+"tall""80"
 
 
 ////////"visible""1"
 
-//////"labelText""#Dialog_AddServer_Example"
+"labelText""#Dialog_AddServer_Example"
 //////////"textAlignment""west"
 //////"dulltext""1"
 //////////"brighttext""0"
@@ -81,16 +81,16 @@
 {
 "ControlName""Button"
 "fieldName""OKButton"
-//////"xpos""212"
-//////"ypos""202"
-//"wide""64"
-//"tall""24"
+"xpos""212"
+"ypos""202"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""#Okay_Button"
+"labelText""#Okay_Button"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -101,16 +101,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""288"
-//////"ypos""202"
-//"wide""64"
-//"tall""24"
+"xpos""288"
+"ypos""202"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""#Cancel_Button"
+"labelText""#Cancel_Button"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"

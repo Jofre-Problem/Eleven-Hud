@@ -4,10 +4,10 @@
 {
 "ControlName""CVP4Dialog"
 "fieldName""vp4dialog"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""1024"
-//"tall""768"
+"xpos""147"
+"ypos""128"
+"wide""1024"
+"tall""768"
 
 
 ////////"visible""1"
@@ -20,10 +20,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""ClientCombo"
-//////"xpos""16"
-//////"ypos""32"
-//"wide""292"
-//"tall""24"
+"xpos""16"
+"ypos""32"
+"wide""292"
+"tall""24"
 
 
 ////////"visible""1"
@@ -39,10 +39,10 @@
 {
 "ControlName""CFileTreeView"
 "fieldName""FileTree"
-//////"xpos""16"
-//////"ypos""66"
-//"wide""292"
-//"tall""670"
+"xpos""16"
+"ypos""66"
+"wide""292"
+"tall""670"
 //////"autoResize""2"
 
 ////////"visible""1"
@@ -53,10 +53,10 @@
 {
 "ControlName""PropertySheet"
 "fieldName""ViewsSheet"
-//////"xpos""318"
-//////"ypos""32"
-//"wide""682"
-//"tall""704"
+"xpos""318"
+"ypos""32"
+"wide""682"
+"tall""704"
 //////"autoResize""3"
 
 ////////"visible""1"

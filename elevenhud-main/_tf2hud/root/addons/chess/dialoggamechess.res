@@ -4,10 +4,10 @@
 {
 "ControlName""CDialogGameChess"
 "fieldName""DialogGameChess"
-//////"xpos""18"
-//////"ypos""32"
-//"wide""600"
-//"tall""435"
+"xpos""18"
+"ypos""32"
+"wide""600"
+"tall""435"
 
 
 //////////"visible""1"
@@ -19,10 +19,10 @@
 {
 "ControlName""ImagePanel"
 "fieldName""BoardChess"
-//////"xpos""15"
-//////"ypos""35"
-//"wide""320"
-//"tall""320"
+"xpos""15"
+"ypos""35"
+"wide""320"
+"tall""320"
 
 
 //////////"visible""1"
@@ -33,10 +33,10 @@
 {
 "ControlName""URLTextEntry"
 "fieldName""ChatTextLog"
-//////"xpos""350"
-//////"ypos""135"
-//"wide""235"
-//"tall""222"
+"xpos""350"
+"ypos""135"
+"wide""235"
+"tall""222"
 ////////"autoResize""3"
 
 //////////"visible""1"
@@ -50,10 +50,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""TextEntry"
-//////"xpos""350"
-//////"ypos""370"
-//"wide""165"
-//"tall""24"
+"xpos""350"
+"ypos""370"
+"wide""165"
+"tall""24"
 ////////"autoResize""1"
 ////////"pinCorner""2"
 //////////"visible""1"
@@ -68,16 +68,16 @@
 {
 "ControlName""Button"
 "fieldName""SendBtn"
-//////"xpos""524"
-//////"ypos""370"
-//"wide""64"
-//"tall""24"
+"xpos""524"
+"ypos""370"
+"wide""64"
+"tall""24"
 
 ////////"pinCorner""3"
 //////////"visible""1"
 
 
-//////"labelText""#SteamAddOn_Btn_Send"
+"labelText""#SteamAddOn_Btn_Send"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -87,16 +87,16 @@
 {
 "ControlName""Button"
 "fieldName""ResignBtn"
-//////"xpos""110"
-//////"ypos""370"
-//"wide""80"
-//"tall""24"
+"xpos""110"
+"ypos""370"
+"wide""80"
+"tall""24"
 
 
 //////////"visible""1"
 ////"enabled""0"
 
-//////"labelText""#SteamAddOn_Btn_Resign"
+"labelText""#SteamAddOn_Btn_Resign"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -106,16 +106,16 @@
 {
 "ControlName""Button"
 "fieldName""ShowHistoryBtn"
-//////"xpos""227"
-//////"ypos""370"
-//"wide""110"
-//"tall""24"
+"xpos""227"
+"ypos""370"
+"wide""110"
+"tall""24"
 
 
 //////////"visible""1"
 
 
-//////"labelText""#SteamAddOn_Btn_ShowHistory"
+"labelText""#SteamAddOn_Btn_ShowHistory"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -125,16 +125,16 @@
 {
 "ControlName""Label"
 "fieldName""LastMoveLabel"
-//////"xpos""20"
-//////"ypos""405"
-//"wide""250"
-//"tall""24"
+"xpos""20"
+"ypos""405"
+"wide""250"
+"tall""24"
 
 ////////"pinCorner""2"
 ////"visible""0"
 
 
-//////"labelText""Last Move made at:"
+"labelText""Last Move made at:"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -143,16 +143,16 @@
 {
 "ControlName""Label"
 "fieldName""TurnLabel"
-//////"xpos""535"
-//////"ypos""405"
-//"wide""64"
-//"tall""24"
+"xpos""535"
+"ypos""405"
+"wide""64"
+"tall""24"
 
 ////////"pinCorner""3"
 ////"visible""0"
 
 
-//////"labelText""Turn: 1"
+"labelText""Turn: 1"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -161,10 +161,10 @@
 {
 "ControlName""ImagePanel"
 "fieldName""BlackIcon"
-//////"xpos""396"
-//////"ypos""41"
-//"wide""12"
-//"tall""12"
+"xpos""396"
+"ypos""41"
+"wide""12"
+"tall""12"
 
 
 //////////"visible""1"
@@ -175,10 +175,10 @@
 {
 "ControlName""ImagePanel"
 "fieldName""WhiteIcon"
-//////"xpos""396"
-//////"ypos""86"
-//"wide""12"
-//"tall""12"
+"xpos""396"
+"ypos""86"
+"wide""12"
+"tall""12"
 
 
 //////////"visible""1"
@@ -189,10 +189,10 @@
 {
 "ControlName""Label"
 "fieldName""BlackName"
-//////"xpos""415"
-//////"ypos""35"
-//"wide""100"
-//"tall""24"
+"xpos""415"
+"ypos""35"
+"wide""100"
+"tall""24"
 
 
 //////////"visible""1"
@@ -206,10 +206,10 @@
 {
 "ControlName""Label"
 "fieldName""WhiteName"
-//////"xpos""415"
-//////"ypos""80"
-//"wide""100"
-//"tall""24"
+"xpos""415"
+"ypos""80"
+"wide""100"
+"tall""24"
 
 
 //////////"visible""1"

@@ -4,10 +4,10 @@
 {
 "ControlName""CAssetPicker"
 "fieldName""AssetPicker"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""268"
-//"tall""380"
+"xpos""147"
+"ypos""128"
+"wide""268"
+"tall""380"
 
 
 ////////"visible""1"
@@ -35,17 +35,17 @@
 {
 "ControlName""Label"
 "fieldName""ModFilterLabel"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""65"
-//"tall""24"
+"xpos""6"
+"ypos""6"
+"wide""65"
+"tall""24"
 
 
 //"PinnedCornerOffsetX" "6"
 ////////"visible""1"
 
 
-//////"labelText""Mod Filter"
+"labelText""Mod Filter"
 //////"textAlignment""east"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -55,10 +55,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""ModFilter"
-//////"xpos""75"
-//////"ypos""6"
-//"wide""256"
-//"tall""24"
+"xpos""75"
+"ypos""6"
+"wide""256"
+"tall""24"
 ////////"autoResize""1"
 
 //"PinnedCornerOffsetX" "75"
@@ -77,14 +77,14 @@
 {
 "ControlName""Button"
 "fieldName""RescanButton"
-//////"xpos""212"
-//////"ypos""6"
-//"wide""60"
-//"tall""24"
+"xpos""212"
+"ypos""6"
+"wide""60"
+"tall""24"
 //"PinnedCornerOffsetX" "-6"
 
 ////////"pinCorner""1"
-//////"labelText""#AssetPicker_Rescan"
+"labelText""#AssetPicker_Rescan"
 //////"textAlignment""center"
 ////////"visible""1"
 
@@ -98,10 +98,10 @@
 {
 "ControlName""CAssetTreeView"
 "fieldName""FolderFilter"
-//////"xpos""6"
-//////"ypos""36"
-//"wide""65"
-//"tall""24"
+"xpos""6"
+"ypos""36"
+"wide""65"
+"tall""24"
 ////////"autoResize""3"
 
 //"UnpinnedCornerOffsetX" "-6"
@@ -118,10 +118,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""AssetBrowser"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""212"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""212"
 ////////"autoResize""3"
 
 //"UnpinnedCornerOffsetX" "-6"
@@ -135,10 +135,10 @@
 {
 "ControlName""Label"
 "fieldName""FullPathLabel"
-//////"xpos""6"
-//////"ypos""210"
-//"wide""65"
-//"tall""24"
+"xpos""6"
+"ypos""210"
+"wide""65"
+"tall""24"
 
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "6"
@@ -146,7 +146,7 @@
 ////////"visible""1"
 
 
-//////"labelText""Full Path"
+"labelText""Full Path"
 //////"textAlignment""east"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -156,10 +156,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""FullPath"
-//////"xpos""6"
-//////"ypos""210"
-//"wide""75"
-//"tall""24"
+"xpos""6"
+"ypos""210"
+"wide""75"
+"tall""24"
 ////////"autoResize""1"
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "75"
@@ -169,7 +169,7 @@
 ////"enabled""0"
 //////"editable""0"
 
-//////"labelText"""
+"labelText"""
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -179,10 +179,10 @@
 {
 "ControlName""Label"
 "fieldName""FilterLabel"
-//////"xpos""6"
-//////"ypos""210"
-//"wide""65"
-//"tall""24"
+"xpos""6"
+"ypos""210"
+"wide""65"
+"tall""24"
 
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "6"
@@ -190,7 +190,7 @@
 ////////"visible""1"
 
 
-//////"labelText""Filter"
+"labelText""Filter"
 //////"textAlignment""east"
 //////"dulltext""1"
 //////"brighttext""0"
@@ -200,10 +200,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""FilterList"
-//////"xpos""70"
-//////"ypos""210"
-//"wide""256"
-//"tall""24"
+"xpos""70"
+"ypos""210"
+"wide""256"
+"tall""24"
 ////////"autoResize""1"
 ////////"pinCorner""2"
 //"PinnedCornerOffsetX" "75"

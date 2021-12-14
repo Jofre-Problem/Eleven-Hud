@@ -4,10 +4,10 @@
 {
 "ControlName""PropertyPage"
 "fieldName""RenderPage"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""6"
+"wide""256"
+"tall""256"
 
 
 ////////"visible""1"
@@ -18,16 +18,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""Wireframe"
-//////"xpos""6"
-//////"ypos""6"
-//"wide""120"
-//"tall""24"
+"xpos""6"
+"ypos""6"
+"wide""120"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""1"
-//////"labelText""Wireframe"
+"labelText""Wireframe"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -38,16 +38,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""Collision"
-//////"xpos""6"
-//////"ypos""28"
-//"wide""120"
-//"tall""24"
+"xpos""6"
+"ypos""28"
+"wide""120"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Collision Model"
+"labelText""Collision Model"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -58,16 +58,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""NoGround"
-//////"xpos""6"
-//////"ypos""50"
-//"wide""120"
-//"tall""24"
+"xpos""6"
+"ypos""50"
+"wide""120"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""No Ground"
+"labelText""No Ground"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -78,16 +78,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""LockView"
-//////"xpos""6"
-//////"ypos""72"
-//"wide""120"
-//"tall""24"
+"xpos""6"
+"ypos""72"
+"wide""120"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""4"
-//////"labelText""Lock View"
+"labelText""Lock View"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -98,16 +98,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""ThumbnailSafeZone"
-//////"xpos""6"
-//////"ypos""94"
-//"wide""150"
-//"tall""24"
+"xpos""6"
+"ypos""94"
+"wide""150"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""4"
-//////"labelText""Thumbnail Safe Zone"
+"labelText""Thumbnail Safe Zone"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -118,17 +118,17 @@
 {
 "ControlName""CheckButton"
 "fieldName""LookAtCamera"
-//////"xpos""128"
-//////"ypos""6"
-//"wide""216"
-//"tall""24"
+"xpos""128"
+"ypos""6"
+"wide""216"
+"tall""24"
 
 
 ////////"visible""1"
 
 //"selected""1"
 //////"tabPosition""5"
-//////"labelText""Look At Camera"
+"labelText""Look At Camera"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -139,16 +139,16 @@
 {
 "ControlName""Button"
 "fieldName""ChooseLightProbe"
-//////"xpos""134"
-//////"ypos""34"
-//"wide""100"
-//"tall""24"
+"xpos""134"
+"ypos""34"
+"wide""100"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""6"
-//////"labelText""&Select Light Probe"
+"labelText""&Select Light Probe"
 //////"textAlignment""center"
 ////"Command""ChooseLightProbe"
 ////"Default""0"

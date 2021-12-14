@@ -4,10 +4,10 @@
 {
 "ControlName""CCreateMultiplayerGameServerPage"
 "fieldName""Config"
-//////"xpos""372"
-//////"ypos""193"
-//"wide""310"
-//"tall""360"
+"xpos""372"
+"ypos""193"
+"wide""310"
+"tall""360"
 
 
 ////////"visible""1"
@@ -19,10 +19,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""MapList"
-//////"xpos""116"
-//////"ypos""112"
-//"wide""170"
-//"tall""24"
+"xpos""116"
+"ypos""112"
+"wide""170"
+"tall""24"
 ////////"autoResize""1"
 
 ////////"visible""1"
@@ -37,10 +37,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""NetworkCombo"
-//////"xpos""117"
-//////"ypos""146"
-//"wide""170"
-//"tall""24"
+"xpos""117"
+"ypos""146"
+"wide""170"
+"tall""24"
 ////////"autoResize""1"
 
 ////////"visible""1"
@@ -55,10 +55,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""NumPlayers"
-//////"xpos""117"
-//////"ypos""180"
-//"wide""80"
-//"tall""24"
+"xpos""117"
+"ypos""180"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"
@@ -73,10 +73,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""MODCombo"
-//////"xpos""116"
-//////"ypos""44"
-//"wide""170"
-//"tall""24"
+"xpos""116"
+"ypos""44"
+"wide""170"
+"tall""24"
 ////////"autoResize""1"
 
 ////////"visible""1"
@@ -91,16 +91,16 @@
 {
 "ControlName""Button"
 "fieldName""StartButton"
-//////"xpos""118"
-//////"ypos""318"
-//"wide""90"
-//"tall""24"
+"xpos""118"
+"ypos""318"
+"wide""90"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""9"
-//////"labelText""#Start_Server_Button"
+"labelText""#Start_Server_Button"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -111,16 +111,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""214"
-//////"ypos""318"
-//"wide""64"
-//"tall""24"
+"xpos""214"
+"ypos""318"
+"wide""64"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""10"
-//////"labelText""#Start_Server_Cancel"
+"labelText""#Start_Server_Cancel"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -131,16 +131,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""SecureCheck"
-//////"xpos""110"
-//////"ypos""282"
-//"wide""190"
-//"tall""24"
+"xpos""110"
+"ypos""282"
+"wide""190"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""8"
-//////"labelText""#Start_Server_Secure"
+"labelText""#Start_Server_Secure"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -152,10 +152,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""ServerNameEdit"
-//////"xpos""116"
-//////"ypos""78"
-//"wide""170"
-//"tall""24"
+"xpos""116"
+"ypos""78"
+"wide""170"
+"tall""24"
 ////////"autoResize""1"
 
 ////////"visible""1"
@@ -170,16 +170,16 @@
 {
 "ControlName""Label"
 "fieldName""ServerNameLabel"
-//////"xpos""10"
-//////"ypos""78"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""78"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Start_Server_Name_Label"
+"labelText""#Start_Server_Name_Label"
 //////"textAlignment""east"
 //"associate""ServerNameEdit"
 //////"dulltext""1"
@@ -189,16 +189,16 @@
 {
 "ControlName""Label"
 "fieldName""MaxPlayersLabel"
-//////"xpos""10"
-//////"ypos""180"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""180"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Start_Server_Max_Players_Label"
+"labelText""#Start_Server_Max_Players_Label"
 //////"textAlignment""east"
 //"associate""NumPlayers"
 //////"dulltext""1"
@@ -208,16 +208,16 @@
 {
 "ControlName""Label"
 "fieldName""MODLabel"
-//////"xpos""10"
-//////"ypos""44"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""44"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""Game"
+"labelText""Game"
 //////"textAlignment""east"
 //"associate""MODCombo"
 //////"dulltext""1"
@@ -227,16 +227,16 @@
 {
 "ControlName""Label"
 "fieldName""Label1"
-//////"xpos""10"
-//////"ypos""112"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""112"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Start_Server_Map_Label"
+"labelText""#Start_Server_Map_Label"
 //////"textAlignment""east"
 //"associate""MapList"
 //////"dulltext""1"
@@ -246,16 +246,16 @@
 {
 "ControlName""Label"
 "fieldName""Label4"
-//////"xpos""10"
-//////"ypos""146"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""146"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Start_Server_Network_Label"
+"labelText""#Start_Server_Network_Label"
 //////"textAlignment""east"
 //"associate""NetworkCombo"
 //////"dulltext""1"
@@ -265,10 +265,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""RCONPasswordEdit"
-//////"xpos""118"
-//////"ypos""248"
-//"wide""170"
-//"tall""24"
+"xpos""118"
+"ypos""248"
+"wide""170"
+"tall""24"
 ////////"autoResize""1"
 
 ////////"visible""1"
@@ -283,16 +283,16 @@
 {
 "ControlName""Label"
 "fieldName""rconpassword_label"
-//////"xpos""10"
-//////"ypos""248"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""248"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""#Start_Server_RCON_Password"
+"labelText""#Start_Server_RCON_Password"
 //////"textAlignment""east"
 //"associate""RCONPasswordEdit"
 //////"dulltext""1"
@@ -302,16 +302,16 @@
 {
 "ControlName""Label"
 "fieldName""Label2"
-//////"xpos""10"
-//////"ypos""214"
-//"wide""96"
-//"tall""24"
+"xpos""10"
+"ypos""214"
+"wide""96"
+"tall""24"
 
 
 ////////"visible""1"
 
 
-//////"labelText""UDP Port"
+"labelText""UDP Port"
 //////"textAlignment""east"
 //"associate""PortEdit"
 //////"dulltext""1"
@@ -321,10 +321,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""PortEdit"
-//////"xpos""118"
-//////"ypos""214"
-//"wide""80"
-//"tall""24"
+"xpos""118"
+"ypos""214"
+"wide""80"
+"tall""24"
 
 
 ////////"visible""1"

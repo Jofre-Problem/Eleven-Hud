@@ -4,10 +4,10 @@
 {
 "ControlName""CDmeLogEditFrame"
 "fieldName""DmeLogEditFrame"
-//////"xpos""147"
-//////"ypos""128"
-//"wide""268"
-//"tall""358"
+"xpos""147"
+"ypos""128"
+"wide""268"
+"tall""358"
 
 
 ////////"visible""1"
@@ -20,10 +20,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""LogFilter"
-//////"xpos""6"
-//////"ypos""298"
-//"wide""256"
-//"tall""24"
+"xpos""6"
+"ypos""298"
+"wide""256"
+"tall""24"
 ////////"autoResize""1"
 ////////"pinCorner""2"
 ////////"visible""1"
@@ -39,16 +39,16 @@
 {
 "ControlName""Button"
 "fieldName""OkButton"
-//////"xpos""6"
-//////"ypos""328"
-//"wide""122"
-//"tall""24"
+"xpos""6"
+"ypos""328"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""1"
-//////"labelText""Ok"
+"labelText""Ok"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -59,16 +59,16 @@
 {
 "ControlName""Button"
 "fieldName""CancelButton"
-//////"xpos""140"
-//////"ypos""328"
-//"wide""122"
-//"tall""24"
+"xpos""140"
+"ypos""328"
+"wide""122"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""Cancel"
+"labelText""Cancel"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -79,10 +79,10 @@
 {
 "ControlName""CDmeLogEditPanel"
 "fieldName""DmeLogEditPanel"
-//////"xpos""6"
-//////"ypos""34"
-//"wide""256"
-//"tall""256"
+"xpos""6"
+"ypos""34"
+"wide""256"
+"tall""256"
 ////////"autoResize""3"
 
 ////////"visible""1"

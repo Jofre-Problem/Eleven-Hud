@@ -4,10 +4,10 @@
 {
 "ControlName""CServerPage"
 "fieldName""FavoriteGames"
-//////"xpos""412"
-//////"ypos""182"
-//"wide""646"
-//"tall""418"
+"xpos""412"
+"ypos""182"
+"wide""646"
+"tall""418"
 
 
 ////////"visible""1"
@@ -19,9 +19,9 @@
 "ControlName""Menu"
 "fieldName""SysMenu"
 
-////////"ypos""0"
-//"wide""64"
-//"tall""24"
+//"ypos""0"
+"wide""64"
+"tall""24"
 
 
 ////"visible""0"
@@ -32,16 +32,16 @@
 {
 "ControlName""Button"
 "fieldName""RefreshButton"
-//////"xpos""424"
-//////"ypos""38"
-//"wide""110"
-//"tall""24"
+"xpos""424"
+"ypos""38"
+"wide""110"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""1"
-//////"labelText""#baseGames_Refresh"
+"labelText""#baseGames_Refresh"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -52,16 +52,16 @@
 {
 "ControlName""Button"
 "fieldName""AddIPButton"
-//////"xpos""22"
-//////"ypos""364"
-//"wide""150"
-//"tall""24"
+"xpos""22"
+"ypos""364"
+"wide""150"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 //////"tabPosition""4"
-//////"labelText""#baseGames_AddIP"
+"labelText""#baseGames_AddIP"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -72,16 +72,16 @@
 {
 "ControlName""Button"
 "fieldName""ManageButton"
-//////"xpos""522"
-//////"ypos""364"
-//"wide""90"
-//"tall""24"
+"xpos""522"
+"ypos""364"
+"wide""90"
+"tall""24"
 
 ////////"pinCorner""3"
 ////////"visible""1"
 
 //////"tabPosition""7"
-//////"labelText""#baseGames_Manage"
+"labelText""#baseGames_Manage"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -91,10 +91,10 @@
 {
 "ControlName""ListPanel"
 "fieldName""gamelist"
-//////"xpos""26"
-//////"ypos""66"
-//"wide""600"
-//"tall""290"
+"xpos""26"
+"ypos""66"
+"wide""600"
+"tall""290"
 ////////"autoResize""3"
 
 ////////"visible""1"
@@ -105,10 +105,10 @@
 {
 "ControlName""Label"
 "fieldName""StatusLabel"
-//////"xpos""11"
-//////"ypos""395"
-//"wide""630"
-//"tall""20"
+"xpos""11"
+"ypos""395"
+"wide""630"
+"tall""20"
 
 ////////"pinCorner""2"
 ////////"visible""1"
@@ -123,9 +123,9 @@
 "ControlName""Menu"
 "fieldName""ServerContextMenu"
 
-////////"ypos""0"
-//"wide""64"
-//"tall""24"
+//"ypos""0"
+"wide""64"
+"tall""24"
 
 
 ////"visible""0"
@@ -135,16 +135,16 @@
 {
 "ControlName""Button"
 "fieldName""Config"
-//////"xpos""542"
-//////"ypos""38"
-//"wide""90"
-//"tall""24"
+"xpos""542"
+"ypos""38"
+"wide""90"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""2"
-//////"labelText""#baseGames_Options"
+"labelText""#baseGames_Options"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -155,16 +155,16 @@
 {
 "ControlName""Button"
 "fieldName""Launch"
-//////"xpos""176"
-//////"ypos""364"
-//"wide""150"
-//"tall""24"
+"xpos""176"
+"ypos""364"
+"wide""150"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 ////"enabled""0"
 //////"tabPosition""5"
-//////"labelText""#baseGames_Start_Local"
+"labelText""#baseGames_Start_Local"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -175,16 +175,16 @@
 {
 "ControlName""Button"
 "fieldName""RemoveButton"
-//////"xpos""422"
-//////"ypos""364"
-//"wide""90"
-//"tall""24"
+"xpos""422"
+"ypos""364"
+"wide""90"
+"tall""24"
 
 ////////"pinCorner""3"
 ////////"visible""1"
 
 //////"tabPosition""6"
-//////"labelText""#baseGames_Remove"
+"labelText""#baseGames_Remove"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

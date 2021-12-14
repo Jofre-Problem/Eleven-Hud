@@ -5,9 +5,9 @@
 "ControlName""CGraphPanel"
 "fieldName""GraphsPanel"
 
-//////"ypos""28"
-//"wide""520"
-//"tall""332"
+"ypos""28"
+"wide""520"
+"tall""332"
 
 
 ////////"visible""1"
@@ -18,10 +18,10 @@
 {
 "ControlName""ImagePanel"
 "fieldName""Graphs"
-//////"xpos""40"
-//////"ypos""10"
-//"wide""382"
-//"tall""264"
+"xpos""40"
+"ypos""10"
+"wide""382"
+"tall""264"
 ////////"autoResize""3"
 
 ////////"visible""1"
@@ -34,16 +34,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""InCheck"
-//////"xpos""436"
-//////"ypos""130"
-//"wide""84"
-//"tall""24"
+"xpos""436"
+"ypos""130"
+"wide""84"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""5"
-//////"labelText""#Graph_In"
+"labelText""#Graph_In"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -54,16 +54,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""OutCheck"
-//////"xpos""436"
-//////"ypos""152"
-//"wide""84"
-//"tall""24"
+"xpos""436"
+"ypos""152"
+"wide""84"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""6"
-//////"labelText""#Graph_Out"
+"labelText""#Graph_Out"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -74,16 +74,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""FPSCheck"
-//////"xpos""436"
-//////"ypos""200"
-//"wide""84"
-//"tall""24"
+"xpos""436"
+"ypos""200"
+"wide""84"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""8"
-//////"labelText""#Graph_FPS"
+"labelText""#Graph_FPS"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -94,16 +94,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""CPUCheck"
-//////"xpos""436"
-//////"ypos""176"
-//"wide""84"
-//"tall""24"
+"xpos""436"
+"ypos""176"
+"wide""84"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""7"
-//////"labelText""#Graph_CPU"
+"labelText""#Graph_CPU"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -114,16 +114,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""PingCheck"
-//////"xpos""436"
-//////"ypos""106"
-//"wide""84"
-//"tall""24"
+"xpos""436"
+"ypos""106"
+"wide""84"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""4"
-//////"labelText""#Graph_Ping"
+"labelText""#Graph_Ping"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -134,16 +134,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""PlayersCheck"
-//////"xpos""436"
-//////"ypos""82"
-//"wide""75"
-//"tall""24"
+"xpos""436"
+"ypos""82"
+"wide""75"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 //////"tabPosition""3"
-//////"labelText""#Graph_Players"
+"labelText""#Graph_Players"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -154,10 +154,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""TimeCombo"
-//////"xpos""268"
-//////"ypos""286"
-//"wide""150"
-//"tall""24"
+"xpos""268"
+"ypos""286"
+"wide""150"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
@@ -173,10 +173,10 @@
 {
 "ControlName""ComboBox"
 "fieldName""VertCombo"
-//////"xpos""108"
-//////"ypos""288"
-//"wide""80"
-//"tall""24"
+"xpos""108"
+"ypos""288"
+"wide""80"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
@@ -192,16 +192,16 @@
 {
 "ControlName""Label"
 "fieldName""Label5"
-//////"xpos""428"
-//////"ypos""18"
-//"wide""82"
-//"tall""24"
+"xpos""428"
+"ypos""18"
+"wide""82"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 
-//////"labelText""#Graph_Total_Players"
+"labelText""#Graph_Total_Players"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -211,16 +211,16 @@
 {
 "ControlName""Label"
 "fieldName""TotalUsersLabel"
-//////"xpos""428"
-//////"ypos""42"
-//"wide""82"
-//"tall""24"
+"xpos""428"
+"ypos""42"
+"wide""82"
+"tall""24"
 
 ////////"pinCorner""1"
 ////////"visible""1"
 
 
-//////"labelText""0"
+"labelText""0"
 //////"textAlignment""center"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -230,16 +230,16 @@
 {
 "ControlName""Label"
 "fieldName""Label3"
-//////"xpos""12"
-//////"ypos""287"
-//"wide""92"
-//"tall""24"
+"xpos""12"
+"ypos""287"
+"wide""92"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 
-//////"labelText""#Graph_Vertical_Units"
+"labelText""#Graph_Vertical_Units"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -249,16 +249,16 @@
 {
 "ControlName""Label"
 "fieldName""Label4"
-//////"xpos""200"
-//////"ypos""286"
-//"wide""64"
-//"tall""24"
+"xpos""200"
+"ypos""286"
+"wide""64"
+"tall""24"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 
-//////"labelText""#Graph_Timebase"
+"labelText""#Graph_Timebase"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -268,16 +268,16 @@
 {
 "ControlName""Label"
 "fieldName""AxisMax"
-//////"xpos""1"
-//////"ypos""10"
-//"wide""38"
-//"tall""16"
+"xpos""1"
+"ypos""10"
+"wide""38"
+"tall""16"
 
 
 ////////"visible""1"
 
 
-//////"labelText""100%"
+"labelText""100%"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -287,16 +287,16 @@
 {
 "ControlName""Label"
 "fieldName""AxisMid"
-//////"xpos""1"
-//////"ypos""134"
-//"wide""38"
-//"tall""16"
+"xpos""1"
+"ypos""134"
+"wide""38"
+"tall""16"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 
-//////"labelText""50%"
+"labelText""50%"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -306,16 +306,16 @@
 {
 "ControlName""Label"
 "fieldName""AxisMin"
-//////"xpos""1"
-//////"ypos""258"
-//"wide""38"
-//"tall""16"
+"xpos""1"
+"ypos""258"
+"wide""38"
+"tall""16"
 
 ////////"pinCorner""2"
 ////////"visible""1"
 
 
-//////"labelText""0%"
+"labelText""0%"
 //////"textAlignment""east"
 ////////////"dulltext""0"
 //////////"brighttext""0"

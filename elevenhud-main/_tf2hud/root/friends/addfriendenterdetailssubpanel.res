@@ -4,10 +4,10 @@
 {
 "ControlName""CAddFriendEnterDetailsSubPanel"
 "fieldName""AddFriendEnterDetailsSubPanel"
-//////"xpos""8"
-//////"ypos""48"
-//"wide""364"
-//"tall""234"
+"xpos""8"
+"ypos""48"
+"wide""364"
+"tall""234"
 
 
 ////////"visible""1"
@@ -21,10 +21,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""FriendNameEntry"
-//////"xpos""24"
-//////"ypos""92"
-//"wide""380"
-//"tall""24"
+"xpos""24"
+"ypos""92"
+"wide""380"
+"tall""24"
 
 
 ////////"visible""1"
@@ -41,17 +41,17 @@
 {
 "ControlName""Label"
 "fieldName""Label1"
-//////"xpos""24"
-//////"ypos""32"
-//"wide""390"
-//"tall""40"
+"xpos""24"
+"ypos""32"
+"wide""390"
+"tall""40"
 
 
 ////////"visible""1"
 
 
 //"paintbackground""1"
-//////"labelText""#Friends_EnterAccountNameOrEmailAddress"
+"labelText""#Friends_EnterAccountNameOrEmailAddress"
 ////"textAlignment""north-west"
 //"wrap""1"
 }

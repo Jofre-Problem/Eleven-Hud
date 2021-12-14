@@ -4,10 +4,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""oldrcontextentry"
-//////"xpos""180"
-//////"ypos""34"
-//"wide""150"
-//"tall""24"
+"xpos""180"
+"ypos""34"
+"wide""150"
+"tall""24"
 
 
 ////////"visible""1"
@@ -21,15 +21,15 @@
 {
 "ControlName""Label"
 "fieldName""Label1"
-//////"xpos""48"
-//////"ypos""38"
-//"wide""110"
-//"tall""16"
+"xpos""48"
+"ypos""38"
+"wide""110"
+"tall""16"
 
 
 ////////"visible""1"
 
-//////"labelText""#Password_Panel_Old"
+"labelText""#Password_Panel_Old"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -38,10 +38,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""newrcon1textentry"
-//////"xpos""180"
-//////"ypos""66"
-//"wide""150"
-//"tall""24"
+"xpos""180"
+"ypos""66"
+"wide""150"
+"tall""24"
 
 
 ////////"visible""1"
@@ -55,15 +55,15 @@
 {
 "ControlName""Label"
 "fieldName""Label2"
-//////"xpos""42"
-//////"ypos""72"
-//"wide""116"
-//"tall""16"
+"xpos""42"
+"ypos""72"
+"wide""116"
+"tall""16"
 
 
 ////////"visible""1"
 
-//////"labelText""#Password_Panel_New"
+"labelText""#Password_Panel_New"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -72,10 +72,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""newrcon2textentry"
-//////"xpos""180"
-//////"ypos""102"
-//"wide""150"
-//"tall""24"
+"xpos""180"
+"ypos""102"
+"wide""150"
+"tall""24"
 
 
 ////////"visible""1"
@@ -89,15 +89,15 @@
 {
 "ControlName""Label"
 "fieldName""Label3"
-//////"xpos""22"
-//////"ypos""106"
-//"wide""136"
-//"tall""16"
+"xpos""22"
+"ypos""106"
+"wide""136"
+"tall""16"
 
 
 ////////"visible""1"
 
-//////"labelText""#Password_Panel_Confirm"
+"labelText""#Password_Panel_Confirm"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -106,15 +106,15 @@
 {
 "ControlName""Label"
 "fieldName""Label4"
-//////"xpos""64"
-//////"ypos""160"
-//"wide""94"
-//"tall""16"
+"xpos""64"
+"ypos""160"
+"wide""94"
+"tall""16"
 
 
 ////////"visible""1"
 
-//////"labelText""#Password_Panel_Player"
+"labelText""#Password_Panel_Player"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -123,10 +123,10 @@
 {
 "ControlName""TextEntry"
 "fieldName""PlayerPasswordTextEntry"
-//////"xpos""180"
-//////"ypos""158"
-//"wide""150"
-//"tall""24"
+"xpos""180"
+"ypos""158"
+"wide""150"
+"tall""24"
 
 
 ////////"visible""1"
@@ -140,16 +140,16 @@
 {
 "ControlName""CheckButton"
 "fieldName""RemovePlayerPasswordCheck"
-//////"xpos""174"
-//////"ypos""188"
-//"wide""225"
-//"tall""24"
+"xpos""174"
+"ypos""188"
+"wide""225"
+"tall""24"
 
 
 ////////"visible""1"
 
 //////"tabPosition""5"
-//////"labelText""#Password_Panel_Remove"
+"labelText""#Password_Panel_Remove"
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
