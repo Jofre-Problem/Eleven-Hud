@@ -117,7 +117,7 @@
 				////"ypos_lodef"			"49"
 				"zpos"			"5"
 				"wide"			"150" [!$X360]
-				"wide"			"170" [$X360]
+				"wide"			"170" 
 				"tall"			"20"
 				////"autoResize"	"0"
 				//"pinCorner"		"0"
@@ -277,8 +277,7 @@
 			"xpos"			"c-285"
 			//"xpos_hidef"			"c-193"
 			//"xpos_lodef"			"c-193"
-			"ypos"			"170" [!$OSX]
-			"ypos"			"185" [$OSX]
+			"ypos"			"170"
 			//"ypos_hidef"			"32"
 			////"ypos_lodef"			"32"
 			"wide"			"300"
@@ -1658,14 +1657,13 @@
 			"labelText"		"#StatSummary_Label_BestMoments"
 			"textAlignment"		"west"
 			"xpos"			"c+124"
-			"ypos"			"170" [!$OSX]
-			"ypos"			"180" [$OSX]
+			"ypos"			"170"
 			"wide"			"300"
 			"tall"			"20"
 			////"autoResize"	"0"
 			//"pinCorner"		"0"
 			//"visible"		"1"	[$WIN32]
-			"visible"		"0"	[$X360]
+			"visible"		"0"	
 			////"enabled"		"1"
 		}							
 		"RecordsSubBG1"
@@ -1708,7 +1706,7 @@
 			////"autoResize"	"0"
 			//"pinCorner"		"0"
 			"visible"		"0"	[$WIN32]
-			//"visible"		"1"	[$X360]
+			//"visible"		"1"	
 			////"enabled"		"1"
 		}	
 		"OverallRecord1Label"

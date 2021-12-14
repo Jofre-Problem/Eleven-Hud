@@ -1680,10 +1680,30 @@ event PvPRankPanelShowXPChange
 
 event PyroVsHeavyWar_ShowChooseScene
 {
+	// Reset
+	Animate Background	ypos -250 Linear 0 0
+	Animate Heavy		ypos -180 Linear 0 0
+	Animate Pyro		ypos -180 Linear 0 0
+	Animate Foreground	ypos -100 Linear 0 0
+
+	// Paralax
+	Animate Background	ypos -175	Bias 0.9 0 1
+	Animate Heavy		ypos -60	Bias 0.9 0 1
+	Animate Pyro		ypos -60	Bias 0.9 0 1
+	Animate Foreground	ypos 65		Bias 0.9 0 1
 }
 
 event PyroVsHeavyWar_PyroWinnerScene
 {
+	// Reset
+	Animate Background			ypos -220 Linear 0 0
+	Animate PyroWinMidground	ypos -180 Linear 0 0
+	Animate Foreground			ypos 40 Linear 0 0
+
+	// Paralax
+	Animate Background			ypos -175	Bias 0.9 0 1
+	Animate PyroWinMidground	ypos -100	Bias 0.9 0 1
+	Animate Foreground			ypos 75		Bias 0.9 0 1
 }
 
 event CasualCategory_Checkbox_Hide

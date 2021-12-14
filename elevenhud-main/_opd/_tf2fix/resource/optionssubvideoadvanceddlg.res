@@ -813,8 +813,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"Label11"
 		"xpos"		"18"
-		"ypos"		"442" [!$OSX]
-		"ypos"		"310" [$OSX]
+		"ypos"		"442"
 		"wide"		"280"
 		"tall"		"24"
 		

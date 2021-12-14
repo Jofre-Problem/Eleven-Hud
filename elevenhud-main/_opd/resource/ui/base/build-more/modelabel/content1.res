@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
 {
-	"ModeLabel"
-	{	
-		"fgcolor"		"TanDarker"
-	}
-}	
+"ModeLabel"
+{
+"fgcolor""TanDarker"
+}
+}

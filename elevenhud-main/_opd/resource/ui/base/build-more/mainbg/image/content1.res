@@ -1,7 +1,7 @@
 "resource/ui/hudplayerclass.res"
-{	
-	"MainBackground"	
-	{
-		"icon"			"hud_menu_bg"
-	}
-}	
+{
+"MainBackground"
+{
+"icon""hud_menu_bg"
+}
+}

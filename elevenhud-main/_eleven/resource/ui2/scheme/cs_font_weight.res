@@ -30,7 +30,7 @@ Scheme
 			{
 				//"name"		"Verdana"
 				//"tall"		"13"	[$WIN32]
-				//"tall"		"20"	[$X360]
+				//"tall"		"20"	
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				//"yres"	"600 767"
@@ -296,7 +296,7 @@ Scheme
 			{
 				//"name"		"Verdana"
 				//"tall"		"13"	[$WIN32]
-				//"tall"		"23"	[$X360]
+				//"tall"		"23"	
 				"weight"	"700"
 				//"yres"	"600 767"
 			}
@@ -749,7 +749,7 @@ Scheme
 			{
 				//"name"		"TF2"
 				//"tall"		"15"	[$WIN32]
-				//"tall"		"21"	[$X360]
+				//"tall"		"21"	
 				"weight"	"700"
 				"antialias" 	"1"
 				//"yres"		"600 767"
@@ -794,7 +794,7 @@ Scheme
 				"outline"	"1"
 				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
-			"1"	[$X360]
+			"1"	
 			{
 				//"name"		"Tahoma"
 				//"tall"		"18"

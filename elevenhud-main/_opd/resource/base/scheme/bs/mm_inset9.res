@@ -1,8 +1,8 @@
 
 Scheme
 {
-	BaseSettings
-	{	
-	Menu.TextInset					"6"
-	}		
+BaseSettings
+{
+"Menu.TextInset""6"
+}
 }

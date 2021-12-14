@@ -19,7 +19,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"16"	[$WIN32]
-				"tall"		"20"	[$X360]
+				"tall"		"20"	
 				"antialias"	"1"
 				"weight"	"500"
 			}
@@ -478,8 +478,7 @@ Scheme
 			"2"
 			{
 				"name"		"Product Sans"
-				"tall"		"15"	[$WIN32]
-				"tall"		"21"	[$X360]
+				"tall"		"15"
 			}
 			"3"
 			{
