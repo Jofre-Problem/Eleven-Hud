@@ -356,7 +356,7 @@
 "fieldName""DestroyHintLabel_Dim"
 "font""ControllerHintText"
 "fgcolor""TanDark"
-"xpos""222"// align me to the left edge of the first selection
+"xpos""220"// align me to the left edge of the first selection
 "ypos""151"
 "zpos""1"
 "wide""300"

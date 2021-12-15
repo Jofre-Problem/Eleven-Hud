@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/nobar.res"
+"_jofrehud/resource/#jofre/nobar.res"
 {
 	// #region NEW DOWN BAR 
 	"ReferenceBar"				// background for the left side buttons

@@ -1,4 +1,4 @@
-"_opd/resource/motd-list.res"{
+"_jofrehud/resource/motd-list.res"{
 			"MainMenuOverride"
 	{	}	"MOTD_Panel"	{	
 		"last"		{			"ControlName"		"CExLabel"		"fieldName"	

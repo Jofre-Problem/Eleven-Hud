@@ -1,1 +1,4 @@
-#base	"../../_opd/_tf2exp/null.res"
+	#base	"../../#users/custom/resource/ui/xboxdialogs.res"
+	#base	"../../_stream/resource/ui/xboxdialogs.res"
+	#base	"../../_jofrehud/resource/ui/xboxdialogs.res"
+	#base	"../../_tf2hud/resource/ui/xboxdialogs.res"

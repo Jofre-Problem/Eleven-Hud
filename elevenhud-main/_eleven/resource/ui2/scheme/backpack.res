@@ -1,7 +1,7 @@
 Scheme
 {
 	// All fonts are defined in this file.
-	// However, crosshair fonts are found in their own file, crosshairs/crosshairscheme.res.
+	// However, crosshair fonts are found in their own file, crosshairs/crosshairscheme.res".
 	
 	Borders
 	{		

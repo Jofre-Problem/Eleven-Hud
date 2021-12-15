@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/1wide.res"
+"_jofrehud/resource/#jofre/1wide.res"
 {
 	"LoadoutTauntPanel"
 	{

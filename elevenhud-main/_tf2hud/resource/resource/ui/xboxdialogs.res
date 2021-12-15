@@ -1383,4 +1383,4 @@
 }
 }
 
-} // end ConsoleDialogs.res
+} // end ConsoleDialogs.res"

@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/charbg.res"
+"_jofrehud/resource/#jofre/charbg.res"
 {
 		"ImprovisedBG"				// 
 		{

@@ -1,2 +1,2 @@
-#base "../_opd/friends/subpanelfindbuddycomplete.res"
-#base "../_opd/_tf2fix/platform/friends/subpanelfindbuddycomplete.res"
+#base "../_jofrehud/friends/subpanelfindbuddycomplete.res"
+#base "../_jofrehud/_tf2fix/platform/friends/subpanelfindbuddycomplete.res"

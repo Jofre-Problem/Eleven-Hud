@@ -1,4 +1,4 @@
-"_opd/resource/motd-code.res"
+"_jofrehud/resource/motd-code.res"
 {
 		"MainMenuOverride"
 	{	}	"MOTD_Panel"	{

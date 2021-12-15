@@ -31,7 +31,7 @@
 ////"dulltext""0"
 "paintBackground" "0"
 
-// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
+// NOTE: These settings change the font + color as defined in CombinePanelScheme.res"
 "font""DefaultLarge"
 "dulltext""1"
 }
@@ -54,7 +54,7 @@
 ////"dulltext""0"
 "paintBackground" "0"
 
-// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
+// NOTE: These settings change the font + color as defined in CombinePanelScheme.res"
 "font""DefaultLarge"
 "dulltext""1"
 }
@@ -77,7 +77,7 @@
 ////"dulltext""0"
 "paintBackground" "0"
 
-// NOTE: These settings change the font + color as defined in CombinePanelScheme.res
+// NOTE: These settings change the font + color as defined in CombinePanelScheme.res"
 "font""DefaultLarge"
 "brighttext""1"
 }

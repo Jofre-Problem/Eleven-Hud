@@ -1,4 +1,4 @@
-	#base "../custom/scripts/mod_textures.txt"
+	#base "../_custom/scripts/mod_textures.txt"
 	#base "../_eleven/scripts/mod_textures.txt"
-	#base "../_opd/scripts/mod_textures.txt"
+	#base "../_jofrehud/scripts/mod_textures.txt"
 	#base "../_tf2hud/scripts/mod_textures.txt

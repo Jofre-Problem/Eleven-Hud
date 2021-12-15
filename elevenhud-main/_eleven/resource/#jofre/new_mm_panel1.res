@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/disabledbg.res"	
+"_jofrehud/resource/#jofre/disabledbg.res"	
 {
 	// PROPOSITO: Recuerdas ese video de windows ui concept? si, estos son los fondos bordeados de los iconos
 	"WorkshopPanel"

@@ -321,7 +321,7 @@
 		paintbackground			0
 		border						"LoadoutItemPopupBorder"
 
-		// => resource\ui\ItemOptionsPanel.res
+		// => resource\ui\ItemOptionsPanel.res"
 	}
 	
 	

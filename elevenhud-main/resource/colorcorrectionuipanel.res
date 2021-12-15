@@ -1,2 +1,2 @@
-#base "../_opd/resource/colorcorrectionuipanel.res"
+#base "../_jofrehud/resource/colorcorrectionuipanel.res"
 #base "../_tf2hud/resource/resource/colorcorrectionuipanel.res"

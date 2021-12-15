@@ -1,5 +1,5 @@
 #base "../../#customization/resource/ui/summersale_border.res"
-"_opd/resource/#jofre/nobar.res"
+"_jofrehud/resource/#jofre/nobar.res"
 {
 		"PartySlot1"
 		{

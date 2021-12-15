@@ -493,7 +493,7 @@
 				tall					f0
 				proportionalToParent		1
 
-				// => resource\ui\econ\NotificationToastControl.res
+				// => resource\ui\econ\NotificationToastControl.res"
 			}
 
 			"VerticalScrollBar"

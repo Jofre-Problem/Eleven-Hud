@@ -54,54 +54,7 @@
 "iconColor""251 235 202 255"
 }
 
-"BuildingIcon"
-{
-"ControlName""CIconPanel"
-"fieldName""BuildingIcon"
-"xpos""22"
-"ypos""19"
-"zpos""2"
-"wide""56"
-"tall""56"
-"visible""0"
-
-"scaleImage""1"
-"icon""hud_menu_sentry_build"
-"iconColor""255 255 255 255"
-}
-
-"MetalIcon"
-{
-"ControlName""CIconPanel"
-"fieldName""MetalIcon"
-"xpos""10"
-"ypos""79"
-"zpos""1"
-"wide""10"
-"tall""10"
-"visible""0"
-
-"scaleImage""1"
-"icon""ico_metal"
-"iconColor""TanDarker"
-}
-
-"CostLabel"
-{
-"ControlName""CExLabel"
-"fieldName""CostLabel"
-"font""HudFontSmall"
-"fgcolor""TanDarker"
-"xpos""23"
-"ypos""78"
-"zpos""1"
-"wide""84"
-"tall""13"
-
-
-"visible""0"
-
-"labelText""%metal%"
-//"textAlignment""Left"
-}
+//building icon vas vis0
+//MetalIcon icon vas vis0
+//CostLabel icon vas vis0
 }

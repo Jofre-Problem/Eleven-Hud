@@ -1,7 +1,7 @@
 // Elements that help with designing
 // Requires vgui_cache_res_files 0
 
-"_opd/resource/#jofre/devtools.res"
+"_jofrehud/resource/#jofre/devtools.res"
 {
 	"DevTools"
 	{

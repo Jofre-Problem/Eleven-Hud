@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/home.res"
+"_jofrehud/resource/#jofre/home.res"
 {
 	"BackButton"			// straight to main menu
 	{

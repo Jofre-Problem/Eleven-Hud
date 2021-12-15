@@ -1,5 +1,5 @@
-	#base	"../../custom/resource/ui/hudtournament.res"
+	#base	"../../_custom/resource/ui/hudtournament.res"
 	#base	"../../#users/dane/resource/ui/hudtournament.res"
 	#base	"../../_eleven/resource/ui/hudtournament.res"
-	#base	"../../_opd/resource/ui/hudtournament.res"
+	#base	"../../_jofrehud/resource/ui/hudtournament.res"
 	#base	"../../_tf2hud/resource/ui/hudtournament.res"

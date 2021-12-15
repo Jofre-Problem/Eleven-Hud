@@ -1,5 +1,5 @@
-	#base	"../../custom/resource/ui/freezepanelkillerhealth.res"
+	#base	"../../_custom/resource/ui/freezepanelkillerhealth.res"
 	#base	"../../_eleven/resource/ui/freezepanelkillerhealth.res"
-	#base	"../../_opd/resource/ui/freezepanelkillerhealth.res"
-	#base	"../../_opd/_tf2fix/resource/ui/freezepanelkillerhealth.res"	
+	#base	"../../_jofrehud/resource/ui/freezepanelkillerhealth.res"
+	#base	"../../_jofrehud/_tf2fix/resource/ui/freezepanelkillerhealth.res"	
 //	#base	"../../_tf2hud/resource/ui/freezepanelkillerhealth.res"

@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/desktop icons.res"
+"_jofrehud/resource/#jofre/desktop icons.res"
 {
 // Blank is a blank font
 // NewIcons18 is default font

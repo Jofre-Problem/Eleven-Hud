@@ -1,5 +1,5 @@
-	#base	"../../../custom/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../_custom/resource/ui/disguise_menu/hudmenuspydisguise.res"
 	#base	"../../../_eleven/resource/ui/disguise_menu/hudmenuspydisguise.res"
-	#base	"../../../_opd/resource/ui/disguise_menu/hudmenuspydisguise.res"
-	#base	"../../../_opd/_tf2fix/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../_jofrehud/resource/ui/disguise_menu/hudmenuspydisguise.res"
+	#base	"../../../_jofrehud/_tf2fix/resource/ui/disguise_menu/hudmenuspydisguise.res"
 //	#base	"../../../_tf2hud/resource/ui/disguise_menu/hudmenuspydisguise.res"

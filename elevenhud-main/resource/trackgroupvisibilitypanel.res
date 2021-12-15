@@ -1,1 +1,2 @@
-#base	"../_opd/_tf2exp/null.res"
+#base "../_jofrehud/resource/trackgroupvisibilitypanel.res"
+#base "../_tf2hud/root/resource/trackgroupvisibilitypanel.res"

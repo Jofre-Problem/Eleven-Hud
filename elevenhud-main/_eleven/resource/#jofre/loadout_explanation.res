@@ -1,5 +1,5 @@
 //#base "loadout_explanation_bg.res"
-"_opd/resource/#jofre/1wide.res"
+"_jofrehud/resource/#jofre/1wide.res"
 {	
 	"Panel"
 	{

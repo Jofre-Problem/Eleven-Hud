@@ -1,4 +1,4 @@
-"_opd/resource/#jofre/blur_bg.res"
+"_jofrehud/resource/#jofre/blur_bg.res"
 {
 	"Panel"
 	{

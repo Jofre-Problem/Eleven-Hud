@@ -1563,7 +1563,7 @@ if_christmas
 "depressedFgColor_override" "TanDarker"
 }
 
-// command comes from GameMenu.res
+// command comes from GameMenu.res"
 
 "ReportPlayerButton"
 {

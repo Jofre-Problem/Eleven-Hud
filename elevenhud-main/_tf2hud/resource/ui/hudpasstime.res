@@ -12,7 +12,7 @@
 // PIN_CENTER_LEFT,
 // };
 
-Resource/UI/HudPasstime.res
+"Resource/UI/HudPasstime.res"
 {
 HudPasstime
 {

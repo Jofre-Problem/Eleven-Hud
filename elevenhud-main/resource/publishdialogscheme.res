@@ -1,2 +1,2 @@
-#base "../_opd/resource/publishdialogscheme.res"
-#base "../_opd/_tf2exp/publishdialogscheme.res"
+#base "../_jofrehud/resource/publishdialogscheme.res"
+#base "../_jofrehud/_tf2exp/publishdialogscheme.res"
