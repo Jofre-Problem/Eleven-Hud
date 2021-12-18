@@ -1,0 +1,4 @@
+	#base	"../../_custom/resource/ui/classtipslist.res"
+	#base	"../../_eleven/resource/ui/classtipslist.res"
+	#base	"../../_jofrehud/resource/ui/classtipslist.res"
+	#base	"../../_tf2hud/resource/ui/classtipslist.res"

@@ -7,7 +7,7 @@
 		"zpos"				3000
 		"wide"			"10"
 		"tall"			"13"
-			fillColor				"PolybarTheme1"		
+			fillColor				"PolyIconsBg1"		
 	}	
 
 
@@ -24,7 +24,7 @@
 			"wide"			"30"
 			"tall"			"13"
 			
-			"fgcolor"		"PolybarTheme1"
+			"fgcolor"		"PolyIconsBg1"
 "pin_to_sibling"	"polybar1bg"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
@@ -34,7 +34,7 @@
 		"xpos"			"0"
 		"ypos"			"0"	
 		"zpos"			"1001"
-		"wide"			"108"//"p0.131"
+		"wide"			"73"//"p0.131"
 		"tall"			"13"
 			fillColor				"PolybarTheme2"		
 	"pin_to_sibling"	"polybar1bg"
@@ -63,7 +63,7 @@
 		"polyleft1"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"95"
+		"wide"			"75"
 		"tall"			"13"
 			fillColor				"129 129 169 255"
 	"pin_to_sibling"	"polybarbg2"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"	
@@ -80,15 +80,15 @@
 			"zpos"		"2000"
 			"fgcolor"		"129 129 169 255"
 "pin_to_sibling"	"polyleft1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
-	}			
+	}		
 		"icon1"		{			"ControlName"		"CExLabel"		"fieldName"	
 			"icon1"
-			"font"			"NewIcons12"
+			"font"			"NewIcons9"
 			"labelText"		"Ë"
 			"textAlignment"		"west"
-			"xpos" 			"-20"
+			"xpos" 			"-21"
 			"ypos"			"0"
-			"wide"			"18"
+			"wide"			"15"
 			"textInsetY"	1
 			"tall"			"13"
 			"fgcolor"		"W_ColorIcons1"
@@ -100,7 +100,7 @@
 		"fieldName"		"Slider"
 		"xpos"		"0"
 		"ypos"		"-2" //18
-		"wide"		"70"
+		"wide"		"50"
 		"tall"		"10"
 		"zpos"		"5001"
 		"leftText"		""
@@ -110,5 +110,6 @@
 		"cvar_name"		"mat_color_projection"
 		"allowoutofrange"		"0"
 "pin_to_sibling"	"icon1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
-	}			
+	}
+
 }

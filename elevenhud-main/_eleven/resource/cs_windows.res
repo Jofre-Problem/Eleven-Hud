@@ -1,3 +1,4 @@
+#base ".polybar/themes.res"
 Scheme
 {
 	Colors

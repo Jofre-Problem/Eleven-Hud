@@ -13,7 +13,6 @@
 		fieldName				"character_info"
 		xpos					0
 		ypos					0
-		zpos				2000
 		wide					f0
 		tall					f-10
 		title					""

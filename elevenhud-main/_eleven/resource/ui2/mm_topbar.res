@@ -6,7 +6,7 @@
 		"zpos"			"-10"
 		"wide"			"f0"
 		"tall"			"13"
-			fillColor				"PolyBG1"					
+			fillColor				"PolyIconsbg1"
 	}	
 
 			"full2"						{			ControlName				ImagePanel			FieldName				

@@ -26,7 +26,7 @@
 		"zpos"				2
 		"wide"			"25"
 		"tall"			"13"
-			fillColor				"PolybarTheme1"		
+			fillColor				"PolyIconsBg1"		
 	}	
 
 
@@ -43,7 +43,7 @@
 			"wide"			"10"
 			"tall"			"13"
 			
-			"fgcolor"		"PolybarTheme1"
+			"fgcolor"		"PolyIconsBg1"
 "pin_to_sibling"	"polybar0bg"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		}
@@ -326,7 +326,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ToggleChatButton"
-			"xpos"			"rs1-60"//95
+			"xpos"			"rs1-62"//95
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"30"
@@ -377,7 +377,7 @@
 		{
 			"xpos"					"28"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"13"
 			"tall"					"13"
 		//	"pin_to_sibling" "PartySlot0"		"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		}
@@ -385,7 +385,7 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"13"
 			"tall"					"13"
 			"pin_to_sibling" "PartySlot1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -395,7 +395,7 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"13"
 			"tall"					"13"
 			"pin_to_sibling" "PartySlot2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -405,7 +405,7 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"13"
 			"tall"					"13"
 			"pin_to_sibling" "PartySlot3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -415,7 +415,7 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"13"
 			"tall"					"13"
 			"pin_to_sibling" "PartySlot4"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"

@@ -156,7 +156,7 @@
 		ControlName				CExButton
 		fieldName				"HeavyButton"
 		"xpos"							"c-27"
-		"ypos"							"60+55"
+		"ypos"							"60+40"
 		"wide"							"54"
 		"tall"							"100"
 				"border_default"				"B_CIcons1"
@@ -371,7 +371,7 @@
 		ControlName				CExButton
 		fieldName				"ArmoryButton"
 		"xpos"							"c-27"
-		"ypos"							"250+55"
+		"ypos"							"250+30"
 		"wide"							"54"
 		"tall"							"100"
 				"border_default"				"B_CIcons1"
@@ -460,7 +460,6 @@
 		"ypos"							"0"
 		"wide"							"f0"
 		"tall"							"f0"
-		"zpos"							"5000"
 		"visible"						"0"
 	}
 
@@ -472,7 +471,6 @@
 		"ypos"							"0"
 		"wide"							"f0"
 		"tall"							"f0"
-		"zpos"							"500"
 		"visible"						"0"
 	}
 
@@ -486,7 +484,6 @@
 		"ypos"							"0"
 		"wide"							"f0"
 		"tall"							"f0"
-		"zpos"							"500"
 		visible				0
 
 		// => resource\ui\CharInfoArmorySubPanel.res"
@@ -497,7 +494,6 @@
 		fieldName				"InspectionPanel"
 		xpos					cs-0.5
 		ypos					0
-		zpos					6			// on top of other panels
 		wide					f0
 		tall					"f0"//p0.9472
 		visible				0

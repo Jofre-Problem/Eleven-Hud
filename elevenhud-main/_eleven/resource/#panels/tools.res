@@ -42,7 +42,7 @@
 			"paintbackground"		"1"
 			"mouseInputenabled"	"0"
 			"border"		"Rice1"			
-			"bgcolor_override"				"W_ColorTheme1"	//"W_ColorTheme2"
+			"bgcolor_override"				"PolyIconsbg1"
 
 			"4plug"		
 			{
@@ -53,7 +53,7 @@
 				wide					200
 				tall					20	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"> fetch"
 				textAlignment			west
 			}	
@@ -66,7 +66,7 @@
 				wide					70
 				tall					70	
 				font					"NewIcons25"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"j"
 				textAlignment			west
 			}	
@@ -80,7 +80,7 @@
 				wide					150
 				tall					12	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"eleven-hud@team-fortress"
 				textAlignment			west
 				pin_to_sibling			"Dunno"
@@ -96,7 +96,7 @@
 				wide					150
 				tall					12	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"-------------------------"
 				textAlignment			west
 		"pin_to_sibling"	"logohud"
@@ -112,7 +112,7 @@
 				wide					150
 				tall					12	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"MADE BY: Jofre Problem?"
 				textAlignment			west
 		"pin_to_sibling"	"spacer"
@@ -128,7 +128,7 @@
 				wide					150
 				tall					12	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"DEDICATED TO: Chill D ♡"
 				textAlignment			west
 		"pin_to_sibling"	"credits"
@@ -144,7 +144,7 @@
 				wide					150
 				tall					12	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"INSPIRED BY: ArchCraft OS"
 				textAlignment			west
 		"pin_to_sibling"	"credits2"
@@ -228,7 +228,7 @@
 				wide					100
 				tall					20	
 				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
+				fgcolor_override		"PolyIconsFg1"
 				labelText				"> tools"
 				textAlignment			west
 			}																			
@@ -280,7 +280,7 @@
 		"tall"		"25"
 		"labelText"		"æ"
 		"textAlignment"		"center"
-		"fgcolor_override"		"W_ColorIcons1"
+		"fgcolor_override"		"PolyIconsFg1"
 		"font"					"NewIcons9"		
 	}	
 	"GammaSlider"
@@ -293,11 +293,11 @@
 		"tall"		"15"
 		"zpos"		"111"
 		"leftText"		"1.6"
-		"rightText"		"2.6"
+		"rightText"		"2.6"	
 		"minvalue"		"0"
 		"maxvalue"		"2.6"
 		"cvar_name"		"mat_monitorgamma"
-		"allowoutofrange"		"0"	
+		fgcolor_override		"PolyIconsFg1"
 	}
 	"Volabel"
 	{
@@ -310,7 +310,7 @@
 		"tall"		"25"
 		"labelText"		"ã"
 		"textAlignment"		"center"
-		"fgcolor_override"		"W_ColorIcons1"
+		"fgcolor_override"		"PolyIconsFg1"
 		"font"					"NewIcons9"		
 	}
 	"VolumeSlider"
@@ -327,7 +327,7 @@
 		"minvalue"		"0"
 		"maxvalue"		"100"
 		"cvar_name"		"volume"
-		"allowoutofrange"		"0"
+		fgcolor_override		"PolyIconsFg1"
 	}	
 	"Viewlabel"
 	{
@@ -340,7 +340,7 @@
 		"tall"		"25"
 		"labelText"		"Ï"
 		"textAlignment"		"center"
-		"fgcolor_override"		"W_ColorIcons1"
+		"fgcolor_override"		"PolyIconsFg1"
 		"font"					"NewIcons8"		
 	}
 	"ViewSlider"
@@ -357,7 +357,7 @@
 		"minvalue"		"0"
 		"maxvalue"		"200"
 		"cvar_name"		"viewmodel_fov"
-		"allowoutofrange"		"0"
+		fgcolor_override		"PolyIconsFg1"
 	}		
 	"Fovlabel"
 	{
@@ -371,7 +371,7 @@
 		
 		"labelText"		"Ë"
 		"textAlignment"		"center"
-		"fgcolor_override"		"W_ColorIcons1"
+		"fgcolor_override"		"PolyIconsFg1"
 		"font"					"NewIcons8"		
 	}
 	"FSlider"
@@ -388,7 +388,7 @@
 		"minvalue"		"50"
 		"maxvalue"		"90"
 		"cvar_name"		"fov_desired"
-		"allowoutofrange"		"0"
+		fgcolor_override		"PolyIconsFg1"
 	}	
 	"Netlabel"
 	{
@@ -401,7 +401,7 @@
 		"tall"		"25"
 		"labelText"		"V"
 		"textAlignment"		"center"
-		"fgcolor_override"		"W_ColorIcons1"
+		"fgcolor_override"		"PolyIconsFg1"
 		"font"					"NewIcons8"		
 	}
 	"NSlider"
@@ -418,6 +418,6 @@
 		"minvalue"		"0.0"
 		"maxvalue"		"4.0"
 		"cvar_name"		"net_graph"
-		"allowoutofrange"		"0"
+		fgcolor_override		"PolyIconsFg1"
 	}								
 }

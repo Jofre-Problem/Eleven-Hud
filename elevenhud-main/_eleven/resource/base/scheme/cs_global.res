@@ -52,8 +52,8 @@ Scheme
 		FrameTitleBar.DisabledBgColor	"Blank"
 		Frame.BgColor					"27 27 27 250" //lolololololl
 		Frame.OutOfFocusBgColor			"W_ColorLinea1"
-		FrameGrip.Color1				"W_ColorIcons1"
-		FrameGrip.Color2				"W_BorderArmedText"
+		FrameGrip.Color1				"PolyIconsBg1"
+		FrameGrip.Color2				"PolyIconsBg1"
 
 
 
@@ -111,7 +111,8 @@ Scheme
 //		Slider.NobColor				"W_ColorIcons1"	
 //		Slider.TrackColor			"W_BorderArmed"
      Slider.DisabledTextColor2	"Blank"
-
+		Slider.NobColor				"PolyIconsFg1"
+		Slider.TrackColor			"PolyIconsFg1"
 
 		//P
 		Panel.FgColor					"Red"

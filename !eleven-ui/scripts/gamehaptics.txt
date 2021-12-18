@@ -1,0 +1,4 @@
+	#base "../_custom/scripts/gamehaptics.txt"
+	#base "../_eleven/scripts/gamehaptics.txt"
+	#base "../_jofrehud/scripts/gamehaptics.txt"
+	#base "../_tf2hud/scripts/gamehaptics.txt

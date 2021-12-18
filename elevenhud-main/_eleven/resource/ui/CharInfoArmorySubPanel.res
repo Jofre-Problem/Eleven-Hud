@@ -10,7 +10,6 @@
 		ypos					60
 		wide					f0
 		tall					411
-		zpos					5
 		settitlebarvisible		0
 		paintBackground			0
 

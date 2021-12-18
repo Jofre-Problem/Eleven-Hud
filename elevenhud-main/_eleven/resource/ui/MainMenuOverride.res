@@ -245,8 +245,8 @@
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"157 83 33 255"
-		defaultBgColor_override		"29 35 48 255"
-		armedBgColor_override		"29 35 48 255"
+		defaultBgColor_override		"PolyIconsBg1"
+		armedBgColor_override		"PolyIconsBg1"
 		paintBackground			1
 
 		"navUp"			""
@@ -649,7 +649,7 @@
 			"brighttext"	"0"
 			"default"		"1"
 			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
@@ -673,7 +673,7 @@
 		ControlName				CExButton
 		FieldName				"SafeMode2"
 		"xpos"			"cs-0.5"
-		"ypos"			"1"
+		"ypos"			"0"
 		"zpos"			"3000"
 		wide					15
 		tall					13//p0.042
@@ -682,7 +682,7 @@
 			"textAlignment"	"center"
 		
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
@@ -703,7 +703,7 @@
 			"textAlignment"	"center"
 		
 		command				"engine showstatsdlg"
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
@@ -762,6 +762,10 @@
 		}
 	"RankPanel"
 	{
-			wide					0	//f0
+			xpos					0
+			ypos 0
+			wide 0
+			tall f0
+			"show_model""0"
 	}	
 }

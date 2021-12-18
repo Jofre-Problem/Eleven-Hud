@@ -9,136 +9,41 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
 		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"100"
+		"ypos"			"rs1"
+		"zpos"			"1000"
 		"wide"			"f0"
-		"tall"			"f0"
+		"tall"			"14"
 		"border"	"noborder"
 
 		"polybar1bg"			{			ControlName				ImagePanel			FieldName				
 		"polybar1bg"
 		"xpos"			"0"
-		"ypos"			"rs1"
-		"wide"			"f0"
-		"tall"			"13"
-			fillColor				"tandarker"
-		}	
-			"full2"						{			ControlName				ImagePanel			FieldName				
-			"full2"
-		"ypos"			"r13"
-		"zpos"			"9999"
-		"wide"			"f0"
-		"tall"			"1"
-			fillColor				"0 0 0 255"
-	}					
-		"BoxDemo"						{			ControlName				ImagePanel			FieldName				
-		"BoxDemo"
-		"xpos"			"cs-0.5"
-		"ypos"			"rs1-30"
-		"wide"			"70"
-		"tall"			"30"
-			fillColor				"228 86 73 255"
-	}	
-		"BoxDemo2"						{			ControlName				ImagePanel			FieldName				
-		"BoxDemo2"
-		"wide"			"70"
-		"tall"			"5"
-			"pin_to_sibling"	"BoxDemo"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_BOTTOMLEFT"			
-			fillColor				"64 64 64 255"
-	}					
-	"DemoU"	{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"DemoU"
-			"zpos"										"20"
-			"wide"										"70"
-			"tall"										"30"
-			labelText				"Demo Play"
-			font					"CustomSegundo"
-			textAlignment			center
-			command				"engine demoui; demoui2"
-			"actionsignallevel"	"2"
-		
-			"sound_depressed"							"sound_menu/button.wav"
-			"sound_released"							"sound_menu/button2.wav"
-			
-			"paintbackground"							"0"
-			"pin_to_sibling"	"BoxDemo"		
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_ColorTheme1"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
-		}
-		"BoxOptions"						{			ControlName				ImagePanel			FieldName				
-		"BoxOptions"
-		"xpos"			"10"
 		"ypos"			"0"
-		"wide"			"70"
-		"tall"			"30"
-			fillColor				"1 132 180 255"
-					"pin_to_sibling"	"BoxDemo"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
-	}	
-		"BoxOptions2"						{			ControlName				ImagePanel			FieldName				
-		"BoxOptions2"
+		"wide"			"f0"
+		"tall"			"14"
+			fillColor				"PolyIconsbg1"
+		}			
+		"polybar1bg2"			{			ControlName				ImagePanel			FieldName				
+		"polybar1bg2"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"70"
-		"tall"			"5"
-			"pin_to_sibling"	"BoxOptions"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_BOTTOMLEFT"			
-			fillColor				"64 64 64 255"
-	}		
-			"OptionsU"	{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"OptionsU"
-			"zpos"										"20"
-			"wide"										"70"
-			"tall"										"30"
-			labelText				"Options"
-			font					"CustomSegundo"
-			textAlignment			center
-			command				OpenOptionsDialog
-			"actionsignallevel"	"2"
-		
-			"sound_depressed"							"sound_menu/button.wav"
-			"sound_released"							"sound_menu/button2.wav"
-			
-			"paintbackground"							"0"
-			"pin_to_sibling"	"BoxOptions"		
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"W_ColorTheme1"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+		"wide"			"f0"
+		"zpos"			"1000"
+		"tall"			"1"
+			fillColor				"PolyBG2"
 		}	
-	"TFLogoImage"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TFLogoImage"
-		"xpos"				"rs1-5"
-		"ypos"				"rs1-5"
-		"zpos"				"1"
-		"wide"				"140"
-		"tall"				"0"//"30"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../logo/new_tf2_logo"
-		"scaleImage"		"1"
-		"mouseinputenabled"	"0"
-	}
 	
 	"ubrowse"	
 	{
 		"ControlName"	"CExImageButton"
 			"fieldName"		"ubrowse"
-			"xpos"	"20"
-			"ypos"	"rs1-90"
-			"zpos"										"0"
-			"wide"										"90"
-			"tall"										"20"
-			labelText				"Servers"
-			font					"CustomPrimero"
+			"xpos"	"0"
+			"ypos"	"1"
+			"zpos"										"90"
+			"wide"										"15"
+			"tall"										"13"
+			labelText				"}"
+			font					"NewIcons9"
 			textAlignment			center
 			command				"OpenServerBrowser"
 			"actionsignallevel"	"2"
@@ -147,7 +52,7 @@
 			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
-			"defaultFgColor_override"					"W_ColorIcons1"
+			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"TanLight"
 			"depressedFgColor_override" 				"W_ColorIcons1"			
 	}	
@@ -156,58 +61,57 @@
 		"ControlName"	"CExImageButton"
 			"fieldName"		"uloadout"
 			"zpos"										"20"
-			"wide"										"90"
-			"tall"										"20"
-			labelText				"Loadout"
-			font					"CustomPrimero"
+			"wide"										"15"
+			"tall"										"13"
+			labelText				"["
+			font					"NewIcons9"
 			textAlignment			center
 			command				"engine open_charinfo; hideconsole"
 			"actionsignallevel"	"2"
 			"pin_to_sibling"	"ubrowse"				
-			pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT		
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"		
-			"defaultFgColor_override"					"W_ColorIcons1"
+			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"TanLight"
 			"depressedFgColor_override" 				"W_ColorIcons1"			
-	}			
-	"UQuest"	
-	{
-		"ControlName"	"CExImageButton"
-			"fieldName"		"UQuest"
-			"xpos"	"5"
-			"ypos"	"30"
+	}
+			"OptionsU"	{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"OptionsU"
 			"zpos"										"20"
-			"wide"										"35"
-			"tall"										"30"
-			labelText				"û"
-			font					"NewIcons18"
+			"wide"										"15"
+			"tall"										"13"
+			labelText				"Í"
+			font					"NewIcons9"
 			textAlignment			center
-			command				"questlog"
+			command				OpenOptionsDialog
 			"actionsignallevel"	"2"
-
+		
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
-			"border_default"	"Rice2"
-			"paintbackground"							"1"
-			"defaultFgColor_override"					"W_ColorIcons1"
-			"armedFgColor_override" 					"TanDarker"
+			
+			"paintbackground"							"0"
+			"pin_to_sibling"	"uloadout"				
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+			"defaultFgColor_override"					"PolyIconsFg1"
+			"armedFgColor_override" 					"W_ColorTheme1"
 			"depressedFgColor_override" 				"W_ColorIcons1"			
-	}				
-
+		}	
 	"Utf2"	
 	{
 		"ControlName"	"CExImageButton"
 			"fieldName"		"Utf2"
-			"ypos"			"5"
-			"zpos"										"0"
-			"wide"										"35"
-			"tall"										"30"
+			"ypos"			"0"
+			"zpos"										"60"
+			"wide"										"15"
+			"tall"										"13"
 			labelText				"ô"
-			font					"NewIcons18"
+			font					"NewIcons9"
 			textAlignment			center
 			command				"opentf2options"
 			"actionsignallevel"	"2"
@@ -216,21 +120,87 @@
 			"sound_released"							"sound_menu/button2.wav"
 			
 			"paintbackground"							"0"
-			"border_default"	"Rice2"
-			"paintbackground"							"1"
-			"pin_to_sibling"	"UQuest"				
-			pin_corner_to_sibling		PIN_TOPLEFT
-		pin_to_sibling_corner		PIN_BOTTOMLEFT
-			"defaultFgColor_override"					"W_ColorIcons1"
+			"pin_to_sibling"	"OptionsU"				
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"TanDarker"
 			"depressedFgColor_override" 				"W_ColorIcons1"					
-	}				
+	}							
+	"UQuest"	
+	{
+		"ControlName"	"CExImageButton"
+			"fieldName"		"UQuest"
+			"zpos"										"20"
+			"wide"										"15"
+			"tall"										"13"
+			labelText				"û"
+			font					"NewIcons9"
+			textAlignment			center
+			command				"questlog"
+			"actionsignallevel"	"2"
+			"pin_to_sibling"	"Utf2"				
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
+
+			"defaultFgColor_override"					"PolyIconsFg1"
+			"armedFgColor_override" 					"TanDarker"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+	}	
+	"shop"	
+	{
+		"ControlName"	"CExImageButton"
+			"fieldName"		"shop"
+			"zpos"										"20"
+			"wide"										"15"
+			"tall"										"13"
+			labelText				"þ"
+			font					"NewIcons9"
+			textAlignment			center
+			command				"engine open_store"
+			"actionsignallevel"	"2"
+			"pin_to_sibling"	"Uquest"				
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
+
+			"defaultFgColor_override"					"PolyIconsFg1"
+			"armedFgColor_override" 					"TanDarker"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+	}					
+	"DemoU"	{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"DemoU"
+			"zpos"										"20"
+			"wide"										"25"
+			"tall"										"13"
+			labelText				"DemoUI"
+			font					"Regular7"
+			textAlignment			center
+			command				"engine demoui; demoui2"
+			"actionsignallevel"	"2"
+		
+			"sound_depressed"							"sound_menu/button.wav"
+			"sound_released"							"sound_menu/button2.wav"
+			
+			"paintbackground"							"0"
+			"pin_to_sibling"	"shop"				
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+			"defaultFgColor_override"					"PolyIconsFg1"
+			"armedFgColor_override" 					"W_ColorTheme1"
+			"depressedFgColor_override" 				"W_ColorIcons1"			
+		}
+			
 	
 	"BoxCenter"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenter"
 					"xpos"			"cs-0.5"
-		"ypos"			"rs1"
+		"ypos"			"1"
 			"zpos"										"20"
 			"wide"										"15"
 			"tall"										"13"
@@ -245,7 +215,7 @@
 			
 			"paintbackground"							"0"
 
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}
@@ -268,7 +238,7 @@
 			"pin_to_sibling"	"BoxCenter"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}
@@ -291,7 +261,7 @@
 			"pin_to_sibling"	"BoxCenterRight1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}
@@ -314,7 +284,7 @@
 			"pin_to_sibling"	"BoxCenterRight2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}				
@@ -337,7 +307,7 @@
 			"pin_to_sibling"	"BoxCenter"
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}	
@@ -360,7 +330,7 @@
 			"pin_to_sibling"	"BoxCenterLeft1"
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}
@@ -383,25 +353,23 @@
 			"pin_to_sibling"	"BoxCenterLeft2"
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
-		defaultFgColor_override		"64 83 102 255"
+		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"W_ColorIcons1"
 		"depressedFgColor_override" "W_ColorIcons1"		
 		}		
 		"MOTD_Label"
 		{			"ControlName"	"cexLabel"
 			"fieldname"		"MOTD_Label"
-			"font"			"SpectatorKeys"
-			"xpos"			"rs1-5"
-			"ypos"			"rs1-2"
+			"font"			"Regular7"
+			"xpos"			"rs1-2"
+			"ypos"			"1"
 			"wide"			"100"
 			"textAlignment"	"center"
 			"textinsety"	"0"
 			"zpos""10"
 			"labelText"	"%motddate%"
-			"tall"			"10"
-			"auto_wide_tocontents"	"1"
-			"fgcolor"		"W_ColorIcons1"
-			"bgcolor_override" "PolybarTheme2"
+			"tall"			"13"
+			"fgcolor_override"		"PolyIconsFg1"
 		}	
 		
 		"MOTD_HeaderContainer"
@@ -455,37 +423,7 @@
 		
 		"MOTD_URLButton"
 		{
-			"ControlName"	"CExButton"
-			"fieldName"		"MOTD_URLButton"
-			"xpos"			"10"
-			"ypos"			"7"
-			"zpos"			"1000"
 			"wide"			"0"
-			"tall"			"10"
-			//"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			//"enabled"		"1"
-			"tabPosition"	"0"
-			"labelText"		"Check TF2 Blog"
-			"textinsetx"	"20"
-			"use_proportional_insets" "1"
-			"font"			"HudFontSmallestBold"
-			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"command"		"motd_viewurl"
-			"proportionaltoparent" "1"
-			"actionsignallevel"	"2"
-
-			"sound_depressed"	"sound_menu/button.wav"
-			"sound_released"	"sound_menu/button2.wav"
-			
-			"defaultFgColor_override" "W_ColorIcons1"
-			"defaultBgColor_override" "W_ColorTheme1"
-			"armedFgColor_override" "W_ColorTheme1"
-			"depressedFgColor_override" "235 226 202 255"
 		}	
 					
 		"MOTD_PrevButton"

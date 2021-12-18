@@ -1,7 +1,7 @@
 //	#base "_motd_spray.res"
 //	#base "_motd_sourcemod.res"
-	#base "_safemode.res"
-	#base "_safemode1.res"
+//	#base "_safemode.res"
+//	#base "_safemode1.res"
 "Resource/#jofre/safe-mode.res"
 {
 	"SafeMode"
@@ -16,36 +16,38 @@
 		"visible"		"1"
 		//"enabled"		"1"
 		"bgcolor_override"	"0 0 0 1"
-
-
-		"background2"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""background2"
-		"xpos""0"
-		"ypos""0"
-		"zpos""-10"
-		"wide""f0"
-		"tall""f0"
-		"image""../console/background_gravelpit_widescreen"
-		"visible""1"
-		"enabled""1"
-		"scaleimage""1"
+		"polybar1bg"			{			ControlName				ImagePanel			FieldName				
+		"polybar1bg"
+		"xpos"			"0"
+		"ypos"			"rs1"
+		"wide"			"f0"
+		"tall"			"14"
+			fillColor				"PolyIconsbg1"
 		}			
-		"bye"	{			"ControlName"	"CExImageButton""fieldName"		"bye"
-			"xpos"										"0"
-			"ypos"										"0"
-			"zpos"										"-60"
-			"wide"										"f0"
-			"tall"										"0"
-			"labelText"									""
-			"actionsignallevel"	"2"
-			"command"			"engine cl_mainmenu_safemode 0"
-			"defaultFgColor_override"					"blank"
-			"armedFgColor_override" 					"blank"
-			"depressedFgColor_override" 				"blank"		
-		}	
-				
+		"polybar1bg2"			{			ControlName				ImagePanel			FieldName				
+		"polybar1bg2"
+		"xpos"			"0"
+		"ypos"			"rs1-13"
+		"wide"			"f0"
+		"zpos"			"1000"
+		"tall"			"1"
+			fillColor				"PolyBG2"
+		}
+	"RankPanel"
+	{
+		"ControlName"		"CPvPRankPanel"
+		"fieldName"			"RankPanel"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"f0"
+		"tall"				"f0"
+		"zpos"				"0"
+		mouseInputEnabled			0					// mouse input passes though to panels below
+
+		matchgroup				MatchGroup_Casual_12v12		// check out!
+		show_model				0					// check out!
+		show_type				1			
+	}		
 		"Background"		//Only not removed cuz save settings button
 		{
 			"ControlName"	"EditablePanel"
@@ -166,5 +168,5 @@
 			"enabled"				"0"
 		}	
 	}	
-	
+			
 }	

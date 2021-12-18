@@ -1,8 +1,7 @@
 
 	#base "../font.res"
-
 	#base "cs_windows.res"
-	#base ".polybar/themes.res"
+	#base "base/scheme/cs_global_tf.res"
 //dlc
 	#base "../../ui_overrides/resource/scheme/dlc/2.res"
 	#base "ui2/scheme/backpack.res"
@@ -47,8 +46,7 @@ Scheme
 		ScrollBarButton.FgColor				"W_ColorIcons1"
 		ScrollBarButton.ArmedFgColor		"W_ColorTheme1"
 		ScrollBarButton.DepressedFgColor	"W_ColorTheme1"
-		Slider.NobColor				"W_ColorIcons1"
-		Slider.TrackColor			"W_BorderArmed"
+		Slider.TextColor			"blank"
         Slider.DisabledTextColor2	"Blank"	
 		Econ.Dialog.BgColor				"W_ColorTheme1"
 		ReplayBrowser.BgColor					"W_ColorTheme1"		
@@ -673,7 +671,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "PolybarTheme9"
+					"color" "PolyIconsFg1"
 					"offset" "0 1"
 				}
 			}
@@ -682,7 +680,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "PolybarTheme9"
+					"color" "PolyIconsFg1"
 					"offset" "1 0"
 				}
 			}
@@ -691,7 +689,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "PolybarTheme9"
+					"color" "PolyIconsFg1"
 					"offset" "0 0"
 				}
 			}
@@ -700,7 +698,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "PolybarTheme9"
+					"color" "PolyIconsFg1"
 					"offset" "0 0"
 				}
 			}

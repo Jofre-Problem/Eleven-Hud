@@ -6,7 +6,8 @@
 
 //#base "../#jofre/nobar.res"		//always activated
 //#base "../#jofre/safe-mode.res"
-#base "statsummary.res"
+#base "../ui2/polybar_1.res"
+#base "../ui2/mm_topbar.res"
 "Resource/SteamWorkshopDialog.res"
 
 {

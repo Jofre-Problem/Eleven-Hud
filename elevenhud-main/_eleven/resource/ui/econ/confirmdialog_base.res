@@ -27,7 +27,7 @@
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
 			"border"		"Rice1"			
-			"bgcolor_override"				"W_ColorTheme2"	//"W_ColorTheme2"
+			"bgcolor_override"				"PolyIconsbg1"
 		}	
 	"TitleLabel"
 	{
@@ -47,7 +47,7 @@
 		"zpos"			"1"
 		"wide"			"p0.3"
 		"tall"			"25"
-		"fgcolor_override"	"W_ColorIcons1"
+		"fgcolor_override"	"PolyIconsFg1"
 	}
 	
 	"ExplanationLabel"

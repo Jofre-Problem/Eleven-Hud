@@ -11,7 +11,7 @@
 		tall					13
 		"pinCorner"		"0"
 		labelText				"ï"
-		font					"NewIcons12"
+		font					"NewIcons9"
 		textAlignment			center
 
 		Command				"close"
@@ -35,7 +35,7 @@
 		tall					13
 		
 		labelText				"î"
-		font					"NewIcons12"
+		font					"NewIcons9"
 		textAlignment			center
 
 		fgcolor_override	"W_ColorIcons1"
