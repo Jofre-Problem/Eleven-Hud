@@ -203,7 +203,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"24"
-				"tall_lodef"	"80"
+				////"tall_lodef"	"80"
 			}
 			"2"
 			{
@@ -233,7 +233,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"44"
-				"tall_lodef"	"52"
+				////"tall_lodef"	"52"
 			}
 		}
 
@@ -243,7 +243,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"35"
-				"tall_lodef"	"40"
+				////"tall_lodef"	"40"
 			}
 		}
 
@@ -278,7 +278,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"24"
-				"tall_lodef"		"28"
+				////"tall_lodef"		"28"
 			}
 		}
 		"HudFontMediumSecondary"
@@ -312,7 +312,7 @@ Scheme
 				"name"		"Product Sans"
 				"tall"		"18"
 				"tall_hidef"	"24"
-				"tall_lodef"	"18"
+				////"tall_lodef"	"18"
 			}
 		}
 		"HudFontMediumSmallSecondary"
@@ -322,7 +322,7 @@ Scheme
 				"name"		"Product Sans"
 				"tall"		"18"
 				"tall_hidef"	"24"
-				"tall_lodef"	"20"
+				////"tall_lodef"	"20"
 			}
 		}
 		"HudFontSmall"
@@ -331,7 +331,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"14"
-				"tall_lodef"	"16"
+				////"tall_lodef"	"16"
 			}
 		}	
 		"HudFontSmallishBold"
@@ -437,7 +437,7 @@ Scheme
 				"name"		"Product Sans"
 				"tall"		"12"
 				"tall_hidef"	"14"
-				"tall_lodef"	"16"
+				////"tall_lodef"	"16"
 			}
 		}
 		"TextTooltipFont"
@@ -455,7 +455,7 @@ Scheme
 				"name"		"Product Sans"
 				"tall"		"18"
 				"tall_hidef"	"24"
-				"tall_lodef"	"18"
+				////"tall_lodef"	"18"
 			}
 		}
 		"HudClassHealth"
@@ -465,7 +465,7 @@ Scheme
 				"name"		"Product Sans"
 				"tall"		"16"
 				"tall_hidef"	"22"
-				"tall_lodef"	"22"
+				////"tall_lodef"	"22"
 			}
 		}
 		"HudSelectionText"
@@ -511,7 +511,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"11"
-				"tall_lodef"	"14"
 			}
 		}
 		"MenuKeys"
@@ -529,8 +528,6 @@ Scheme
 			{
 				"name"			"Product Sans"
 				"tall"			"28"
-				"tall_lodef"	"48"
-				"tall_hidef"	"48"
 			}
 		}
 		"ChalkboardTitleBig"
@@ -539,8 +536,6 @@ Scheme
 			{
 				"name"			"Product Sans"
 				"tall"			"40"
-				"tall_lodef"	"48"
-				"tall_hidef"	"48"
 			}
 		}
 		"ChalkboardTitleMedium"
@@ -549,8 +544,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"24"
-				"tall_lodef"	"36"
-				"tall_hidef"	"36"
 			}
 		}
 		"ChalkboardText"
@@ -558,10 +551,7 @@ Scheme
 			"1"
 			{
 				"name"			"Product Sans"
-				"tall"			"14" [!$OSX]
-				"tall"			"15" [$OSX]
-				"tall_lodef"	"32"
-				"tall_hidef"	"32"
+				"tall"			"14"
 			}
 		}
 		
@@ -572,8 +562,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"14"
-				"tall_hidef"	"14"
-				"tall_lodef"	"14"
 			}
 		}
 		
@@ -583,8 +571,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"10"
-				"tall_hidef"	"12"
-				"tall_lodef"	"14"
 			}
 		}
 		"ScoreboardMediumSmall"
@@ -609,8 +595,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"20"
-				"tall_hidef"	"24"
-				"tall_lodef"	"24"
 			}
 		}
 		"ScoreboardTeamCountNew"
@@ -635,8 +619,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"34"
-				"tall_hidef"	"38"
-				"tall_lodef"	"38"
 			}
 		}
 
@@ -646,7 +628,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"36"
-				"tall_hidef"	"48"
+		
 			}
 		}
 		"ScoreboardTeamScore"
@@ -655,13 +637,12 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"52"
-				"tall_lodef"		"80"
+			
 			}
 			"2"
 			{
 				"name"		"Product Sans"
 				"tall"		"72"
-				"tall_hidef"	"120"
 			}
 			"3"
 			{
@@ -703,8 +684,6 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"10"
-				"tall_hidef"	"12"
-				"tall_lodef"	"14"
 			}
 		}
 		
@@ -790,7 +769,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"14"
-				"tall_lodef"	"18"
+				////"tall_lodef"	"18"
 			}
 		}			
 		CapPlayerFont
@@ -816,7 +795,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"36"
-				"tall_lodef"		"28"
+				////"tall_lodef"		"28"
 			}
 		}
 		MatchmakingDialogSessionOptionsTitle
@@ -825,7 +804,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"30"
-				"tall_lodef"		"22"
+				////"tall_lodef"		"22"
 			}
 		}
 		MatchmakingDialogMenuLarge
@@ -834,7 +813,7 @@ Scheme
 			{
 				"name"		"Product Sans"
 				"tall"		"28"
-				"tall_lodef"	"24"
+				////"tall_lodef"	"24"
 			}
 		}	
 		MatchmakingDialogMenuMedium
@@ -1177,7 +1156,7 @@ Scheme
 				"name"		"Product Sans"
 				"tall"		"18"
 				"tall_hidef"	"24"
-				"tall_lodef"	"18"
+				////"tall_lodef"	"18"
 			}
 		}
 		"ReplayBrowserTab"
