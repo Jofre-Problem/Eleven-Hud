@@ -13,7 +13,7 @@
 		"proportionaltoparent"						"1"
 		"painbackground"							"1"
 		"painbackgroundtype"						"0"
-		"bgcolor_override"							"0 0 0 232"
+		"bgcolor_override"							"0 0 0 230"
 		"border"			"noborder"
 	}
 	
@@ -78,7 +78,7 @@
 		"command"									"nav_close"
 
 		"textAlignment"								"center"
-		"textinsety"								"0"
+		"textinsety"								"-14"
 		"font"										"NewIcons12"
 
 		"paintbackground"							"0"

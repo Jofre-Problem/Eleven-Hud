@@ -63,7 +63,7 @@
 		"polyleft1"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"75"
+		"wide"			"73"
 		"tall"			"13"
 			fillColor				"129 129 169 255"
 	"pin_to_sibling"	"polybarbg2"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"	
@@ -100,16 +100,71 @@
 		"fieldName"		"Slider"
 		"xpos"		"0"
 		"ypos"		"-2" //18
-		"wide"		"50"
-		"tall"		"10"
+		"wide"		"48"
+		"tall"		"13"
 		"zpos"		"5001"
 		"leftText"		""
 		"rightText"		""
 		"minvalue"		"0"
 		"maxvalue"		"6"
 		"cvar_name"		"mat_color_projection"
-		"allowoutofrange"		"0"
 "pin_to_sibling"	"icon1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+	}
+
+
+
+
+		"musicbg"		{	ControlName		ImagePanel		FieldName
+		"musicbg"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"73"
+		"tall"			"13"
+			fillColor				"132 136 255 255"
+	"pin_to_sibling"	"polyleft1"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"	
+	}	
+		"musicbgslash"		{			"ControlName"		"CExLabel"		"fieldName"	
+			"musicbgslash"
+			"font"			"NewIcons20"
+			"labelText"		"È"
+			"textAlignment"		"west"
+			"xpos" 			"0"
+			"ypos"			"0"
+			"wide"			"30"
+			"tall"			"13"
+			"zpos"		"2000"
+			"fgcolor"		"132 136 255 255"
+"pin_to_sibling"	"musicbg"	"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+	}		
+		"icon2"		{			"ControlName"		"CExLabel"		"fieldName"	
+			"icon2"
+			"font"			"NewIcons9"
+			"labelText"		"'"
+			"textAlignment"		"west"
+			"xpos" 			"-21"
+			"ypos"			"0"
+			"wide"			"15"
+			"textInsetY"	1
+			"tall"			"13"
+			"fgcolor"		"W_ColorIcons1"
+	"pin_to_sibling"	"musicbg"
+}						
+	"Slider2"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"Slider2"
+		"xpos"		"0"
+		"ypos"		"-2" //18
+		"wide"		"48"
+		"tall"		"13"
+		"zpos"		"5001"
+		"leftText"		""
+		"rightText"		""
+		"minvalue"		"0"
+		"maxvalue"		"1"
+		"cvar_name"		"snd_musicvolume"
+"pin_to_sibling"	"icon2"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
 	}
 
 }

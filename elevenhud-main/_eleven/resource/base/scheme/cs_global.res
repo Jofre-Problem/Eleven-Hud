@@ -120,7 +120,7 @@ Scheme
 		PropertySheet.SelectedTextColor	"White"
 		PropertySheet.TransitionEffectTime	"0.25"
 		PropertySheet.BgColor				"W_ColorTheme2Blur"
-		PropertySheet.TextColor			"W_ColorIcons2"
+		PropertySheet.TextColor			"W_ColorIcons1"
 		PropertySheet.SelectedTextColor	"W_ColorIcons1"
 	//	ProgressBar.BgColor				"W_ColorTheme2"
 		ProgressBar.FgColor				"W_BorderArmed"	

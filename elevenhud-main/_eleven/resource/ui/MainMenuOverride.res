@@ -89,109 +89,6 @@
 			"image"		""
 		}			
 	}	
-		
-	"CallVote"			// call a vote
-	{
-		ControlName				EditablePanel
-		FieldName				"CallVote"
-		xPos					"rs1"
-		yPos					20
-		zPos					1050
-		wide					10
-		tall					10
-		"bgcolor_override"		"Blank"
-		"paintBackground"	"0"
-		"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					10
-			tall					10
-			proportionaltoparent		1
-
-			font					"NewIcons9"
-			textAlignment			center
-			
-			sound_depressed			"sound_menu/button.wav"
-			sound_released			"sound_menu/button2.wav"
-							
-			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
-
-	"MutePlayers"			// open the menu to mute players
-	{
-		ControlName				EditablePanel
-		FieldName				"MutePlayers"
-		xPos					"rs1"
-		yPos					35
-		zPos					1050
-		wide					10
-		tall					10
-		"bgcolor_override"		"Blank"
-		"paintBackground"	"0"
-		"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					10
-			tall					10
-			proportionaltoparent		1
-
-			font					"NewIcons9"
-			textAlignment			center
-			
-			sound_depressed			"sound_menu/button.wav"
-			sound_released			"sound_menu/button2.wav"
-						
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
-
-	"ReportPlayer"			// open the menu to report players
-	{
-		ControlName				EditablePanel
-		FieldName				"ReportPlayer"
-		xPos					rs1
-		yPos					50
-		zPos					1050
-		wide					10
-		tall					10
-		"bgcolor_override"		"Blank"
-		"paintBackground"	"0"
-	"SubButton"
-		{
-			ControlName				CExImageButton
-			fieldName				"SubButton"
-			xpos					0
-			ypos					0
-			wide					10
-			tall					10
-			proportionaltoparent		1
-
-			font					"NewIcons9"
-			textAlignment			center
-			
-			sound_depressed			"sound_menu/button.wav"
-			sound_released			"sound_menu/button2.wav"
-						
-		defaultFgColor_override		"W_ColorIcons1"
-		armedFgColor_override		"W_ColorIconsArmed1"
-
-			paintbackground			0
-		}
-	}
-
 	"RankModelPanel"
 	{
 		yPos					-90
@@ -208,11 +105,11 @@
 
 	"CallVoteButton"
 	{
-		"wide"			"0"
+	//	"wide"			"0"
 	}
 	"MutePlayersButton"
 	{
-		"wide"			"0"
+	//	"wide"			"0"
 	}
 	"RequestCoachButton"
 	{
@@ -220,7 +117,7 @@
 	}	
 	"ReportPlayerButton"
 	{
-		"wide"			"0"
+	//	"wide"			"0"
 	}	
 	"WorkshopButton"
 	{
@@ -234,7 +131,7 @@
 		yPos					0
 		zPos					4000
 		wide					20
-		tall					13
+		tall					14
 		labelText				"ø"
 		textAlignment			center
 		font			"NewIcons12"

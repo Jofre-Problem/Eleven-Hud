@@ -274,7 +274,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		Ā Players:"
+		"labelText"		"ą Players:"
+		"font"	"Default"
 		"textAlignment"		"east"
 		"dulltext"		"1"
 		"brighttext"		"0"
@@ -452,4 +453,3 @@
 		"wrap"		"0"
 	}
 }
- 

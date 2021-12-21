@@ -26,7 +26,7 @@
 		"zpos"				2
 		"wide"			"25"
 		"tall"			"13"
-			fillColor				"PolyIconsBg1"		
+			fillColor				"PolybarTheme1"
 	}	
 
 
@@ -43,7 +43,7 @@
 			"wide"			"10"
 			"tall"			"13"
 			
-			"fgcolor"		"PolyIconsBg1"
+			"fgcolor"		"PolybarTheme1"
 "pin_to_sibling"	"polybar0bg"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		}
@@ -206,7 +206,7 @@
 		"tall""13"
 		"font""NewIcons12"
 		"textAlignment""west"
-		"command""engine showconsole;exec cc_cfg/clear3; status;exec cc_cfg/clear3; tv_status;exec cc_cfg/clear3; version"
+		"command""engine showconsole;exec cc_cfg/clear3; status;exec cc_cfg/clear3; version"
 		"proportionaltoparent""1"
 		"labeltext""ý"
 		"mouseinputenabled""1"

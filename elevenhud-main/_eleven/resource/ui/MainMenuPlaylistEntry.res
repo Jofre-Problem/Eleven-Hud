@@ -5,7 +5,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"ModeButton"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"-2"
 		"zpos"										"6"
 		"wide"										"150"
 		"tall"										"185"
@@ -31,7 +31,7 @@
 		"paintborder"								"0"
 		
 		"defaultFgColor_override"					"White"
-		"armedFgColor_override"						"W_ColorLinea1"
+		"armedFgColor_override"						"PolyIconsFg1"
 		"depressedFgColor_override"					"W_ColorLinea1"
 
 		"image_drawcolor"							"255 255 255 255"
@@ -52,6 +52,7 @@
 		"scaleImage"								"1"	
 		"proportionaltoparent"						"1"
 		"image"										""
+		"border"	"Rice1"
 	}
 
 	"Line"
@@ -61,14 +62,14 @@
 		"xpos"										"cs-0.5"
 		"ypos"										"152"
 		"zpos"										"2"
-		"wide"										"66"
-		"tall"										"2"
+		"wide"										"150"
+		"tall"										"1-p0.005"
 		"visible"									"1"
 		"enabled"									"1"
 		"painbackground"							"1"
 		"painbackgroundtype"						"0"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"White"
+		"bgcolor_override"							"PolyIconsFg1"
 	}
 	
 	"MatchmakingBanPanel"
@@ -90,7 +91,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"MatchmakingBanDurationLabel"
-			"font"									"Noto10"
+			"font"									"CustomPrimero"
 		//	"fgcolor_override"						"RedDark"
 			"labelText"								"#TF_Matchmaking_Ban_Duration_Remaining"
 			"textalignment"							"south-west"

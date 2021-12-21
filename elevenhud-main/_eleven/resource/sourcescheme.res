@@ -133,7 +133,7 @@ Scheme
 			"1"
 			{
 				"name"				"Product Jofre"
-		//		"tall"				"15"		
+					
 				"antialias"			"1"
 			}
 		}  		
@@ -261,6 +261,7 @@ Scheme
 		{
 			"font" "_eleven/font/ProductJofre.otf"
 			"name" "Product Jofre"
+			"range"	"0x0000 0x017F"
 		}  		
 	}	
 }	
