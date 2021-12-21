@@ -154,7 +154,7 @@
 
 
 //"Default""1"
-"labeltext"""
+"labelText" ""
 "command""addpremium"
 "proportionaltoparent""1"
 "actionsignallevel""3"
@@ -237,7 +237,7 @@
 
 
 //"Default""1"
-"labeltext"""
+"labelText" ""
 "command""addphone"
 "proportionaltoparent""1"
 "actionsignallevel""3"
@@ -339,7 +339,7 @@
 
 
 //"Default""1"
-"labeltext"""
+"labelText" ""
 "command""open_casual"
 "proportionaltoparent""1"
 "actionsignallevel""3"

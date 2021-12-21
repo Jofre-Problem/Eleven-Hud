@@ -325,7 +325,7 @@
 "wide""25"
 "tall""25"
 "font""HudFontSmall"
-"labeltext"""
+"labelText" ""
 }
 
 "ActivateSquadSurplusLabel"

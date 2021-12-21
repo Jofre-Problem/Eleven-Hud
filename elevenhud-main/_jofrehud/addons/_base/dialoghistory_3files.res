@@ -4,7 +4,7 @@
 #base "../../#uni_base/filesv1/closebutton/auto0.res"
 #base "../../#uni_base/filesv1/closebutton/pin3.res"
 #base "../../#uni_base/filesv1/closebutton/vis1.res"
-#base "../../#uni_base/filesv1/closebutton/tab0.res"
+#base "../../#uni_base/filesv1/closebutton/tab.res"
 #base "../../#uni_base/filesv1/closebutton/enabled.res"
 #base "../../#uni_base/filesv1/closebutton/ctrl/btn.res"
 #base "../../#uni_base/filesv1/closebutton/position/wide75.res"

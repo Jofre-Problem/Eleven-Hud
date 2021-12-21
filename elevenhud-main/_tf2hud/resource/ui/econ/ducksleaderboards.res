@@ -232,7 +232,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -282,7 +282,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -333,7 +333,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -438,7 +438,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "bgcolor_override""0 0 0 220"
 "command""close"
 "paintbackground""0"

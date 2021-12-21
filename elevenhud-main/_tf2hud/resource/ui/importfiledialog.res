@@ -376,7 +376,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearIcon"
 
 "image_drawcolor""235 226 202 255"
@@ -412,7 +412,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseIcon"
 
 "image_drawcolor""235 226 202 255"
@@ -755,7 +755,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup0"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -777,7 +777,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup1"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -799,7 +799,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup2"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -821,7 +821,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup3"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -843,7 +843,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup4"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -865,7 +865,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup5"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -887,7 +887,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup6"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -909,7 +909,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup7"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -931,7 +931,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""Bodygroup8"
-"labeltext"""
+"labelText" ""
 "Font""HudFontSmallest"
 //"textAlignment""west"
 "xpos""4" 
@@ -1003,7 +1003,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearLOD0"
 
 "image_drawcolor""235 226 202 255"
@@ -1037,7 +1037,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseLOD0"
 
 "image_drawcolor""235 226 202 255"
@@ -1079,7 +1079,7 @@
 "tall""15"
 
 
-"labelText"""
+"labelText" ""
 "font""HudFontSmallest"
 }
 }
@@ -1127,7 +1127,7 @@
 //"textAlignment""west"
 "enabled""0"
 
-"labeltext"""
+"labelText" ""
 "command""ClearLOD1"
 
 "image_drawcolor""235 226 202 255"
@@ -1162,7 +1162,7 @@
 //"textAlignment""west"
 "enabled""0"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseLOD1"
 
 "image_drawcolor""235 226 202 255"
@@ -1205,7 +1205,7 @@
 "tall""15"
 
 
-"labelText"""
+"labelText" ""
 "font""HudFontSmallest"
 "enabled""0"
 }
@@ -1254,7 +1254,7 @@
 //"textAlignment""west"
 "enabled""0"
 
-"labeltext"""
+"labelText" ""
 "command""ClearLOD2"
 
 "image_drawcolor""235 226 202 255"
@@ -1289,7 +1289,7 @@
 //"textAlignment""west"
 "enabled""0"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseLOD2"
 
 "image_drawcolor""235 226 202 255"
@@ -1332,7 +1332,7 @@
 "tall""15"
 
 
-"labelText"""
+"labelText" ""
 "font""HudFontSmallest"
 "enabled""0"
 }
@@ -1473,7 +1473,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""EditMaterial0"
 
 "image_drawcolor""235 226 202 255"
@@ -1546,7 +1546,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""EditMaterial1"
 
 "image_drawcolor""235 226 202 255"
@@ -1620,7 +1620,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""EditMaterial2"
 
 "image_drawcolor""235 226 202 255"
@@ -1693,7 +1693,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""EditMaterial3"
 
 "image_drawcolor""235 226 202 255"
@@ -1841,7 +1841,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearAnimationSource"
 
 "image_drawcolor""235 226 202 255"
@@ -1875,7 +1875,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseAnimationSource"
 
 "image_drawcolor""235 226 202 255"
@@ -1917,7 +1917,7 @@
 "tall""15"
 
 
-"labelText"""
+"labelText" ""
 "font""HudFontSmallest"
 }
 }
@@ -1964,7 +1964,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearAnimationVCD"
 
 "image_drawcolor""235 226 202 255"
@@ -1998,7 +1998,7 @@
 "font""HudFontSmallest"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseAnimationVCD"
 
 "image_drawcolor""235 226 202 255"

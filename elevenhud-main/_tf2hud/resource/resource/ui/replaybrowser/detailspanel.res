@@ -89,7 +89,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 //"font""ReplayMedium"
 "textAlignment""center"
 ////"dulltext""0"

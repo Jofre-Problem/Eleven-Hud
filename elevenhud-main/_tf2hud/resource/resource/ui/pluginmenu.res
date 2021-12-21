@@ -44,7 +44,7 @@
 ////"visible""1"
 
 //"tabPosition""1"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -65,7 +65,7 @@
 ////"visible""1"
 
 //"tabPosition""2"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -86,7 +86,7 @@
 ////"visible""1"
 
 //"tabPosition""3"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -107,7 +107,7 @@
 ////"visible""1"
 
 //"tabPosition""4"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -128,7 +128,7 @@
 ////"visible""1"
 
 //"tabPosition""5"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -149,7 +149,7 @@
 ////"visible""1"
 
 //"tabPosition""6"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -170,7 +170,7 @@
 ////"visible""1"
 
 //"tabPosition""7"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -191,7 +191,7 @@
 ////"visible""1"
 
 //"tabPosition""8"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"

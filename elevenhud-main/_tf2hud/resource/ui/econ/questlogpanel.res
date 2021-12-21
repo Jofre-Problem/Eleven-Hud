@@ -159,7 +159,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -330,7 +330,7 @@
 "ControlName""CExLabel"
 "fieldName""BadgeProgressMeterText"
 "font""ScoreboardVerySmall"
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 
 
@@ -410,7 +410,7 @@
 "ControlName""CExLabel"
 "fieldName""ContractsCompletedProgressMeterText"
 "font""ScoreboardVerySmall"
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 
 

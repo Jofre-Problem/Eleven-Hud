@@ -62,7 +62,7 @@
 //"visible""1"
 ////"enabled""1"
 //"tabposition""0"
-"labelText"""
+"labelText" ""
 "Command""play"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"

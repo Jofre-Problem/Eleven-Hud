@@ -36,7 +36,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -91,7 +91,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmallest"
 "textAlignment""center"
 ////"dulltext""0"
@@ -146,7 +146,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmallest"
 "textAlignment""center"
 ////"dulltext""0"
@@ -197,7 +197,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmallest"
 "textAlignment""center"
 ////"dulltext""0"

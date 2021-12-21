@@ -100,7 +100,7 @@
 "visible""0"
 
 "scaleImage""1"
-"labeltext"""
+"labelText" ""
 "proportionaltoparent""1"
 "actionsignallevel" "4"
 

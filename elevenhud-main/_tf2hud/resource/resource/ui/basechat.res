@@ -58,7 +58,7 @@ ChatInputLine
 //"pinCorner""1"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""south-west"
 //"font""ChatFont"
 //"maxchars""-1"

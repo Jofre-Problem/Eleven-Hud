@@ -396,7 +396,7 @@
 {
 "ControlName""CExLabel"
 "fieldName""EstimateTimeLabel"
-"labeltext"""
+"labelText" ""
 //"font""ReplayVerySmall"
 //"textAlignment""west"
 //"wrap""0"
@@ -415,7 +415,7 @@
 {
 "ControlName""CExLabel"
 "fieldName""EstimateFileLabel"
-"labeltext"""
+"labelText" ""
 //"font""ReplayVerySmall"
 //"textAlignment""west"
 //"wrap""0"

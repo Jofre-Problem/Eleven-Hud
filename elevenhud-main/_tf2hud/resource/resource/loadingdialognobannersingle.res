@@ -27,7 +27,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"

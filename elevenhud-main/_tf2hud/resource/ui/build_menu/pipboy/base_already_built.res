@@ -109,7 +109,7 @@
 
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""East"
 "fgcolor""0 255 0 255"
 }

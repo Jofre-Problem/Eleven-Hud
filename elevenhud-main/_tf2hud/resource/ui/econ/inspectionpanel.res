@@ -150,7 +150,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "scaleImage""1"
 
@@ -264,7 +264,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

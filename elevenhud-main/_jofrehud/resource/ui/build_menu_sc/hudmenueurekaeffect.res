@@ -18,7 +18,7 @@
 
 #base "../base/build-more/titlelabelshadow/main.res"
 #base "../base/build-more/titlelabelshadow/font/giant.res"
-#base "../base/build-more/titlelabelshadow/content1.res"
+#base "../base/build-more/titlelabelshadow/position/content1.res"
 #base "../base/build-more/titlelabelshadow/position/tall38.res"
 #base "../base/build-more/titlelabelshadow/text/left.res"
 
@@ -28,6 +28,6 @@
 #base "../base/build-more/available_target/1/new/ypos47.res"
 
 #base "../base/build-more/unavailable_target/1/new/ctrl_edit.res"
-#base "../base/build-more/unavailable_target/1/new/vis1.res"
+#base "../base/build-more/unavailable_target/1/vis1.res"
 #base "../base/build-more/unavailable_target/1/new/main.res"
 #base "../base/build-more/unavailable_target/1/new/ypos47.res"

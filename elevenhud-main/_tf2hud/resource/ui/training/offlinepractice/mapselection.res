@@ -274,7 +274,7 @@
 "ControlName""CExLabel"
 "fieldName""SuggestedPlayerCountLabel"
 "font""HudFontSmallest"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 "xpos""230"
 "ypos""230"

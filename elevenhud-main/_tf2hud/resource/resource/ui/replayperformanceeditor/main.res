@@ -124,7 +124,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""timescale_showpanel"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -162,7 +162,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""setcamera_first"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -200,7 +200,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""setcamera_third"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -239,7 +239,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""setcamera_free"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -300,7 +300,7 @@
 ////"visible""1"
 
 //"font""PerformanceModeSmall"
-"labeltext"""
+"labelText" ""
 "fgcolor_override" "251 246 220 255"
 }
 
@@ -336,7 +336,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""settick_in"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -376,7 +376,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""goto_start"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -415,7 +415,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""goto_back"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -454,7 +454,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""play"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -493,7 +493,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
 
@@ -531,7 +531,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""goto_end"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -570,7 +570,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "Command""settick_out"
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
@@ -610,7 +610,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 //"font"""
 "textAlignment""center"
 ////"dulltext""0"
@@ -643,7 +643,7 @@
 {
 "ControlName""CReplayTipLabel"
 "fieldName""ButtonTip"
-"labeltext"""
+"labelText" ""
 "wide""350"
 "tall""50"
 //"zpos""100"

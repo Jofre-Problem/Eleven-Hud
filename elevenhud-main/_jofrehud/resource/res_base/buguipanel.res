@@ -471,7 +471,7 @@
 "maxchars""-1"
 "NumericInputOnly""0"
 "unicode""0"
-"labelText"""
+"labelText" ""
 }
 "BugSeverity"
 {

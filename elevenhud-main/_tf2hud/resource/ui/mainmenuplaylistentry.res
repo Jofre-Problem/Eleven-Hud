@@ -212,7 +212,7 @@
 
 "actionsignallevel""1"
 "command""comp_access_info"
-"labeltext"""
+"labelText" ""
 "eatmouseinput""0"
 "button_activation_type""1"
 

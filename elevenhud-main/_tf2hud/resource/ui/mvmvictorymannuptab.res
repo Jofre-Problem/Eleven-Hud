@@ -65,7 +65,7 @@
 "command"""
 
 //"visible""1"
-"labeltext"""
+"labelText" ""
 "paintbackground""0"
 }
 

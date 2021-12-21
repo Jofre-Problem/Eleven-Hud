@@ -145,7 +145,7 @@
 "ControlName""CExLabel"
 "fieldName""NameLabel"
 //"font""ReplayBrowserSmallest"
-"labeltext"""
+"labelText" ""
 //"zpos""1"
 
 

@@ -92,7 +92,7 @@ if_comp
 //"pinCorner""1"
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 "font""HudFontSmallest"
 //"maxchars""-1"
@@ -129,7 +129,7 @@ if_comp
 //"pinCorner""1"
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 "font""HudFontSmallest"
 //"maxchars""-1"

@@ -17,7 +17,7 @@
 {
 "ControlName""Label"
 "fieldName""AchievementName"
-"labeltext"""
+"labelText" ""
 "xpos""5"
 
 "wide""270"
@@ -31,7 +31,7 @@
 {
 "ControlName""Label"
 "fieldName""AchievementNameGlow"
-"labeltext"""
+"labelText" ""
 "xpos""5"
 
 "wide""270"
@@ -47,7 +47,7 @@
 {
 "ControlName""Label"
 "fieldName""AchievementDesc"
-"labeltext"""
+"labelText" ""
 "xpos""5"
 "ypos""8"
 "wide""270"

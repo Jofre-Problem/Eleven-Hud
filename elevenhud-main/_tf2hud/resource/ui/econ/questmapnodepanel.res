@@ -115,7 +115,7 @@
 {
 "ControlName""CExLabel"
 "fieldName""NodeNameLabel"
-"labeltext"""
+"labelText" ""
 "xpos""cs-0.5"
 "ypos""c18"
 "wide""f0"
@@ -162,7 +162,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

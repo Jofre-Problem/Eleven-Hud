@@ -134,7 +134,7 @@
 //"brighttext""0"
 "Command""interact"
 "proportionaltoparent""1"
-"labeltext"""
+"labelText" ""
 //"mouseinputenabled""1"
 "keyboardinputenabled""0"
 "actionsignallevel""1"

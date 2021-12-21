@@ -28,7 +28,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "scaleImage""1"
 

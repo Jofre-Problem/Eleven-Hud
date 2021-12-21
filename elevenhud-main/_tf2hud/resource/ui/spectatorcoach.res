@@ -120,7 +120,7 @@
 //"visible""1"
 ////"visible_minmode""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 }
 "DistanceLabel"
@@ -171,7 +171,7 @@
 
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""east"
 "font""SpectatorKeyHints"
 }
@@ -205,7 +205,7 @@
 //"visible""1"
 ////"visible_minmode""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""east"
 "font""SpectatorKeyHints"
 }
@@ -239,7 +239,7 @@
 //"visible""1"
 ////"visible_minmode""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""east"
 "font""SpectatorKeyHints"
 }

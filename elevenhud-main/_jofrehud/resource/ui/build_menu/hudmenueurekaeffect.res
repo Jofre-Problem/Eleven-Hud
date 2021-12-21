@@ -40,6 +40,6 @@
 #base "../base/build-more/available_target/1/new/ypos47.res"
 
 #base "../base/build-more/unavailable_target/1/new/ctrl_edit.res"
-#base "../base/build-more/unavailable_target/1/new/vis1.res"
+#base "../base/build-more/unavailable_target/1/vis1.res"
 #base "../base/build-more/unavailable_target/1/new/main.res"
 #base "../base/build-more/unavailable_target/1/new/ypos47.res"

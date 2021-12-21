@@ -22,7 +22,7 @@
 "wide""f0"
 "tall""20"
 "proportionaltoparent""1"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 "font""HudFontSmallest"
 "smallcheckimage""1"

@@ -89,7 +89,7 @@
 
 //////"editable""1"
 //////"tabPosition""1"
-"labelText"""
+"labelText" ""
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////"brighttext""0"

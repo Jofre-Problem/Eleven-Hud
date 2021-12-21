@@ -73,7 +73,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""select 12"
 //"Default""1"
@@ -182,7 +182,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 1"
@@ -266,7 +266,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 3"
@@ -349,7 +349,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 7"
@@ -457,7 +457,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 4"
@@ -538,7 +538,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 6"
@@ -618,7 +618,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 9"
@@ -726,7 +726,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 5"
@@ -809,7 +809,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 2"
@@ -892,7 +892,7 @@
 //"visible""1"
 
 
-"labelText"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 "Command""select 8"
@@ -1760,7 +1760,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1932,7 +1932,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

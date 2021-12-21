@@ -110,7 +110,7 @@
 
 
 
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 "font""HudFontSmall"
 }
@@ -131,7 +131,7 @@
 
 "wrap""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""center-west"
 "font""HudFontSmallest"
 }
@@ -169,7 +169,7 @@
 "enabled""0"
 
 
-"labeltext"""
+"labelText" ""
 "scaleImage""1"
 
 "activeimage""pve/buy_disabled"
@@ -203,7 +203,7 @@
 "enabled""0"
 
 
-"labeltext"""
+"labelText" ""
 "scaleImage""1"
 
 "activeimage""pve/sell_disabled"

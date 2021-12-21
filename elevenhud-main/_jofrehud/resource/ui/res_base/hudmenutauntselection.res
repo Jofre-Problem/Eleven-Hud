@@ -12,7 +12,7 @@
 #base "../../../#uni_base/filesv1/titlelabel/enabled.res"
 #base "../../../#uni_base/filesv1/titlelabel/text/left.res"
 #base "../../../#uni_base/filesv1/titlelabel/dull0.res"
-#base "../../../#uni_base/filesv1/titlelabel/bright0.res"
+#base "../../../#uni_base/filesv1/titlelabel/bright.res"
 
 #base "../base/build-more/titlelabelshadow/main.res"
 #base "../base/build-more/titlelabelshadow/dull1.res"

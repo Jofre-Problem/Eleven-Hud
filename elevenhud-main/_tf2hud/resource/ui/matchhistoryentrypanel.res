@@ -35,7 +35,7 @@
 
 "actionsignallevel""2"
 "command""toggle_collapse"
-"labeltext"""
+"labelText" ""
 
 "border_default""NoBorder"
 "defaultBgColor_override""Blank"

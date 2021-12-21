@@ -33,7 +33,7 @@
 "wide""f0"
 "tall""20"
 "proportionaltoparent""1"
-"labeltext"""
+"labelText" ""
 "smallcheckimage""1"
 "fgcolor""TanLight"
 "font""HudFontSmall"

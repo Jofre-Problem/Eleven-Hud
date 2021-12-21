@@ -149,7 +149,7 @@
 //"zpos""2"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""Left"
 ////"dulltext""0"
 //"brighttext""0"
@@ -201,7 +201,7 @@
 //"zpos""2"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""Left"
 ////"dulltext""0"
 //"brighttext""0"
@@ -253,7 +253,7 @@
 //"zpos""2"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""Left"
 ////"dulltext""0"
 //"brighttext""0"
@@ -286,7 +286,7 @@
 //"zpos""2"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""Left"
 ////"dulltext""0"
 //"brighttext""0"
@@ -319,7 +319,7 @@
 //"zpos""2"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""Left"
 ////"dulltext""0"
 //"brighttext""0"
@@ -450,7 +450,7 @@
 "tall""40"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""north-west"
 ////"dulltext""0"
 //"brighttext""0"
@@ -518,7 +518,7 @@
 "tall""40"
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""north-west"
 ////"dulltext""0"
 //"brighttext""0"

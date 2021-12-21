@@ -170,7 +170,7 @@
 "enabled""0"
 "editable""0"
 //"tabposition""0"
-"labelText"""
+"labelText" ""
 "textAlignment""west"
 "dulltext""1"
 "brighttext""0"

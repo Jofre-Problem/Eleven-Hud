@@ -59,7 +59,7 @@
 //"visible""1"
 
 "textAlignment""center"
-"labeltext"""
+"labelText" ""
 fgcolor_override "255 235 35 200"
 pin_to_siblingEvent TitleLabel
 pin_corner_to_sibling 6
@@ -98,7 +98,7 @@ pin_to_sibling_corner 6
 "tall""48"
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_ballcontrol_bar"
 "scaleImage""1"
 }
@@ -139,7 +139,7 @@ pin_to_sibling_corner 6
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_goal_blue_icon"
 "scaleImage""1"
 }
@@ -158,7 +158,7 @@ pin_to_sibling_corner 6
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_goal_blue_icon"
 "scaleImage""1"
 }
@@ -177,7 +177,7 @@ pin_to_sibling_corner 6
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_goal_blue_icon"
 "scaleImage""1"
 }
@@ -197,7 +197,7 @@ pin_to_sibling_corner 6
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_goal_red_icon"
 "scaleImage""1"
 }
@@ -216,7 +216,7 @@ pin_to_sibling_corner 6
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_goal_red_icon"
 "scaleImage""1"
 }
@@ -236,7 +236,7 @@ pin_to_sibling_corner 6
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_goal_red_icon"
 "scaleImage""1"
 }
@@ -255,7 +255,7 @@ pin_to_sibling_corner 6
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "image""../passtime/hud/passtime_ball"
 "scaleImage""1"
 }
@@ -274,7 +274,7 @@ pin_to_sibling_corner 6
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "scaleImage""1"
 }
 

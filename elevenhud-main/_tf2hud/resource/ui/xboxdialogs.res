@@ -187,7 +187,7 @@
 ////"dulltext""0"
 //"brighttext""0"
 //"wrap""0"
-"labeltext"""
+"labelText" ""
 "font""MenuLarge"
 }
 "ValueLabel0"
@@ -211,7 +211,7 @@
 ////"dulltext""0"
 //"brighttext""0"
 //"wrap""0"
-"labeltext"""
+"labelText" ""
 "font""MenuLarge"
 }
 "ValueBar0"
@@ -491,7 +491,7 @@
 
 "menuitemtext"
 {
-"labeltext"""
+"labelText" ""
 "font""MatchmakingDialogMenuLarge"
 //"font_lodef""MatchmakingDialogMenuBrowserHostname"
 }
@@ -1283,7 +1283,7 @@
 "Subtitle"
 {
 "ControlName""Label"
-"labeltext"""
+"labelText" ""
 "font""MatchmakingDialogMenuLarge"
 //"font_lodef""MatchmakingDialogMenuSmall"
 "xpos""15"
@@ -1315,7 +1315,7 @@
 "DescOne"
 {
 "ControlName""Label"
-"labeltext"""
+"labelText" ""
 "font""MatchmakingDialogMenuLarge"
 //"font_lodef""MatchmakingDialogMenuSmall"
 "xpos""15"
@@ -1330,7 +1330,7 @@
 "DescTwo"
 {
 "ControlName""Label"
-"labeltext"""
+"labelText" ""
 "font""MatchmakingDialogMenuLarge"
 //"font_lodef""MatchmakingDialogMenuSmall"
 "xpos""15"
@@ -1343,7 +1343,7 @@
 "DescThree"
 {
 "ControlName""Label"
-"labeltext"""
+"labelText" ""
 "font""MatchmakingDialogMenuLarge"
 //"font_lodef""MatchmakingDialogMenuSmall"
 "xpos""15"

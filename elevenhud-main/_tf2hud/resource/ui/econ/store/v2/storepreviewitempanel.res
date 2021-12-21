@@ -1136,7 +1136,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1181,7 +1181,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1226,7 +1226,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1287,7 +1287,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "scaleImage""1"
 
@@ -1362,7 +1362,7 @@
 "ControlName""CExLabel"
 "fieldName""CycleTextLabel"
 "font""FontStorePrice"
-"labeltext"""
+"labelText" ""
 //"textAlignment""Left"
 "xpos""c-186"
 "ypos""c-126"
@@ -1433,7 +1433,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

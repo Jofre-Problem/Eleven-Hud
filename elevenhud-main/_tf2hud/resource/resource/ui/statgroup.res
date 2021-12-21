@@ -35,7 +35,7 @@
 {
 "ControlName""label"
 "fieldName""GroupName"
-"labeltext"""
+"labelText" ""
 "xpos""10"
 "ypos""10"
 "wide""256"

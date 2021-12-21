@@ -5,7 +5,7 @@
 "xpos""17"
 "ypos""46"
 "wide""464"
-"labelText"""
+"labelText" ""
 "textAlignment""center"
 }
 }

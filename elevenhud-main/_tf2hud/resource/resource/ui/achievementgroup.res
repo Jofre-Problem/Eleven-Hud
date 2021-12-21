@@ -35,7 +35,7 @@
 {
 "ControlName""label"
 "fieldName""GroupName"
-"labeltext"""
+"labelText" ""
 "xpos""10"
 "ypos""10"
 "wide""256"
@@ -87,7 +87,7 @@
 //"visible""1"
 "enabled""1"
 
-"labelText"""
+"labelText" ""
 "textAlignment""west"
 "dulltext""0"
 "brighttext""0"

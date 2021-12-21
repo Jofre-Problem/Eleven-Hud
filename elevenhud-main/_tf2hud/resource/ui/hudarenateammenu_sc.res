@@ -44,7 +44,7 @@
 
 "visible""0"
 "enabled""0"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 "brighttext""1"

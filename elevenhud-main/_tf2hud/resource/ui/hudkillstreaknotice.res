@@ -21,7 +21,7 @@
 "ControlName""CExLabel"
 "fieldName""SplashLabel"
 "font""HudFontSmallest"
-"labeltext"""
+"labelText" ""
 "textAlignment" "center"
 "xpos""c-250"
 "ypos""50"

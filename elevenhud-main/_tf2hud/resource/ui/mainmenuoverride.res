@@ -284,7 +284,7 @@ if_christmas
 
 
 "textinsetx""25"
-"labeltext"""
+"labelText" ""
 "use_proportional_insets" "1"
 "font""HudFontSmall"
 "command""open_rank_type_menu"
@@ -537,7 +537,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmallest"
 "textAlignment""center"
 ////"dulltext""0"
@@ -603,7 +603,7 @@ if_christmas
 
 
 "textinsetx""25"
-"labeltext"""
+"labelText" ""
 "use_proportional_insets" "1"
 "font""HudFontSmall"
 "command""watch_stream"
@@ -676,7 +676,7 @@ if_christmas
 
 
 "textinsetx""25"
-"labeltext"""
+"labelText" ""
 "use_proportional_insets" "1"
 "font""HudFontSmall"
 "command""questlog"
@@ -751,7 +751,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmallest"
 "textAlignment""center"
 ////"dulltext""0"
@@ -820,7 +820,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1987,7 +1987,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 //"textAlignment""west"
 "textinsetx""25"
@@ -2083,7 +2083,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2131,7 +2131,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2178,7 +2178,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2225,7 +2225,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2272,7 +2272,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2319,7 +2319,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2366,7 +2366,7 @@ if_christmas
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

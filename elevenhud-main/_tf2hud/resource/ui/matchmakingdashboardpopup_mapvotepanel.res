@@ -47,7 +47,7 @@
 //"brighttext""0"
 "Command""select_map"
 "proportionaltoparent""1"
-"labeltext"""
+"labelText" ""
 //"mouseinputenabled""1"
 "keyboardinputenabled""0"
 "actionsignallevel""3"

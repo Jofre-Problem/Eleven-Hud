@@ -2,6 +2,6 @@
 {
 "GoalLabel"
 {
-"labelText"""
+"labelText" ""
 }
 }

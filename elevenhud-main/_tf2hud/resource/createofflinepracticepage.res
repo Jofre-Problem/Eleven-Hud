@@ -102,7 +102,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -180,7 +180,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 "dulltext""1"
 //"brighttext""0"

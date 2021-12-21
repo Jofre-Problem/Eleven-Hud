@@ -124,7 +124,7 @@
 
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 "paintbackground""0"
 "border""StoreDiscountBorder"
 }

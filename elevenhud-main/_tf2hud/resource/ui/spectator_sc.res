@@ -95,7 +95,7 @@
 
 "visible""0"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 "font""HudFontSmall"
 "wrap""1"

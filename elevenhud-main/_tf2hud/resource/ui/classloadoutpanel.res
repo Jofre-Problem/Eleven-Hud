@@ -270,7 +270,7 @@
 
 "visible""0"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""south"
 "fgcolor""255 215 0 255"
 "centerwrap""1"
@@ -366,7 +366,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -439,7 +439,7 @@
 {
 "ControlName""CExImageButton"
 "fieldName""CharacterLoadoutButton"
-"labeltext"""
+"labelText" ""
 "xpos""c-25"
 "ypos""c90"
 "zpos""2"
@@ -477,7 +477,7 @@
 {
 "ControlName""CExImageButton"
 "fieldName""TauntLoadoutButton"
-"labeltext"""
+"labelText" ""
 "xpos""c2"
 "ypos""c90"
 "zpos""2"
@@ -586,7 +586,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

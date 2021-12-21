@@ -49,7 +49,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout scout"
 "Default""0"
@@ -74,7 +74,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout soldier"
 "Default""0"
@@ -99,7 +99,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout pyro"
 "Default""0"
@@ -125,7 +125,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout demoman"
 "Default""0"
@@ -150,7 +150,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout heavy"
 "Default""0"
@@ -175,7 +175,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout engineer"
 "Default""0"
@@ -201,7 +201,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout medic"
 "Default""0"
@@ -226,7 +226,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout sniper"
 "Default""0"
@@ -251,7 +251,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""loadout spy"
 "Default""0"
@@ -277,7 +277,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""backpack"
 "Default""0"
@@ -323,7 +323,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""crafting"
 "Default""0"
@@ -369,7 +369,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""armory"
 "Default""0"
@@ -415,7 +415,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""trading"
 "Default""0"
@@ -462,7 +462,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command""paintkit_preview"
 "Default""0"
@@ -729,7 +729,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -794,7 +794,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -904,7 +904,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -951,7 +951,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1016,7 +1016,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1126,7 +1126,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1173,7 +1173,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1238,7 +1238,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1348,7 +1348,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1395,7 +1395,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1460,7 +1460,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1570,7 +1570,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1617,7 +1617,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1682,7 +1682,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1792,7 +1792,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1839,7 +1839,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -1904,7 +1904,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2013,7 +2013,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -2060,7 +2060,7 @@
 ////"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

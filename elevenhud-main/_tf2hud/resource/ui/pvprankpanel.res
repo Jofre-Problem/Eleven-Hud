@@ -174,7 +174,7 @@ if_mini
 "proportionaltoparent""1"
 "command""medal_clicked"
 "actionsignallevel""2"
-"labeltext"""
+"labelText" ""
 
 "paintbackground""0"
 "backgroundenabled""0"

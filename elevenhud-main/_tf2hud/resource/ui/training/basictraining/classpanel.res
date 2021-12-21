@@ -45,7 +45,7 @@
 "ControlName""CExLabel"
 "fieldName""ProgressLabel"
 "font""HudFontSmallest"
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 
 "ypos""241"

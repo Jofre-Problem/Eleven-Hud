@@ -33,7 +33,7 @@
 //"visible""1"
 
 "wrap""1"
-"labeltext"""
+"labelText" ""
 "textAlignment""North"
 }
 "GoalImage"

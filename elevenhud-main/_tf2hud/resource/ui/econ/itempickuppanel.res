@@ -103,7 +103,7 @@
 "ControlName""CExLabel"
 "fieldName""SelectedItemFoundMethodLabel"
 "font""HudFontMediumSmall"
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 
 "ypos""75"
@@ -260,7 +260,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

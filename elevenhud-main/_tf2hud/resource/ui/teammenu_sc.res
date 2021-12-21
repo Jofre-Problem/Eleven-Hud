@@ -44,7 +44,7 @@
 
 "visible""0"
 "enabled""0"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 "brighttext""1"
@@ -99,7 +99,7 @@
 //"visible""1"
 
 //"tabPosition""3"
-"labeltext"""//[$WIN32]
+"labelText" ""//[$WIN32]
 
 "textAlignment""south-west"
 ////"dulltext""0"
@@ -144,7 +144,7 @@
 //"visible""1"
 
 //"tabPosition""4"
-"labeltext"""
+"labelText" ""
 "textAlignment""south-west"
 ////"dulltext""0"
 //"brighttext""0"
@@ -188,7 +188,7 @@
 //"visible""1"
 
 //"tabPosition""1"
-"labeltext"""
+"labelText" ""
 "textAlignment""south-west"
 ////"dulltext""0"
 //"brighttext""0"
@@ -230,7 +230,7 @@
 //"visible""1"
 
 //"tabPosition""2"
-"labeltext"""
+"labelText" ""
 "textAlignment""south-west"
 ////"dulltext""0"
 //"brighttext""0"

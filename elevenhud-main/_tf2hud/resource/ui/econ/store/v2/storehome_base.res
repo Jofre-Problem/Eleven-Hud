@@ -516,7 +516,7 @@
 "ControlName""CExLabel"
 "fieldName""TitleLabel"
 "font""HudFontSmallest"
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 "xpos""c-45"
 "ypos""c-230"

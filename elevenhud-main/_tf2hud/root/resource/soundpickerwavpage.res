@@ -171,7 +171,7 @@
 ////"enabled""0"
 //////"editable""0"
 
-"labelText"""
+"labelText" ""
 ////////"textAlignment""west"
 //////"dulltext""1"
 //////"brighttext""0"

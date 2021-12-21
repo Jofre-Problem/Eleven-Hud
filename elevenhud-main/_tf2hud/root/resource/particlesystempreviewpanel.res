@@ -72,7 +72,7 @@
 ////////"visible""1"
 
 
-"labelText"""
+"labelText" ""
 ////////"textAlignment""west"
 ////////////"dulltext""0"
 //////"brighttext""0"

@@ -69,7 +69,7 @@
 ////////"visible""1"
 
 //////"tabPosition""2"
-"labelText"""
+"labelText" ""
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"

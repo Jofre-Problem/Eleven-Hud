@@ -34,7 +34,7 @@
 "ControlName""CExLabel"
 "fieldName""ToolBG"
 "font""HudFontSmall"
-"labelText"""
+"labelText" ""
 "textAlignment""east"
 "xpos""10"
 "ypos""10"

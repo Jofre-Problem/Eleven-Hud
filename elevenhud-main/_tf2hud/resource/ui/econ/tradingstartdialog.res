@@ -32,7 +32,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 //"textAlignment""west"
 "textinsetx""34"
@@ -427,7 +427,7 @@
 "fgcolor_override""TanLight"
 "bgcolor_override""0 0 0 60"
 "paintbackgroundtype" "2"
-"labelText"""
+"labelText" ""
 "font""HudFontSmall"
 //"textAlignment""west"
 }

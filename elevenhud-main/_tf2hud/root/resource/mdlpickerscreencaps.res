@@ -48,7 +48,7 @@
 
 //"NumericInputOnly" "1"
 //////"tabPosition""1"
-"labelText"""
+"labelText" ""
 //////////"textAlignment""west"
 ////////"dulltext""0"
 //////////"brighttext""0"
@@ -126,7 +126,7 @@
 ////////"visible""1"
 
 //////"tabPosition""5"
-"labelText"""
+"labelText" ""
 //////////"textAlignment""west"
 ////////////"dulltext""0"
 //////////"brighttext""0"
@@ -227,7 +227,7 @@
 
 //"NumericInputOnly" "1"
 
-"labelText"""
+"labelText" ""
 //////////"textAlignment""west"
 ////////"dulltext""0"
 //////////"brighttext""0"
@@ -407,7 +407,7 @@
 ////////"visible""1"
 
 //////"tabPosition""1"
-"labelText"""
+"labelText" ""
 //////////"textAlignment""west"
 ////////"dulltext""0"
 //////////"brighttext""0"

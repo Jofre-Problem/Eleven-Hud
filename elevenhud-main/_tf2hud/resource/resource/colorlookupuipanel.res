@@ -12,7 +12,7 @@
 
 ////"visible""1"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 ////"dulltext""0"
 //"brighttext""0"

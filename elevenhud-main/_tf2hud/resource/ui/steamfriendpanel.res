@@ -22,7 +22,7 @@
 "tall""f0"
 "proportionaltoparent""1"
 "command""open_menu"
-"labeltext"""
+"labelText" ""
 "textalignment""center"
 "stay_armed_on_click""1"
 //"RoundedCorners""0"

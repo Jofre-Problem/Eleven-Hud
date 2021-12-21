@@ -152,7 +152,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "bgcolor_override""0 0 0 220"
 "command""close"
 "paintbackground""0"
@@ -188,7 +188,7 @@
 //"visible""1"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"
@@ -243,7 +243,7 @@
 ////"dulltext""0"
 //"brighttext""0"
 //"Default""0"
-"labeltext"""
+"labelText" ""
 //"sound_depressed""ui/cyoa_switch.wav"
 //"sound_released""ui/cyoa_switch.wav"
 "Command""anim_close"
@@ -327,7 +327,7 @@
 ////"dulltext""0"
 //"brighttext""0"
 //"Default""0"
-"labeltext"""
+"labelText" ""
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
 "Command""view_map"
@@ -392,7 +392,7 @@
 ////"dulltext""0"
 //"brighttext""0"
 //"Default""0"
-"labeltext"""
+"labelText" ""
 //"sound_depressed""UI/buttonclick.wav"
 //"sound_released""UI/buttonclickrelease.wav"
 "Command""rewards_store"
@@ -435,7 +435,7 @@
 "visible""0"
 
 
-"labeltext"""
+"labelText" ""
 "font""HudFontSmall"
 "textAlignment""center"
 ////"dulltext""0"

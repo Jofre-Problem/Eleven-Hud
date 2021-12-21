@@ -27,7 +27,7 @@
 "visible""1"
 "enabled""1"
 "textAlignment""east"
-"labelText"""
+"labelText" ""
 
 "proportionaltoparent""1"
 "paintbackground""0"

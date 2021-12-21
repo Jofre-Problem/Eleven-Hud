@@ -89,7 +89,7 @@
 
 //"visible""1"
 
-"labeltext"""
+"labelText" ""
 //"textAlignment""west"
 ////"dulltext""0"
 //"brighttext""0"

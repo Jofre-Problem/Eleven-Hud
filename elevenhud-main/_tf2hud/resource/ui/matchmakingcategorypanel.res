@@ -136,7 +136,7 @@
 "wide""25"
 "tall""20"
 "proportionaltoparent""1"
-"labeltext"""
+"labelText" ""
 "smallcheckimage""1"
 
 //"sound_depressed""UI/buttonclickrelease.wav"

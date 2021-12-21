@@ -31,7 +31,7 @@
 
 //"wrap""0"
 //"centerwrap""0"
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 "bgcolor_override" "Blank"
 }

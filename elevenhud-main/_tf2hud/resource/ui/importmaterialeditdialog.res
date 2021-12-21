@@ -71,7 +71,7 @@
 "visible""0"
 "enabled""0"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -96,7 +96,7 @@
 "visible""0"
 "enabled""0"
 
-"labeltext"""
+"labelText" ""
 "textAlignment""center"
 ////"dulltext""0"
 ////"brighttext""0"
@@ -114,7 +114,7 @@
 "fieldName""TitleLabel"
 "font""HudFontMediumSecondary"
 "textAlignment""east"
-"labeltext"""
+"labelText" ""
 "xpos""c-100"
 "ypos""10"
 
@@ -138,7 +138,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseMaterial"
 
 "image_drawcolor""235 226 202 255"
@@ -203,7 +203,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseNormalTexture"
 
 "image_drawcolor""235 226 202 255"
@@ -238,7 +238,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearNormalTexture"
 
 "image_drawcolor""235 226 202 255"
@@ -335,7 +335,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""BaseMapAlphaPhongMaskCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+1" 
@@ -367,7 +367,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowsePhongExponentTexture"
 
 "image_drawcolor""235 226 202 255"
@@ -402,7 +402,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearPhongExponentTexture"
 
 "image_drawcolor""235 226 202 255"
@@ -623,7 +623,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""RimMaskCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+1" 
@@ -658,7 +658,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""HalfLambertCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+1" 
@@ -694,7 +694,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""BlendTintByBaseAlphaCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+1" 
@@ -855,7 +855,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""AdditiveCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+1" 
@@ -890,7 +890,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""TranslucentCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+81" 
@@ -926,7 +926,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""AlphaTestCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+158"
@@ -1108,7 +1108,7 @@
 {
 "ControlName""CheckButton"
 "fieldName""SelfIllumCheckButton"
-"labeltext"""
+"labelText" ""
 "Font""ImportToolSmallest"
 //"textAlignment""west"
 "xpos""c+1" 
@@ -1140,7 +1140,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""BrowseSelfIllumTexture"
 
 "image_drawcolor""235 226 202 255"
@@ -1175,7 +1175,7 @@
 "font""HudFontSmall"
 //"textAlignment""west"
 
-"labeltext"""
+"labelText" ""
 "command""ClearSelfIllumTexture"
 
 "image_drawcolor""235 226 202 255"

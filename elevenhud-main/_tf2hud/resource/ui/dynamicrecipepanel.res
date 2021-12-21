@@ -81,7 +81,7 @@
 //"visible""1"
 
 
-"labelText"""
+"labelText" ""
 "textAlignment""south-west"
 "Command"""
 "Default""0"
