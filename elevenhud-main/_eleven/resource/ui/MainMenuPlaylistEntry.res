@@ -52,7 +52,6 @@
 		"scaleImage"								"1"	
 		"proportionaltoparent"						"1"
 		"image"										""
-		"border"	"Rice1"
 	}
 
 	"Line"
@@ -63,13 +62,13 @@
 		"ypos"										"152"
 		"zpos"										"2"
 		"wide"										"150"
-		"tall"										"1-p0.005"
+		"tall"										"1"
 		"visible"									"1"
 		"enabled"									"1"
 		"painbackground"							"1"
 		"painbackgroundtype"						"0"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"PolyIconsFg1"
+		"bgcolor_override"							"W_ColorIcons1"
 	}
 	
 	"MatchmakingBanPanel"

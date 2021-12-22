@@ -30,7 +30,10 @@
 	}				
 	"TFLogoImage"
 	{
-		"wide"			"0"
+		"xpos"		"30"
+		"ypos"			"130"
+		"wide"		"160"
+		"tall"		"0"
 	}	
 
 //	"NotificationNoYet"
@@ -131,8 +134,8 @@
 		yPos					0
 		zPos					4000
 		wide					20
-		tall					14
-		labelText				"ø"
+		tall					13
+		labelText				"j"//"ø"
 		textAlignment			center
 		font			"NewIcons12"
 		command				"engine workshop"
@@ -142,8 +145,8 @@
 		
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"157 83 33 255"
-		defaultBgColor_override		"PolyIconsBg1"
-		armedBgColor_override		"PolyIconsBg1"
+		defaultBgColor_override		"PolyIconsbg1"
+		armedBgColor_override		"PolyIconsbg1"
 		paintBackground			1
 
 		"navUp"			""

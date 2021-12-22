@@ -178,7 +178,36 @@
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
 		}
 
+			"bgg5"						{			ControlName				ImagePanel			FieldName				
+			"bgg5"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"80"
+		"tall"			"13"
+			fillColor				"129 129 169 255"			"pin_to_sibling"	"bgg4"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
+	}	
 
+
+		"slash5"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"slash5"
+			"font"			"NewIcons20"
+			"labelText"		"ù"//"%kills%"
+			"textAlignment"		"west"
+			"xpos" 			"0"					//"c-60"//			"180"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"10"
+			"tall"			"13"
+			
+			"fgcolor"		"129 129 169 255"
+"pin_to_sibling"	"bgg5"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
+		}
 
 
 	

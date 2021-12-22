@@ -67,7 +67,7 @@ Scheme
 			"1"
 			{
 			//	"name"			"Product Sans"
-				"tall"			"9"
+				"tall"			"14"
 				"yres"			"480 599"
 				"dropshadow"	"1"
 				"antialias"		"1"
@@ -76,7 +76,7 @@ Scheme
 			"2"
 			{
 			//	"name"			"Product Sans"
-				"tall"			"11"
+				"tall"			"15"
 				"yres"			"600 767"
 				"dropshadow"	"1"
 				"antialias"		"1"
@@ -85,7 +85,7 @@ Scheme
 			"3"
 			{
 			//	"name"			"Product Sans"
-				"tall"			"13"
+				"tall"			"19"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
 				"antialias"		"1"
@@ -94,7 +94,7 @@ Scheme
 			"4"
 			{
 			//	"name"			"Product Sans"
-				"tall"			"15"
+				"tall"			"20"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
 				"antialias"		"1"
@@ -103,7 +103,7 @@ Scheme
 			"5"
 			{
 			//	"name"			"Product Sans"
-				"tall"			"17"
+				"tall"			"23"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
 				"antialias"		"1"
