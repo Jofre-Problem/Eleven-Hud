@@ -325,11 +325,6 @@
 //"autoResize""0"
 "pinCorner""0"
 "visible""1"
-"visible_hidef""0"
-"visible_lodef""0"
-//"enabled""1"
-"enabled_hidef""0"
-"enabled_lodef""0"
 }
 }
 "InteractiveHeaders"
@@ -1807,11 +1802,6 @@
 //"autoResize""0"
 "pinCorner""0"
 "visible""1"
-"visible_hidef""0"
-"visible_lodef""0"
-//"enabled""1"
-"enabled_hidef""0"
-"enabled_lodef""0"
 "border""TFThinLineBorder"
 }
 "RecordsLabel1"
@@ -2736,10 +2726,6 @@
 "ControlName""ImagePanel"
 "xpos""0"
 "ypos""0"
-"wide""f0"
-"tall""128"
-"image""menu_header"
-"visible_lodef""0"
-"enabled_lodef""0"
+"wide""0"
 }
 }

@@ -7,7 +7,7 @@
 	#base "ui2/scheme/backpack.res"
 //	#base "ui2/scheme/noto_scheme.res"
 //	#base "ui2/scheme/cs_font.res"
-	#base "../cs_sec.res"
+	#base "../scheme.res"
 	#base "../!sc/clientscheme.res"
 	#base "clientscheme2.res"
 	#base "clientscheme_unused.res"

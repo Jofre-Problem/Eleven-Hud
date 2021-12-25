@@ -1,0 +1,10 @@
+"Resource/UI/TankStatusPanel.res"
+{
+"Background"
+{
+"ControlName""ScalableImagePanel"
+"fieldName""Background"
+"visible""0"
+"enabled""0"
+}
+}

@@ -1,0 +1,58 @@
+event HudHealthBonusPulse
+{
+Animate	PlayerStatusHealthValue	                FgColor		"189 236 82 255"	        Accel 0.0 0.5	
+Animate	PlayerStatusHealthValue	                FgColor		"Azul"	        Accel 5.0 0.5
+RunEvent HudHealthBonusPulseLoop	10.0
+}
+event HudHealthBonusPulseLoop
+{
+RunEvent HudHealthBonusPulse 0.0
+RunEvent PlayerStatusHealthValue 0.0
+}
+event HudHealthBonusPulseStop
+{
+StopEvent HudHealthBonusPulse 0.0
+StopEvent HudHealthBonusPulseLoop 0.0
+StopEvent PlayerStatusHealthValue 0.0
+Animate PlayerStatusHealthValue	                FgColor		"ColorVida"	         Accel 0.0 0.0	
+}
+event HudHealthDyingPulse
+{
+Animate	PlayerStatusHealthValue 	                FgColor		"255 0 64 255"	         Accel 0.0 0.0		
+RunEvent HudHealthDyingPulseLoop	10.0
+//	PlaySound 0 "ui/low_hp.wav"
+}
+event HudHealthDyingPulseLoop
+{
+RunEvent HudHealthDyingPulse 0.0
+RunEvent PlayerStatusHealthValue 0.0
+}
+event HudHealthDyingPulseStop
+{
+StopEvent HudHealthDyingPulse 0.0
+StopEvent HudHealthDyingPulseLoop 0.0
+StopEvent PlayerStatusHealthValue 0.0
+Animate PlayerStatusHealthValue	         			    FgColor		"ColorVida"	         Accel 0.0 0.0			
+}
+event HudLowAmmoPulseLoop
+{
+RunEvent HudLowAmmoPulse 0.0
+}
+event HudLowAmmoPulse
+{
+Animate	AmmoInClip	FgColor		"255 255 0 255"		Linear 0.0 0.5
+Animate	AmmoInClip 	FgColor		"255 0 0 255"		Linear 2.5 0.5
+Animate	AmmoNoClip	FgColor		"255 255 0 255"		Linear 0.0 0.5
+Animate	AmmoNoClip 	FgColor		"255 0 0 255"		Linear 2.5 0.5
+Animate	AmmoInReserve	FgColor		"255 255 0 255"		Linear 0.0 0.5
+Animate	AmmoInReserve	FgColor		"255 0 0 255"		Linear 2.5 0.5
+RunEvent HudLowAmmoPulseLoop	5
+//	PlaySound 0 "ui/low_ammo.wav"
+}
+event HudLowAmmoPulseStop
+{
+StopEvent HudLowAmmoPulse 0.0
+Animate	AmmoInClip	FgColor		"ColorMunicion"		Linear 0.0 0.0
+Animate	AmmoNoClip	FgColor		"ColorMunicion"		Linear 0.0 0.0
+Animate	AmmoInReserve	FgColor		"ColorMunicionReserva"		Linear 0.0 0.0
+}

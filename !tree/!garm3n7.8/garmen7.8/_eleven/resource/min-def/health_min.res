@@ -1,0 +1,15 @@
+"Resource/UI/HudPlayerHealth.res"
+{
+"PlayerStatusHealthValue"
+{
+"xpos_minmode""122"
+"ypos_minmode""r95"
+"textAlignment_minmode""center"
+"font_minmode""CustomAmmoFontMinmode"
+}
+"PlayerStatusHealthValueShadow"
+{
+"textAlignment_minmode""center"
+"font_minmode""CustomAmmoFontMinmodeBlur"
+}
+}

@@ -1,0 +1,4 @@
+event ScopeRemoval
+{
+Animate HudScope Position	"9999 9999" Linear 0.0 0.0
+}

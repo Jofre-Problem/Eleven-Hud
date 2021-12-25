@@ -1,0 +1,31 @@
+#base "../min-def/score_def.res"
+"bruh.res"
+{
+"BlueTeamImage"
+{"wide""0"}
+"RedTeamImage"
+{"wide""0"}
+"MainBG"
+{"wide""0"}
+"BlueTeamScoreDropshadow"
+{"wide""0"}
+"RedTeamScoreDropshadow"
+{"wide""0"}
+"ServerLabelNew"
+{"wide""0"}
+"TimerBG"
+{"wide""0"}
+"playernamebg"
+{"wide""0"}
+"ServerTimeLeftInsetBG"
+{"wide""0"}
+"ServerTimeLeftLabel"
+{"wide""0"}
+"ServerTimeLeftValue"
+{"wide""0"}
+
+"LocalPlayerStatsPanel"
+{
+    "supportlabel"
+{"wide""0"}
+}}

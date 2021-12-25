@@ -1,0 +1,72 @@
+event HudSnapShotReminderIn
+{
+    RunEvent DefaultAnimHudSnapShotReminderIn 0.0
+    RunEvent HudHealthDyingPulseStop 0.0
+    RunEvent HudHealthBonusPulseStop 0.0
+    RunEvent HudLowAmmoPulseStop 0.0
+    RunEvent HudMedicChargedStop 0.0
+}
+
+event CollectionCrafting_ItemRecieved
+{
+	RunEvent DefaultAnimCollectionCrafting_ItemRecieved 0
+	Animate		TradeUpContainer	wide 0			Accel	0	0	// Fix Trade-Up Background
+}
+
+event TeamStatus_PlayerAlive
+{
+ 	Animate DeathPanel ypos 0 Accel 0 0
+	Animate SkullPanel ypos 0 Accel 0 0
+	Animate respawntime ypos 0 Accel 0 0
+
+	SetVisible DeathPanel  0 0
+	SetVisible SkullPanel  0 0
+	SetVisible respawntime 0 0.2
+}
+event TeamStatus_PlayerDead
+{
+   SetVisible DeathPanel  							0 0
+   SetVisible SkullPanel 							0 0
+   SetVisible respawntime  							1 0
+
+   Animate DeathPanel 								ypos 		0 									Accel 0 0.2
+   Animate SkullPanel								ypos 		0 									Accel 0 0.2
+   Animate respawntime 								ypos 		0 									Accel 0 0.2
+}
+event HudReadyPulse
+{
+}
+
+event HudReadyPulseEnd
+{
+	StopEvent HudReadyPulse			0.0
+}
+
+event MenuClose
+{	
+	RunEvent DefaultAnimMenuClose 0.0
+	
+	StopEvent AnimLock 0.0
+	RunEvent AnimLock 0.0
+}
+
+event AnimLock
+{
+	//RunEvent RemoveChatBG 0.0
+
+	RunEvent AnimLockLoop 1.0
+}
+
+event AnimLockLoop
+{
+	RunEvent AnimLock 0.0
+}
+
+// example animation locks
+event RemoveChatBG
+{
+	Animate HudChat bgcolor "0 0 0 0" linear 0.0 0.0
+	Animate HudChat bgcolor "0 0 0 0" linear 0.0 100.0
+	Animate HudChatHistory bgcolor "0 0 0 0" linear 0.0 0.0
+	Animate HudChatHistory bgcolor "0 0 0 0" linear 0.0 100.0
+}

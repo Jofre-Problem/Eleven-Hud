@@ -1,0 +1,52 @@
+event DamagedPlayer
+{
+RunEvent 	ScopeRemoval 	0.0
+StopEvent 	HitMarker 	0.0
+RunEvent 	HitMarker	0.01
+StopEvent 	DamageAccountStuff	0.0
+RunEvent 	DamageAccountStuff      0.01 //lol
+}
+event DamageAccountStuff
+{
+Animate	DamageAccountValue			Alpha	"255"	Linear 0.0 0.15
+Animate	DamageAccountValue			Alpha	"0"		Linear 1.85 0.1
+Animate	DamageAccountValueShadow			Alpha	"255"	Linear 0.0 0.15
+Animate	DamageAccountValueShadow			Alpha	"0"		Linear 1.85 0.1	
+Animate	DamageAccountValue			Alpha	"255"		Linear 4.0 0.1		
+Animate	DamageAccountValueShadow	Alpha	"255"		Linear 4.0 0.1
+}
+event HudMedicCharged
+{
+Animate	ChargeLabel	        FgColor		"Blanco"		Linear 0.0 0.1
+Animate	ChargeLabel	        FgColor		"Nada"		                 Linear 1.1 1.0
+
+Animate	IndividualChargesLabel	        FgColor		"Blanco"		Linear 0.0 0.1
+Animate	IndividualChargesLabel	        FgColor		"Nada"		                 Linear 1.1 1.0
+
+Animate	ChargeMeter 	        FgColor		"Blanco"		Linear 0.0 0.1
+Animate	ChargeMeter 	        FgColor		"Nada"		                Linear 1.1 1.0
+
+RunEvent HudMedicChargedLoop	2.3
+}
+event HudMedicChargedLoop
+{
+RunEvent HudMedicCharged 0.0
+RunEvent ChargeLabel 0.0
+RunEvent IndividualChargesLabel 0.0
+RunEvent ChargeMeter 0.0
+}
+event HudMedicChargedStop
+{
+StopEvent HudMedicCharged 0.0
+StopEvent HudMedicChargedLoop 0.0
+StopEvent ChargeLabel 0.0
+StopEvent IndividualChargesLabel 0.0
+StopEvent ChargeMeter 0.0
+Animate	ChargeLabel 	        FgColor		"ColorMunicion"		Linear 0.0 0.0001
+Animate	IndividualChargesLabel	        FgColor		"Blanco"		Linear 0.0 0.0001
+Animate	ChargeMeterLabel 	        FgColor		"Blanco"		Linear 0.0 0.0001
+Animate	ChargeMeter 	        FgColor		"Rojo"		Linear 0.0 0.0001
+}
+event CompetitiveGame_LowerChatWindow { }
+event CompetitiveGame_RestoreChatWindow { }
+event HudTournament_MoveChatWindow { }

@@ -1,0 +1,17 @@
+"Resource/UI/HudPlayerClass.res"
+{
+"PlayerStatusClassImage"
+{
+"xpos_minmode""r-100"
+"visible_minmode""0"
+"enabled_minmode""0"
+}
+"classmodelpanel"
+{
+"xpos_minmode""r255"
+"ypos_minmode""r120" 
+"zpos_minmode""-9-"
+"wide_minmode""200"
+"tall_minmode""170" 
+}
+}

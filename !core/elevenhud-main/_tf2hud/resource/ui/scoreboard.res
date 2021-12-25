@@ -502,8 +502,8 @@ if_mvm
 //"enabled""1"
 //"tabPosition""0"
 "autoresize""3"
-"linespacing""18"
-"linegap""5"
+//"linespacing""18"
+//"linegap""5"
 "fgcolor""blue"
 //"show_columns""1"
 
@@ -526,8 +526,8 @@ if_mvm
 //"enabled""1"
 //"tabPosition""0"
 "autoresize""3"
-"linespacing""18"
-"linegap""5"
+//"linespacing""18"
+//"linegap""5"
 "fgcolor""red"
 //"show_columns""1"
 
