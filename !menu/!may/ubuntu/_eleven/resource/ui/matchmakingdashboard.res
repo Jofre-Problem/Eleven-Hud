@@ -16,12 +16,11 @@
 		"expanded_height"	"22"
 		"resize_time"		"0.2"
 	}
-
 	"ReloadIcon"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReloadIcon"
-		"xpos"				"90"
+		"xpos"				"115"
 		"ypos"				"0"
 		"zpos"				"10"
 		"wide"				"15"
@@ -42,7 +41,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"yellow"
+			armedFgColor_override		"W_BorderArmed"
 
 		"paintbackground""0"
 		"image_drawcolor""Tanlight"
@@ -71,7 +70,7 @@
 		"tall""13"
 		"visible""1"
 		"enabled""1"
-		"font""Ubuntu9"
+		"font""ItemTrackerScore_InGame"
 		"textAlignment""west"
 		"command""engine hud_reloadscheme"
 		"proportionaltoparent""1"
@@ -87,7 +86,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"yellow"
+			armedFgColor_override		"W_BorderArmed"
 
 		"paintbackground""0"
 		"image_drawcolor""Tanlight"
@@ -135,7 +134,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"yellow"
+			armedFgColor_override		"W_BorderArmed"
 			"pin_to_sibling" "ReloadLabel"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -166,7 +165,7 @@
 		"tall""13"
 		"visible""1"
 		"enabled""1"
-		"font""Ubuntu9"
+		"font""ItemTrackerScore_InGame"
 		"textAlignment""west"
 		"command""engine showconsole; status"
 		"proportionaltoparent""1"
@@ -182,7 +181,7 @@
 		"defaultBgColor_override""Blank"
 
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"yellow"
+			armedFgColor_override		"W_BorderArmed"
 			"pin_to_sibling" "StatusIcon"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -216,7 +215,19 @@
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
-
+		"DownBar"				// background for the left side buttons
+		{
+			ControlName				ImagePanel
+			FieldName				"DownBar"
+			xPos					0
+			yPos					0
+			zPos					0
+			wide					f0
+			tall					13 //p0.05 = 1mm...
+			fillColor				"W_ColorTheme1"
+			mouseInputEnabled			0			// mouse input passes though to panels below	
+			"alpha"					"255"	
+		}
 		"Gradient"
 		{
 			"ControlName"		"ImagePanel"
@@ -309,7 +320,26 @@
 				"visible"		"0"
 				"enabled"		"0"
 			}						
-		}	
+		}		
+		"ChatLabel"
+		{
+			"ControlName"			"CExLabel"
+			"fieldName"				"ChatLabel"
+			"font"					"ItemTrackerScore_InGame"
+			"labelText"				"Say hi!"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"0"
+			"textInsetY"			"2"
+			"textAlignment"			"west"
+
+			"wide"					"30"
+			"tall"					"13"
+			"fgcolor_override" 		"W_ColorIcons1"		
+			"pin_to_sibling" "ToggleChatButton"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"				
+		}
 
 		"PartySlot0"
 		{
@@ -864,7 +894,7 @@
 			"fgcolor"			"W_ColorIcons1"
 			
 			defaultFgColor_override		"W_ColorIcons1"
-			armedFgColor_override		"yellow"
+			armedFgColor_override		"W_BorderArmed"
 
 			"SubImage"
 			{
