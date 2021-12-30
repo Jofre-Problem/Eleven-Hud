@@ -267,7 +267,7 @@ WeaponIcons
 {
 "name""HalfLife2"
 "tall""64"
-//"tall_hidef""58"
+////"tall_hidef""58"
 "weight""0"
 "antialias" "1"
 "additive""1"
@@ -280,7 +280,7 @@ WeaponIconsSelected
 {
 "name""HalfLife2"
 "tall""64"
-//"tall_hidef""58"
+////"tall_hidef""58"
 "weight""0"
 "antialias" "1"
 "blur""5"
@@ -577,7 +577,7 @@ DebugOverlay
 "name""Segoe UI" [$OSX]
 "tall""16" [!$OSX]
 "tall""14" [$OSX]
- //"tall_hidef""24"
+ ////"tall_hidef""24"
 //"weight""900"
 "range""0x0000 0x017F" //Basic Latin, Latin-1 Supplement, Latin Extended-A
 }
@@ -620,7 +620,7 @@ ClientTitleFont
 {
 "name""HalfLife2"
 "tall""32"
-//"tall_hidef""46"
+////"tall_hidef""46"
 "weight" "0"
 "additive" "0"
 "antialias" "1"

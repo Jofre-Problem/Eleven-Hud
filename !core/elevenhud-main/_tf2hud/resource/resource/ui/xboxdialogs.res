@@ -19,9 +19,9 @@
 "xpos""180"
 "ypos""280"
 "wide""482"
-//"wide_hidef""680"
+////"wide_hidef""680"
 "tall""200"
-//"tall_hidef""270"
+////"tall_hidef""270"
 "chapterypos""48"
 //"chapterypos_hidef""62"
 "scrollslow""0.2"
@@ -43,7 +43,7 @@
 
 //"zpos""2"
 "wide""482"
-//"wide_hidef""680"
+////"wide_hidef""680"
 "tall""35"
 ////"visible""1"
 
@@ -63,7 +63,7 @@
 ////"ypos_hidef""120"
 //"zpos""2"
 "wide""482"
-//"wide_hidef""680"
+////"wide_hidef""680"
 "tall""35"
 "visible""0"
 
@@ -79,7 +79,7 @@
 "ControlName" "Label"
 "fieldName""LeftArrow"
 "xpos" "12"
-//"xpos_hidef""24"
+////"xpos_hidef""24"
 "ypos""116"
 ////"ypos_hidef""160"
 "wide""32"
@@ -101,7 +101,7 @@
 "ControlName" "Label"
 "fieldName""RightArrow"
 "xpos" "441"
-//"xpos_hidef""622"
+////"xpos_hidef""622"
 "ypos""113"
 ////"ypos_hidef""160"
 "wide""32"
@@ -130,9 +130,9 @@
 "ypos""45"
 ////"ypos_hidef""64"
 "wide""119"
-//"wide_hidef""168"
+////"wide_hidef""168"
 "tall""69"
-//"tall_hidef""98"
+////"tall_hidef""98"
 
 
 ////"visible""1"
@@ -143,13 +143,13 @@
 "ControlName""ImagePanel"
 "fieldName""LevelPic"
 "xpos""5"
-//"xpos_hidef""8"
+////"xpos_hidef""8"
 "ypos""49"
 ////"ypos_hidef""70"
 "wide""107"
-//"wide_hidef""152"
+////"wide_hidef""152"
 "tall""61"
-//"tall_hidef""86"
+////"tall_hidef""86"
 
 "scaleImage""1"
 //"scaleImage_hidef""0"
@@ -167,9 +167,9 @@
 
 
 "wide""119"
-//"wide_hidef""168"
+////"wide_hidef""168"
 "tall""14"
-//"tall_hidef""20"
+////"tall_hidef""20"
 
 
 ////"visible""1"
@@ -180,7 +180,7 @@
 //"brighttext""0"
 //"wrap""0"
 ////"font""Default"
-//"font_hidef""UiBold"
+////"font_hidef""UiBold"
 }
 "TimeLabel"
 {
@@ -190,9 +190,9 @@
 "ypos""15"
 ////"ypos_hidef""22"
 "wide""119"
-//"wide_hidef""168"
+////"wide_hidef""168"
 "tall""14"
-//"tall_hidef""20"
+////"tall_hidef""20"
 
 
 ////"visible""1"
@@ -203,7 +203,7 @@
 ////"brighttext""0"
 //"wrap""0"
 ////"font""Default"
-//"font_hidef""Ui"
+////"font_hidef""Ui"
 }
 "ElapsedLabel"
 {
@@ -213,9 +213,9 @@
 "ypos""28"
 ////"ypos_hidef""40"
 "wide""119"
-//"wide_hidef""168"
+////"wide_hidef""168"
 "tall""14"
-//"tall_hidef""20"
+////"tall_hidef""20"
 
 
 ////"visible""1"
@@ -226,7 +226,7 @@
 ////"brighttext""0"
 //"wrap""0"
 ////"font""Default"
-//"font_hidef""Ui"
+////"font_hidef""Ui"
 }
 "TypeLabel"
 {
@@ -236,9 +236,9 @@
 "ypos""116"
 ////"ypos_hidef""164"
 "wide""122"
-//"wide_hidef""172"
+////"wide_hidef""172"
 "tall""14"
-//"tall_hidef""20"
+////"tall_hidef""20"
 
 
 ////"visible""1"
@@ -249,7 +249,7 @@
 ////"brighttext""0"
 //"wrap""0"
 ////"font""Default"
-//"font_hidef""Ui"
+////"font_hidef""Ui"
 }
 }
 
@@ -261,9 +261,9 @@
 "OptionsDialog"
 {
 "wide""560"
-//"wide_hidef""760"
+////"wide_hidef""760"
 "tall""315"
-//"tall_hidef""500"
+////"tall_hidef""500"
 }
 
 "TitleLabel"
@@ -292,7 +292,7 @@
 "ypos""35"
 //"zpos""50"
 "wide""268"
-//"wide_hidef""368"
+////"wide_hidef""368"
 "tall""360"
 
 
@@ -305,11 +305,11 @@
 "ControlName""ImagePanel"
 "fieldName""OptionsBackgroundRight"
 "xpos""284"
-//"xpos_hidef""384"
+////"xpos_hidef""384"
 "ypos""35"
 //"zpos""50"
 "wide""268"
-//"wide_hidef""368"
+////"wide_hidef""368"
 "tall""360"
 
 
@@ -327,9 +327,9 @@
 ////"ypos_hidef""40"
 //"zpos""75"
 "wide""528"
-//"wide_hidef""728"
+////"wide_hidef""728"
 "tall""21"
-//"tall_hidef""25"
+////"tall_hidef""25"
 
 
 ////"visible""1"
@@ -345,9 +345,9 @@
 ////"ypos_hidef""42"
 //"zpos""80"
 "wide""524"
-//"wide_hidef""724"
+////"wide_hidef""724"
 "tall""17"
-//"tall_hidef""21"
+////"tall_hidef""21"
 
 
 ////"visible""1"
@@ -360,7 +360,7 @@
 "ControlName" "Label"
 "fieldName""UpArrow"
 "xpos" "502"
-//"xpos_hidef""702"
+////"xpos_hidef""702"
 "ypos""20"
 //"zpos""150"
 "wide""32"
@@ -381,7 +381,7 @@
 "ControlName" "Label"
 "fieldName""DownArrow"
 "xpos" "480"
-//"xpos_hidef""680"
+////"xpos_hidef""680"
 "ypos""398"
 //"zpos""150"
 "wide""32"
@@ -407,9 +407,9 @@
 ////"ypos_hidef""35"
 //"zpos""100"
 "wide""245"
-//"wide_hidef""345"
+////"wide_hidef""345"
 "tall""24"
-//"tall_hidef""35"
+////"tall_hidef""35"
 
 
 ////"visible""1"
@@ -426,14 +426,14 @@
 "ControlName""Label"
 "fieldName""ValueLabel0"
 "xpos""296"
-//"xpos_hidef""396"
+////"xpos_hidef""396"
 "ypos""36"
 ////"ypos_hidef""35"
 //"zpos""100"
 "wide""245"
-//"wide_hidef""345"
+////"wide_hidef""345"
 "tall""24"
-//"tall_hidef""35"
+////"tall_hidef""35"
 
 
 ////"visible""1"
@@ -450,14 +450,14 @@
 "ControlName""AnalogBar"
 "fieldName""ValueBar0"
 "xpos""296"
-//"xpos_hidef""396"
+////"xpos_hidef""396"
 "ypos""37"
 ////"ypos_hidef""40"
 //"zpos""100"
 "wide""245"
-//"wide_hidef""345"
+////"wide_hidef""345"
 "tall""23"
-//"tall_hidef""25"
+////"tall_hidef""25"
 
 
 "visible""0"
@@ -521,7 +521,7 @@
 "ControlName""label"
 "xpos""45"
 "ypos""3"
-//"font_hidef""AchievementTitleFont"
+////"font_hidef""AchievementTitleFont"
 //"font_lodef""AchievementTitleFont"
 }
 
@@ -560,14 +560,14 @@
 "unlockedicon"
 {
 "ControlName""imagepanel"
-//"xpos_hidef""618"
-//"xpos_lodef""435"
+////"xpos_hidef""618"
+////"xpos_lodef""435"
 "ypos""6"
 ////"ypos_lodef""6"
 "wide""32"
 "tall""32"
-//"wide_lodef""24"
-//"tall_lodef""24"
+////"wide_lodef""24"
+////"tall_lodef""24"
 "bgcolor""0 0 0 255"
 "fgcolor""0 0 0 255"
 "scaleImage""1"
@@ -629,12 +629,12 @@
 {
 "ControlName""Label"
 "fieldName""HelpText"
-//"xpos_hidef""300"
-//"xpos_lodef""270"
+////"xpos_hidef""300"
+////"xpos_lodef""270"
 "ypos""7"
 //"zpos""1"
 "wide""200"
-//"wide_lodef""160"
+////"wide_lodef""160"
 "tall""15"
 
 
@@ -658,12 +658,12 @@
 {
 "AchievementsDialog"
 {
-//"xpos_lodef""c-290"
+////"xpos_lodef""c-290"
 ////"ypos_lodef""45"
 //"borderwidth""15"
-//"wide_lodef""580"
-//"tall_hidef""535"
-//"tall_lodef""368"
+////"wide_lodef""580"
+////"tall_hidef""535"
+////"tall_lodef""368"
 "gametotal""100"
 //"center_lodef""0"
 
@@ -687,8 +687,8 @@
 
 "ProgressBg"
 {
-//"xpos_hidef""415"
-//"xpos_lodef""215"
+////"xpos_hidef""415"
+////"xpos_lodef""215"
 "ypos""50"
 ////"ypos_lodef""40"
 "wide""300"
@@ -710,8 +710,8 @@
 
 "uparrow"
 {
-//"xpos_lodef""510"
-//"xpos_hidef""660"
+////"xpos_lodef""510"
+////"xpos_hidef""660"
 ////"ypos_lodef""374"
 ////"ypos_hidef""455"
 "ControlName""Label"
@@ -721,8 +721,8 @@
 
 "downarrow"
 {
-//"xpos_lodef""532"
-//"xpos_hidef""682"
+////"xpos_lodef""532"
+////"xpos_hidef""682"
 ////"ypos_lodef""374"
 ////"ypos_hidef""455"
 "ControlName""Label"
@@ -755,9 +755,9 @@
 {
 "fieldName""MessageDialog"
 "wide""363"
-//"wide_hidef""512"
+////"wide_hidef""512"
 "tall""180"
-//"tall_hidef""220"
+////"tall_hidef""220"
 "titlecolor""255 255 255 255"
 "messagecolor""255 255 255 255"
 "buttontextcolor""255 255 255 255"
@@ -772,9 +772,9 @@
 
 
  "wide""363"
- //"wide_hidef""512"
+ ////"wide_hidef""512"
  "tall""145"
- //"tall_hidef""205"
+ ////"tall_hidef""205"
 "image""common/message_dialog"
 "scaleimage""1"
 ////"visible""1"
@@ -785,9 +785,9 @@
  
  
  "wide""363"
- //"wide_hidef""512"
+ ////"wide_hidef""512"
  "tall""145"
- //"tall_hidef""205"
+ ////"tall_hidef""205"
  "image""common/message_dialog_warning"
  "scaleimage""1"
  ////"visible""1"
@@ -798,9 +798,9 @@
  
  
  "wide""363"
- //"wide_hidef""512"
+ ////"wide_hidef""512"
  "tall""145"
- //"tall_hidef""205"
+ ////"tall_hidef""205"
  "image""common/message_dialog_error"
  "scaleimage""1"
  ////"visible""1"
@@ -812,11 +812,11 @@
 "fieldName""TitleLabel"
 //"font""MenuLarge"
 "xpos""14"
-//"xpos_hidef""20"
+////"xpos_hidef""20"
 
 //"zpos""2"
 "wide""355"
-//"wide_hidef""500"
+////"wide_hidef""500"
 "tall""35"
 ////"visible""1"
 
@@ -835,9 +835,9 @@
 ////"ypos_hidef""40"
 //"zpos""2"
 "wide""340"
-//"wide_hidef""460"
+////"wide_hidef""460"
 "tall""95"
-//"tall_hidef""120"
+////"tall_hidef""120"
 "wrap""1"
 ////"visible""1"
 "textAlignment""center"
@@ -851,7 +851,7 @@
 "ControlName""AnimatingImagePanel"
 "fieldName""AnimatingPanel"
 "xpos""25"
-//"xpos_lodef""20"
+////"xpos_lodef""20"
 "ypos""80"
 ////"ypos_lodef""60"
 //"zpos""9"
@@ -876,9 +876,9 @@
 "xpos""180"
 "ypos""280"
 "wide""520"
-//"wide_hidef""730"
+////"wide_hidef""730"
 "tall""181"
-//"tall_hidef""255"
+////"tall_hidef""255"
 "chapterypos""48"
 //"chapterypos_hidef""68"
 "scrollslow""0.2"
@@ -915,7 +915,7 @@
 "ControlName" "Label"
 "fieldName""RightArrow"
 "xpos" "484"
-//"xpos_hidef""683"
+////"xpos_hidef""683"
 "ypos""110"
 ////"ypos_hidef""155"
 "wide""32"
@@ -936,7 +936,7 @@
 "ControlName" "Label"
 "fieldName""UpArrow"
 "xpos" "245"
-//"xpos_hidef""350"
+////"xpos_hidef""350"
 "ypos""88"
 ////"ypos_hidef""130"
 //"zpos""90"
@@ -958,7 +958,7 @@
 "ControlName" "Label"
 "fieldName""DownArrow"
 "xpos" "245"
-//"xpos_hidef""350"
+////"xpos_hidef""350"
 "ypos""123"
 ////"ypos_hidef""178"
 //"zpos""100"
@@ -980,14 +980,14 @@
 "ControlName""ImagePanel"
 "fieldName""BonusSelectionBorder"
 "xpos""208"
-//"xpos_hidef""294"
+////"xpos_hidef""294"
 "ypos""112"
 ////"ypos_hidef""158"
 //"zpos""75"
 "wide""100"
-//"wide_hidef""142"
+////"wide_hidef""142"
 "tall""17"
-//"tall_hidef""24"
+////"tall_hidef""24"
 
 
 "visible""0"
@@ -1003,9 +1003,9 @@
 ////"ypos_hidef""152"
 //"zpos""100"
 "wide""520"
-//"wide_hidef""730"
+////"wide_hidef""730"
 "tall""24"
-//"tall_hidef""35"
+////"tall_hidef""35"
 
 
 "visible""0"
@@ -1015,21 +1015,21 @@
 //"brighttext""0"
 //"wrap""0"
 //"font""DefaultLarge"
-//"font_hidef""MenuLarge"
+////"font_hidef""MenuLarge"
 }
 "ChallengeEarnedMedal"
 {
 "ControlName""CBitmapImagePanel"
 "fieldName""ChallengeEarnedMedal"
 "xpos""12"
-//"xpos_hidef""18"
+////"xpos_hidef""18"
 "ypos""43"
 ////"ypos_hidef""50"
 //"zpos""200"
 "wide""45"
-//"wide_hidef""64"
+////"wide_hidef""64"
 "tall""45"
-//"tall_hidef""64"
+////"tall_hidef""64"
 "visible""0"
 "image""medals/medal_00_none"
 }
@@ -1038,12 +1038,12 @@
 "ControlName""Label"
 "fieldName""ChallengeBestLabel"
 "xpos""12"
-//"xpos_hidef""18"
+////"xpos_hidef""18"
 "ypos""87"
 ////"ypos_hidef""116"
 //"zpos""200"
 "wide""45"
-//"wide_hidef""64"
+////"wide_hidef""64"
 "tall""30"
 "visible""0"
 
@@ -1056,14 +1056,14 @@
 "ControlName""CBitmapImagePanel"
 "fieldName""ChallengeNextMedal"
 "xpos""463"
-//"xpos_hidef""648"
+////"xpos_hidef""648"
 "ypos""43"
 ////"ypos_hidef""50"
 //"zpos""90"
 "wide""45"
-//"wide_hidef""64"
+////"wide_hidef""64"
 "tall""45"
-//"tall_hidef""64"
+////"tall_hidef""64"
 "visible""0"
 "image""medals/medal_00_none"
 }
@@ -1072,12 +1072,12 @@
 "ControlName""Label"
 "fieldName""ChallengeNextLabel"
 "xpos""463"
-//"xpos_hidef""648"
+////"xpos_hidef""648"
 "ypos""87"
 ////"ypos_hidef""116"
 //"zpos""99"
 "wide""45"
-//"wide_hidef""64"
+////"wide_hidef""64"
 "tall""30"
 "visible""0"
 
@@ -1093,7 +1093,7 @@
 
 
 "wide""518"
-//"wide_hidef""730"
+////"wide_hidef""730"
 "tall""40"
 
 
@@ -1112,7 +1112,7 @@
 
 
 "wide""518"
-//"wide_hidef""730"
+////"wide_hidef""730"
 "tall""40"
 
 
@@ -1196,9 +1196,9 @@
 "ypos""34"
 ////"ypos_hidef""48"
 "wide""122"
-//"wide_hidef""172"
+////"wide_hidef""172"
 "tall""75"
-//"tall_hidef""106"
+////"tall_hidef""106"
 
 
 ////"visible""1"
@@ -1209,13 +1209,13 @@
 "ControlName""ImagePanel"
 "fieldName""LevelPic"
 "xpos""7"
-//"xpos_hidef""10"
+////"xpos_hidef""10"
 "ypos""41"
 ////"ypos_hidef""58"
 "wide""107"
-//"wide_hidef""152"
+////"wide_hidef""152"
 "tall""61"
-//"tall_hidef""86"
+////"tall_hidef""86"
 
 "scaleImage""1"
 //"scaleImage_hidef""0"
@@ -1236,9 +1236,9 @@
 ////"ypos_hidef""50"
 //"zpos""90"
 "wide""45"
-//"wide_hidef""64"
+////"wide_hidef""64"
 "tall""45"
-//"tall_hidef""64"
+////"tall_hidef""64"
 "visible""0"
 "image""medals/medal_00_none"
 }
@@ -1250,9 +1250,9 @@
 "ypos""14"
 ////"ypos_hidef""20"
 "wide""107"
-//"wide_hidef""152"
+////"wide_hidef""152"
 "tall""14"
-//"tall_hidef""20"
+////"tall_hidef""20"
 
 
 ////"visible""1"
@@ -1263,7 +1263,7 @@
 //"brighttext""0"
 //"wrap""0"
 //"font""DefaultLarge"
-//"font_hidef""UiBold"
+////"font_hidef""UiBold"
 }
 
 // not used in xbox NewGame Dialog
@@ -1294,9 +1294,9 @@
 
 
 "wide""107"
-//"wide_hidef""152"
+////"wide_hidef""152"
 "tall""14"
-//"tall_hidef""20"
+////"tall_hidef""20"
 
 
 "visible""0"
@@ -1307,7 +1307,7 @@
 ////"brighttext""0"
 //"wrap""0"
 //"font""DefaultLarge"
-//"font_hidef""UiBold"
+////"font_hidef""UiBold"
 "labelText""#GameUI_BonusMapsUnlocked"
 }
 
@@ -1317,7 +1317,7 @@
 "ControlName""ImagePanel"
 "fieldName""CommentaryIcon"
 "xpos""3"
-//"xpos_hidef""10"
+////"xpos_hidef""10"
 "ypos""72"
 ////"ypos_hidef""120"
 "wide""43"
@@ -1342,9 +1342,9 @@
 //"xpos""0"
 //"ypos""0"
 "wide""200"
-//"wide_hidef""250"
+////"wide_hidef""250"
 "tall""35"
-//"tall_hidef""40"
+////"tall_hidef""40"
 
 
 ////"visible""1"
@@ -1360,7 +1360,7 @@
 "xpos""2"
 //"ypos""0"
 "wide""200"
-//"wide_hidef""250"
+////"wide_hidef""250"
 "tall""20"
 
 ////"visible""1"
@@ -1378,7 +1378,7 @@
 
 
 "wide""200"
-//"wide_hidef""250"
+////"wide_hidef""250"
 "tall""16"
 }
 }

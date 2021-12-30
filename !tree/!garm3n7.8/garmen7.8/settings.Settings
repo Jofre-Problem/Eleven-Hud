@@ -1,0 +1,9 @@
+Borders|Flat
+Fonts|TF2 Build
+Team Colored Line On Health|OFF (Default)
+ADDON Transparent Viewmodel (doesnt works on dx81 or lower)|ON
+PRINCIPAL Health-HP Color|White
+PRINCIPAL Ammo Color|White
+PRINCIPAL Ammo Reserve Color|White
+Damage Number - Outline|Off
+Damage Number - Minus Toggle|Off

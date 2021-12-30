@@ -237,8 +237,8 @@ HudFlashlight
 "PaintBackgroundType""2"
 "xpos""270"//[$WIN32]
 "ypos""444"//[$WIN32]
-//"xpos_hidef""293"// aligned to left
-//"xpos_lodef""c-18"// centered in screen
+////"xpos_hidef""293"// aligned to left
+////"xpos_lodef""c-18"// centered in screen
 "ypos""428"
 "tall""24"
 "wide""36"

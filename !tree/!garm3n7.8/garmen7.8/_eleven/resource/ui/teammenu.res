@@ -28,10 +28,11 @@
 
 "MenuBG"
 {
-"ControlName""CModelPanel"
-"fieldName""MenuBG"
-"visible""0"
-"enabled""0"
+"wide""0"
+}
+"shadedbar"
+{
+"wide""0"
 }
 
 "MapInfo"

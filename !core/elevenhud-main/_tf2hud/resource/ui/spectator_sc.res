@@ -74,7 +74,7 @@
 "wide""600"
 ////"wide_minmode""300"
 "tall""18"
-//"tall_hidef""23"
+////"tall_hidef""23"
 
 
 //"visible""1"
@@ -106,12 +106,12 @@
 "ControlName""CExLabel"
 "fieldName""MapLabel"
 "font""HudFontSmall"
-//"font_hidef""HudFontMedium"
+////"font_hidef""HudFontMedium"
 "xpos""r260"
 "ypos""16"
 "wide""240"
 "tall""20"
-//"tall_hidef""30"
+////"tall_hidef""30"
 
 
 //"visible""1"
@@ -230,17 +230,17 @@
 "ControlName""CExLabel"
 "fieldName""TipLabel"
 "xpos""15"
-//"xpos_hidef""60"
-//"xpos_lodef""45"
+////"xpos_hidef""60"
+////"xpos_lodef""45"
 "ypos""r67"
 ////"ypos_lodef""28"
 ////"ypos_hidef""35"
 "wide""145"
-//"wide_hidef""230"
-//"wide_lodef""240"
+////"wide_hidef""230"
+////"wide_lodef""240"
 "tall""64"
-//"tall_hidef""70"
-//"tall_lodef""70"
+////"tall_hidef""70"
+////"tall_lodef""70"
 
 
 //"visible""1"
@@ -249,7 +249,7 @@
 "labelText""%tip%"
 "textAlignment""center"
 "font""SpectatorKeyHints"
-//"font_hidef""HudFontSmall"
+////"font_hidef""HudFontSmall"
 //"font_lodef""DefaultVerySmall"
 "wrap""1"
 }

@@ -78,8 +78,8 @@
 "ControlName""CExButton"
 "fieldName""RoundContinue"
 "xpos""r190"
-//"xpos_lodef""r222"
-//"xpos_hidef""r232"
+////"xpos_lodef""r222"
+////"xpos_hidef""r232"
 "ypos""r40"
 ////"ypos_lodef""r64"
 ////"ypos_hidef""r54"
@@ -155,8 +155,8 @@
 "zpos""5"
 "wide""f0"
 "tall""50"
-//"tall_lodef""74"
-//"tall_hidef""65"
+////"tall_lodef""74"
+////"tall_hidef""65"
 
 
 //"visible""1"

@@ -45,10 +45,10 @@
 "ypos""35"
 "zpos""1"
 "wide""220"
-//"wide_hidef""200"
-//"wide_lodef""230"
+////"wide_hidef""200"
+////"wide_lodef""230"
 "tall""55"
-//"tall_lodef""60"
+////"tall_lodef""60"
 
 
 //"visible""1"

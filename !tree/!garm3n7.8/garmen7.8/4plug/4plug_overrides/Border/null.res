@@ -1,0 +1,13 @@
+Scheme
+{
+Borders
+{
+CustomBorder
+{
+"bordertype""scalable_image"
+"backgroundtype""2"
+"image""replay/thumbnails/null"
+"color""Nada"
+}
+}
+}

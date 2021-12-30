@@ -1,0 +1,262 @@
+[BG:#1E1E1E]
+Window();
+[Border:0, FG:#1C1B1C]
+Banner("4plug/4plug_main/managers/thumbnailBanner.png", "auto", "topleft");
+Banner("4plug/4plug_main/managers/thumbnailBanner_v2.png", "auto", "topleft");
+
+Banner("4plug/4plug_main/color_seccion.png", "auto", "topleft");
+
+
+Banner("4plug/4plug_main/logo_custom.png", "auto", "topleft");
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:Borders, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+GlobalComboBox("Borders", "Borders")
+{
+Default
+Old
+Flat
+NoBorder
+}
+
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:Fonts, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+GlobalComboBox("Fonts", "Fonts")
+{
+TF2 Build
+TF2
+Axis_(ToonHud)
+Montserrat_(ToonHud)
+Heavy_(7HUD)
+Renogare
+}
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+
+[Border:0, FG:#1C1B1C]
+[Name:Team Colored Line On Health, Default:Lower, FG:#7A5EF8, BG:#E11322, Border:0]
+GlobalComboBox("Team Colored Line On Health", "Team Colored Line On Health")
+{
+OFF (Default)
+ON
+}
+[Border:0, FG:#1C1B1C]
+Banner("4plug/4plug_main/teamline.png", "auto", "topleft");
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:ADDON Transparent Viewmodel (doesnt works on dx81 or lower), Default:Lower, FG:#7A5EF8, BG:#E11322, Border:0]
+GlobalComboBox("ADDON Transparent Viewmodel (doesnt works on dx81 or lower)", "ADDON Transparent Viewmodel (doesnt works on dx81 or lower)")
+{
+OFF (Default)
+ON
+}
+Banner("4plug/4plug_main/transparentv.png", "auto", "topleft");
+
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:PRINCIPAL Health-HP Color, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+GlobalComboBox("PRINCIPAL Health-HP Color", "PRINCIPAL Health-HP Color")
+{
+White
+Blue
+Green
+Yellow
+Gray
+Gold
+}
+[Border:0, FG:#1C1B1C]
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:PRINCIPAL Ammo Color, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+GlobalComboBox("PRINCIPAL Ammo Color", "PRINCIPAL Ammo Color")
+{
+White
+Blue
+Green
+Yellow
+Gray
+Gold
+}
+[Border:0, FG:#1C1B1C]
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:PRINCIPAL Ammo Reserve Color, Default:Lower, FG:#7A5EF8, BG:#5094AF, Border:0]
+GlobalComboBox("PRINCIPAL Ammo Reserve Color", "PRINCIPAL Ammo Reserve Color")
+{
+White
+Blue
+Green
+Yellow
+Gray
+Gold
+}
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:Damage Number - Outline, Default:Lower, FG:#7A5EF8, BG:#E11322, Border:0]
+GlobalComboBox("Damage Number - Outline", "Damage Number - Outline")
+{
+On
+Off
+}
+Banner("4plug/4plug_main/managers/thumbnailBannerBottom.png", "auto", "topleft");
+[Name:Damage Number - Minus Toggle, Default:Lower, FG:#7A5EF8, BG:#E11322, Border:0]
+GlobalComboBox("Damage Number - Minus Toggle", "Damage Number - Minus Toggle")
+{
+Off
+On
+}
+Banner("4plug/4plug_main/minus.png", "auto", "topleft");
+#if Damage Number - Outline == "On"
+{
+	#if Damage Number - Minus Toggle == "On"
+	{
+	Copy("4plug/4plug_overrides/Extra/d_withminus_o_on.res", "_eleven/resource/min-def/extra/dmg_account.res");
+	}
+	#if Damage Number - Minus Toggle == "Off"
+	{
+	Copy("4plug/4plug_overrides/Extra/d_nominus_o_on.res", "_eleven/resource/min-def/extra/dmg_account.res");
+	}
+}
+#if Damage Number - Outline == "Off"
+{
+	#if Damage Number - Minus Toggle == "On"
+	{
+	Copy("4plug/4plug_overrides/Extra/d_withminus_o_off.res", "_eleven/resource/min-def/extra/dmg_account.res");
+	}
+	#if Damage Number - Minus Toggle == "Off"
+	{
+	Copy("4plug/4plug_overrides/Extra/d_nominus_o_off.res", "_eleven/resource/min-def/extra/dmg_account.res");
+	}
+}
+
+
+#if Borders == "Default"
+{
+Copy("4plug/4plug_overrides/Border/def.res", "_eleven/resource/4plug/border.res");
+}
+#if Borders == "Old"
+{
+Copy("4plug/4plug_overrides/Border/old.res", "_eleven/resource/4plug/border.res");
+}
+#if Borders == "Flat"
+{
+Copy("4plug/4plug_overrides/Border/flat.res", "_eleven/resource/4plug/border.res");
+}
+#if Borders == "NoBorder"
+{
+Copy("4plug/4plug_overrides/Border/null.res", "_eleven/resource/4plug/border.res");
+}
+
+#if Fonts == "Heavy_(7HUD)"
+{
+Copy("4plug/4plug_overrides/Fonts/Heavy.res", _eleven/resource/4plug/Font.res");
+}
+#if Fonts == "TF2 Build"
+{
+Copy("4plug/4plug_overrides/Fonts/TF2.res", "_eleven/resource/4plug/Font.res");
+}
+#if Fonts == "TF2"
+{
+Copy("4plug/4plug_overrides/Fonts/TF2_.res", "_eleven/resource/4plug/Font.res");
+}
+#if Fonts == "Montserrat_(ToonHud)"
+{
+Copy("4plug/4plug_overrides/Fonts/Montserrat.res", "_eleven/resource/4plug/Font.res");
+}
+#if Fonts == "Axis_(ToonHud)"
+{
+Copy("4plug/4plug_overrides/Fonts/Axis.res", "_eleven/resource/4plug/Font.res");
+}
+#if Fonts == "Renogare"
+{
+Copy("4plug/4plug_overrides/Fonts/Renogare.res", "_eleven/resource/4plug/Font.res");
+}
+#if Team Colored Line On Health == "OFF (Default)
+{
+Copy("4plug/4plug_overrides/empty.txt", "_eleven/resource/shortcut/team_color_line_sc.res");
+}
+#if Team Colored Line On Health == "ON"
+{
+Copy("4plug/4plug_overrides/TeamColoredLine/team_color_line_sc_on.res", "_eleven/resource/shortcut/team_color_line_sc.res");
+}
+
+#if ADDON Transparent Viewmodel (doesnt works on dx81 or lower) == "OFF (Default)"
+{
+Copy("4plug/4plug_overrides/empty.txt", "_eleven/resource/shortcut/transparent_view_sc.res");
+
+}
+#if ADDON Transparent Viewmodel (doesnt works on dx81 or lower) == "ON"
+{
+Copy("4plug/4plug_overrides/TransparentViewmodel/transparent_view_sc_on.res", "_eleven/resource/shortcut/transparent_view_sc.res");
+}
+
+
+#if PRINCIPAL Health-HP Color == "White"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Vida/Blanco.res", "_eleven/resource/4plug/ColorVida.res");
+}
+#if PRINCIPAL Health-HP Color == "Blue"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Vida/Azul.res", "_eleven/resource/4plug/ColorVida.res");
+}
+#if PRINCIPAL Health-HP Color == "Green"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Vida/VerdeLima.res", "_eleven/resource/4plug/ColorVida.res");
+}
+#if PRINCIPAL Health-HP Color == "Yellow"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Vida/Amarillo.res", "_eleven/resource/4plug/ColorVida.res");
+}
+#if PRINCIPAL Health-HP Color == "Gray"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Vida/Gris.res", "_eleven/resource/4plug/ColorVida.res");
+}
+#if PRINCIPAL Health-HP Color == "Gold"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Vida/Oro.res", "_eleven/resource/4plug/ColorVida.res");
+}
+
+
+#if PRINCIPAL Ammo Color == "White"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Municion/Blanco.res", "_eleven/resource/4plug/ColorMunicion.res");
+}
+#if PRINCIPAL Ammo Color == "Blue"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Municion/Azul.res", "_eleven/resource/4plug/ColorMunicion.res");
+}
+#if PRINCIPAL Ammo Color == "Green"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Municion/VerdeLima.res", "_eleven/resource/4plug/ColorMunicion.res");
+}
+#if PRINCIPAL Ammo Color == "Yellow"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Municion/Amarillo.res", "_eleven/resource/4plug/ColorMunicion.res");
+}
+#if PRINCIPAL Ammo Color == "Gray"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Municion/Gris.res", "_eleven/resource/4plug/ColorMunicion.res");
+}
+#if PRINCIPAL Ammo Color == "Gold"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/Municion/Oro.res", "_eleven/resource/4plug/ColorMunicion.res");
+}
+
+
+#if PRINCIPAL Ammo Reserve Color == "White"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/MunicionReserva/Blanco.res", "_eleven/resource/4plug/ColorMunicionReserva.res");
+}
+#if PRINCIPAL Ammo Reserve Color == "Blue"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/MunicionReserva/Azul.res", "_eleven/resource/4plug/ColorMunicionReserva.res");
+}
+#if PRINCIPAL Ammo Reserve Color == "Green"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/MunicionReserva/VerdeLima.res", "_eleven/resource/4plug/ColorMunicionReserva.res");
+}
+#if PRINCIPAL Ammo Reserve Color == "Yellow"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/MunicionReserva/Amarillo.res", "_eleven/resource/4plug/ColorMunicionReserva.res");
+}
+#if PRINCIPAL Ammo Reserve Color == "Gray"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/MunicionReserva/Gris.res", "_eleven/resource/4plug/ColorMunicionReserva.res");
+}
+#if PRINCIPAL Ammo Reserve Color == "Gold"
+{
+Copy("4plug/4plug_overrides/ColoresPrincipales/MunicionReserva/Oro.res", "_eleven/resource/4plug/ColorMunicionReserva.res");
+}

@@ -114,7 +114,7 @@
 "wide""600"
 ////"wide_minmode""300"
 "tall""18"
-//"tall_hidef""23"
+////"tall_hidef""23"
 
 
 //"visible""1"
@@ -132,12 +132,12 @@
 "ControlName""CExLabel"
 "fieldName""MapLabel"
 "font""HudFontSmall"
-//"font_hidef""HudFontMedium"
+////"font_hidef""HudFontMedium"
 "xpos""r260"
 "ypos""16"
 "wide""240"
 "tall""20"
-//"tall_hidef""30"
+////"tall_hidef""30"
 
 
 //"visible""1"

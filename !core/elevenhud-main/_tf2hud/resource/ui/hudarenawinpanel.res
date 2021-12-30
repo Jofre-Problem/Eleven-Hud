@@ -53,8 +53,8 @@
 "ypos""25"
 "wide""100"
 "tall""20"
-//"tall_lodef""24"
-//"tall_hidef""24"
+////"tall_lodef""24"
+////"tall_hidef""24"
 
 
 //"visible""1"
@@ -73,7 +73,7 @@
 "wide""80"
 "tall""50"
 
-//"tall_hidef""75"
+////"tall_hidef""75"
 
 
 //"visible""1"
@@ -93,7 +93,7 @@
 "wide""80"
 "tall""50"
 
-//"tall_hidef""75"
+////"tall_hidef""75"
 
 
 //"visible""1"
@@ -110,8 +110,8 @@
 "ypos""28"
 "wide""100"
 "tall""20"
-//"tall_lodef""24"
-//"tall_hidef""24"
+////"tall_lodef""24"
+////"tall_hidef""24"
 
 
 //"visible""1"
@@ -130,7 +130,7 @@
 "wide""80"
 "tall""50"
 
-//"tall_hidef""75"
+////"tall_hidef""75"
 
 
 //"visible""1"
@@ -150,7 +150,7 @@
 "wide""80"
 "tall""50"
 
-//"tall_hidef""75"
+////"tall_hidef""75"
 
 
 //"visible""1"
