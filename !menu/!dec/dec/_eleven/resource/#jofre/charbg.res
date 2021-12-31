@@ -9,7 +9,7 @@
 			yPos					0
 			wide					f0
 			tall					f0
-			"fillColor"				"238 238 238 255"
+			"fillColor"				"238 238 238 0"
 			"alpha"					"210"
 			mouseInputEnabled			0			// mouse input passes though to panels below
 		}

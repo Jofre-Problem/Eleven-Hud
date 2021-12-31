@@ -1,8 +1,8 @@
 //#base "../#jofre/downbar.res"
 //#base "../#jofre/blur_bg.res"
 //#base "../#jofre/charbg.res"
-//base "../ui2/testgradient.res"
-#base "../ui2/polybg.res"
+#base "../ui2/testgradient.res"
+//#base "../ui2/polybg.res"
 #base "../#jofre/home.res"
 //#base "../#jofre/downbar.res"
 

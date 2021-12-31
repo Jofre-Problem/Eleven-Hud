@@ -12,11 +12,12 @@ Scheme
 		"PolybarTheme8" 	"40 81 91 255"
 		"PolybarTheme9"		"26 115 232 255"
 		"PolybarTheme10" 	"43 45 58 255"
-		"PolyIconsFg1"		"148 164 170 255" //based on bg
-		"PolyIconsFg2"		"231 196 209 255" //based on bg
+		"PolyIconsFg1"		"254 254 254 255" //based on bg
+		"PolyIconsFg2"		"31 16 41 255" //based on bg
 		"PolyIconsFg3"		"173 131 176 255" //based on bg
-		"PolyIconsBg1"		"43 22 60 255"	//based on bg
-		"PolyIconsBg2"		"24 5 31 2550"	//line
+		"PolyIconsBg1"		"254 38 15 255"	//based on bg
+		"PolyIconsBg2"		"247 239 236 255"	//line
+		"PolyIconsBg3"		"196 176 117 255"	//line
 		"PolyBG1"		"37 39 37 255"	
 		"PolyBG2"		"37 39 37 255"	
 	}

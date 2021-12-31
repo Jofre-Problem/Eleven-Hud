@@ -50,14 +50,17 @@
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"PolyIconsBg1"
-		"alpha"	"110"
-	}	
+		"bgcolor_override"	"polyiconsbg1"
+		"alpha"	"0"
+	}
+	
 	"Background"
 	{
-		"xpos"			"0"
+		"ControlName"	"ScalableImagePanel"
+		"fieldName"		"Background"
+		"xpos"			"cs-0.5"
 		"ypos"			"0"
-		"zpos"			"0"
+		"zpos"			"-200"
 		"wide"			"f0"
 		"tall"			"f0"
 		

@@ -18,18 +18,7 @@
 	}
 	"topbar"
 	{
-		"ControlName"		"Panel"
-		"fieldName"		"TopBar"
-		"xpos"			"0"
-		"ypos"			"0"
-		"tall"			"30"	[$WIN32]
-		"tall"			"30"	[$X360]		
-		"wide"			"f0"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		"tall"			"0"	
 	}
 	"BottomBar"
 	{

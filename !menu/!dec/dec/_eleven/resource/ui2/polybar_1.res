@@ -36,7 +36,7 @@
 		"zpos"			"1001"
 		"wide"			"73"//"p0.131"
 		"tall"			"13"
-			fillColor				"PolyIconsFg1"		
+			fillColor				"PolyIconsBg2"
 	"pin_to_sibling"	"polybar1bg"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
@@ -55,7 +55,7 @@
 			"wide"			"30"
 			"tall"			"13"
 			
-			"fgcolor"		"PolyIconsFg1"
+			"fgcolor"		"PolyIconsBg2"
 "pin_to_sibling"	"polybarbg2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}	
@@ -63,9 +63,9 @@
 			"polybarbg3"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"73"//"p0.131"
+		"wide"			"80"//"p0.131"
 		"tall"			"13"
-			fillColor		"254 173 114 255"	
+			fillColor		"PolyIconsBg3"
 	"pin_to_sibling"	"polybarbg2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
@@ -84,7 +84,7 @@
 			"wide"			"30"
 			"tall"			"13"
 			
-			"fgcolor"		"254 173 114 255"
+			"fgcolor"		"PolyIconsBg3"
 "pin_to_sibling"	"polybarbg3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}	
@@ -93,9 +93,9 @@
 			"font"			"NewIcons9"
 			"labelText"		"Ë"
 			"textAlignment"		"center"
-			"xpos" 			"-18"
+			"xpos" 			"-21"
 			"ypos"			"0"
-			"wide"			"13"
+			"wide"			"15"
 			"textInsetY"	1
 			"tall"			"13"
 			"fgcolor"		"PolyIconsFg1"

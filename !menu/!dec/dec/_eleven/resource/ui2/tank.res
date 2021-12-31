@@ -4,7 +4,7 @@
 	{
 	"ControlName""ImagePanel"
 	"fieldName""Tank"
-	"xpos""rs1"
+	"xpos""rs1-10"
 	"ypos""rs1"
 	"zpos""-5"
 	"wide""400"

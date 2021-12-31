@@ -1,6 +1,6 @@
-#base "../#jofre/blur_bg.res"
+//#base "../#jofre/blur_bg.res"
 //#base "../#jofre/char_tank.res"
-#base "../#jofre/char_bg.res"
+#base "../#jofre/charbg.res"
 "Resource/UI/CharInfoArmorySubPanel.res"
 {
 	"armory_panel"
