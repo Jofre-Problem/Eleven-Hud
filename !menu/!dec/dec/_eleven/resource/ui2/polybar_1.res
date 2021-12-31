@@ -63,7 +63,7 @@
 			"polybarbg3"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"80"//"p0.131"
+		"wide"			"78"//"p0.131"
 		"tall"			"13"
 			fillColor		"PolyIconsBg3"
 	"pin_to_sibling"	"polybarbg2"
@@ -93,7 +93,7 @@
 			"font"			"NewIcons9"
 			"labelText"		"Ë"
 			"textAlignment"		"center"
-			"xpos" 			"-21"
+			"xpos" 			"-19"
 			"ypos"			"0"
 			"wide"			"15"
 			"textInsetY"	1

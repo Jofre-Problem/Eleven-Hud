@@ -51,10 +51,10 @@
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 			
-			"paintbackground"							"0"
+		
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"TanLight"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"			
 	}	
 	"uloadout"	
 	{
@@ -74,10 +74,9 @@
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 			
-			"paintbackground"							"0"		
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"TanLight"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"			
 	}
 			"OptionsU"	{
 			"ControlName"	"CExImageButton"
@@ -94,13 +93,13 @@
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 			
-			"paintbackground"							"0"
+		
 			"pin_to_sibling"	"uloadout"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"W_ColorTheme1"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"			
 		}	
 	"Utf2"	
 	{
@@ -119,13 +118,13 @@
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 			
-			"paintbackground"							"0"
+			
 			"pin_to_sibling"	"OptionsU"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"TanDarker"
-			"depressedFgColor_override" 				"W_ColorIcons1"					
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"					
 	}							
 	"UQuest"	
 	{
@@ -146,8 +145,8 @@
 			"sound_released"							"sound_menu/button2.wav"
 
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"TanDarker"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"			
 	}	
 	"shop"	
 	{
@@ -168,8 +167,8 @@
 			"sound_released"							"sound_menu/button2.wav"
 
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"TanDarker"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"			
 	}					
 	"DemoU"	{
 			"ControlName"	"CExImageButton"
@@ -191,8 +190,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
 			"defaultFgColor_override"					"PolyIconsFg1"
-			"armedFgColor_override" 					"W_ColorTheme1"
-			"depressedFgColor_override" 				"W_ColorIcons1"			
+			"armedFgColor_override" 					"PolyIconsFg4"
+			"depressedFgColor_override" 				"PolyIconsFg4"			
 		}
 			
 	
@@ -216,8 +215,8 @@
 			"paintbackground"							"0"
 
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}
 	"BoxCenterRight1"	{
 			"ControlName"	"CExImageButton"
@@ -239,8 +238,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}
 	"BoxCenterRight2"	{
 			"ControlName"	"CExImageButton"
@@ -262,8 +261,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}
 	"BoxCenterRight3"	{
 			"ControlName"	"CExImageButton"
@@ -285,8 +284,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}				
 	"BoxCenterLeft1"	{
 			"ControlName"	"CExImageButton"
@@ -308,8 +307,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}	
 	"BoxCenterLeft2"	{
 			"ControlName"	"CExImageButton"
@@ -331,8 +330,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}
 	"BoxCenterLeft3"	{
 			"ControlName"	"CExImageButton"
@@ -354,8 +353,8 @@
 		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
-		"depressedFgColor_override" "W_ColorIcons1"		
+		armedFgColor_override		"PolyIconsFg4"
+		"depressedFgColor_override" "PolyIconsFg4"		
 		}		
 		"MOTD_Label"
 		{			"ControlName"	"cexLabel"

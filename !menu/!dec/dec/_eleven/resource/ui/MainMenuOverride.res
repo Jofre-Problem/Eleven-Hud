@@ -567,7 +567,7 @@
 			"default"		"1"
 			
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
+		armedFgColor_override		"PolyIconsFg4"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
 			"actionsignallevel" "2"
@@ -600,7 +600,7 @@
 		
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
+		armedFgColor_override		"PolyIconsFg4"
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
@@ -621,7 +621,7 @@
 		
 		command				"engine showstatsdlg"
 		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"W_ColorIcons1"
+		armedFgColor_override		"PolyIconsFg4"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"

@@ -15,6 +15,6 @@
 		"zpos"			"9999"
 		"wide"			"f0"
 		"tall"			"1"
-			fillColor				"0 0 0 0"
+			fillColor				"PolyBG2"
 	}
 }
