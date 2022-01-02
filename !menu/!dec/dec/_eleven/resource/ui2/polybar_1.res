@@ -63,7 +63,7 @@
 			"polybarbg3"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"78"//"p0.131"
+		"wide"			"73"//"p0.131"
 		"tall"			"13"
 			fillColor		"PolyIconsBg3"
 	"pin_to_sibling"	"polybarbg2"
@@ -107,7 +107,7 @@
 		"fieldName"		"Slider"
 		"xpos"		"0"
 		"ypos"		"-2" //18
-		"wide"		"55"
+		"wide"		"50"
 		"tall"		"13"
 		"zpos"		"5001"
 		"leftText"		""

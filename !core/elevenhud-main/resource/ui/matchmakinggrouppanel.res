@@ -1,4 +1,0 @@
-	#base	"../../_4plug/resource/ui/matchmakinggrouppanel.res"
-	#base	"../../_eleven/resource/ui/matchmakinggrouppanel.res"
-	#base	"../../_jofrehud/resource/ui/matchmakinggrouppanel.res"
-	#base	"../../_tf2hud/resource/ui/matchmakinggrouppanel.res"
