@@ -230,7 +230,7 @@
 
 		"defaultBgColor_override""Blank"
 
-			defaultFgColor_override		"W_ColorIcons1"
+			defaultFgColor_override		"polyiconsbg1"
 			armedFgColor_override		"A_ColorTheme1"
 		"paintbackground""0"
 	}
@@ -263,7 +263,7 @@
 
 		"defaultBgColor_override""Blank"
 
-			defaultFgColor_override		"W_ColorIcons1"
+			defaultFgColor_override		"polyiconsbg1"
 			armedFgColor_override		"A_ColorTheme1"
 		"paintbackground""0"
 	}
@@ -361,9 +361,9 @@
 			"paintbackground"	"0"
 			"sound_depressed"	"sound_menu/button.wav"
 			"sound_released"	"sound_menu/button2.wav"
-			"fgcolor"			"W_ColorIcons1"
-			"fgcolor_override"	"W_ColorIcons1"
-			"defaultFgColor_override"	"W_ColorIcons1"
+			"fgcolor"			"polyiconsbg1"
+			"fgcolor_override"	"polyiconsbg1"
+			"defaultFgColor_override"	"polyiconsbg1"
 			"armedFgColor_override"		"A_ColorTheme1"
 			"depressedFgColor_override"	"W_ColorTheme4"
 			
@@ -890,8 +890,8 @@
 
 			"armedBgColor_override"		"Blank"
 			"defaultBgColor_override"	"Blank"
-
-			"fgcolor"			"W_ColorIcons1"
+			"defaultFgColor_override" "polyiconsbg1"
+			"fgcolor"			"polyiconsbg1"
 			
 			"SubImage"
 			{

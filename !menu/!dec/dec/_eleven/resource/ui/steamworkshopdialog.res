@@ -40,7 +40,7 @@
 			"paintbackground"		"1"
 			"mouseInputenabled"	"0"
 			"border"		"Rice2"			
-			"bgcolor_override"				"PolyIconsbg1"
+			"bgcolor_override"				"56 60 75 255"
 
 			"title"		
 			{
