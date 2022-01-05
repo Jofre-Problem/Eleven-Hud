@@ -23,13 +23,13 @@
 		ypos					0
 		zpos					0
 		"wide"										"13"
-		"tall"										"15"
+		"tall"										"13"
 		proportionaltoparent		1
 		visible				1
 		mouseinputenabled			0
 		
 		labelText				"ë"
-		font					"NewIcons11"
+		font					"NewIcons9"
 		textAlignment			center
 
 		fgcolor_override			"PolyIconsFg2"

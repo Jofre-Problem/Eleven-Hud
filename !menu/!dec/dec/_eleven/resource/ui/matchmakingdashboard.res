@@ -18,7 +18,19 @@
 		"expanded_height"	"35"
 		"resize_time"		"0.2"
 	}
-
+	"fullgradi"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"fullgradi"
+		xPos					0
+		yPos					13
+		wide					f0
+		tall					"3"
+		"scaleimage"	"1"
+		"mouseinputenabled"	"0"
+		"alpha"		"255"
+		"image"		"replay/thumbnails/gradient_1"			
+	}	
 			"polybar0bg"						{			ControlName				ImagePanel			FieldName				
 			"polybar0bg"
 		"xpos"			"rs1"

@@ -16,6 +16,18 @@
 		"visible"		"1"
 		//"enabled"		"1"
 		"bgcolor_override"	"0 0 0 1"
+		"bg1"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"		"bg1"
+			"xpos"			"5"
+			"ypos"			"cs-0.5+13"
+			"wide"			"120"
+			"tall"			"p0.8"
+			"bgcolor_override"		"W_ColorTheme1"
+			"alpha"	"210"
+			"PaintBackgroundType"	"2"		
+		}			
 		"polybar1bg"			{			ControlName				ImagePanel			FieldName				
 		"polybar1bg"
 		"xpos"			"0"

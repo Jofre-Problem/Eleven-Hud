@@ -6,7 +6,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ZoomInfoLabel"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Zoom:"
 		"textAlignment"	"east"
 		"xpos"			"c-340"
@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ZoomInfo"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"MOUSE2"
 		"textAlignment"	"west"
 		"xpos"			"c-263"
@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MoveInfoLabel"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Move:"
 		"textAlignment"	"east"
 		"xpos"			"c-340"
@@ -51,7 +51,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MoveInfo"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Shift"
 		"textAlignment"	"west"
 		"xpos"			"c-263"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RotateInfoLabel"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Rotate:"
 		"textAlignment"	"east"
 		"xpos"			"c-340"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RotateInfo"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Alt"
 		"textAlignment"	"west"
 		"xpos"			"c-263"
@@ -103,7 +103,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LightInfoLabel"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Change lighting:"
 		"textAlignment"	"east"
 		"xpos"			"c-340"
@@ -122,7 +122,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LightInfo"
-		"font"			"DefaultVerySmall"
+		"font"			"Regular7"
 		"labelText"		"Ctrl"
 		"textAlignment"	"west"
 		"xpos"			"c-263"

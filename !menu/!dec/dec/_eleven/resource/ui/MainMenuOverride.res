@@ -142,7 +142,8 @@
 	"WorkshopButton"
 	{
 		"wide"			"0"
-	}			
+	}		
+
 	"Workshop"		// open advanced options
 	{
 		ControlName				CExButton
@@ -154,17 +155,17 @@
 		tall					13
 		labelText				"j"//"ø"
 		textAlignment			center
-		font			"NewIcons12"
+		font			"NewIcons9"
 		command				"engine workshop"
 
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
 		
-		defaultFgColor_override		"PolyIconsFg1"
+		defaultFgColor_override		"210 130 231 255"
 		armedFgColor_override		"157 83 33 255"
-		defaultBgColor_override		"PolyIconsbg1"
-		armedBgColor_override		"PolyIconsbg1"
-		paintBackground			1
+		defaultBgColor_override		"53 57 69 0"
+		armedBgColor_override		"53 57 69 0"
+		paintBackground			2
 
 		"navUp"			""
 		"navLeft"		""

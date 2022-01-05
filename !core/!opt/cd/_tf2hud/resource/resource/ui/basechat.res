@@ -60,7 +60,7 @@ ChatInputLine
 
 "labelText" ""
 "textAlignment""south-west"
-//"font""ChatFont"
-//"maxchars""-1"
+"font"	"Default"
+"maxchars""-1"
 }
 }
