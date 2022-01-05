@@ -6,8 +6,7 @@
 
 //#base "../#jofre/nobar.res"		//always activated
 //#base "../#jofre/safe-mode.res"
-#base "../ui2/polybar_1.res"
-#base "../ui2/mm_topbar.res"
+
 "Resource/SteamWorkshopDialog.res"
 
 {
@@ -15,7 +14,7 @@
 	{
 		"ControlName"	"CSteamWorkshopDialog"
 		"fieldName"		"SteamWorkshopDialog"
-//		"xpos"			"0"  // def
+		"xpos"			"0"  // def
 		"ypos"			"0"	// disabled
 		"zpos"			"10000"
 		"wide"			"f0"	// disabled
@@ -27,21 +26,52 @@
 		"tabPosition"		"0"
 		"bgcolor_override"	"Blank"
 	}
+		"Windows_Notification"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Windows_Notification"
+			"xpos"		"cs-0.5"
+			"ypos"		"cs-0.5"
+
+			"wide"		"400"	
+			"tall"		"200"	
+
+			"PaintBackgroundType"	"0"
+			"paintbackground"		"1"
+			"mouseInputenabled"	"0"
+			"border"		"Rice2"			
+			"bgcolor_override"				"PolyIconsbg1"
+
+			"title"		
+			{
+				ControlName				Label
+				FieldName				"title"
+				xPos					5
+				yPos					5
+				wide					400
+				tall					20	
+				font					"Regular14"
+				fgcolor_override		"PolyIconsFg1"
+				labelText				"Welcome to Jofre Hud!"
+				textAlignment			center
+			}
+	}
+	"Container"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Container"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"10"
+		"wide"		"0"
+	}					
 	"ClickAway1"
 	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ClickAway1"
 			"zpos"			"0"
-			//"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			//"enabled"		"1"
-			"tabPosition"	"0"
 			"font"			"Blank"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"0"
 			"actionsignallevel"	"2"
 
 			xPos					0

@@ -386,7 +386,7 @@
 		}
 		"PartySlot1"
 		{
-			"xpos"					"28"
+			"xpos"					"32"
 			"ypos"					"0"
 			"wide"					"13"
 			"tall"					"13"

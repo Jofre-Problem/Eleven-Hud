@@ -754,7 +754,7 @@
 "xpos""15"
 "ypos""50"
 ////"ypos_lodef""45"
- "itemspacing""2"
+ //"itemspacing""2"
 "minwide""300"
 
 "CommandItem"
@@ -850,7 +850,7 @@
 "xpos""15"
 "ypos""50"
 ////"ypos_lodef""45"
- "itemspacing""2"
+ //"itemspacing""2"
 "minwide""425"
 //"minwide_lodef""350"
 
@@ -936,7 +936,7 @@
 "xpos""15"
 "ypos""50"
 ////"ypos_lodef""45"
- "itemspacing""2"
+ //"itemspacing""2"
 "minwide""425"
 //"minwide_lodef""350"
 
@@ -1004,7 +1004,7 @@
 "xpos""15"
 "ypos""50"
 ////"ypos_lodef""45"
- "itemspacing""2"
+ //"itemspacing""2"
 "minwide""425"
 //"minwide_lodef""350"
 
@@ -1072,7 +1072,7 @@
 "xpos""15"
 "ypos""50"
 ////"ypos_lodef""45"
- "itemspacing""2"
+ //"itemspacing""2"
 "minwide""300"
 //"minwide_hidef""480"
 
@@ -1103,12 +1103,11 @@
 //"borderwidth""15"
 ////"tall_hidef""475"
 ////"tall_lodef""367"
-"gametotal""100"
+//"gametotal""100"
 //"center_lodef""0"
 
 "Footer"
 {
-"hide_regular_footer""1"
 "button"
 {
 "text""#GameUI_Back"
@@ -1174,7 +1173,7 @@
 "xpos""15"
 "ypos""90"
 ////"ypos_lodef""85"
- "itemspacing""3"
+ //"itemspacing""3"
  //"itemspacing_lodef""2"
 //"minwide_hidef""700"
 //"minwide_lodef""500"
@@ -1228,7 +1227,7 @@
 "xpos""15"
 "ypos""50"
 ////"ypos_lodef""45"
- "itemspacing""2"
+ //"itemspacing""2"
 "minwide""425"
 //"minwide_lodef""350"
 
@@ -1574,7 +1573,7 @@
 ////"ypos_lodef""50"
 "minwide""400"
 //"minwide_lodef""380"
- "itemspacing""2"
+ //"itemspacing""2"
 
 "OptionsItem"
 {
@@ -2208,7 +2207,7 @@
  "tall""50"
  "minwide""300"
  //"minwide_lodef""208"
-"itemspacing""1"
+//"itemspacing""1"
 }
 
  "RedPlayers"
@@ -2220,7 +2219,7 @@
 "tall""50"
 "minwide""300"
 //"minwide_lodef""208"
-"itemspacing""1"
+//"itemspacing""1"
 }
 }
 
@@ -2566,7 +2565,7 @@
  "tall""50"
  "minwide""300"
  //"minwide_lodef""208"
-"itemspacing""1"
+//"itemspacing""1"
 }
 
  "RedPlayers"
@@ -2578,7 +2577,7 @@
 "tall""50"
 "minwide""300"
 //"minwide_lodef""208"
-"itemspacing""1"
+//"itemspacing""1"
 }
 }
 
@@ -2731,7 +2730,7 @@
 ////"ypos_lodef""50"
 "minwide""570"
 //"minwide_lodef""405"
- "itemspacing""2"
+ //"itemspacing""2"
 "maxvisibleitems""7"
 "activecolumn""3"
 
@@ -2942,7 +2941,7 @@
 ////"ypos_lodef""50"
 "minwide""570"
 //"minwide_lodef""405"
- "itemspacing""2"
+ //"itemspacing""2"
 "maxvisibleitems""7"
 "activecolumn""0"
 
@@ -3045,7 +3044,7 @@
 ////"ypos_lodef""40"
 "minwide""750"
 //"minwide_lodef""565"
- "itemspacing""2"
+ //"itemspacing""2"
 "maxvisibleitems""10"
 //"maxvisibleitems_lodef""8"
 "maxvisiblecolumns""6"
@@ -3265,7 +3264,7 @@
 "ypos""50"
 "minwide""865"
 //"minwide_lodef""585"
- "itemspacing""2"
+ //"itemspacing""2"
 "maxvisibleitems""9"
 //"maxvisibleitems_lodef""7"
 "maxvisiblecolumns""5"

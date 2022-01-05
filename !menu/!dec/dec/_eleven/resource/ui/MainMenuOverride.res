@@ -578,7 +578,7 @@
 			"paintbackground" "0"
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"W_ColorTheme4"
-
+		"border_armed"	"RiceUpDown1"
 			"SubImage"
 			{
 				"wide"			"0"
@@ -598,7 +598,7 @@
 			"labelText"		"u"
 			"font"			"NewIcons9"
 			"textAlignment"	"center"
-		
+			"border_armed"	"RiceUpDown1"
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
 		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"PolyIconsFg4"
@@ -619,7 +619,7 @@
 			"labelText"		"u"
 			"font"			"NewIcons9"
 			"textAlignment"	"center"
-		
+			"border_armed"	"RiceUpDown1"
 		command				"engine showstatsdlg"
 		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"PolyIconsFg4"
@@ -643,41 +643,6 @@
 			fillColor				"187 154 247 0"		
 	}	
 
-
-		"polybar1slash_V2"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"polybar1slash_V2"
-			"font"			"NewIcons20"
-			"labelText"		"È"
-			"textAlignment"		"west"
-			"xpos" 			"0"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"2901"
-			"wide"			"20"
-			"tall"			"18"
-			
-			"fgcolor"		"187 154 247 0"
-"pin_to_sibling"	"polybar1bg_V2"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
-
-		"polybar1slash2_V2"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"polybar1slash2_V2"
-			"font"			"NewIcons20"
-			"labelText"		"È"
-			"textAlignment"		"west"
-			"xpos" 			"-5"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"2900"
-			"wide"			"19"
-			"tall"			"18"
-			
-			"fgcolor"		"122 162 247 0"
-"pin_to_sibling"	"polybar1slash_V2"
-		}
 	"RankPanel"
 	{
 			xpos					0

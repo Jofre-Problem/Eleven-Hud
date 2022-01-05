@@ -779,7 +779,46 @@ Scheme
 					"offset" "0 0"
 				}
 			}
-		}						
+		}	
+		RiceUpDown1
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "blank"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "blank"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color""PolyIconsFg4"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "PolyIconsFg4"
+					"offset" "0 0"
+				}
+			}
+		}							
 		StoreItemBorderSelected
 		{
 			"inset" "0 0 1 1"

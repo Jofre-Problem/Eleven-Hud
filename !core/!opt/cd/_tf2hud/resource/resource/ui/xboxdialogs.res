@@ -664,7 +664,7 @@
 ////"wide_lodef""580"
 ////"tall_hidef""535"
 ////"tall_lodef""368"
-"gametotal""100"
+//"gametotal""100"
 //"center_lodef""0"
 
 "Footer"
@@ -735,7 +735,7 @@
 "xpos""15"
 "ypos""90"
 ////"ypos_lodef""75"
- "itemspacing""2"
+ //"itemspacing""2"
 //"minwide_hidef""700"
 //"minwide_lodef""550"
 //"maxvisibleitems_hidef""7"

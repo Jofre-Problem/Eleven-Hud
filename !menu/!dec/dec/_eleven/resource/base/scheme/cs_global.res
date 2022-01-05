@@ -68,21 +68,21 @@ Scheme
 		
 		ListPanel.OutOfFocusSelectedTextColor	"245 245 245 120"
 		ListPanel.EmptyListInfoTextColor	"245 245 245 120"
-		ListPanel.TextColor					"W_ColorIcons1"
+		ListPanel.TextColor					"PolyIconsFg1"
 		ListPanel.TextBgColor				"Blank"
-		ListPanel.SelectedTextColor			"W_ColorTheme2"
+		ListPanel.SelectedTextColor			"PolyIconsFg4"
 		ListPanel.BgColor					"Blank"
-		ListPanel.SelectedBgColor			"W_BorderArmed"
-		ListPanel.SelectedOutOfFocusBgColor	"W_BorderArmed"
+		ListPanel.SelectedBgColor			"PolyIconsBg1"
+		ListPanel.SelectedOutOfFocusBgColor	"PolyIconsBg1"
 
 		//M
 		MainMenu.TextColor			"40 34 30 255"
 		MainMenu.ArmedTextColor		"W_ColorIcons1"
 		MainMenu.Inset				"32"
-		Menu.TextColor			"240 240 240 255"
-		Menu.BgColor			"W_ColorTheme2"
-		Menu.ArmedTextColor		"W_BorderArmedText"
-		Menu.ArmedBgColor		"W_BorderArmed"
+		Menu.TextColor			"PolyIconsFg1"
+		Menu.BgColor			"PolyIconsBg1"
+		Menu.ArmedTextColor		"PolyIconsBg1"
+		Menu.ArmedBgColor		"PolyIconsFg1"
 		Menu.TextInset			"6"
 
 		//S
@@ -123,7 +123,7 @@ Scheme
 		PropertySheet.TextColor			"W_ColorIcons1"
 		PropertySheet.SelectedTextColor	"W_ColorIcons1"
 	//	ProgressBar.BgColor				"W_ColorTheme2"
-		ProgressBar.FgColor				"W_BorderArmed"	
+		ProgressBar.FgColor				"PolyIconsBg1"	
 
 		//R
 		RichText.TextColor				"210 207 200 255"

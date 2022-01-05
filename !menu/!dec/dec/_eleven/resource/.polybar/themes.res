@@ -15,7 +15,7 @@ Scheme
 		"PolyIconsFg1"		"98 174 239 255"//"254 254 254 255" //based on bg
 		"PolyIconsFg2"		"254 254 254 255"//"31 16 41 255" //based on bg
 		"PolyIconsFg3"		"173 131 176 255" //based on bg
-		"PolyIconsFg4"		"194 160 234 255" //based on bg
+		"PolyIconsFg4"		"152 195 121 255" //based on bg
 		"PolyIconsBg1"		"30 33 40 255"//"254 38 15 255"	//based on bg
 		"PolyIconsBg2"		"254 38 15 255"//"247 239 236 255"	//line
 		"PolyIconsBg3"		"196 176 117 255"	//line

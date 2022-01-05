@@ -11,6 +11,81 @@
 	//	"tall"			"458"
 		"visible"		"1"
 	}
+		"bg1"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"		"bg1"
+			"xpos"			"60"
+			"ypos"			"5+13"
+			"wide"			"125"
+			"tall"			"50"
+			"bgcolor_override"		"PolyIconsBg1"
+			"alpha"	"210"
+			"PaintBackgroundType"	"2"	
+			"gif"
+			{
+			"ControlName""ImagePanel"
+			"fieldName""gif"
+			"xpos""2"
+			"ypos""4"
+			"zpos""7"
+			"wide""42"
+			"tall""o1"
+			"visible""1"
+			"enabled""1"
+			"scaleImage""1"
+			"image""replay/thumbnails/l4d2/gif_noskill"
+			"fgcolor""TanDark"
+			}	
+			"Label"
+			{
+			"ControlName""CExLabel"
+			"fieldName""Label"				
+				"font"			"Regular14"
+				"textAlignment"		"west"
+				"xpos"				"55"
+				"ypos"				"0"
+				"wide"				"f0"
+				"tall"				"50"
+				"labelText"			"Loading..."
+				"fgcolor_override"	"TanLight"
+			}					
+		}	
+		"bg2"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"		"bg2"
+			"xpos"			"5"
+			"ypos"			"5+13"
+			"wide"			"50"
+			"tall"			"50"
+			"bgcolor_override"		"PolyIconsBg1"
+			"alpha"	"210"
+			"PaintBackgroundType"	"2"	
+			
+		}
+	"Removeline"
+	{
+		ControlName				EditablePanel
+		FieldName				"Removeline"
+			xpos					9
+			ypos					23
+			wide					42
+			tall					40
+		bgcolor_override				"blank"
+		mouseInputEnabled			0
+
+		"PartySlot0"  // player
+		{
+			ControlName				CDashboardPartyMember
+			fieldName				"PartySlot0"
+			xpos					0
+			ypos					0
+			"wide""42"
+			"tall""42"
+			party_slot				0
+		}	
+	}						
 		"background2"
 		{
 		"ControlName""ImagePanel"
@@ -183,21 +258,7 @@
 			"fgcolor" "137 191 60 255"
 		}
 	}
-		"Luz"
-		{
-		"ControlName""ImagePanel"
-		"fieldName""Luz"
-		"xpos""cs-0.5"
-		"ypos""rs1-45"
-		"zpos""7"
-		"wide""50"
-		"tall""o1"
-		"visible""1"
-		"enabled""1"
-		"scaleImage""1"
-		"image""replay/thumbnails/l4d2/gif_noskill"
-		"fgcolor""TanDark"
-		}		
+	
 	"icon"
 	{
 		"labelText"		"ü"
@@ -242,7 +303,7 @@
 	}
 	"StatData"
 	{
-		"ypos"				"0"
+		"ypos"				"-30"
 	//	"tall"				"458"
 	//	"wide"				"0"
 	
