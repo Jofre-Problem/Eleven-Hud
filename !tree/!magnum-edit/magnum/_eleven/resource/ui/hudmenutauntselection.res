@@ -12,7 +12,7 @@
 
 		image					"replay/thumbnails/hud/SelectionWheel9"
 		scaleImage				1
-		drawcolor				"32 32 32 255"
+		drawcolor				"32 32 32 100"
 	}
 	"MainBackground"	
 	{

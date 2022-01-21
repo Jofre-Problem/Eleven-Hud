@@ -4,6 +4,13 @@ Scheme
 
 	Fonts
 	{
+		"CenterPrintText"
+		{
+			"1"
+			{
+				"name" "Open Sans"
+			}
+		}		
 		"DamagetextShadow"
 		{
 			"1"

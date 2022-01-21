@@ -1,8 +1,5 @@
 //#base "../#jofre/partymembers.res"
 #base "../ui_overrides/ui/summersale_border.res"
-#base "base/1shadedbar.res"
-#base "../ui3/gradient1.res"
-#base "../ui2/mm_topbar.res"
 "Resource/UI/Scoreboard.res"
 {	
 	"scores"
@@ -51,8 +48,17 @@
 	}			
 	"BlueScoreBG"
 	{
-		"wide"			"0"
+		"wide"	"0"
 	}
+	"ShadedBar"
+	{
+		"bgcolor_override"	"W_ColorTheme1"
+		"xpos"	"cs-0.50"
+		"ypos""cs-0.50"
+		"border"	"Rice1"
+		"wide"			"p0.8"
+		"tall"			"400" 
+	}	
 	"BlueTeamImage"
 	{
 		"wide"			"0"
@@ -75,18 +81,6 @@
 		"wide"			"p1"
 	}
 
-	"Cover"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"Cover"
-		"xpos"			"rs1"
-		"ypos"			"0"
-		"zpos"			"-100"
-		"wide"			"p0.36"
-		"tall"			"p0.35"
-		"scaleImage"		"1"
-		"image"			"replay/thumbnails/hp/cover"		
-	}
 
 	"BlueLeaderAvatarBG"
 	{
@@ -135,14 +129,7 @@
 	{
 		"wide"			"0"
 	}	
-	"BlueTeamPlayerCount"
-	{
-		"wide"			"0"
-	}	
-	"RedTeamPlayerCount"
-	{
-		"tall"			"0"
-	}		
+
 	"BlueTeamLabel"
 	{
 			"wide"			"0"
@@ -232,7 +219,7 @@
 			"ypos"			"28"
 			"zpos"			"1"
 			"wide"			"p0.85"
-			"tall"			"10"
+			"tall"			"8"
 			fgcolor			"102 255 0 255"
 			"bgcolor_override"		"TransparentBlack"
 	}			
@@ -280,7 +267,7 @@
 		"ypos"			"2"
 		"zpos"			"2"
 		"wide"			"72"
-		"tall"			"10"
+		"tall"			"8"
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -323,11 +310,11 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
-		"xpos"			"rs1"
-		"ypos"			"-7-p0.002778"
+		"xpos"			"rs1-90"
+		"ypos"			"50"
 		"zpos"			"400"
-		"wide"			"p0.35"
-		"tall"			"p0.9"
+		"wide"			"300"
+		"tall"			"300"
 		"pinCorner"		"0"
 		"visible"		"1"
 		//"enabled"		"1"
@@ -337,6 +324,7 @@
 		"textcolor"		"red"
 		"linegap"		"1"
 		//"show_columns"	"1"
+		"bgcolor_override"	"PolyIconsbg1"
  		if_mvm
  		{
  			"visible"		"0"
@@ -347,12 +335,11 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
-		"xpos"			"0"
-		"ypos"			"-7-p0.002778"
+		"xpos"			"20"
+		"ypos"			"50"
 		"zpos"			"400"
-		"wide"			"p0.35"
-		"tall"			"p0.9"
-		"pinCorner"		"0"
+		"wide"			"300"
+		"tall"			"360"
 		"visible"		"1"
 		//"enabled"		"1"
 		"tabPosition"	"0"
@@ -361,7 +348,7 @@
 		"paintbackground"	"1"
 		"linegap"		"1"	
 		//"show_columns"	"1"
-
+		"pin_to_sibling"	"ShadedBar"
 		if_mvm
 		{
 			"visible"		"0"
@@ -565,294 +552,95 @@
 
 
 
-	"POLY_1_Label"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"POLY_1_Label"
-		"font"			"NewIcons10"
-		"labelText"		"ë"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"1000"
-		"wide"			"15"
-		"tall"			"8"
-		"bgcolor_override"	"58 68 73 255"
-		"fgcolor_override"	"185 194 68 255"
-	}
-		"POLY_1_S"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_1_S"
-			"font"			"NewIcons57"
-			"labelText"		"/"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"1000"
-			"wide"			"10"
-			"tall"			"10"
-			"fgcolor"		"58 68 73 255"
-"pin_to_sibling"	"POLY_1_Label"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-	"POLY_1_BG"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"POLY_1_BG"
-		xPos					0
-		yPos					0
-		"zpos"			"1000"
-		"wide"			"10"
-		"tall"			"13"
-		bgcolor_override				"20 20 20 255"
-"pin_to_sibling"	"POLY_1_Label"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-
-
-
 
 	"PlayerNameLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"PlayerNameLabel"
-		"font"			"Regular7"
-		"labelText"		"%playername%"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"0"
-	"zpos"			"1000"
-		"wide"			"p0.118"
-		"tall"			"13"
-		"bgcolor_override"	"20 20 20 255"
-		"pin_to_sibling"	"POLY_1_BG"						"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-	}	
-		"PlayerNameBG2"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"PlayerNameBG2"
-			"font"			"NewIcons57"
-			"labelText"		"/"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"1002"
-			"wide"			"10"
-			"tall"			"13"
-			
-			"fgcolor"		"20 20 20 255"
-"pin_to_sibling"	"PlayerNameLabel"
-					"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}			
-	"POLY_2_Label"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"POLY_2_Label"
-		"font"			"NewIcons7"
-		"labelText"		"Ù"
-		"textAlignment"		"east"
-		"xpos"			"0"
-		"ypos"			"0-p0.002"
-		"zpos"			"1002"
-		"wide"			"20"
-		"tall"			"13"
-		"bgcolor_override"	"48 58 63 255"
-		"fgcolor_override"	"76 203 220 255"
-"pin_to_sibling"	"PlayerNameBG2"			}
-
-
-	"ServerTimeLeft"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ServerTimeLeft"
-		"font"			"Regular7"
-		"labelText"		"%servertime%"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"0"
-	"zpos"			"1001"
-		"wide"			"p0.04"
-		"tall"			"13"
-		"visible"	"1"
-		"enabled"	"1"
-		"fgcolor_override"	"76 203 220 255"
-		"bgcolor_override"	"48 58 63 255"
-		"pin_to_sibling"	"POLY_2_Label"						"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-	}	
-
-		"POLY_2_SLASH"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_2_SLASH"
-			"font"			"NewIcons57"
-			"labelText"		"/"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-		"zpos"			"1000"
-			"wide"			"10"
-			"tall"			"13"
-			
-			"fgcolor"		"48 58 63 255"
-"pin_to_sibling"	"ServerTimeLeft"
-					"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}	
-
-
-
-
-
-
-
-
-
-	"POLY_3_BG"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"POLY_3_BG"
-		xPos					0
-		yPos					0
-		"zpos"			"1000"
-		"wide"			"10"
-		"tall"			"13"
-		bgcolor_override				"20 20 20 255"
-"pin_to_sibling"	"ServerTimeLeft"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-	"POLY_3_Label"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"POLY_3_Label"
-		"font"			"NewIcons9"
-		"labelText"		"ê"
+		"font"			"Noto12"
 		"textAlignment"		"west"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"1000"
-		"wide"			"12"
+		"xpos"			"5"
+		"ypos"			"5"
+		"wide"			"160"
 		"tall"			"13"
-		"bgcolor_override"	"20 20 20 255"
-		"fgcolor_override"	"225 124 70 255"
-"pin_to_sibling"	"POLY_3_BG"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
+		"auto_wide_tocontents"	"1"
+		"bgcolor_override"	"0 0 0 0"
+	}	
 
-
+	
 	"MapName"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"Regular7"
-		"labelText"		"%mapname%"
-		"textAlignment"	"center"
- 		"xpos"			"0"
+		"font"			"NotoBold10"
+		"textAlignment"	"west"
+ 		"xpos"			"10"
 		"ypos"			"0"
-		"zpos"			"1000"
-		"wide"			"p0.118"
+		"wide"			"100"
 		"tall"			"13"
-		//"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		//"enabled"		"1"
-		"bgcolor_override"	"20 20 20 255"
-		"fgcolor"		"225 124 70 255"
-"pin_to_sibling"	"POLY_3_Label"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"auto_wide_tocontents"		"1"
+	//	"bgcolor_override"	"PolyIconsBg1"
+		"fgcolor"		"White"
+		"pin_to_sibling"	"PlayerNameLabel"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 	}
-		"POLY_3_SLASH"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_3_SLASH"
-			"font"			"NewIcons57"
-			"labelText"		"/"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"1000"
-			"wide"			"10"
-			"tall"			"10"
-			
-			"fgcolor"		"20 20 20 255"
-"pin_to_sibling"	"MapName"
-					"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}	
-
-
-
-
-
-
-	"POLY_4_BG"				// background for the left side buttons
+	"ServerTimeLeft"
 	{
-		ControlName				EditablePanel
-		FieldName				"POLY_4_BG"
-		xPos					0
-		yPos					0
-		"zpos"			"1000"
-		"wide"			"10"
-		"tall"			"8"
-		bgcolor_override				"38 48 53 255"
-"pin_to_sibling"	"MapName"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-	"POLY_4_Label"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"POLY_4_Label"
-		"font"			"NewIcons9"
-		"labelText"		"ó"
+		"font"			"NotoBold10"
 		"textAlignment"		"west"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"0"
-		"zpos"			"1000"
-		"wide"			"12"
-		"tall"			"8"
-		"bgcolor_override"	"38 48 53 255"
-		"fgcolor_override"	"108 119 187 255"
-"pin_to_sibling"	"POLY_4_BG"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
+		"wide"			"10"
+		"tall"			"13"
+		"auto_wide_tocontents"	"1"
+		"fgcolor_override"	"White"
+		"pin_to_sibling"	"MapName"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+	}			
+	"BlueTeamPlayerCount"
+	{
+		"font"			"NotoBold10"
+		"textAlignment"		"west"
+		"xpos"			"10"
+		"ypos"			"0"
+		"wide"			"100"
+		"tall"			"13"
+		"fgcolor_override" 	"52 152 219 255"
+		"auto_wide_tocontents"	"1"		
+		"pin_to_sibling"	"MapName"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+	}	
+	"RedTeamPlayerCount"
+	{
+		"font"			"NotoBold10"
+		"textAlignment"		"west"
+		"xpos"			"10"
+		"ypos"			"0"
+		"wide"			"100"
+		"tall"			"13"
+		"fgcolor_override" 	"239 59 43 255"
+		"auto_wide_tocontents"	"1"		
+		"pin_to_sibling"	"BlueTeamPlayerCount"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+	}		
 
 	"ServerLabelNew"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ServerLabelNew"
-		"font"			"Regular7"
-		"labelText"		"%server%"
-		"textAlignment"		"center"
-		"xpos"			"0"
+		"font"			"NotoBold10"
+		"textAlignment"		"west"
+		"xpos"			"10"
 		"ypos"			"0"
-		"zpos"			"1000"
-		"wide"			"p0.25"
-		"tall"			"8"
-		//"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		//"enabled"		"1"
-		"bgcolor_override"	"38 48 53 255"
-		"fgcolor_override"	"108 119 187 255"		
-"pin_to_sibling"	"POLY_4_Label"			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"wide"			"100"
+		"tall"			"13"
+		"fgcolor_override"	"White"	
+		"pin_to_sibling"	"RedTeamPlayerCount"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 	}
 
-		"POLY_4_SLASH"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_4_SLASH"
-			"font"			"NewIcons57"
-			"labelText"		"/"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"1000"
-			"wide"			"10"
-			"tall"			"10"
-			
-			"fgcolor"		"38 48 53 255"
-"pin_to_sibling"	"ServerLabelNew"
-					"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}	
+	
 
 	"Spectators"
 	{
@@ -1122,17 +910,6 @@
 			}
 		}
 	}
-	"BR3"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"BR3"
-		xPos					0
-		yPos					0
-		"zpos"			"1000"	
-		"wide"			"f0"
-		"tall"			"8"
-		bgcolor_override				"18 8 13 255"
-	}	
 	"BlueTeamScore"
 	{
 		"ControlName"		"CExLabel"
@@ -1229,7 +1006,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"KILLSASSISTSDEATHS"
 			"font"			"CustomQuinto"
-			"labelText"		"#scoreboard_K_A_D_list"//"%kills%"
+			"labelText"		"%damage%"//"%kills%"
 			"textAlignment"		"center"
 			"xpos" 			"0"					//"c-60"//			"180"
 			"ypos"			"rs1-18"

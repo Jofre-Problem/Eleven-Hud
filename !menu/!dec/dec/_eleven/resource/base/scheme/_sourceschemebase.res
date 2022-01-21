@@ -10,6 +10,8 @@ Scheme
 		FrameTitleBar.BgColor			"Blank"
 		FrameTitleBar.Font				"UiBold"
 //FrameSystemButton.Icon			"replay/thumbnails/misc/paint_gif"
+		TextEntry.BgColor			"blank"
+		Button.BgColor			"blank"
 }
 	Fonts
 	{

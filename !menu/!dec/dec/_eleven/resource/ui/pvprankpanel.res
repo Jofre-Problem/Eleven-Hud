@@ -4,15 +4,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ModelContainer"
-		"xpos"			"190"
-		"ypos"			"30"
-		"zpos"			"20"		
-		"wide"			"50"
-		"tall"			"40"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"zpos"			"3"		
+		"wide"			"f0"
+		"tall"			"f0"
 		"proportionaltoparent"	"1"
 		"actionsignallevel"	"2"
-		"bgcolor_override"	"0 0 0 0"
-		
+
 		"BelowModelParticlePanel"
 		{
 			"ControlName"	"CTFParticlePanel"
@@ -53,13 +52,13 @@
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.5"
 			"zpos"			"0"		
-			"wide"			"f0"
-			"tall"			"f0"
-			//"autoResize"	"0"
+			"wide"			"o1"
+			"tall"			"p0.12"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
-			//"enabled"		"1"
-			"fov"			"75"
+			"enabled"		"1"
+			"fov"			"70"
 			"proportionaltoparent"	"1"
 
 			if_mini
@@ -82,9 +81,9 @@
 				"angles_x"	"0"
 				"angles_y"	"180"
 				"angles_z"	"0"
-				"origin_x"		"40"
+				"origin_x"		"45"
 				"origin_y"		"0"
-				"origin_z"		"5"
+				"origin_z"		"0"
 				"spotlight"	"1"
 
 				if_mini
@@ -175,7 +174,7 @@
 			"proportionaltoparent"	"1"
 			"command"	"medal_clicked"
 			"actionsignallevel"	"2"
-			"labelText"	""
+			"labeltext"	""
 
 			"paintbackground"	"0"
 			"backgroundenabled"	"0"
@@ -202,64 +201,18 @@
 			"tall"			"35"
 			"wide"			"505"
 		}
-		"NamePanel"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"NamePanel"
-			"xpos"		"5"
-			"ypos"		"30"
-			"zpos"		"100"
-
-			"wide"		"235"	
-			"tall"		"60"	
-			"PaintBackgroundType"	"0"
-			"paintbackground"		"1"
-			"mouseInputenabled"	"0"		
-
-			"PartySlot0"
-			{
-				"ControlName""CDashboardPartyMember"
-				"fieldName""PartySlot0"
-				"xpos""5"
-				"ypos""8"
-				"zpos""50"
-				"wide""42"
-				"tall""o1"
-				"party_slot"	"0"
-			}	
-			"SteamSummerBorder"
-			{
-			"ControlName""ImagePanel"
-			"fieldName""SteamSummerBorder"
-			"xpos""5"  //-5
-			"ypos""5" //-5
-			"zpos""110"
-			"wide""52"  //+10
-			"tall""50"  //+12
-			"visible""1"
-			"enabled""1"
-			"scaleImage""1"
-			"image""replay/thumbnails/steam_summersale/s_border_orange"
-			"fgcolor""TanDark"
-			"mouseinputenabled"	"0"
-			"pin_to_sibling"	"PartySlot0"
-			}						
-		}	
-
 		"NameLabel"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"		"57"
-			"ypos"		"37"
-			"wide"			"200"
-			"zpos"			"200"
-			"tall"			"15"
-			"visible"		"1"
-			//"enabled"		"1"
-			"font"			"CustomTercero"
-			"fgcolor_override"	"W_ColorTheme1"
-			"textAlignment"	"west"
+"xpos""110"
+"ypos""65"
+"wide""f0"
+"zpos""10"
+"tall""20"
+"font""HudFontSmall"
+"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
 			"textinsetx"	"0"
@@ -278,7 +231,7 @@
 			"zpos"			"200"
 			"wide"			"170"
 			"tall"			"p0.002"
-			"fillcolor"		"W_ColorTheme1"
+			"fillcolor"		"TanLight"
 			"pin_to_sibling"	"NameLabel"
 		}
 		"DescLine1"
@@ -288,7 +241,7 @@
 			"wide"			"200"
 			"zpos"			"200"
 			"tall"			"10"
-			"font"			"CustomSegundo"
+			"font"			"HudFontSmallest"
 			"fgcolor_override"	"255 255 255 255"
 			"textAlignment"	"west"
 			"pin_to_sibling"	"NameLabel"
@@ -301,7 +254,7 @@
 			"wide"			"200"
 			"zpos"			"200"
 			"tall"			"10"
-			"font"			"CustomSegundo"
+			"font"			"HudFontSmallest"
 			"fgcolor_override"	"255 255 255 255"
 			"pin_to_sibling"	"DescLine1"
 		}
@@ -355,16 +308,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"NextLevelXPLabel"
-					"xpos"			"rs1-5"
-					"ypos"			"rs1"
-					"zpos"			"20"
-					"wide"			"f0"
-					"tall"			"13"
-					"visible"		"1"
-					//"enabled"		"1"
-					"font"			"Regular7"
-					"fgcolor_override"	"255 255 255 255"
-					"textAlignment"	"east"
+"xpos""r115"
+"ypos""80"
+"zpos""0"
+"wide""100"
+"tall""20"
+"visible""1"
+"enabled""1"
+"font""Journal20"
+"fgcolor_override""TanLight"
+"textAlignment""center"
 				}
 
 				"ProgressBarsContainer"

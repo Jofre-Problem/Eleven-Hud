@@ -58,18 +58,18 @@
 	HudDeathNotice
 	{
 		"xpos"	 "rs1-5" // 6 KF
-		"ypos"	 "45" // 7 KF
+		"ypos"	 "35" // 7 KF
 		"wide"	 "f0"
 		"tall"	 "p0.6"
 
 		"MaxDeathNotices" "8" // 1 KF
 		"IconScale"		"0.07"
-		"LineHeight"	"14" // 3 KF
+		"LineHeight"	"16" // 3 KF
 		"LineSpacing"	"0" // 4 KF
 		"CornerRadius"	"0" // 2 KF
 	//	"RightJustify"	"0"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		"NotoBold14"
 		
 		"TeamBlue"		"13 117 190 255"
 		"TeamRed"		"190 45 57 255"
@@ -87,16 +87,20 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"			"c100"
+		"xpos"			"c106"
+		"xpos_minmode"	"c106-62"
 		"ypos"			"325"
+		"ypos_minmode"	"325+28"			
 		"zpos"			"0"
 		"wide"			"124"
 		"tall"			"36"
 	}
 	HudMedicCharge
 	{
-		"xpos"			"c100"
+		"xpos"			"c106"
+		"xpos_minmode"	"c106-62"
 		"ypos"			"325"
+		"ypos_minmode"	"325+28"
 		"zpos"			"0"
 		"wide"			"124"
 		"tall"			"36"
@@ -179,10 +183,10 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"rs1"
+		"xpos"					"80"
 		"ypos"					"rs1"
 		"wide"					"20"
-		"tall"  				"15"
+		"tall"  				"20"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -442,7 +446,6 @@
 		"icon_tall"			"16"
 		"icon_wide"			"16"
 		"text_xpos"			"33"
-		"text_xpos_minmode"	"9999"
 
 	
 		"fade_in_time"			"0.06"
@@ -459,9 +462,7 @@
 
 	HudArenaClassLayout
 	{
-		"ypos"					"0"
-		"wide"					"f0"
-		"tall"					"f0"
+		"ypos"					"r80"
 	}
 	ArenaWinPanel
 	{

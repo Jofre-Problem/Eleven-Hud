@@ -98,7 +98,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		
-		"bgcolor_override"	"W_ColorTheme1"
+		"bgcolor_override"	"PolyIconsBg1"
 	}
 	
 	"EntryShadow"

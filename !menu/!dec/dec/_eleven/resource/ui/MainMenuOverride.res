@@ -1,3 +1,4 @@
+	#base "../ui2/gif_tank.res"
 	#base "../ui2/preload.res"
 	#base "../ui2/+motd_main_only.res"
 //	#base "../ui2/_motd_toonhud.res"
@@ -16,6 +17,155 @@
 {
 	"MainMenuOverride"
 	{	}
+	"MMBackgroundPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"MMBackgroundPanel"
+		"xpos"			"9990"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"PaintBackgroundType"	"0"
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"9999"
+			"ypos"			"9999"
+			"wide"			"1"
+			"tall"			"1"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"25"
+			"use_proportional_insets" "1"
+			"font"			""
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"border_default"	"MainMenuButtonDefault"
+			"border_armed"		"MainMenuButtonArmed"
+			"paintbackground"	"0"
+			
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "235 226 202 255"
+			"depressedFgColor_override" "46 43 42 255"
+			
+			"image_drawcolor"	"117 107 94 255"
+			"image_armedcolor"	"235 226 202 255"
+
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"6"
+				"ypos"			"6"
+				"zpos"			"1"
+				"wide"			"14"
+				"tall"			"14"
+				"visible"		"1"
+				"enabled"		"1"
+				"scaleImage"	"1"
+			}
+		}
+	"MMBackground1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background"
+		"scaleImage"	"1"
+	}
+	"MMBackground2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground2"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background2"
+		"scaleImage"	"1"
+	}
+	"MMBackground3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground3"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background3"
+		"scaleImage"	"1"
+	}
+	"MMBackground4"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground4"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background4"
+		"scaleImage"	"1"
+	}
+	"MMBackground5"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground5"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background5"
+		"scaleImage"	"1"
+	}
+	"MMBackground6"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MMBackground6"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-300"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/mainmenu/mm_background6"
+		"scaleImage"	"1"
+	}
+	}
+	"NoSkill"
+	{	
+		"wide"		"0"
+	}			
 	"TFCharacterImage"
 	{
 		"tall"			"0"
@@ -30,30 +180,12 @@
 	}				
 	"TFLogoImage"
 	{
-		"xpos"		"30"
-		"ypos"			"130"
-		"wide"		"160"
-		"tall"		"0"
-	}	
+		"wide"				"0"
+	}
 
 //	"NotificationNoYet"
 //	{		"ControlName"			"CExLabel"		"fieldName"				"NotificationNoYet"		"font"					"ItemTrackerScore_InGame"		"labelText"	"#MMenu_Notifications_Empty"		"centerwrap"		"1"		"xpos""rs1-5"		"ypos""36"		"zpos""20""wide"			"p0.085"		"tall"			"40"		"fgcolor_override" "W_ColorIcons1"
 //	}
-	"ColorOverlay"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ColorOverlay"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-199"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"polyiconsbg1"
-		"alpha"	"0"
-	}
-	
 	"Background"
 	{
 		"ControlName"	"ScalableImagePanel"
@@ -109,10 +241,23 @@
 			"image"		""
 		}			
 	}	
-	"RankModelPanel"
-	{
-		yPos					-90
-	}
+"RankModelPanel"
+{
+"ControlName""CPvPRankPanel"
+"fieldName""RankModelPanel"
+		"xpos"	"9999"//"r467"
+		"ypos"	"cs-0.5-180"
+		"zpos"			"-51"
+"wide""800"
+"tall""800"
+"visible""1"
+"proportionaltoparent""1"
+"mouseinputenabled""1"
+
+"matchgroup""MatchGroup_Casual_12v12"
+
+"show_progress""0"
+}
 
 	"CycleRankTypeButton"
 	{
@@ -143,19 +288,44 @@
 	{
 		"wide"			"0"
 	}		
-
+	"PartySlot0"
+	{
+	"ControlName""CDashboardPartyMember"
+	"fieldName""PartySlot0"
+	"xpos""5"
+	"ypos""-95"
+	"zpos""50"
+	"wide""32"
+	"tall""32"
+	}
+			"SteamSummerBorder"
+			{
+			"ControlName""ImagePanel"
+			"fieldName""SteamSummerBorder"
+			"xpos""5"  //-5
+			"ypos""5" //-5
+			"zpos""110"
+			"wide""42"  //+10
+			"tall""40"  //+12
+			"visible""1"
+			"enabled""1"
+			"scaleImage""1"
+			"image""replay/thumbnails/steam_summersale/s_border_orange"
+			"fgcolor""TanDark"
+			"mouseinputenabled"	"0"
+			"pin_to_sibling"	"PartySlot0"
+			}		
 	"Workshop"		// open advanced options
 	{
 		ControlName				CExButton
 		FieldName				"Workshop"
-		xPos					0
-		yPos					0
-		zPos					4000
-		wide					20
-		tall					13
+		xPos					rs1
+		yPos					rs1
+		wide					15
+		tall					10
 		labelText				"j"//"ø"
 		textAlignment			center
-		font			"NewIcons9"
+		font			"NewIcons12"
 		command				"engine workshop"
 
 		sound_depressed			"sound_menu/button.wav"
@@ -197,7 +367,7 @@
 		{
 			"wide"			"0"
 		}	
-	
+
 	"Notifications_ShowButtonPanel"	// notification alert
 	{
 		ControlName				EditablePanel
@@ -309,8 +479,7 @@
 	"StoreHasNewItemsImage"		//Possible use in the future
 	{
 		"wide"			"0"
-	}	
-	
+	}
 	"Notifications_Panel"
 	{
 		ControlName				EditablePanel
@@ -521,8 +690,7 @@
 	}		
 	"QuestLogButton"
 	{
-		visible 			0
-		enabled			0
+		"tall"			"0"
 	}
 	"EventPromo"
 	{
@@ -539,8 +707,8 @@
 		"zpos"			"3000"
 			"xpos"			"0"
 			"ypos"			"0"		
-		wide					15
-		tall					13//p0.043
+		wide					17
+		tall					14//p0.043
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -553,15 +721,14 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_ShowButtonPanel_SB"
 			"zpos"			"1"
-		wide					15
-		tall					13
+		wide					17
+		tall					14
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			//"enabled"		"1"
-			"tabPosition"	"0"
 			"labelText"		"u"
-			"font"			"NewIcons9"
+			"font"			"NewIcons12"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -576,9 +743,6 @@
 			"sound_depressed"	"sound_menu/button.wav"
 			"sound_released"	"sound_menu/button2.wav"
 			"paintbackground" "0"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"W_ColorTheme4"
-		"border_armed"	"RiceUpDown1"
 			"SubImage"
 			{
 				"wide"			"0"
@@ -590,15 +754,14 @@
 	{
 		ControlName				CExButton
 		FieldName				"SafeMode2"
-		"xpos"			"cs-0.5"
+		"xpos"			"-17"
 		"ypos"			"0"
 		"zpos"			"3000"
-		wide					15
-		tall					13//p0.042
-			"labelText"		"u"
-			"font"			"NewIcons9"
+		wide					17
+		tall					14//p0.042
+			"labelText"		"2"
+			"font"			"Regular12"
 			"textAlignment"	"center"
-			"border_armed"	"RiceUpDown1"
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
 		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"PolyIconsFg4"
@@ -606,6 +769,7 @@
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
 		paintBackground			0
+		"pin_to_sibling"	"testpanel1"
 	}		
 	"Workspace3"		// open achievements window
 	{
@@ -614,12 +778,11 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"3000"
-		wide					15
-		tall					13//p0.042
-			"labelText"		"u"
-			"font"			"NewIcons9"
+		wide					17
+		tall					14
+			"labelText"		"3"
+			"font"			"Regular12"
 			"textAlignment"	"center"
-			"border_armed"	"RiceUpDown1"
 		command				"engine showstatsdlg"
 		defaultFgColor_override		"PolyIconsFg1"
 		armedFgColor_override		"PolyIconsFg4"
@@ -632,23 +795,25 @@
 		"pin_to_sibling"	"SafeMode2"		
 	
 		paintBackground			0
-	}				
-			"polybar1bg_V2"						{			ControlName				ImagePanel			FieldName				
-			"polybar1bg_V2"
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
-		"zpos"				2900
-		"wide"			"39"
-		"tall"			"18"
-			fillColor				"187 154 247 0"		
 	}	
-
+	"testpanel1"	// notification alert
+	{
+		ControlName				EditablePanel
+		FieldName				"testpanel1"
+		xPos					2
+		yPos					2
+		zPos					0
+		"wide"			"50"
+		"tall"			"14"
+		paintBackground			1
+		"bgcolor_override"		"W_ColorTheme1"
+		"border"		"Rice2"
+	}					
 	"RankPanel"
 	{
 			xpos					0
 			ypos 0
-			wide 0
-			tall f0
-			"show_model""0"
-	}	
+			wide f0
+			tall 0
+	}
 }

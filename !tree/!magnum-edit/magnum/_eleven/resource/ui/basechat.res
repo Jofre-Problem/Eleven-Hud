@@ -7,12 +7,11 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"
-		"ypos"			"10"
+	//	"ypos"			"10"
 		"wide"	 		"350"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 0"		//this changes the bg u kno (minus except for the alpha), except I bs it with animations anyway (which does change alpha :B )
-		"alpha" "150"
 	}
 
 	ChatInputLine
@@ -26,7 +25,6 @@
 		"wide"	 		"350" //350
 		"tall"	 		"2"
 		"PaintBackgroundType"	"0"
-		"alpha" "255"
 	}
 
 	"ChatFiltersButton"
@@ -68,6 +66,5 @@
 		"font"			"ChatFont"
 		"maxchars"		"-1"
 		"bgcolor_override" "255 0 0 0"
-		"alpha" "255"
 	}
 }

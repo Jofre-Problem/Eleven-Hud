@@ -146,6 +146,7 @@
 		"xpos"			"45"
 		"ypos"			"20"
 		"zpos"			"10"
+		"fgcolor_override"	"PolyIconsbg1"
 		"wide"			"240"
 		"tall"			"20"
 	}	
@@ -342,7 +343,7 @@
 		enabled						1
 
 		labeltext					"ITEMS"
-		font							"Future12"
+		font							"Regular12"
 		textAlignment				east
 
 		Command						"characterloadout"
@@ -370,7 +371,7 @@
 		enabled						1
 		
 		labelText					"TAUNTS"
-		font							"Future12"
+		font							"Regular12"
 		textAlignment				west
 		
 		Command						"tauntloadout"
@@ -388,10 +389,10 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"RedTeamButton"
-		xpos							cs-0.5		// align with preset C
-		ypos							0
-		"zpos"				"5000"
-		"wide"				"20"
+		xpos							150		// align with preset C
+		ypos							rs1-90
+		"zpos"				"40"
+		"wide"				"12"
 		"tall"				"13"
 		"labelText"			"O"
 		"textAlignment"		"center"
@@ -413,8 +414,8 @@
 		"fieldName"			"BlueTeamButton"
 		"xpos"				"0"
 		"ypos"				"0"
-		"zpos"				"4000"
-		"wide"				"20"
+		"zpos"				"40"
+		"wide"				"12"
 		"tall"				"13"
 		"tabPosition"		"0"
 		"labelText"			"O"

@@ -17,24 +17,6 @@
 		
 		"delta_lifetime"		"2.0"
 	}
-
-	"Hitmarker"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"Hitmarker"
-		"xpos"			"cs-0.5"
-		"ypos"			"cs-0.5"
-		"zpos"			"200"
-		"wide"			"40"
-		"tall"			"o1"
-		"enabled"		"1"
-		"visible"		"1"
-		"image"			"replay/thumbnails/null"
-		"scaleImage"	"1"	
-		"Alpha"			"0"
-		"teambg_2"		"replay/thumbnails/superXhair/crosshair_dot_damage"
-		"teambg_3"		"replay/thumbnails/superXhair/crosshair_dot_over"
-	}	
 	"DamageAccountLabel"
 	{
 		"ControlName"	"CExLabel"

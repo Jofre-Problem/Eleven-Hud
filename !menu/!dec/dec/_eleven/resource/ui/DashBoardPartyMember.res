@@ -32,7 +32,7 @@
 		font					"NewIcons9"
 		textAlignment			center
 
-		fgcolor_override			"PolyIconsFg2"
+		fgcolor_override			"0 0 0 0"
 		paintbackground			0
 	}
 

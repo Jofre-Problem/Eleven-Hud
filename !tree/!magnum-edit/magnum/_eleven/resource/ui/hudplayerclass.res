@@ -68,20 +68,8 @@
 		"enabled"		"0"
 	}
 	"classmodelpanelBG"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"classmodelpanelBG"
-		"xpos"			"0"			
-		"ypos"			"rs1"	
-		"zpos"			"-101"		
-		"wide"			"20"
-		"tall"			"o1"
-		//"visible"		"1"
-		
-		"scaleImage"	"1"
-		"image"				"replay/thumbnails/redcorner"	
-		"teambg_2"			"replay/thumbnails/redcorner"
-		"teambg_3"			"replay/thumbnails/bluecorner"
+	{		
+		"wide"			"0"
 	}	
 	"classmodelpanel"
 	{

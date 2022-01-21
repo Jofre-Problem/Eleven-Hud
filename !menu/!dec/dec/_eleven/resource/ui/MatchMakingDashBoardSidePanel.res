@@ -40,7 +40,6 @@
 		"labelText"									"m"
 
 		"textAlignment"								"center"
-		"textinsety"								"0"
 		"font"										"NewIcons12"
 
 		"paintbackground"							"1"
@@ -78,7 +77,6 @@
 		"command"									"nav_close"
 
 		"textAlignment"								"center"
-		"textinsety"								"-14"
 		"font"										"NewIcons12"
 
 		"paintbackground"							"0"

@@ -1,176 +1,174 @@
-#base "../ui3/gradient1.res"
 "Resource/UI/HudArenaPlayerCount.res"
-{	
-
-	"POLY_1_Label"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"POLY_1_Label"
-		"font"			"NewIcons10"
-		"textinsety"	"2"
-		"labelText"		"à"
-		"textAlignment"		"center"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"20"
-		"wide"			"15"
-		"tall"			"8"
-		"bgcolor_override"	"58 68 73 255"
-		"fgcolor_override"	"185 194 68 255"
-	}
-		"POLY_1_S"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_1_S"
-			"font"			"NewIcons18"
-			"labelText"		"/"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"20"
-			"wide"			"10"
-			"tall"			"10"
-			"fgcolor"		"58 68 73 255"
-"pin_to_sibling"	"POLY_1_Label"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-	"POLY_1_BG"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"POLY_1_BG"
-		xPos					0
-		yPos					0
-		"zpos"			"20"
-		"wide"			"10"
-		"tall"			"8"
-		bgcolor_override				"13 117 190 255"
-"pin_to_sibling"	"POLY_1_Label"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-
-
+{
 	"blueteam"
 	{
-		"xpos"			"0"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"blueteam"
+		"xpos"			"c-55"
 		"ypos"			"0"
-		"zpos"			"9"
-		"wide"			"p0.01"
-		"tall"			"8"
-"pin_to_sibling"	"POLY_1_BG"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		
+		"zpos"			"0"
+		"wide"			"60"
+		"tall"			"23"
+		"visible"		"1"
+	
 		"background"
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"ControlName"	"CTFImagePanel"
+			"fieldName"		"background"
+			"xpos"			"5"
+			"ypos"			"0"
+			"zpos"			"0"
+			"wide"			"50"
+			"tall"			"19"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/noto_blue"
+				
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+					
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		
 		"count"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"count"
-			"xpos"			"0"
+			"xpos"			"23"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"p0.01"
-			"tall"			"8"
-			"font"			"Code7"
+			"wide"			"30"
+			"tall"			"19"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"NotoBold20"
+			"labelText"		"%blue_alive%"
 			"textAlignment"	"center"
-			"fgcolor"		"255 255 255 255"
-			"bgcolor_override"		"13 117 190 255"	
+			"fgcolor"		"NotoWhite"
 		}	
-	
 		"countshadow"
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"ControlName"		"CExLabel"
+			"fieldName"		"countshadow"
+			"xpos"			"24"
+			"ypos"			"8"
+			"zpos"			"1"
+			"wide"			"30"
+			"tall"			"25"
+			"autoResize"	"0"
+			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"font"			"HudFontMedium"
+			"labelText"		"%blue_alive%"
+			"textAlignment"	"center"
+			"fgcolor"		"Black"
 		}
 		
 		"playerimage"
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"ControlName"	"ImagePanel"		
+			"fieldName"		"playerimage"
+			"xpos"			"12"
+			"ypos"			"2"
+			"zpos"			"3"
+			"wide"			"8"
+			"tall"			"16"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"capture_icon_white"
+			"scaleImage"	"1"
 		}
 	}
-		"POLY_2_S"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_2_S"
-			"font"			"NewIcons18"
-			"labelText"		"/"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"20"
-			"wide"			"10"
-			"tall"			"10"
-			"fgcolor"		"13 117 190 255"
-"pin_to_sibling"	"blueteam"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}
-	"POLY_2_BG"				// background for the left side buttons
-	{
-		ControlName				EditablePanel
-		FieldName				"POLY_2_BG"
-		xPos					0
-		yPos					0-p0.002
-		"zpos"			"20"
-		"wide"			"10"
-		"tall"			"8"
-		bgcolor_override				"190 45 57 255"
-"pin_to_sibling"	"POLY_2_S"		"PaintBackgroundType"	"0"		}
+
 	"redteam"
 	{
-		"xpos"			"0"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"redteam"
+		"xpos"			"c-5"
 		"ypos"			"0"
-		"zpos"			"9"
-		"wide"			"p0.1"
-		"tall"			"8"
-"pin_to_sibling"	"POLY_2_BG"		"PaintBackgroundType"	"0"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		
+		"zpos"			"0"
+		"wide"			"60"
+		"tall"			"23"
+		"visible"		"1"
+	
 		"background"
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"ControlName"	"CTFImagePanel"
+			"fieldName"		"background"
+			"xpos"			"5"
+			"ypos"			"0"
+			"zpos"			"0"
+			"wide"			"50"
+			"tall"			"19"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/noto_red"
+				
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+					
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		
 		"count"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"count"
-			"xpos"			"0"
+			"xpos"			"23"
 			"ypos"			"0"
 			"zpos"			"2"
-			"wide"			"p0.01"
-			"tall"			"8"
-			"font"			"Code7"
+			"wide"			"30"
+			"tall"			"19"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"NotoBold20"
+			"labelText"		"%red_alive%"
 			"textAlignment"	"center"
-			"fgcolor"		"255 255 255 255"
-			"bgcolor_override"		"190 45 57 255"	
+			"fgcolor"		"NotoWhite"
 		}	
-		"POLY_3_S"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"POLY_2_S"
-			"font"			"NewIcons18"
-			"labelText"		"/"
-			"textAlignment"		"west"
-			"xpos" 			"0-p0.001"					//"c-60"//			"180"
-			"ypos"			"0+p0.002"
-			"zpos"			"20"
-			"wide"			"10"
-			"tall"			"10"
-			"fgcolor"		"190 45 57 255"
-"pin_to_sibling"	"count"		"pin_corner_to_sibling"		"PIN_TOPLEFT"	"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-		}		
 		"countshadow"
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"ControlName"	"CExLabel"
+			"fieldName"		"countshadow"
+			"xpos"			"24"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"30"
+			"tall"			"19"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"0"
+			"enabled"		"0"
+			"font"			"HudFontMedium"
+			"labelText"		"%red_alive%"
+			"textAlignment"	"center"
+			"fgcolor"		"Black"
 		}
 	
 		"playerimage"
 		{
-			"wide"			"0"
-			"tall"			"0"
-		}			
+			"ControlName"	"ImagePanel"		
+			"fieldName"		"playerimage"
+			"xpos"			"12"
+			"ypos"			"2"
+			"zpos"			"3"
+			"wide"			"8"
+			"tall"			"16"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"capture_icon_white"
+			"scaleImage"	"1"
+		}
 	}
 }

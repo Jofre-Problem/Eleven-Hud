@@ -289,13 +289,72 @@ Scheme
 		{
 			"1"
 			{
-			//	"name"		"product sans"
-				"tall"		"8"
-				"weight"	"0"
+				"name"		"Verdana"
+				"tall"		"12"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"480 599"
+			}
+			"2"
+			{
+				"name"		"Verdana"
+				"tall"		"13"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"600 767"
+			}
+			"3"
+			{
+				"name"		"Verdana"
+				"tall"		"14"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"768 1023"
 				"antialias"	"1"
 			}
+			"4"
+			{
+				"name"		"Verdana"
+				"tall"		"20"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1024 1199"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Verdana"
+				"tall"		"24"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1200 6000"
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"	"Verdana"
+				"tall"		"12"
+				"range" 		"0x0000 0x00FF"
+				"weight"		"900"
+			}
+			"7"
+			{
+				"name"		"Verdana"
+				"tall"		"12"
+				"range" 		"0x0000 0x00FF"
+				"weight"		"800"
+			}
+
 			
 		}
+		"PlayerPanelPlayerName"
+		{
+			"1"
+			{
+				"name"		"Iosevka Term SS14"
+				"tall"		"6"
+			}
+		}		
 		"Regular7"
 		{
 			"1"
@@ -421,8 +480,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-			//	"name"		"product sans" 
-				"tall"		"13"
+				"tall"		"16"
 				"weight"	"250"
 				"antialias" "1"
 				"additive"	"1"
@@ -602,7 +660,53 @@ Scheme
 				"italic"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
-		}		
+		}	
+"Journal20"
+{
+"1"
+{
+"name""Journal-jofreproblem_fix1"
+"tall""20"
+"antialias""1"
+}
+}
+"Journal25"
+{
+"1"
+{
+"name""Journal-jofreproblem_fix1"
+"tall""25"
+"antialias""1"
+}
+}
+"Journal30"
+{
+"1"
+{
+"name""Journal-jofreproblem_fix1"
+"tall""30"
+"antialias""1"
+}
+}
+"Journal38"
+{
+"1"
+{
+"name""Journal-jofreproblem_fix1"
+"tall""38"
+"antialias""1"
+}
+}
+"Journal30_Blur"
+{
+"1"
+{
+"name""Journal-jofreproblem_fix1"
+"tall""30"
+"antialias""1"
+"blur"	"2"
+}
+}			
 	}
 	Borders
 	{		
@@ -1105,6 +1209,11 @@ Scheme
 	//	{
 	//		"font" "_eleven/font/sf.otf"
 	//		"name" "sf"
-	//	}   		     		
+	//	}
+		"101"
+		{
+			"font" "_eleven/font/journal_jp.otf"
+			"name" "Journal-jofreproblem_fix1Regular"
+		}		   		     		
 	}	
 }

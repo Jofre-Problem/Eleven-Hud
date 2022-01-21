@@ -24,17 +24,6 @@
 		"enabled"		"0"
 	}
 
-	"ItemMeterDescription"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"DefaultHudCounter"
-		"wide"			"0"
-		"enabled"		"1"
-		"visible"		"1"
-		"xpos"			"0"
-		"ypos"			"0"
-	}
-
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -55,13 +44,16 @@
 		"brighttext"		"0"
 		"font"			"SpectatorKeyHints"
 	}
-
+	"ItemEffectMeterBG"
+	{
+		"wide"			"0"	
+	}	
 	"ItemEffectMeterCount"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemEffectMeterCount"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"5"
 		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"10"	
@@ -75,26 +67,6 @@
 		"brighttext"		"0"
 		"font"			"Killfeed"
 		"fgcolor_override"	"245 245 245 255"
-	}
-	"ItemEffectMeterCountShadow"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ItemEffectMeterCountShadow"
-		"xpos"			"1"
-		"ypos"			"1"
-		"zpos"			"2"
-		"wide"			"70"
-		"tall"			"10"	
-		"pinCorner"		"2"
-		"visible"		"0"
-		"enabled"		"0"
-		"tabPosition"		"0"
-		"labelText"		"%progresscount%"
-		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"font"			"Default"
-		"fgcolor"		"0 0 0 0"
 	}
 
 	"ItemEffectMeterIcon"

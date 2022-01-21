@@ -3,7 +3,6 @@
 //#base "../#jofre/charbg.res"
 #base "../ui2/testgradient.res"
 //#base "../ui2/polybg.res"
-#base "../#jofre/home.res"
 //#base "../#jofre/downbar.res"
 
 "Resource/UI/CharInfoPanel.res"
@@ -23,6 +22,36 @@
 		clientinsetx_override		0		// content xpos offset
 		sheetinset_bottom			-10           // perfect
 	}
+	"BackButton"
+	{
+		"xpos"		"60"
+		"zpos"		"9000"
+		"font"	"Regular12"
+		"paintBackground"	"0"
+		"defaultFgColor_override"	"Black"
+	}		
+	"BackButtonQKey"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"BackButtonQKey"
+		"xpos"			"-9999"
+		"ypos"			"-9999"
+		"zpos"			"-9999"
+		"wide"			"0"
+		"tall"			"0"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"&Q"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"0"
+		"Command"		"back"
+	}		
 	"BackgroundHeader"
 	{
 		"wide"			"0"

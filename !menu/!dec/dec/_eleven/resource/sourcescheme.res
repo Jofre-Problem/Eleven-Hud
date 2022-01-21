@@ -3,8 +3,36 @@
 // code from flarepunch hud
 Scheme
 {
+	Colors
+	{
+		// rayshud	
+		"White"				"240 240 240 255"
+		"OffWhite"			"200 200 200 255"
+		"DullWhite"			"142 142 142 255"
+		"TransparentBlack"		"0 0 0 128"
+		"Black"				"10 10 10 255" 
+		"Blank"				"0 0 0 0"
+		"RaysPrimaryLight"		"0 255 255 255"
+		"RaysPrimaryDark"		"65 255 255 255"
+		"RaysBlack"				"32 32 32 255"
+		"RaysBlackTrans"		"32 32 32 200"
+		"RaysButtonHover"		"70 130 180 255"
+
+
+	    "Blank"				"0 0 0 0"
+
+		"ControlBG"			"76 88 68 255"		// background color of controls
+		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
+		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"		"90 84 75 255"		// background color of any selected text or menu item
+		"SelectionBG2"		"69 64 57 255"		// selection background in window w/o focus
+		"ListBG"			"39 36 34 255"		// background of server browser, buddy list, etc.
+		
+
+	}	
 	BaseSettings	{
-		"FrameTitleBar.Font"		"Blank"	}
+		"FrameTitleBar.Font"		"Blank"	
+}
 
    		Borders
 		{ 

@@ -18,27 +18,14 @@
 		"expanded_height"	"35"
 		"resize_time"		"0.2"
 	}
-	"fullgradi"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"fullgradi"
-		xPos					0
-		yPos					13
-		wide					f0
-		tall					"3"
-		"scaleimage"	"1"
-		"mouseinputenabled"	"0"
-		"alpha"		"255"
-		"image"		"replay/thumbnails/gradient_1"			
-	}	
 			"polybar0bg"						{			ControlName				ImagePanel			FieldName				
 			"polybar0bg"
 		"xpos"			"rs1"
 		"ypos"			"0"
 		"zpos"				2
 		"wide"			"25"
-		"tall"			"13"
-			fillColor				"PolybarTheme1"
+		"tall"			"15"
+			fillColor				"30 30 30 255"
 	}	
 
 
@@ -53,9 +40,9 @@
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"10"
-			"tall"			"13"
+			"tall"			"15"
 			
-			"fgcolor"		"PolybarTheme1"
+			"fgcolor"		"30 30 30 255"
 "pin_to_sibling"	"polybar0bg"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		}
@@ -65,7 +52,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"//70
-		"tall"			"13"
+		"tall"			"15"
 			fillColor				"PolybarTheme6"		"pin_to_sibling"	"polybar0bg"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"				
@@ -82,7 +69,7 @@
 			"ypos"			"0"
 			"zpos"			"18"
 			"wide"			"10"
-			"tall"			"13"
+			"tall"			"15"
 			
 			"fgcolor"		"PolybarTheme6"
 "pin_to_sibling"	"bgg1"
@@ -98,7 +85,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"
-		"tall"			"13"
+		"tall"			"15"
 			fillColor				"PolybarTheme5"			"pin_to_sibling"	"bgg1"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
@@ -116,7 +103,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"10"
-			"tall"			"13"
+			"tall"			"15"
 			
 			"fgcolor"		"PolybarTheme5"
 "pin_to_sibling"	"bgg2"
@@ -132,7 +119,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"
-		"tall"			"13"
+		"tall"			"15"
 			fillColor				"PolybarTheme4"			"pin_to_sibling"	"bgg2"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
@@ -150,7 +137,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"10"
-			"tall"			"13"
+			"tall"			"15"
 			
 			"fgcolor"		"PolybarTheme4"
 "pin_to_sibling"	"bgg3"
@@ -164,7 +151,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"30"
-		"tall"			"13"
+		"tall"			"15"
 			fillColor				"PolybarTheme3"			"pin_to_sibling"	"bgg3"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"			
@@ -182,7 +169,7 @@
 			"ypos"			"0"
 			"zpos"			"1"
 			"wide"			"10"
-			"tall"			"13"
+			"tall"			"15"
 			
 			"fgcolor"		"PolybarTheme3"
 "pin_to_sibling"	"bgg4"
@@ -214,7 +201,7 @@
 		"ypos""0"
 		"zpos""5001"
 		"wide""30"
-		"tall""13"
+		"tall""15"
 		"font""NewIcons12"
 		"textAlignment""west"
 		"command""engine showconsole;exec cc_cfg/clear3; status;exec cc_cfg/clear3; version"
@@ -247,7 +234,7 @@
 		"ypos""0"
 		"zpos""5001"
 		"wide""30"
-		"tall""13"
+		"tall""15"
 		"font""NewIcons12"
 		"textAlignment""west"
 		"command""engine hud_reloadscheme"
@@ -341,7 +328,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"30"
-			"tall"			"13"
+			"tall"			"15"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -378,26 +365,25 @@
 		}		
 		"PartySlot0"
 		{
-			"xpos"					"30"
-			"ypos"					"0"
+			"xpos"					"10"
+			"ypos"					"20"
 			"wide"					"0"
 			"tall"					"o1"
-			"scaleimage"	"0"
 		}
 		"PartySlot1"
 		{
-			"xpos"					"32"
+			"xpos"					"60"
 			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
+			"wide"					"20"
+			"tall"					"o1"
 		//	"pin_to_sibling" "PartySlot0"		"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		}
 		"PartySlot2"
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
+			"wide"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -406,8 +392,8 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
+			"wide"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -416,8 +402,8 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
+			"wide"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -426,8 +412,8 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"13"
-			"tall"					"13"
+			"wide"					"20"
+			"tall"					"o1"
 			"pin_to_sibling" "PartySlot4"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
@@ -765,7 +751,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"30"
-			"tall"			"13"
+			"tall"			"15"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -792,7 +778,7 @@
 			"fgcolor"			"W_ColorIcons1"
 			"fgcolor_override"			"W_ColorIcons1"
 			
-			"defaultFgColor_override" "W_ColorIcons1"
+			"defaultFgColor_override" "A_ColorTheme1"
 			"armedFgColor_override" "W_CerrarArmed"
 			"depressedFgColor_override" "W_ColorTexto1"
 			"SubImage"
@@ -809,7 +795,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"30"
-			"tall"			"13"
+			"tall"			"15"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -838,7 +824,7 @@
 			"fgcolor"			"W_ColorIcons1"
 			"fgcolor_override"			"W_ColorIcons1"
 			
-			"defaultFgColor_override" "W_ColorIcons1"
+			"defaultFgColor_override" "A_ColorTheme1"
 			"armedFgColor_override" "W_CerrarArmed"
 			"depressedFgColor_override" "W_ColorTexto1"
 
@@ -863,7 +849,7 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
-			"tall"			"14"
+			"tall"			"16"
 			//"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
