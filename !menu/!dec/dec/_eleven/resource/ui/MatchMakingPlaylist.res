@@ -40,8 +40,10 @@
 	{
 		"ControlName"								"CPlayListEntry"
 		"fieldName"									"CompetitiveEntry"
-		"xpos"										"cs-0.5-75"
-		"ypos"										"cs-0.5-35"
+	//	"xpos"										"cs-0.5-75"
+	//	"ypos"										"cs-0.5-35-90"
+		"xpos"	"0"
+		"ypos"	"0"
 		"zpos"										"3"
 		"wide"										"150"
 		"tall"										"190"
@@ -52,8 +54,20 @@
 		"button_command"							"play_competitive"
 		"desc_token"								"#MMenu_PlayList_Competitive_Desc"
 		"matchgroup"								"2" // k_eTFMatchGroup_Ladder_6v6
+		"pin_to_sibling"							"ServerBrowserEntry"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
-
+	"ServerBrowserEntry"
+	{
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5-35"
+		"zpos"										"3"
+		"wide"										"150"
+		"tall"										"190"
+		"proportionaltoparent"						"0"		
+		"image_name"								"replay/thumbnails/l4d2/mm/menu_mode_survival"		
+	}
 	"MvMEntry"
 	{
 		"ControlName"								"CPlayListEntry"
@@ -71,7 +85,7 @@
 		"desc_token"								"#MMenu_PlayList_MvM_Desc"
 		"matchgroup"								"1" // k_eTFMatchGroup_MvM_MannUp
 		
-		"pin_to_sibling"							"CompetitiveEntry"
+		"pin_to_sibling"							"ServerBrowserEntry"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
@@ -97,12 +111,7 @@
 		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
-	"ServerBrowserEntry"
-	{
-		"ControlName"								"CPlayListEntry"
-		"fieldName"									"ServerBrowserEntry"
-		"xpos"										"9999"
-	}
+
 	"CreateServerEntry"
 	{
 		"ControlName"								"CPlayListEntry"
@@ -115,4 +124,5 @@
 		"FieldName"									"ScrollBar"
 		"xpos"										"9999"
 	}
+	
 }

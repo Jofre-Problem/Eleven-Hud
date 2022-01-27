@@ -1,16 +1,8 @@
-#base "../ui2/polyicon.res"
 "Resource\UI\TFAdvancedOptionsDialog.res"
 {
 	"TitleLabel"
 	{		
-		"font"			"Regular12"
-		"textAlignment"		"center"
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
-		"zpos"			"3000"
-		"wide"			"200"
-		"tall"			"13"
-		"fgcolor_override"	"PolyIconsFg1"	}	
+		"wide"			"0"	}	
 	"CancelButton"
 	{		"wide"			"0"	}	
 	"OkButton"
@@ -22,11 +14,7 @@
 		wide				0
 		labelText			"&Q"
 		Command			"close"
-	}	
-	"icon"
-	{
-		"labelText"		"ô"
-	}	
+	}
 
 	"CancelButton2"
 	{

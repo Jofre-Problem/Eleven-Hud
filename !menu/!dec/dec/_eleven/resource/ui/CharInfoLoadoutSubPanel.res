@@ -1,19 +1,23 @@
 //#base "../#jofre/downbar.res"
 //#base "../#jofre/dashboard_bg.res"
 //#base "../#jofre/new_mm_panel1.res"
-#base "../ui2/polybar_1.res"
 //#base "../#jofre/blur_bg.res"
 //#base "../#jofre/charbg.res"
 #base "../ui2/tank.res"
+#base "../ui2/gif_tank.res"
+
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 //#base "../../#customization/resource/ui/summersale_border.res"
 "Resource/UI/CharInfoLoadoutSu0bPanel.res"
 {
-	"BackButton"			// straight to main menu
+	"NoSkill"
 	{
-		Command				"back"
-	}	
+	"xpos""rs1-5"
+	"ypos""rs1-5"
+			"wide""42"
+			"tall""o1"
+	}		
 	"CharInfoLoadoutSubPanel"
 	{
 		ControlName				Frame

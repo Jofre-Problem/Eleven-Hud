@@ -11,12 +11,98 @@
 
 //	#base "../ui2/multiple-bg.res"// :: check mainmenu - downbartype.res"
 //	#base "../ui2/mm_border.res"
-//	#base "../ui2/polybar_1.res"
+	#base "../ui2/polybar_1.res"
 //	#base "../#jofre/safe-mode.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	"MainMenuOverride"
 	{	}
+	"polybar0bg"	
+	{"wide"	"18"
+		"xpos"			"0"	
+	}	
+	"polybar0slash"	
+	{		"wide"	"30"
+		"textinsetx"	"-2"
+		"labelText"		"É"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"polybar0bg"		
+	}
+	"bgg1"	
+	{"wide"	"30"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"polybar0bg"		
+	}
+	"slash1"
+	{		"wide"	"30"
+		"textinsetx"	"-2"
+		"labelText"		"É"
+		"pin_to_sibling"	"bgg1"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+	}	
+
+
+
+
+	"bgg2"		
+	{"wide"	"30"
+		"pin_to_sibling"	"bgg1"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+	}	
+
+
+	"slash2"
+	{		"wide"	"30"
+		"textinsetx"	"-2"
+		"labelText"		"É"
+		"pin_to_sibling"	"bgg2"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+	}	
+
+
+
+
+	"bgg3"	
+	{"wide"	"30"
+		"pin_to_sibling"	"bgg2"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+	}	
+
+
+		"slash3"
+		{		"wide"	"30"
+		"textinsetx"	"-2"
+		"labelText"		"É"
+"pin_to_sibling"	"bgg3"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		}	
+
+
+			"bgg4"						{
+		"wide"	"30"
+		"pin_to_sibling"	"bgg3"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+	}	
+
+
+		"slash4"
+		{
+		"font"	"NewIcons20"
+		"wide"	"30"
+		"textinsetx"	"-2"
+		"labelText"		"É"
+			"pin_to_sibling"	"bgg4"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+		}				
 	"MMBackgroundPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -173,11 +259,7 @@
 	"CharacterSetupButton"
 	{
 		"tall"			"0"
-	}	
-	"NewUserForumsButton"
-	{
-		"tall"			"0"
-	}				
+	}			
 	"TFLogoImage"
 	{
 		"wide"				"0"
@@ -292,12 +374,13 @@
 	{
 	"ControlName""CDashboardPartyMember"
 	"fieldName""PartySlot0"
-	"xpos""5"
-	"ypos""-95"
+	"xpos""cs-0.5"
+	"ypos""50"
 	"zpos""50"
-	"wide""32"
-	"tall""32"
+	"wide""42"
+	"tall""42"
 	}
+	
 			"SteamSummerBorder"
 			{
 			"ControlName""ImagePanel"
@@ -305,8 +388,8 @@
 			"xpos""5"  //-5
 			"ypos""5" //-5
 			"zpos""110"
-			"wide""42"  //+10
-			"tall""40"  //+12
+			"wide""52"  //+10
+			"tall""50"  //+12
 			"visible""1"
 			"enabled""1"
 			"scaleImage""1"
@@ -315,42 +398,7 @@
 			"mouseinputenabled"	"0"
 			"pin_to_sibling"	"PartySlot0"
 			}		
-	"Workshop"		// open advanced options
-	{
-		ControlName				CExButton
-		FieldName				"Workshop"
-		xPos					rs1
-		yPos					rs1
-		wide					15
-		tall					10
-		labelText				"j"//"ø"
-		textAlignment			center
-		font			"NewIcons12"
-		command				"engine workshop"
 
-		sound_depressed			"sound_menu/button.wav"
-		sound_released			"sound_menu/button2.wav"
-		
-		defaultFgColor_override		"210 130 231 255"
-		armedFgColor_override		"157 83 33 255"
-		defaultBgColor_override		"53 57 69 0"
-		armedBgColor_override		"53 57 69 0"
-		paintBackground			2
-
-		"navUp"			""
-		"navLeft"		""
-		"navRight"		"BrowseServers"
-		"border_default"	"NoBorder"
-		
-		"image_drawcolor"	"Blank"		
-		"SubImage"
-		{
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
-			"enabled"		"0"
-		}	
-	}
 		"GeneralStoreButton"
 		{
 			"wide"			"0"
@@ -373,16 +421,13 @@
 		ControlName				EditablePanel
 		FieldName				"Notifications_ShowButtonPanel"
 		xPos					cs-0.5
-		yPos					35
+		yPos					120
 		zPos					30
 		"wide"			"p0.065"
 		"tall"			"40"
-		"tabPosition"	"1"	
-		"pinCorner"				"0"
-		paintBackground			1
+		paintBackground			0
 		paintBorder				0
-		"bgcolor_override"		"W_ColorTheme1"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 		
 		"SubImage"
 		{
@@ -699,43 +744,72 @@
 		wide				0
 		tall				0
 	}
+	"Workshop"		// open advanced options
+	{
+		ControlName				CExButton
+		FieldName				"Workshop"
+		xPos					0
+		yPos					0
+		wide					30
+		tall					15
+		zpos		"999"
+		labelText				"j"//"ø"
+		textAlignment			center
+		font			"NewIcons12"
+		command				"engine workshop"
 
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
+		
+		defaultFgColor_override		"210 130 231 255"
+		armedFgColor_override		"157 83 33 255"
+		defaultBgColor_override		"53 57 69 0"
+		armedBgColor_override		"53 57 69 0"
+		paintBackground			2
+
+		"navUp"			""
+		"navLeft"		""
+		"navRight"		"BrowseServers"
+		"border_default"	"NoBorder"
+		
+		"image_drawcolor"	"Blank"		
+		"SubImage"
+		{
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
+		}	
+	}
 	"MOTD_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
 		"zpos"			"3000"
-			"xpos"			"0"
-			"ypos"			"0"		
-		wide					17
-		tall					14//p0.043
-		//"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		//"enabled"		"1"
-			"pin_to_sibling"	"SafeMode2"
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+		"xpos"			"0"
+		"ypos"			"0"		
+		wide					30
+		tall					15//p0.043
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"Workshop"			
 		"MOTD_ShowButtonPanel_SB"
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"MOTD_ShowButtonPanel_SB"
 			"zpos"			"1"
-		wide					17
-		tall					14
-			//"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			//"enabled"		"1"
-			"labelText"		"u"
+		wide					30
+		tall					15
+
+			"labelText"		"p"
 			"font"			"NewIcons12"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 			
-		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"PolyIconsFg4"
+		defaultFgColor_override		"W_ColorTheme2"
+		armedFgColor_override		"A_ColorTheme1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
 			"actionsignallevel" "2"
@@ -754,22 +828,24 @@
 	{
 		ControlName				CExButton
 		FieldName				"SafeMode2"
-		"xpos"			"-17"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"3000"
-		wide					17
-		tall					14//p0.042
-			"labelText"		"2"
-			"font"			"Regular12"
+		wide					30
+		tall					15
+			"labelText"		"r"
+			"font"			"NewIcons12"
 			"textAlignment"	"center"
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
-		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"PolyIconsFg4"
+		defaultFgColor_override		"W_ColorTheme2"
+		armedFgColor_override		"A_ColorTheme1"
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
 		paintBackground			0
-		"pin_to_sibling"	"testpanel1"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"MOTD_ShowButtonPanel"		
 	}		
 	"Workspace3"		// open achievements window
 	{
@@ -778,14 +854,14 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"3000"
-		wide					17
-		tall					14
-			"labelText"		"3"
-			"font"			"Regular12"
+		wide					30
+		tall					15
+			"labelText"		"K"
+			"font"			"NewIcons12"
 			"textAlignment"	"center"
 		command				"engine showstatsdlg"
-		defaultFgColor_override		"PolyIconsFg1"
-		armedFgColor_override		"PolyIconsFg4"
+		defaultFgColor_override		"W_ColorTheme2"
+		armedFgColor_override		"A_ColorTheme1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
@@ -795,25 +871,41 @@
 		"pin_to_sibling"	"SafeMode2"		
 	
 		paintBackground			0
-	}	
-	"testpanel1"	// notification alert
+	}
+	"Tools4"		// open achievements window
 	{
-		ControlName				EditablePanel
-		FieldName				"testpanel1"
-		xPos					2
-		yPos					2
-		zPos					0
-		"wide"			"50"
-		"tall"			"14"
-		paintBackground			1
-		"bgcolor_override"		"W_ColorTheme1"
-		"border"		"Rice2"
+		ControlName				CExButton
+		FieldName				"Tools4"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"3000"
+		wide					30
+		tall					15
+			"labelText"		"@"
+			"font"			"NewIcons12"
+			"textAlignment"	"center"
+		command				"OpenLoadSingleplayerCommentaryDialog"
+		defaultFgColor_override		"W_ColorTheme2"
+		armedFgColor_override		"A_ColorTheme1"
+		
+		"depressedFgColor_override" "W_ColorIcons1"
+		sound_depressed			"sound_menu/button.wav"
+		sound_released			"sound_menu/button2.wav"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		"pin_to_sibling"	"Workspace3"		
+	
+		paintBackground			0
+	}	
+	"NewUserForumsButton"
+	{
+		wide					0
 	}					
 	"RankPanel"
 	{
 			xpos					0
 			ypos 0
 			wide f0
-			tall 0
+			tall f0
 	}
 }

@@ -1,4 +1,3 @@
- #base "../ui2/polyicon.res"
 "Resource/UI/StatSummary.res"
 {
 	"TFStatsSummary"
@@ -50,42 +49,7 @@
 				"labelText"			"Loading..."
 				"fgcolor_override"	"TanLight"
 			}					
-		}	
-		"bg2"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"		"bg2"
-			"xpos"			"5"
-			"ypos"			"5+13"
-			"wide"			"50"
-			"tall"			"50"
-			"bgcolor_override"		"PolyIconsBg1"
-			"alpha"	"210"
-			"PaintBackgroundType"	"2"	
-			
-		}
-	"Removeline"
-	{
-		ControlName				EditablePanel
-		FieldName				"Removeline"
-			xpos					9
-			ypos					23
-			wide					42
-			tall					40
-		bgcolor_override				"blank"
-		mouseInputEnabled			0
-
-		"PartySlot0"  // player
-		{
-			ControlName				CDashboardPartyMember
-			fieldName				"PartySlot0"
-			xpos					0
-			ypos					0
-			"wide""42"
-			"tall""42"
-			party_slot				0
-		}	
-	}							
+		}					
 	"MainBackground"
 	{
 		"ControlName"		"ImagePanel"

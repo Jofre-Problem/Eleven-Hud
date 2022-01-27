@@ -1,5 +1,6 @@
 "Resource/UI/MainMenuPlayListEntry.res"
 {
+	
 	"ModeButton"
 	{
 		"ControlName"								"CExButton"

@@ -1,8 +1,18 @@
 #base "../ui2/testgradient.res"
 #base "../ui2/tank.res"
+#base "../ui2/gif_tank.res"
+
 "Resource/UI/FullLoadoutPanel.res"
 {
+	"NoSkill"
+	{
+	"xpos""rs1-5"
+	"ypos""rs1-5"
+			"wide""42"
+			"tall""o1"
+	}	
 	"ZoomInfoLabel"
+
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ZoomInfoLabel"

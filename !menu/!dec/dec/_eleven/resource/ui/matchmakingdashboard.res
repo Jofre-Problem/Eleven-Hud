@@ -21,57 +21,22 @@
 			"polybar0bg"						{			ControlName				ImagePanel			FieldName				
 			"polybar0bg"
 		"xpos"			"rs1"
-		"ypos"			"0"
-		"zpos"				2
-		"wide"			"25"
-		"tall"			"15"
-			fillColor				"30 30 30 255"
 	}	
 
 
 		"polybar0slash"
 		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"polybar0slash"
-			"font"			"NewIcons20"
-			"labelText"		"ù"
-			"textAlignment"		"west"
-			"xpos" 			"0"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"3"
-			"wide"			"10"
-			"tall"			"15"
-			
-			"fgcolor"		"30 30 30 255"
 "pin_to_sibling"	"polybar0bg"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		}
 
-			"bgg1"						{			ControlName				ImagePanel			FieldName				
-			"bgg1"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"30"//70
-		"tall"			"15"
-			fillColor				"PolybarTheme6"		"pin_to_sibling"	"polybar0bg"
+			"bgg1"						{"pin_to_sibling"	"polybar0bg"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"				
 	}	
 
 		"slash1"
 		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"slash1"
-			"font"			"NewIcons20"
-			"labelText"		"ù"//"%kills%"
-			"textAlignment"		"west"
-			"xpos" 			"0"					//"c-60"//			"180"
-			"ypos"			"0"
-			"zpos"			"18"
-			"wide"			"10"
-			"tall"			"15"
-			
-			"fgcolor"		"PolybarTheme6"
 "pin_to_sibling"	"bgg1"
 					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"					"PIN_TOPLEFT"		
@@ -372,37 +337,37 @@
 		}
 		"PartySlot1"
 		{
-			"xpos"					"60"
+			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"22"
 			"tall"					"o1"
-		//	"pin_to_sibling" "PartySlot0"		"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
+		
+		"pin_to_sibling" "PartySlot2"		
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 		}
 		"PartySlot2"
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"22"
 			"tall"					"o1"
-			"pin_to_sibling" "PartySlot1"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+			"pin_to_sibling" "PartySlot3"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 		}
 		"PartySlot3"
 		{
-			"xpos"					"0"
+			"xpos"					"cs-0.5"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"22"
 			"tall"					"o1"
-			"pin_to_sibling" "PartySlot2"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 		}		
 		"PartySlot4"
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"22"
 			"tall"					"o1"
 			"pin_to_sibling" "PartySlot3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -412,7 +377,7 @@
 		{
 			"xpos"					"0"
 			"ypos"					"0"
-			"wide"					"20"
+			"wide"					"22"
 			"tall"					"o1"
 			"pin_to_sibling" "PartySlot4"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"

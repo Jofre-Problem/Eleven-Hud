@@ -203,60 +203,48 @@
 		}
 		"NameLabel"
 		{
-			"ControlName"	"Label"
-			"fieldName"		"NameLabel"
-"xpos""110"
-"ypos""65"
+"xpos""cs-0.5"
+"ypos""95"
 "wide""f0"
-"zpos""10"
 "tall""20"
-"font""HudFontSmall"
-"fgcolor_override"	"TanLight"
-			"textAlignment"	"north-west"
-			"labelText"		"%name%"
-			"proportionaltoparent"	"1"
+"font""CustomPrimero"
+"fgcolor_override"	"White"
+			"textAlignment"	"center"
 			"textinsetx"	"0"
-
-			if_mini
-			{
-				"visible"	"0"
-			}
 		}
 		"Divider"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Divider"
-			"xpos"		"0"
-			"ypos"		"-15"
+			"xpos"		"cs-0.5"
+			"ypos"		"117"
 			"zpos"			"200"
 			"wide"			"170"
 			"tall"			"p0.002"
-			"fillcolor"		"TanLight"
-			"pin_to_sibling"	"NameLabel"
+			"fillcolor"		"White"
 		}
 		"DescLine1"
 		{
-			"xpos"		"0"
-			"ypos"		"-15"
+			"xpos"		"cs-0.5"
+			"ypos"		"125"
 			"wide"			"200"
 			"zpos"			"200"
 			"tall"			"10"
-			"font"			"HudFontSmallest"
-			"fgcolor_override"	"255 255 255 255"
-			"textAlignment"	"west"
-			"pin_to_sibling"	"NameLabel"
+			"font"			"CustomPrimero"
+			"fgcolor_override"	"White"
+			"textAlignment"	"center"
 		}
 
 		"DescLine2"
 		{
-			"xpos"		"0"
-			"ypos"		"-10"
+			"xpos"		"cs-0.5"
+			"ypos"		"135"
 			"wide"			"200"
 			"zpos"			"200"
 			"tall"			"10"
-			"font"			"HudFontSmallest"
-			"fgcolor_override"	"255 255 255 255"
-			"pin_to_sibling"	"DescLine1"
+			"font"			"CustomPrimero"
+			"fgcolor_override"	"White"
+			"textAlignment"	"center"
 		}
 
 		"StatsContainer"
@@ -299,7 +287,7 @@
 					"tall"			"13"
 					"visible"		"1"
 					//"enabled"		"1"
-					"font"			"Regular7"
+					"font"			"Regular12"
 					"fgcolor_override"	"255 255 255 255"
 					"textAlignment"	"west"
 				}
@@ -308,16 +296,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"NextLevelXPLabel"
-"xpos""r115"
-"ypos""80"
+"xpos""-5"
+"ypos""rs1"
 "zpos""0"
-"wide""100"
+"wide""f0"
 "tall""20"
 "visible""1"
 "enabled""1"
-"font""Journal20"
-"fgcolor_override""TanLight"
-"textAlignment""center"
+"font""Regular12"
+"fgcolor_override""White"
+"textAlignment""east"
 				}
 
 				"ProgressBarsContainer"
