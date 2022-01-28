@@ -50,8 +50,8 @@
 		"armedBgColor_override" 					"Blank"
 		"depressedBgColor_override" 				"Blank"
 		
-		"defaultFgColor_override" 					"W_ColorTheme1"
-		"armedFgColor_override" 					"WhiteSolid"
+		"defaultFgColor_override" 					"White"
+		"armedFgColor_override" 					"Red"
 		"depressedFgColor_override" 				"WhiteSolid"
 	}
 	
@@ -87,8 +87,8 @@
 		"armedBgColor_override" 					"A_ColorTheme3"
 		"depressedBgColor_override" 				"A_ColorTheme1"
 		
-		"defaultFgColor_override" 					"W_ColorLinea1"
-		"armedFgColor_override" 					"WhiteSolid"
+		"defaultFgColor_override" 					"White"
+		"armedFgColor_override" 					"Red"
 		"depressedFgColor_override" 				"WhiteSolid"
 	}
 	

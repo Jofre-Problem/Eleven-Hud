@@ -8,7 +8,7 @@
 		"enabled" 		"1"
 		"xpos"			"10"
 	//	"ypos"			"10"
-		"wide"	 		"350"
+		"wide"	 		"150"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override" "0 0 0 0"		//this changes the bg u kno (minus except for the alpha), except I bs it with animations anyway (which does change alpha :B )
@@ -22,7 +22,7 @@
 		"enabled" 		"1"
 		"xpos"			"0"
 		"ypos"			"395"
-		"wide"	 		"350" //350
+		"wide"	 		"150" //350
 		"tall"	 		"2"
 		"PaintBackgroundType"	"0"
 	}
@@ -54,7 +54,7 @@
 		"fieldName"		"HudChatHistory"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"	 		"350"
+		"wide"	 		"150"
 		"tall"			"75"
 		"wrap"			"1"
 		"autoResize"		"1"

@@ -16,7 +16,7 @@
 		"ypos"		"0"
 		//forced to stay down... why valve
 		"wide"		"f+20"
-		"tall"		"50"//"40"//"665"
+		"tall"		"48"//"40"//"665"
 		"title"		""
 	//	"bgcolor"				"Blank"
 	//	"bgcolor_override"		"Blank"

@@ -14,5 +14,6 @@
 	"visible""1"
 	"enabled""1"
 	"scaleimage""1"
+	"alpha"	"250"
 	}
 }

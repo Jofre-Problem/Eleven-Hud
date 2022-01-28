@@ -20,18 +20,9 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
-		"tall"			"14"
+		"tall"			"0"
 			fillColor				"PolyIconsbg1"
 		}			
-		"polybar1bg2"			{			ControlName				ImagePanel			FieldName				
-		"polybar1bg2"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"zpos"			"1000"
-		"tall"			"1"
-			fillColor				"PolyBG2"
-		}	
 	
 	"ubrowse"	
 	{

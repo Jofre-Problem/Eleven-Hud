@@ -10,25 +10,25 @@
 	//	"tall"			"458"
 		"visible"		"1"
 	}
-		"bg1"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"		"bg1"
-			"xpos"			"60"
-			"ypos"			"5+13"
-			"wide"			"125"
-			"tall"			"50"
-			"bgcolor_override"		"PolyIconsBg1"
-			"alpha"	"210"
-			"PaintBackgroundType"	"2"	
+		"BG2"
+			{
+				"ControlName"	"EditablePanel"
+				"fieldName"		"BG2"
+				"xpos"			"0"
+				"ypos"			"rs1"
+				"wide"			"f0"
+				"tall"			"36"
+				"paintbackground"	"1"
+				"bgcolor_override"	"27 27 27 255"
+			}
 			"gif"
 			{
 			"ControlName""ImagePanel"
 			"fieldName""gif"
-			"xpos""2"
-			"ypos""4"
+			"xpos""cs-0.5"
+			"ypos""rs1-40"
 			"zpos""7"
-			"wide""42"
+			"wide""32"
 			"tall""o1"
 			"visible""1"
 			"enabled""1"
@@ -41,15 +41,14 @@
 			"ControlName""CExLabel"
 			"fieldName""Label"				
 				"font"			"Regular14"
-				"textAlignment"		"west"
-				"xpos"				"55"
+				"textAlignment"		"center"
+				"xpos"				"cs-0.5"
 				"ypos"				"0"
 				"wide"				"f0"
-				"tall"				"50"
+				"tall"				"0"
 				"labelText"			"Loading..."
 				"fgcolor_override"	"TanLight"
-			}					
-		}					
+			}										
 	"MainBackground"
 	{
 		"ControlName"		"ImagePanel"
@@ -255,7 +254,7 @@
 	{
 		"ypos"				"-30"
 	//	"tall"				"458"
-	//	"wide"				"0"
+		"wide"				"0"
 	
 		"AveragesBG"
 		{

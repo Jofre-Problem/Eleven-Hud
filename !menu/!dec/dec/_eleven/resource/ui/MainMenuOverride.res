@@ -370,34 +370,7 @@
 	{
 		"wide"			"0"
 	}		
-	"PartySlot0"
-	{
-	"ControlName""CDashboardPartyMember"
-	"fieldName""PartySlot0"
-	"xpos""cs-0.5"
-	"ypos""50"
-	"zpos""50"
-	"wide""42"
-	"tall""42"
-	}
-	
-			"SteamSummerBorder"
-			{
-			"ControlName""ImagePanel"
-			"fieldName""SteamSummerBorder"
-			"xpos""5"  //-5
-			"ypos""5" //-5
-			"zpos""110"
-			"wide""52"  //+10
-			"tall""50"  //+12
-			"visible""1"
-			"enabled""1"
-			"scaleImage""1"
-			"image""replay/thumbnails/steam_summersale/s_border_orange"
-			"fgcolor""TanDark"
-			"mouseinputenabled"	"0"
-			"pin_to_sibling"	"PartySlot0"
-			}		
+		
 
 		"GeneralStoreButton"
 		{
@@ -415,7 +388,19 @@
 		{
 			"wide"			"0"
 		}	
-
+			"shadow"
+			{
+			"ControlName""ImagePanel"
+			"fieldName""shadow"
+			"xpos""cs-0.5"
+			"ypos""0"
+			"zpos""110"
+			"wide""p0.5"
+			"tall""8"
+			"scaleImage""1"
+			"image""replay/thumbnails/bottom_shadow"
+			"mouseinputenabled"	"0"
+			}	
 	"Notifications_ShowButtonPanel"	// notification alert
 	{
 		ControlName				EditablePanel
@@ -499,8 +484,8 @@
 		{
 			ControlName				CExLabel
 			fieldName				"Notifications_CountLabel"
-			xpos					2
-			ypos					2
+			xpos					4
+			ypos					4
 			zpos					2
 			wide					16
 			tall					o1
@@ -906,6 +891,6 @@
 			xpos					0
 			ypos 0
 			wide f0
-			tall f0
+			tall 0
 	}
 }

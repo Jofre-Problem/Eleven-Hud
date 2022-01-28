@@ -42,7 +42,7 @@
 		"fieldName"									"CompetitiveEntry"
 	//	"xpos"										"cs-0.5-75"
 	//	"ypos"										"cs-0.5-35-90"
-		"xpos"	"0"
+		"xpos"	"5"
 		"ypos"	"0"
 		"zpos"										"3"
 		"wide"										"150"
@@ -65,7 +65,8 @@
 		"zpos"										"3"
 		"wide"										"150"
 		"tall"										"190"
-		"proportionaltoparent"						"0"		
+		"proportionaltoparent"						"0"	
+	//	"button_token"								"Communnitty"
 		"image_name"								"replay/thumbnails/l4d2/mm/menu_mode_survival"		
 	}
 	"MvMEntry"
