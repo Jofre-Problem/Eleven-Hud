@@ -1,7 +1,7 @@
-#base "../../#hp/blurred-screen.res"
+//#base "../../#hp/blurred-screen.res"
 #base "../../ui3/l4d2_transition.res"
 #base "../../ui3/tank.res"
-
+#base "../../ui2/user.res"
 
 "Resource/UI/TextWindow.res"
 {
@@ -20,20 +20,6 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 	}
-	"MidPanelBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"MidPanelBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"f0"
-		"tall"			"52"
-		"visible"		"1"
-		//"enabled"		"1"
-		"scaleImage"	"1"
-		"fillcolor"		"0 0 0 220"
-	}
 
 
 
@@ -42,20 +28,20 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TFMessageTitle"
-		"xpos"					"45"
-		"ypos"					"13"
+		"xpos"			"40"
+		"ypos"			"95"
 		"zpos"			"1"
-		"wide"					"500"
-		"tall"					"24"
+		"wide"					"100"
+		"tall"					"12"
 		//"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		//"enabled"		"1"
-		"labelText"		"Prepare..."
+		"labelText"		""
 		"textAlignment"	"north-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Future30"
+		"font"			"Noto12"
 		"fgcolor"		"255 255 255 255"
 	}	
 
@@ -71,12 +57,12 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"Noto14"
-		"xpos"			"0"
-		"ypos"			"62"
+		"font"			"Noto10"
+		"xpos"			"10"
+		"ypos"			"60"
 		"zpos"			"1"
 		"wide"			"f-30"
-		"tall"			"350"
+		"tall"			"100"
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -107,24 +93,19 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"ok"
-		"xpos"			"CS-0.5"
-		"ypos"			"rs1-25"
+		"xpos"			"0"
+		"ypos"			"rs1"
 		"zpos"			"6"
-		"wide"			"f0"
-		"tall"			"52"
-		//"autoResize"	"0"
-		"pinCorner"		"2"
-		"visible"		"1"
-		//"enabled"		"1"
-		"tabPosition"		"0"
-		"labelText"		"CONTINUE"//"→"
+		"wide"			"150"
+		"tall"			"36"
+		"labelText"		">"//"→"
 		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"Future18"
+		"font"			"NewIcons20"
 		
 		"fgcolor"		"NotoMenuText"
 		

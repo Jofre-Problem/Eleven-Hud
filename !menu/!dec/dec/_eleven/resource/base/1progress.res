@@ -18,6 +18,6 @@
 		"tall"		"26"
 		"textAlignment"		"center"
 		"fgcolor_override"	"W_ColorIcons1"
-		"font"		"Product14"
+		"font"		"Product16"
 	}	
 }

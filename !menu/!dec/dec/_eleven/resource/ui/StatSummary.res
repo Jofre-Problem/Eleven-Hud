@@ -10,6 +10,34 @@
 	//	"tall"			"458"
 		"visible"		"1"
 	}
+			"bg3"
+			{
+			"ControlName""ImagePanel"
+			"fieldName""bg3"
+			"xpos""0"
+			"ypos""0"
+			"zpos""0"
+			"wide""f0"
+			"tall""f0"
+			"visible""1"
+			"enabled""1"
+			"scaleImage""1"
+			"image""../console/background_upward_widescreen"
+			}
+			"bg4"
+			{
+			"ControlName""ImagePanel"
+			"fieldName""bg4"
+			"xpos""0"
+			"ypos""rs1-36"
+			"zpos""0"
+			"wide""f0"
+			"tall""2"
+			"visible""1"
+			"enabled""1"
+			"scaleImage""1"
+			"image""replay/thumbnails/misc/test2"
+			}				
 		"BG2"
 			{
 				"ControlName"	"EditablePanel"
