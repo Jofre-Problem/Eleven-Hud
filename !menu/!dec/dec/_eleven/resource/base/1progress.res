@@ -11,8 +11,8 @@
 	}
 	"InfoLabel"
 	{
-		"xpos"		"cs-0.5"
-		"ypos"		"0"
+		"xpos"		"cs-0.5-5"
+		"ypos"		"3"
 		"zpos"		"51"
 		"wide"		"f0"
 		"tall"		"26"

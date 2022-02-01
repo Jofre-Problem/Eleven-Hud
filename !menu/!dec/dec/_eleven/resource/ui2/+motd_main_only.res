@@ -12,16 +12,17 @@
 		"ypos"			"rs1"
 		"zpos"			"1000"
 		"wide"			"f0"
-		"tall"			"14"
+		"tall"			"36"
 		"border"	"noborder"
 
 		"polybar1bg"			{			ControlName				ImagePanel			FieldName				
 		"polybar1bg"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"0"
-			fillColor				"PolyIconsbg1"
+		"xpos"			"cs-0.5"
+		"ypos"			"10"
+		"wide"			"p0.5"
+		"tall"			"13"
+			fillColor				"0 0 0 255"
+			"border"		"Rice1"
 		}			
 	
 	"ubrowse"	
@@ -29,7 +30,7 @@
 		"ControlName"	"CExImageButton"
 			"fieldName"		"ubrowse"
 			"xpos"	"0"
-			"ypos"	"1"
+			"ypos"	"0"
 			"zpos"										"90"
 			"wide"										"15"
 			"tall"										"13"
@@ -38,10 +39,10 @@
 			textAlignment			center
 			command				"OpenServerBrowser"
 			"actionsignallevel"	"2"
-		
+			"paintBackground"	"0"
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
-			
+			"pin_to_sibling"	"polybar1bg"
 		
 			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"PolyIconsFg4"
@@ -64,7 +65,7 @@
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
-			
+			"paintBackground"	"0"
 			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
@@ -83,7 +84,7 @@
 		
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
-			
+			"paintBackground"	"0"
 		
 			"pin_to_sibling"	"uloadout"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -105,7 +106,7 @@
 			textAlignment			center
 			command				"opentf2options"
 			"actionsignallevel"	"2"
-		
+		"paintBackground"	"0"
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 			
@@ -134,7 +135,7 @@
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
-
+"paintBackground"	"0"
 			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
@@ -156,7 +157,7 @@
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
-
+"paintBackground"	"0"
 			"defaultFgColor_override"					"PolyIconsFg1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
@@ -189,8 +190,8 @@
 	"BoxCenter"	{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"BoxCenter"
-					"xpos"			"cs-0.5"
-		"ypos"			"1"
+					"xpos"			"cs-0.5+155"
+		"ypos"			"10"
 			"zpos"										"20"
 			"wide"										"15"
 			"tall"										"13"
@@ -351,9 +352,9 @@
 		{			"ControlName"	"cexLabel"
 			"fieldname"		"MOTD_Label"
 			"font"			"Regular7"
-			"xpos"			"rs1-2"
-			"ypos"			"1"
-			"wide"			"100"
+			"xpos"			"cs-0.5"
+			"ypos"			"10"
+			"wide"			"100"	//cant find a good use
 			"textAlignment"	"center"
 			"textinsety"	"0"
 			"zpos""10"
