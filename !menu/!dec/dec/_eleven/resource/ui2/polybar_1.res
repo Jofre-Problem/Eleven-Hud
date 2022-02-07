@@ -1,3 +1,4 @@
+//#base "multiple-bg.res"
 "Resource/UI/HudArenaPlayerCount.res"
 {	
 			"polybar0bg"						{			ControlName				ImagePanel			FieldName				
@@ -7,7 +8,7 @@
 		"zpos"				2
 		"wide"			"25"
 		"tall"			"15"
-			fillColor				"30 30 30 255"
+			fillColor				"24 24 24 255"
 	}	
 
 
@@ -23,8 +24,7 @@
 			"zpos"			"3"
 			"wide"			"10"
 			"tall"			"15"
-			
-			"fgcolor"		"30 30 30 255"	}
+			"fgcolor"		"24 24 24 255"	}
 
 			"bgg1"						{			ControlName				ImagePanel			FieldName				
 			"bgg1"

@@ -10,6 +10,20 @@
 		"tall"		"300"
 
 	}
+	"BlurMainBG"
+	{
+	"ControlName""ImagePanel"
+	"fieldName""BlurMainBG"
+	"xpos""0"
+	"ypos""0"
+	"zpos""-10"
+	"wide""f0"
+	"tall""f0"
+	"image""replay/thumbnails/hp/REFRACTblur"
+	"visible""1"
+	"enabled""1"
+	"scaleimage""1"
+	}	
 	"4plug"		
 		{
 			ControlName				Label

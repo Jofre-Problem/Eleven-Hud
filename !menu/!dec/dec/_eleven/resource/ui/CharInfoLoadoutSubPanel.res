@@ -17,7 +17,7 @@
 	"ypos""rs1-5"
 			"wide""42"
 			"tall""o1"
-	}		
+	}			
 	"CharInfoLoadoutSubPanel"
 	{
 		ControlName				Frame

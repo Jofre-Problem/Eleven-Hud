@@ -1,6 +1,16 @@
 #base "../ui2/user.res"
 "Resource/UI/PvPRankPanel.res"
 {
+
+
+
+
+
+
+
+
+
+
 	"ModelContainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -204,48 +214,33 @@
 		}
 		"NameLabel"
 		{
-"xpos""cs-0.5"
-"ypos""95"
+"xpos""60"
+"ypos""30"
 "wide""f0"
-"tall""20"
-"font""CustomPrimero"
+"tall""30"
+"font""Journal30"
 "fgcolor_override"	"White"
-			"textAlignment"	"center"
+			"textAlignment"	"west"
 			"textinsetx"	"0"
-		}
-		"Divider"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"Divider"
-			"xpos"		"cs-0.5"
-			"ypos"		"117"
-			"zpos"			"200"
-			"wide"			"170"
-			"tall"			"p0.002"
-			"fillcolor"		"White"
 		}
 		"DescLine1"
 		{
-			"xpos"		"cs-0.5"
-			"ypos"		"125"
-			"wide"			"200"
-			"zpos"			"200"
-			"tall"			"10"
-			"font"			"CustomPrimero"
+		"xpos""10"
+		"ypos""80"
+		"wide""f0"
+		"tall""10"
 			"fgcolor_override"	"White"
-			"textAlignment"	"center"
+			"textAlignment"	"west"
 		}
 
 		"DescLine2"
 		{
-			"xpos"		"cs-0.5"
-			"ypos"		"135"
-			"wide"			"200"
-			"zpos"			"200"
-			"tall"			"10"
-			"font"			"CustomPrimero"
+		"xpos""10"
+		"ypos""90"
+		"wide""f0"
+		"tall""10"
 			"fgcolor_override"	"White"
-			"textAlignment"	"center"
+			"textAlignment"	"west"
 		}
 
 		"StatsContainer"
@@ -281,8 +276,8 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"CurrentXPLabel"
-					"xpos"			"5"
-					"ypos"			"rs1"
+					"xpos"			"10"
+					"ypos"			"100"
 					"zpos"			"20"
 					"wide"			"f0"
 					"tall"			"13"
@@ -297,16 +292,16 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"NextLevelXPLabel"
-"xpos""-5"
-"ypos""rs1"
-"zpos""0"
-"wide""f0"
-"tall""20"
+					"xpos"			"10"
+					"ypos"			"110"
+					"zpos"			"20"
+					"wide"			"f0"
+					"tall"			"13"
 "visible""1"
 "enabled""1"
 "font""Regular12"
 "fgcolor_override""White"
-"textAlignment""east"
+"textAlignment""west"
 				}
 
 				"ProgressBarsContainer"
@@ -324,7 +319,7 @@
 						"ControlName"	"ProgressBar"
 						"fieldName"		"ProgressBar"
 						"xpos"			"0"
-						"ypos"			"rs1-13"
+						"ypos"			"rs1"
 						"wide"			"f0"
 						"tall"			"1"
 						"zpos"			"1"
@@ -340,7 +335,7 @@
 						"ControlName"	"ContinuousProgressBar"
 						"fieldName"		"ContinuousProgressBar"
 						"xpos"			"cs-0.5"
-						"ypos"			"rs1-13"
+						"ypos"			"rs1"
 						"wide"			"f0"
 						"tall"			"1"
 						"zpos"			"1"
@@ -406,132 +401,103 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"GamesLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+					"xpos"			"10"
+					"ypos"			"c-120"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
 					"visible"		"1"
 					//"enabled"		"1"
-					"font"			"Regular7"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-			"pin_to_sibling"	"KillsLabel"				
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+					"textAlignment"	"west""alpha"	"71"
 				}
 
 				"KillsLabel"
 				{
-					"ControlName"	"Label"
-					"fieldName"		"KillsLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+					"xpos"			"10"
+					"ypos"			"c-110"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
-
-					"font"			"Regular7"
+					"visible"		"1"
+					//"enabled"		"1"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-			"pin_to_sibling"	"DeathsLabel"				
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"	
+					"textAlignment"	"west"	"alpha"	"71"
 				}
 
 				"DeathsLabel"
 				{
-					"ControlName"	"Label"
-					"fieldName"		"DeathsLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+					"xpos"			"10"
+					"ypos"			"c-100"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
-
-					"font"			"Regular7"
+					"visible"		"1"
+					//"enabled"		"1"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-					"fgcolor_override"	"PolyIconsFg1"
-			"pin_to_sibling"	"DamageLabel"				
-		"pin_corner_to_sibling"					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+					"textAlignment"	"west"	"alpha"	"71"
 				}
 
 				// Second column
 				"DamageLabel"
 				{
-					"ControlName"	"Label"
-					"fieldName"		"DamageLabel"
-					"xpos"			"cs-0.5"
-					"ypos"			"rs1"
+					"xpos"			"10"
+					"ypos"			"c-90"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
-
-					"font"			"Regular7"
+					"visible"		"1"
+					//"enabled"		"1"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-					"fgcolor_override"	"PolyIconsFg1"
-
+					"textAlignment"	"west"	"alpha"	"71"
 				}
 
 				"HealingLabel"
 				{
-					"ControlName"	"Label"
-					"fieldName"		"HealingLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+					"xpos"			"10"
+					"ypos"			"c-80"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
-
-					"font"			"Regular7"
+					"visible"		"1"
+					//"enabled"		"1"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-					"fgcolor_override"	"PolyIconsFg1"
-			"pin_to_sibling"	"DamageLabel"				
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+					"textAlignment"	"west"	"alpha"	"71"
 				}
 
 				"SupportLabel"
 				{
-					"ControlName"	"Label"
-					"fieldName"		"SupportLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+					"xpos"			"10"
+					"ypos"			"c-70"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
-
-					"font"			"Regular7"
+					"visible"		"1"
+					//"enabled"		"1"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-					"fgcolor_override"	"PolyIconsFg1"
-			"pin_to_sibling"	"HealingLabel"				
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+					"textAlignment"	"west"	"alpha"	"71"
 				}
 
 				// Third column
 				"ScoreLabel"
 				{
-					"ControlName"	"Label"
-					"fieldName"		"ScoreLabel"
-					"xpos"			"0"
-					"ypos"			"0"
+						"xpos"			"10"
+					"ypos"			"c-60"
 					"zpos"			"0"
-					"wide"			"60"
+					"wide"			"80"
 					"tall"			"13"
-
-					"font"			"Regular7"
+					"visible"		"1"
+					//"enabled"		"1"
+					"font"			"Regular12"
 					"fgcolor_override"	"PolyIconsFg1"
-					"textAlignment"	"center"
-					"fgcolor_override"	"PolyIconsFg1"
-			"pin_to_sibling"	"SupportLabel"				
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+					"textAlignment"	"west"	
+					"alpha"	"71"
 				}
 			}		
 		}

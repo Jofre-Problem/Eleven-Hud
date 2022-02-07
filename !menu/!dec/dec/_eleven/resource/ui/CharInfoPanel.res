@@ -14,6 +14,7 @@
 			"wide""42"
 			"tall""o1"
 	}	
+
 	"character_info"		// drawn over main menu
 	{
 		ControlName				EditablePanel

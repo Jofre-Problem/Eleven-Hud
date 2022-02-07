@@ -9,7 +9,7 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"1003"
+		"zpos"					"997"
 		"wide"					"f0"
 		"tall"					"35"
 		"keyboardinputenabled"	"0"

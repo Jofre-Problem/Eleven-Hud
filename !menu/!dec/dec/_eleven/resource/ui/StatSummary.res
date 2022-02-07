@@ -10,6 +10,10 @@
 	//	"tall"			"458"
 		"visible"		"1"
 	}
+"OnYourWayLabel"
+{
+"wide""0"
+}	
 			"bg3"
 			{
 			"ControlName""ImagePanel"

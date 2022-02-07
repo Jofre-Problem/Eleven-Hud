@@ -4,11 +4,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MMBackgroundPanel"
-		"xpos"			"90"
-		"ypos"			"90"
-		"zpos"			"300"
-		"wide"			"10"
-		"tall"			"60"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"30"
+		"tall"			"15"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 

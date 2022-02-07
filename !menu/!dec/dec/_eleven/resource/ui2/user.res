@@ -4,11 +4,11 @@
 	{
 	"ControlName""CDashboardPartyMember"
 	"fieldName""PartySlot0"
-	"xpos""cs-0.5"//5
-	"ypos""20"
+	"xpos""15"//5
+	"ypos""25"
 	"zpos""50"
-	"wide""40"
-	"tall""40"
+	"wide""30"
+	"tall""30"
 	}
 	
 			"SteamSummerBorder"
@@ -18,8 +18,8 @@
 			"xpos""5"  //-5
 			"ypos""5" //-5
 			"zpos""110"
-			"wide""50"  //+10
-			"tall""48"  //+12
+			"wide""40"  //+10
+			"tall""38"  //+12
 			"visible""1"
 			"enabled""1"
 			"scaleImage""1"

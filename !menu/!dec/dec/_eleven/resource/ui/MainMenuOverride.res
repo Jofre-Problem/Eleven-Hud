@@ -18,19 +18,23 @@
 	"MainMenuOverride"
 	{	}
 	"polybar0bg"	
-	{"wide"	"18"
+	{
+		"zpos"	"1000"
+		"wide"	"18-p0.002"
 		"xpos"			"0"	
 	}	
 	"polybar0slash"	
 	{		"wide"	"30"
 		"textinsetx"	"-2"
 		"labelText"		"É"
+		"zpos"	"1000"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		"pin_to_sibling"	"polybar0bg"		
 	}
 	"bgg1"	
 	{"wide"	"30"
+	"zpos"	"999"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
 		"pin_to_sibling"	"polybar0bg"		
@@ -38,7 +42,7 @@
 	"slash1"
 	{		"wide"	"30"
 		"textinsetx"	"-2"
-		"labelText"		"É"
+		"labelText"		"É""zpos"	"999"
 		"pin_to_sibling"	"bgg1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
@@ -48,7 +52,7 @@
 
 
 	"bgg2"		
-	{"wide"	"30"
+	{"wide"	"30""zpos"	"999"
 		"pin_to_sibling"	"bgg1"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
@@ -56,7 +60,7 @@
 
 
 	"slash2"
-	{		"wide"	"30"
+	{		"wide"	"30""zpos"	"999"
 		"textinsetx"	"-2"
 		"labelText"		"É"
 		"pin_to_sibling"	"bgg2"
@@ -68,7 +72,7 @@
 
 
 	"bgg3"	
-	{"wide"	"30"
+	{"wide"	"30""zpos"	"999"
 		"pin_to_sibling"	"bgg2"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
@@ -77,7 +81,7 @@
 
 		"slash3"
 		{		"wide"	"30"
-		"textinsetx"	"-2"
+		"textinsetx"	"-2""zpos"	"999"
 		"labelText"		"É"
 "pin_to_sibling"	"bgg3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -86,7 +90,7 @@
 
 
 			"bgg4"						{
-		"wide"	"30"
+		"wide"	"30""zpos"	"999"
 		"pin_to_sibling"	"bgg3"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
@@ -97,7 +101,7 @@
 		{
 		"font"	"NewIcons20"
 		"wide"	"30"
-		"textinsetx"	"-2"
+		"textinsetx"	"-2""zpos"	"999"
 		"labelText"		"É"
 			"pin_to_sibling"	"bgg4"
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -737,7 +741,7 @@
 		yPos					0
 		wide					30
 		tall					15
-		zpos		"999"
+		zpos		"2000"
 		labelText				"j"//"ø"
 		textAlignment			center
 		font			"NewIcons12"
@@ -796,7 +800,7 @@
 		defaultFgColor_override		"W_ColorTheme2"
 		armedFgColor_override		"A_ColorTheme1"
 		
-		"depressedFgColor_override" "W_ColorIcons1"
+		"depressedFgColor_override" "35 255 35 222"
 			"actionsignallevel" "2"
 			"Command"		"motd_show"
 			"sound_depressed"	"sound_menu/button.wav"
@@ -824,7 +828,7 @@
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
 		defaultFgColor_override		"W_ColorTheme2"
 		armedFgColor_override		"A_ColorTheme1"
-		"depressedFgColor_override" "W_ColorIcons1"
+		"depressedFgColor_override" "35 255 35 222"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
 		paintBackground			0
@@ -893,4 +897,62 @@
 			wide f0
 			tall 0
 	}
+	"IngameBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"IngameBG"
+		"xpos"			"0"
+		"ypos" "0" //			"28"
+		"zpos"			"298"
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos" "0" //			"0"
+			"zpos"			"1"
+			"wide"			"f0"
+			"tall"			"480"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
+			"font"			""
+			"textAlignment"	"center"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+
+			"Command"		""
+			"navActivate"	"<QuickplayButton"		// after selecting this, nav to this sibling
+
+			"sound_depressed"	""
+			"sound_released"	""
+			"paintbackground" "0"
+			"image_drawcolor"	"255 255 255 255"
+			"image_armedcolor"	"255 255 255 255"
+
+			"SubImage"
+			{
+				"xpos"			"0"
+				"ypos" "0" //			"0"
+				"zpos"			"-200"
+				"wide"			"f0"
+				"tall"			"480"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"replay/thumbnails/mm/ingameBG"
+				"scaleImage"	"1"
+			}
+		}
+	}	
 }
