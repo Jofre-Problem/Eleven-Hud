@@ -3,18 +3,10 @@
 //#base "../#jofre/charbg.res"
 #base "../ui2/testgradient.res"
 //#base "../ui2/polybg.res"
-#base "../ui2/gif_tank.res"
+#base "../ui2/tank.res"
 
 "Resource/UI/CharInfoPanel.res"
 {
-	"NoSkill"
-	{
-	"xpos""rs1-5"
-	"ypos""rs1-5"
-			"wide""42"
-			"tall""o1"
-	}	
-
 	"character_info"		// drawn over main menu
 	{
 		ControlName				EditablePanel
@@ -32,17 +24,20 @@
 	}
 	"BackButton"
 	{
-	"xpos""rs1-5"
+	"xpos""cs-0.5"
 	"ypos""rs1-5"
 		"zpos"		"9000"
-		"font"	"NewIcons57"
+		"font"	"NewIcons12"
 		"paintBackground"	"0"
-		"labelText"	"Ó"
-		"defaultFgColor_override"	"Blank"
+		"labelText"	"M"
+		"defaultFgColor_override"	"Black"
 		"armedFgColor_override"	"White"
 		"textAlignment"	"center"
-		"wide""42"
-			"tall""28"
+	//	"textinsety"	"-2"
+		"wide""25"
+			"tall""o1"
+		"border_default"				"B_CIcons1"
+		"border_armed"					"B_BArmed"	
 	}		
 	"BackButtonQKey"
 	{

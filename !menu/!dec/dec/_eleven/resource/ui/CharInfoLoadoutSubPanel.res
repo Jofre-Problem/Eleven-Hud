@@ -4,20 +4,12 @@
 //#base "../#jofre/blur_bg.res"
 //#base "../#jofre/charbg.res"
 #base "../ui2/tank.res"
-#base "../ui2/gif_tank.res"
 
 //#base "../#jofre/socialmedia.res"
 //#base "../../#jofre/partymembers.res"
 //#base "../../#customization/resource/ui/summersale_border.res"
 "Resource/UI/CharInfoLoadoutSu0bPanel.res"
-{
-	"NoSkill"
-	{
-	"xpos""rs1-5"
-	"ypos""rs1-5"
-			"wide""42"
-			"tall""o1"
-	}			
+{		
 	"CharInfoLoadoutSubPanel"
 	{
 		ControlName				Frame

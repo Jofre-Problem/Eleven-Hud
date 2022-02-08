@@ -1,4 +1,5 @@
 
+	#base "apple.res"
 	#base "../font.res"
 	#base "cs_windows.res"
 	#base "base/scheme/cs_global_tf.res"
@@ -1214,6 +1215,6 @@ Scheme
 		{
 			"font" "_eleven/font/journal_jp.otf"
 			"name" "Journal-jofreproblem_fix1Regular"
-		}		   		     		
+		}				   		     		
 	}	
 }

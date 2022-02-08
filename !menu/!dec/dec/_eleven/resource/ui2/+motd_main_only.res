@@ -145,8 +145,8 @@
 		"zpos"				"-10"
 		"wide"				"f0"
 		"tall"				"15"
-		"fillcolor"			"W_ColorIcons1"
-		"alpha"			"130"
+		"fillcolor"			"W_ColorTheme1"
+		"alpha"			"200"
 	}		
 	
 		"backpacktf"
@@ -282,7 +282,7 @@
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 		
-			"defaultFgColor_override"					"W_ColorTheme1"
+			"defaultFgColor_override"					"W_ColorIcons1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
 	}	
@@ -305,7 +305,7 @@
 			"pin_to_sibling"	"ubrowse"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
-			"defaultFgColor_override"					"W_ColorTheme1"
+			"defaultFgColor_override"					"W_ColorIcons1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
 		}	
@@ -330,7 +330,7 @@
 			"pin_to_sibling"	"OptionsU"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-			"defaultFgColor_override"					"W_ColorTheme1"
+			"defaultFgColor_override"					"W_ColorIcons1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"					
 	}
@@ -500,16 +500,16 @@
 		"MOTD_Label"
 		{			"ControlName"	"cexLabel"
 			"fieldname"		"MOTD_Label"
-			"font"			"Regular12"
+			"font"			"AppleReg10"
 			"xpos"			"cs-0.5"
 			"ypos"			"1"
-			"wide"			"150"	//cant find a good use
+			"wide"			"200"	//cant find a good use
 			"textAlignment"	"center"
 			"textinsety"	"0"
 			"zpos""10"
 			"labelText"	"%motddate%"
 			"tall"			"14"
-			"fgcolor_override"		"W_ColorTheme1"
+			"fgcolor_override"		"W_ColorIcons1"
 		}	
 		
 		"MOTD_HeaderContainer"

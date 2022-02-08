@@ -54,7 +54,22 @@
 		"proportionaltoparent"						"1"
 		"image"										""
 	}
-	
+	"Line"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"Line"
+		"xpos"										"cs-0.5"
+		"ypos"										"152"
+		"zpos"										"2"
+		"wide"										"66"
+		"tall"										"2"
+		"visible"									"1"
+		"enabled"									"1"
+		"painbackground"							"1"
+		"painbackgroundtype"						"0"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"W_ColorIcons1"
+	}	
 	"MatchmakingBanPanel"
 	{
 		"ControlName"								"EditablePanel"

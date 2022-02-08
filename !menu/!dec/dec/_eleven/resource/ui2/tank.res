@@ -4,8 +4,8 @@
 	{
 	"ControlName""ImagePanel"
 	"fieldName""Tank"
-	"xpos""rs1-30"
-	"ypos""rs1-24"
+	"xpos""rs1"
+	"ypos""rs1"
 	"zpos""-5"
 	"wide""350"
 	"tall""o1"
@@ -14,6 +14,5 @@
 	"visible""1"
 	"enabled""1"
 	"scaleimage""1"
-	"alpha"	"250"
 	}
 }
