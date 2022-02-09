@@ -6,9 +6,11 @@ Scheme
 	{
 		//B
 		Button.BgColor					"W_ColorLinea1"
-		Button.ArmedTextColor			"W_ColorTheme1"
-		Button.ArmedBgColor				"W_BorderArmed"
 		Button.TextColor				"W_ColorIcons1"
+		Button.ArmedBgColor				"W_BorderArmed"
+		Button.ArmedTextColor			"W_ColorTheme1"
+		
+		
 //		Button.DepressedTextColor		"W_ColorTheme3"
 //		Button.DepressedBgColor			"W_BorderArmedText"
 //		Button.FocusBorderColor			"W_BorderArmed"
@@ -50,10 +52,10 @@ Scheme
 	//	FrameSystemButton.Icon			""
 	//	FrameSystemButton.DisabledIcon	""
 		FrameTitleBar.DisabledBgColor	"Blank"
-		Frame.BgColor					"27 27 27 250" //lolololololl
+		Frame.BgColor					"W_ColorTheme2" //lolololololl
 		Frame.OutOfFocusBgColor			"W_ColorLinea1"
-		FrameGrip.Color1				"PolyIconsBg1"
-		FrameGrip.Color2				"PolyIconsBg1"
+		FrameGrip.Color1				"W_ColorTheme1"
+		FrameGrip.Color2				"W_ColorTheme1"
 
 
 
@@ -68,21 +70,21 @@ Scheme
 		
 		ListPanel.OutOfFocusSelectedTextColor	"245 245 245 120"
 		ListPanel.EmptyListInfoTextColor	"245 245 245 120"
-		ListPanel.TextColor					"PolyIconsFg1"
+		ListPanel.TextColor					"W_ColorIcons1"
 		ListPanel.TextBgColor				"Blank"
 		ListPanel.SelectedTextColor			"PolyIconsFg4"
 		ListPanel.BgColor					"Blank"
-		ListPanel.SelectedBgColor			"PolyIconsBg1"
-		ListPanel.SelectedOutOfFocusBgColor	"PolyIconsBg1"
+		ListPanel.SelectedBgColor			"W_ColorTheme1"
+		ListPanel.SelectedOutOfFocusBgColor	"W_ColorTheme1"
 
 		//M
 		MainMenu.TextColor			"40 34 30 255"
 		MainMenu.ArmedTextColor		"W_ColorIcons1"
 		MainMenu.Inset				"32"
-		Menu.TextColor			"PolyIconsFg1"
-		Menu.BgColor			"PolyIconsBg1"
-		Menu.ArmedTextColor		"PolyIconsBg1"
-		Menu.ArmedBgColor		"PolyIconsFg1"
+		Menu.TextColor			"W_ColorIcons1"
+		Menu.BgColor			"W_ColorTheme1"
+		Menu.ArmedTextColor		"W_ColorTheme1"
+		Menu.ArmedBgColor		"W_ColorIcons1"
 		Menu.TextInset			"6"
 
 		//S
@@ -111,8 +113,8 @@ Scheme
 //		Slider.NobColor				"W_ColorIcons1"	
 //		Slider.TrackColor			"W_BorderArmed"
      Slider.DisabledTextColor2	"Blank"
-		Slider.NobColor				"PolyIconsFg1"
-		Slider.TrackColor			"PolyIconsFg1"
+		Slider.NobColor				"W_ColorIcons1"
+		Slider.TrackColor			"blank"
 
 		//P
 		Panel.FgColor					"Red"
@@ -123,13 +125,13 @@ Scheme
 		PropertySheet.TextColor			"W_ColorIcons1"
 		PropertySheet.SelectedTextColor	"W_ColorIcons1"
 	//	ProgressBar.BgColor				"W_ColorTheme2"
-		ProgressBar.FgColor				"PolyIconsBg1"	
+		ProgressBar.FgColor				"W_ColorTheme1"	
 
 		//R
-		RichText.TextColor				"210 207 200 255"
+		RichText.TextColor				"W_ColorIcons1"
 		RichText.SelectedTextColor		"240 240 240 255"
 		RichText.SelectedBgColor		"W_ColorTheme2"
-		RichText.BgColor				"Blank"//"0 36 86 255"
+		RichText.BgColor				"0 36 86 0"
 	
 		RadioButton.SelectedTextColor	"W_ColorIcons1"
 		RadioButton.TextColor			"W_ColorIconsArmed1"

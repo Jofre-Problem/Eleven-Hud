@@ -392,19 +392,6 @@
 		{
 			"wide"			"0"
 		}	
-			"shadow"
-			{
-			"ControlName""ImagePanel"
-			"fieldName""shadow"
-			"xpos""cs-0.5"
-			"ypos""0"
-			"zpos""110"
-			"wide""p0.5"
-			"tall""8"
-			"scaleImage""1"
-			"image""replay/thumbnails/bottom_shadow"
-			"mouseinputenabled"	"0"
-			}	
 	"Notifications_ShowButtonPanel"	// notification alert
 	{
 		ControlName				EditablePanel
@@ -797,7 +784,7 @@
 			"brighttext"	"0"
 			"default"		"1"
 			
-		defaultFgColor_override		"W_ColorTheme2"
+		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"A_ColorTheme1"
 		
 		"depressedFgColor_override" "35 255 35 222"
@@ -826,7 +813,7 @@
 			"font"			"NewIcons12"
 			"textAlignment"	"center"
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
-		defaultFgColor_override		"W_ColorTheme2"
+		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"A_ColorTheme1"
 		"depressedFgColor_override" "35 255 35 222"
 		sound_depressed			"sound_menu/button.wav"
@@ -849,7 +836,7 @@
 			"font"			"NewIcons12"
 			"textAlignment"	"center"
 		command				"engine showstatsdlg"
-		defaultFgColor_override		"W_ColorTheme2"
+		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"A_ColorTheme1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"
@@ -874,7 +861,7 @@
 			"font"			"NewIcons12"
 			"textAlignment"	"center"
 		command				"OpenLoadSingleplayerCommentaryDialog"
-		defaultFgColor_override		"W_ColorTheme2"
+		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"A_ColorTheme1"
 		
 		"depressedFgColor_override" "W_ColorIcons1"

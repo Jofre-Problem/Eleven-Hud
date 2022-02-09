@@ -145,8 +145,8 @@
 		"zpos"				"-10"
 		"wide"				"f0"
 		"tall"				"15"
-		"fillcolor"			"W_ColorTheme1"
-		"alpha"			"200"
+		"fillcolor"			"W_ColorIcons1"
+		"alpha"			"130"
 	}		
 	
 		"backpacktf"
@@ -282,7 +282,7 @@
 			"sound_depressed"							"sound_menu/button.wav"
 			"sound_released"							"sound_menu/button2.wav"
 		
-			"defaultFgColor_override"					"W_ColorIcons1"
+			"defaultFgColor_override"					"W_ColorTheme1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
 	}	
@@ -305,7 +305,7 @@
 			"pin_to_sibling"	"ubrowse"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"		
-			"defaultFgColor_override"					"W_ColorIcons1"
+			"defaultFgColor_override"					"W_ColorTheme1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"			
 		}	
@@ -330,7 +330,7 @@
 			"pin_to_sibling"	"OptionsU"				
 		"pin_corner_to_sibling"					"PIN_TOPLEFT"
 		"pin_to_sibling_corner"					"PIN_TOPRIGHT"
-			"defaultFgColor_override"					"W_ColorIcons1"
+			"defaultFgColor_override"					"W_ColorTheme1"
 			"armedFgColor_override" 					"PolyIconsFg4"
 			"depressedFgColor_override" 				"PolyIconsFg4"					
 	}
@@ -509,7 +509,7 @@
 			"zpos""10"
 			"labelText"	"%motddate%"
 			"tall"			"14"
-			"fgcolor_override"		"W_ColorIcons1"
+			"fgcolor_override"		"W_ColorTheme1"
 		}	
 		
 		"MOTD_HeaderContainer"

@@ -10,7 +10,7 @@ Scheme
 		TextEntry.SelectedBgColor	"W_ColorTheme1"
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"	
-		TextEntry.CursorColor		"PolyIconsFg1"
+		TextEntry.CursorColor		"W_ColorIcons1"
 		Button.DepressedTextColor		"W_ColorTheme3"
 		Button.DepressedBgColor			"W_ColorTheme1"
 		Button.FocusBorderColor			"W_BorderArmed"

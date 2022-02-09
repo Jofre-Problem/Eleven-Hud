@@ -740,8 +740,8 @@
 
 			"armedBgColor_override"		"Blank"
 			"defaultBgColor_override"	"Blank"
-			"fgcolor"			"W_ColorIcons1"
-			"fgcolor_override"			"W_ColorIcons1"
+			"fgcolor"			"A_ColorTheme1"
+			"fgcolor_override"			"A_ColorTheme1"
 			
 			"defaultFgColor_override" "A_ColorTheme1"
 			"armedFgColor_override" "W_CerrarArmed"

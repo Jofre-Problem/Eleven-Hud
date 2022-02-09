@@ -9,7 +9,7 @@ Scheme
 		Border.Selection				"Blank"
 		FrameTitleBar.BgColor			"Blank"
 		FrameTitleBar.Font				"UiBold"
-//FrameSystemButton.Icon			"replay/thumbnails/misc/paint_gif"
+FrameSystemButton.Icon			"replay/thumbnails/misc/apple_logo"
 		TextEntry.BgColor			"blank"
 		Button.BgColor			"blank"
 }
