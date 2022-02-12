@@ -113,7 +113,7 @@
 		"fieldname"		"MMBackgroundPanel"
 		"xpos"			"9990"
 		"ypos"			"0"
-		"zpos"			"-300"
+		"zpos"			"30"
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"

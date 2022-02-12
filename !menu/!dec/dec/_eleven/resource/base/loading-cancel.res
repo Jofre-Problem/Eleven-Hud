@@ -18,14 +18,14 @@
 		"wide"		"f+20"
 		"tall"		"48"//"40"//"665"
 		"title"		""
-		"bgcolor"				"27 27 27 255"
-		"bgcolor_override"		"27 27 27 255"
+		"bgcolor"				"W_ColorTheme2"
+		"bgcolor_override"		"W_ColorTheme2"
 	}
 	"CancelButton"
 	{
 	//	"ControlName"		"Button"
 	//	"fieldName"		"CancelButton"
-		"xpos"		"5"//"c500"
+		"xpos"		"22"//"c500"
 		"ypos"		"10"
 		"zpos"		"100"
 		"wide"		"70"
@@ -35,5 +35,7 @@
 		"font"		"Product12"
 		"textAlignment"		"west"
 		"default"		"1"
+		"defaultFgColor_override"	"W_ColorIcons1"
+		"fgcolor_override"	"W_ColorIcons1"
 	}
 }	

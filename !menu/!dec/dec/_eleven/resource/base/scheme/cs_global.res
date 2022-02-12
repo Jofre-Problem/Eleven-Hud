@@ -54,8 +54,8 @@ Scheme
 		FrameTitleBar.DisabledBgColor	"Blank"
 		Frame.BgColor					"W_ColorTheme2" //lolololololl
 		Frame.OutOfFocusBgColor			"W_ColorLinea1"
-		FrameGrip.Color1				"W_ColorTheme1"
-		FrameGrip.Color2				"W_ColorTheme1"
+		FrameGrip.Color1				"W_ColorIcons1"
+		FrameGrip.Color2				"W_ColorIcons1"
 
 
 
@@ -110,6 +110,7 @@ Scheme
 		SectionedListPanel.BrightTextColor		"W_ColorIcons1"
 		Slider.TextColor			"244 244 244 255"
 		Slider.DisabledTextColor1	"Blank"
+		Slider.DisabledTextColor2	"Blank"
 //		Slider.NobColor				"W_ColorIcons1"	
 //		Slider.TrackColor			"W_BorderArmed"
      Slider.DisabledTextColor2	"Blank"
@@ -124,8 +125,8 @@ Scheme
 		PropertySheet.BgColor				"W_ColorTheme2Blur"
 		PropertySheet.TextColor			"W_ColorIcons1"
 		PropertySheet.SelectedTextColor	"W_ColorIcons1"
-	//	ProgressBar.BgColor				"W_ColorTheme2"
-		ProgressBar.FgColor				"W_ColorTheme1"	
+		ProgressBar.BgColor				"W_ColorTheme2"
+		ProgressBar.FgColor				"W_ColorIcons1"	
 
 		//R
 		RichText.TextColor				"W_ColorIcons1"

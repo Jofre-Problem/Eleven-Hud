@@ -30,8 +30,8 @@
 		"font"	"NewIcons12"
 		"paintBackground"	"0"
 		"labelText"	"M"
-		"defaultFgColor_override"	"Black"
-		"armedFgColor_override"	"White"
+		"defaultFgColor_override"	"W_ColorTheme1"
+		"armedFgColor_override"	"W_BorderArmed"
 		"textAlignment"	"center"
 	//	"textinsety"	"-2"
 		"wide""25"
@@ -95,7 +95,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Sheet"
-			zpos					1003		// buttons above sheet	
+			zpos					0		// buttons above sheet	
 			tall 		"f0"			//JP f0
 		"tabxindent"	"5"
 		"tabxdelta"		"3"

@@ -13,15 +13,11 @@ Scheme
 		TextEntry.CursorColor		"W_ColorIcons1"
 		Button.DepressedTextColor		"W_ColorTheme3"
 		Button.DepressedBgColor			"W_ColorTheme1"
-		Button.FocusBorderColor			"W_BorderArmed"
-		ProgressBar.FgColor				"W_BorderArmed"		
+		Button.FocusBorderColor			"W_BorderArmed"	
 		ProgressBar.BgColor				"W_ColorTheme2"
 		ScrollBarButton.FgColor				"W_ColorIcons1"
 		ScrollBarButton.ArmedFgColor		"W_ColorTheme1"
 		ScrollBarButton.DepressedFgColor	"W_ColorTheme1"
-		Slider.NobColor				"PolyIconsFg1"
-		Slider.TrackColor			"PolyIconsFg1"
-        Slider.DisabledTextColor2	"Blank"
 		Frame.AutoSnapRange				"0"
 	}
 }	

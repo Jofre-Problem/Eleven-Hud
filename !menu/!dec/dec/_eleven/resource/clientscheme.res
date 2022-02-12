@@ -627,7 +627,16 @@ Scheme
 				"wide"		"300"
 			}
 		}	
-
+		"Future32" 
+		{
+			"1"
+			{
+				"name"				"Future Rot"
+				"tall"				"32"				
+				"antialias"			"1"
+				"wide"		"300"
+			}
+		}
 		"CloseCaption_Normal"
 		{
 			"1"

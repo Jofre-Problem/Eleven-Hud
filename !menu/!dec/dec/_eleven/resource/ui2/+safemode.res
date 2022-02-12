@@ -96,15 +96,15 @@
 
 	"SecondaryBarBG"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"SecondaryBarBG"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"0"
-		"wide"				"f0"
+		"wide"				"p0.7"
+		"scaleImage"	"1"
 		"tall"				"15"
-		"bgcolor_override"			"W_ColorIcons1"
-		"alpha"			"130"
+		"image"	"replay/thumbnails/gradient_2"
 	}
 			"polybar0bg"						{			ControlName				ImagePanel			FieldName				
 			"polybar0bg"

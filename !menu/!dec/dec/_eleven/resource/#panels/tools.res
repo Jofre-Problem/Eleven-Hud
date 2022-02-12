@@ -5,7 +5,7 @@
 		"ControlName"		"CNewGameDialog"
 		"fieldName"		"NewGameDialog"
 "wide"		"245"
-		
+		"tall"		"315"
 		
 		//"visible"		"1"
 		
@@ -32,7 +32,7 @@
 			"zpos"		"100"
 
 			"wide"		"245"	
-			"tall"		"296+p0.01"	
+			"tall"		"314+p0.01"	
 
 
 //		"wide"		"600"	
@@ -44,19 +44,6 @@
 			"border"		"Cs1"			
 			"bgcolor_override"				"W_ColorTheme1"
 
-			"4plug"		
-			{
-				ControlName				Label
-				FieldName				"4plug"
-				xPos					5
-				yPos					5
-				wide					200
-				tall					20	
-				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
-				labelText				"> fetch"
-				textAlignment			west
-			}	
 			"Dunno"		
 			{
 				ControlName				Label
@@ -218,20 +205,7 @@
 			fillColor				"204 204 204 255"					
 			pin_to_sibling			"color7"					"pin_corner_to_sibling"					"PIN_TOPLEFT"		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	}
 
-
-			"cmd_tools"		
-			{
-				ControlName				Label
-				FieldName				"cmd_tools"
-				xPos					5
-				yPos					80+20
-				wide					100
-				tall					20	
-				font					"Code10"
-				fgcolor_override		"W_ColorIcons1"
-				labelText				"> tools"
-				textAlignment			west
-			}																			
+																		
 		}	
 	"Next" 
 	{
@@ -250,7 +224,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"Cancel"
 		"xpos"		"115-36"
-		"ypos"		"262"
+		"ypos"		"278"
 		"wide"		"72"
 		"tall"		"24"
 		//"visible"		"1"
@@ -389,13 +363,43 @@
 		"maxvalue"		"90"
 		"cvar_name"		"fov_desired"
 		fgcolor_override		"W_ColorIcons1"
-	}	
+	}
+	"ColorLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"ColorLabel"
+		"xpos"		"9"
+		"ypos"		"225"
+		"zpos"		"111"
+		"wide"		"20"
+		"tall"		"25"
+		"labelText"		"R"
+		"textAlignment"		"center"
+		"fgcolor_override"		"W_ColorIcons1"
+		"font"					"NewIcons8"		
+	}
+	"CSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"CSlider"
+		"xpos"		"40"
+		"ypos"		"200+25"
+		"wide"		"190"
+		"tall"		"15"
+		"zpos"		"111"
+		"leftText"		"0"
+		"rightText"		"4.0"
+		"minvalue"		"0"
+		"maxvalue"		"6"
+		"cvar_name"		"mat_color_projection"
+		fgcolor_override		"W_ColorIcons1"
+	}			
 	"Netlabel"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"Netlabel"
 		"xpos"		"9"
-		"ypos"		"225"
+		"ypos"		"250"
 		"zpos"		"111"
 		"wide"		"20"
 		"tall"		"25"
@@ -409,14 +413,14 @@
 		"ControlName"		"CCvarSlider"
 		"fieldName"		"NSlider"
 		"xpos"		"40"
-		"ypos"		"200+25"
+		"ypos"		"250"
 		"wide"		"190"
 		"tall"		"15"
 		"zpos"		"111"
 		"leftText"		"0"
 		"rightText"		"4.0"
-		"minvalue"		"0.0"
-		"maxvalue"		"4.0"
+		"minvalue"		"0"
+		"maxvalue"		"4"
 		"cvar_name"		"net_graph"
 		fgcolor_override		"W_ColorIcons1"
 	}								

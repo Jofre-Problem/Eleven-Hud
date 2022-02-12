@@ -51,7 +51,7 @@
 				"wide"			"f0"
 				"tall"			"36"
 				"paintbackground"	"1"
-				"bgcolor_override"	"27 27 27 255"
+				"bgcolor_override"	"W_ColorTheme2"
 			}
 			"gif"
 			{
