@@ -214,23 +214,37 @@
 		}
 		"NameLabel"
 		{
-"xpos""60"
-"ypos""30"
+"xpos""5"
+"ypos""20"
 "wide""f0"
 "tall""30"
-"font""Journal30"
+"font""Journal38"
 "fgcolor_override"	"White"
 			"textAlignment"	"west"
 			"textinsetx"	"0"
 		}
-		"DescLine1"
-		{
-		"xpos""10"
-		"ypos""80"
+"DescLine1fix"
+{
+"ControlName""cexLabel"
+"fieldName""DescLine1fix"
+
+
+
+"fgcolor_override""A_ColorTheme1"
+
+"labelText""%desc1%"
+
+		"xpos""60"
+		"ypos""50"
 		"wide""f0"
-		"tall""10"
+		"tall""35"
 			"fgcolor_override"	"White"
 			"textAlignment"	"west"
+			"font"	"Journal30"
+}		
+		"DescLine1"
+		{
+		"tall""0"
 		}
 
 		"DescLine2"

@@ -152,29 +152,107 @@
 		"fieldName"		"ClassLabel"
 		"font"			"Future18"
 		"labelText"		"#ClassBeingEquipped"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 		"xpos"			"cs-0.5"
 		"ypos"			"20"
 		"zpos"			"10"
 		"fgcolor_override"	"W_ColorIcons1"
-		"wide"			"f0"
+		"wide"			"100"
 		"tall"			"20"
+		"auto_wide_tocontents"	"1"
 	}	
-	"ClassLabelS"
+	"left1"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"ClassLabelS"
-		"font"			"Future18"
-		"labelText"		"#ClassBeingEquipped"
+		"fieldName"		"left1"
+		"font"			"NewIcons20"
+		"labelText"		"m"
 		"textAlignment"	"center"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"9"
-		"wide"			"f0"
-		"tall"			"21"
-		"fgcolor_override"	"Black"
-		"pin_to_sibling"	"ClassLabel"
-	}				
+		"zpos"			"10"
+		"fgcolor_override"	"W_ColorIcons1"
+		"wide"			"17"
+		"tall"			"20"
+"pin_to_sibling"	"ClassLabel"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+	}	
+	"left2"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"left2"
+		"font"			"NewIcons20"
+		"labelText"		"a"
+		"textAlignment"	"center"
+		"xpos"			"3"
+		"ypos"			"0"
+		"zpos"			"10"
+		"fgcolor_override"	"W_ColorIcons1"
+		"wide"			"17"
+		"tall"			"20"
+"pin_to_sibling"	"ClassLabel"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"	
+	}
+	"TauntLoadoutButton"
+	{
+		ControlName					CExButton
+		fieldName					"TauntLoadoutButton"
+		xpos							0
+		ypos							0
+		zpos							2000
+		wide							30
+		tall							20
+		visible						1
+		enabled						1
+		
+		labelText					"E"
+		font							"NewIcons18"
+		textAlignment				north-west
+			sound_depressed			"UI/buttonclick.wav"
+		sound_released				"UI/buttonclickrelease.wav"	
+		Command						"tauntloadout"
+				
+		defaultFgColor_override 	"W_ColorIcons1"
+		armedFgColor_override 		"W_BorderArmed"
+		
+		paintbackground				0
+
+		"pin_to_sibling"	"left2"
+		"pin_corner_to_sibling"					"PIN_TOPLEFT"
+		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
+	}	
+	"CharacterLoadoutButton"
+	{
+		ControlName					CExButton
+		fieldName					"CharacterLoadoutButton"
+		xpos							0
+		ypos							0
+		zpos							2000
+		wide							30
+		tall							20
+		visible						1
+		enabled						1
+
+		labeltext					"["
+		font							"NewIcons18"
+		textAlignment				east
+
+		Command						"characterloadout"
+		
+		sound_depressed			"UI/buttonclick.wav"
+		sound_released				"UI/buttonclickrelease.wav"
+		
+		defaultFgColor_override 	"W_ColorIcons1"
+		armedFgColor_override 		"W_BorderArmed"
+		
+		paintbackground				0
+		"pin_to_sibling"	"left1"
+					"pin_corner_to_sibling"					"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+
+	}							
 	"tank"
 	{
 	"zpos""-1"
@@ -340,61 +418,9 @@
 		"tall"			"25"
 	}
 
-	"CharacterLoadoutButton"
-	{
-		ControlName					CExButton
-		fieldName					"CharacterLoadoutButton"
-		xpos							cs-0.5-30		// align with preset C
-		ypos							70
-		zpos							2
-		wide							50
-		tall							22
-		visible						1
-		enabled						1
 
-		labeltext					"ITEMS"
-		font							"Regular12"
-		textAlignment				east
 
-		Command						"characterloadout"
-		
-		sound_depressed			"UI/buttonclick.wav"
-		sound_released				"UI/buttonclickrelease.wav"
-		
-		defaultFgColor_override 	"W_ColorTheme2"
-		armedFgColor_override 		"W_BorderArmed"
-		
-		paintbackground				0
 
-	}
-
-	"TauntLoadoutButton"
-	{
-		ControlName					CExButton
-		fieldName					"TauntLoadoutButton"
-		xpos							5
-		ypos							0
-		zpos							2
-		wide							50
-		tall							22
-		visible						1
-		enabled						1
-		
-		labelText					"TAUNTS"
-		font							"Regular12"
-		textAlignment				west
-		
-		Command						"tauntloadout"
-				
-		defaultFgColor_override 	"W_ColorTheme2"
-		armedFgColor_override 		"W_BorderArmed"
-		
-		paintbackground				0
-
-		"pin_to_sibling"	"CharacterLoadoutButton"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPRIGHT"			
-	}
 	"RedTeamButton"
 	{
 		"ControlName"		"CExImageButton"

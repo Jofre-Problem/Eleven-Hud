@@ -815,7 +815,8 @@
 		command				"engine incrementvar cl_mainmenu_safemode -1 0 1"
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"A_ColorTheme1"
-		"depressedFgColor_override" "35 255 35 222"
+		"depressedFgColor_override" "W_CerrarArmed"
+		"selectedFgColor_override"	"W_CerrarArmed"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
 		paintBackground			0
@@ -838,7 +839,7 @@
 		command				"engine showstatsdlg"
 		defaultFgColor_override		"W_ColorIcons1"
 		armedFgColor_override		"A_ColorTheme1"
-		
+		"selectedFgColor_override"	"W_CerrarArmed"
 		"depressedFgColor_override" "W_ColorIcons1"
 		sound_depressed			"sound_menu/button.wav"
 		sound_released			"sound_menu/button2.wav"
@@ -882,7 +883,7 @@
 			xpos					0
 			ypos 0
 			wide f0
-			tall 0
+			tall f0
 	}
 	"IngameBG"
 	{

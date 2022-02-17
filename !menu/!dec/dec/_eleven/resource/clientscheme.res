@@ -606,7 +606,27 @@ Scheme
 				"antialias" 	"1"
 				"wide"		"300"
 			}
-		}											
+		}
+		"huh14"
+		{
+			"1"
+			{
+				"name"		"Boring Lesson"
+				"tall"		"14"
+				"antialias" 	"1"
+				
+			}
+		}	
+		"huh18"
+		{
+			"1"
+			{
+				"name"		"BIGARIAL UltraBold"
+				"tall"		"18"
+				"antialias" 	"1"
+				
+			}
+		}															
 		"Future14"
 		{
 			"1"
@@ -704,6 +724,15 @@ Scheme
 {
 "name""Journal-jofreproblem_fix1"
 "tall""38"
+"antialias""1"
+}
+}
+"Journal42"
+{
+"1"
+{
+"name""Journal-jofreproblem_fix1"
+"tall""42"
 "antialias""1"
 }
 }
@@ -1263,6 +1292,21 @@ Scheme
 		{
 			"font" "_eleven/font/journal_jp.otf"
 			"name" "Journal-jofreproblem_fix1Regular"
-		}				   		     		
+		}
+		"102"
+		{
+			"font" "_eleven/font/JotSpInvertedRegular-ZBem.ttf"
+			"name" "Jot Sp Inverted Regular"
+		}	
+		"103"
+		{
+			"font" "_eleven/font/BoringLesson.ttf"
+			"name" "Boring Lesson"
+		}
+		"104"
+		{
+			"font" "_eleven/font/BIGARIAL.ttf"
+			"name" "BIGARIAL UltraBold"
+		}									   		     		
 	}	
 }
